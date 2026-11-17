@@ -1,0 +1,46 @@
+{
+  "status": "PROVISIONAL_V31_A2",
+  "total_rows": 29189,
+  "by_source": {
+    "CNN Indonesia": 9625,
+    "Kompas": 4656,
+    "Tempo": 6586,
+    "TurnBackHoax": 8322
+  },
+  "by_label": {
+    "0": 20867,
+    "1": 8322
+  },
+  "random_partition_counts": {
+    "LATIH_0": 16693,
+    "VALIDASI_0": 2087,
+    "UJI_0": 2087,
+    "LATIH_1": 6658,
+    "UJI_1": 832,
+    "VALIDASI_1": 832
+  },
+  "changed_marker_occurrences": {
+    "NAV_MARKER": 21227,
+    "PHOTO_CREDIT": 286,
+    "KOMPAS_DATELINE": 6
+  },
+  "markers_texts_before": {
+    "NAV": 10857,
+    "NAV_VALID": 10855,
+    "VALID_TOTAL": 20867,
+    "KOMPAS_DATELINE": 16
+  },
+  "markers_texts_after": {
+    "NAV": 0,
+    "NAV_VALID": 0,
+    "KOMPAS_DATELINE": 10
+  },
+  "valid_marker_rate_after_percent": 0.0,
+  "below_8_words": 0,
+  "newly_below_8_words": 0,
+  "median_words_by_label": {
+    "0": 310,
+    "1": 31.0
+  },
+  "warning": "Marker removal alone may leave related-article headlines; review flagged rows before calling dataset final. Tokenizer stats pending."
+}

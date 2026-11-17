@@ -1,0 +1,44 @@
+{
+  "status": "A3_PROVISIONAL",
+  "sample_seed": 42,
+  "per_source": 500,
+  "comparisons": {
+    "CNN Indonesia": {
+      "n": 500,
+      "match_known": 500,
+      "match_unknown": 500,
+      "match_old": 20,
+      "percent_match_known": 100.0,
+      "percent_match_unknown": 100.0,
+      "percent_match_old_streamlit": 4.0
+    },
+    "Kompas": {
+      "n": 500,
+      "match_known": 500,
+      "match_unknown": 468,
+      "match_old": 466,
+      "percent_match_known": 100.0,
+      "percent_match_unknown": 93.6,
+      "percent_match_old_streamlit": 93.2
+    },
+    "Tempo": {
+      "n": 500,
+      "match_known": 500,
+      "match_unknown": 500,
+      "match_old": 394,
+      "percent_match_known": 100.0,
+      "percent_match_unknown": 100.0,
+      "percent_match_old_streamlit": 78.8
+    },
+    "TurnBackHoax": {
+      "n": 500,
+      "match_known": 500,
+      "match_unknown": 500,
+      "match_old": 499,
+      "percent_match_known": 100.0,
+      "percent_match_unknown": 100.0,
+      "percent_match_old_streamlit": 99.8
+    }
+  },
+  "interpretation": "Known-source checks ONLY replay V3->V3.1 A2 transform, not full RAW->V3 training pipeline. The unknown-source and original Streamlit comparisons reveal deployment gap. Do not replace app preprocessing without retraining/revalidating."
+}
