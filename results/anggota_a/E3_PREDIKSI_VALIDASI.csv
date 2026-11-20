@@ -1,0 +1,5839 @@
+raw_id,source,label,condition,predicted_label
+9,CNN Indonesia,0,raw,0
+11,CNN Indonesia,0,raw,0
+16,CNN Indonesia,0,raw,0
+61,CNN Indonesia,0,raw,0
+78,CNN Indonesia,0,raw,0
+87,CNN Indonesia,0,raw,0
+98,CNN Indonesia,0,raw,0
+126,CNN Indonesia,0,raw,0
+127,CNN Indonesia,0,raw,0
+142,CNN Indonesia,0,raw,0
+148,CNN Indonesia,0,raw,0
+158,CNN Indonesia,0,raw,0
+164,CNN Indonesia,0,raw,0
+168,CNN Indonesia,0,raw,0
+169,CNN Indonesia,0,raw,0
+177,CNN Indonesia,0,raw,0
+195,CNN Indonesia,0,raw,0
+196,CNN Indonesia,0,raw,0
+200,CNN Indonesia,0,raw,0
+205,CNN Indonesia,0,raw,0
+209,CNN Indonesia,0,raw,0
+238,CNN Indonesia,0,raw,0
+239,CNN Indonesia,0,raw,0
+243,CNN Indonesia,0,raw,0
+274,CNN Indonesia,0,raw,0
+281,CNN Indonesia,0,raw,0
+287,CNN Indonesia,0,raw,0
+300,CNN Indonesia,0,raw,0
+308,CNN Indonesia,0,raw,0
+321,CNN Indonesia,0,raw,0
+345,CNN Indonesia,0,raw,0
+347,CNN Indonesia,0,raw,0
+372,CNN Indonesia,0,raw,0
+373,CNN Indonesia,0,raw,0
+382,CNN Indonesia,0,raw,0
+392,CNN Indonesia,0,raw,0
+422,CNN Indonesia,0,raw,0
+451,CNN Indonesia,0,raw,0
+452,CNN Indonesia,0,raw,0
+487,CNN Indonesia,0,raw,0
+493,CNN Indonesia,0,raw,0
+501,CNN Indonesia,0,raw,0
+516,CNN Indonesia,0,raw,0
+520,CNN Indonesia,0,raw,0
+526,CNN Indonesia,0,raw,0
+534,CNN Indonesia,0,raw,0
+538,CNN Indonesia,0,raw,0
+584,CNN Indonesia,0,raw,0
+586,CNN Indonesia,0,raw,0
+601,CNN Indonesia,0,raw,0
+607,CNN Indonesia,0,raw,0
+611,CNN Indonesia,0,raw,0
+629,CNN Indonesia,0,raw,0
+643,CNN Indonesia,0,raw,0
+644,CNN Indonesia,0,raw,0
+645,CNN Indonesia,0,raw,0
+647,CNN Indonesia,0,raw,0
+666,CNN Indonesia,0,raw,0
+682,CNN Indonesia,0,raw,0
+683,CNN Indonesia,0,raw,0
+705,CNN Indonesia,0,raw,0
+715,CNN Indonesia,0,raw,0
+735,CNN Indonesia,0,raw,0
+746,CNN Indonesia,0,raw,0
+786,CNN Indonesia,0,raw,0
+789,CNN Indonesia,0,raw,0
+825,CNN Indonesia,0,raw,0
+833,CNN Indonesia,0,raw,0
+842,CNN Indonesia,0,raw,0
+849,CNN Indonesia,0,raw,0
+876,CNN Indonesia,0,raw,0
+880,CNN Indonesia,0,raw,0
+881,CNN Indonesia,0,raw,0
+883,CNN Indonesia,0,raw,0
+895,CNN Indonesia,0,raw,0
+921,CNN Indonesia,0,raw,0
+944,CNN Indonesia,0,raw,0
+946,CNN Indonesia,0,raw,0
+956,CNN Indonesia,0,raw,0
+979,CNN Indonesia,0,raw,0
+982,CNN Indonesia,0,raw,0
+1015,CNN Indonesia,0,raw,0
+1016,CNN Indonesia,0,raw,0
+1043,CNN Indonesia,0,raw,0
+1044,CNN Indonesia,0,raw,0
+1045,CNN Indonesia,0,raw,0
+1050,CNN Indonesia,0,raw,0
+1089,CNN Indonesia,0,raw,0
+1090,CNN Indonesia,0,raw,0
+1102,CNN Indonesia,0,raw,0
+1110,CNN Indonesia,0,raw,0
+1111,CNN Indonesia,0,raw,0
+1118,CNN Indonesia,0,raw,0
+1123,CNN Indonesia,0,raw,0
+1133,CNN Indonesia,0,raw,0
+1135,CNN Indonesia,0,raw,0
+1148,CNN Indonesia,0,raw,0
+1165,CNN Indonesia,0,raw,0
+1167,CNN Indonesia,0,raw,0
+1168,CNN Indonesia,0,raw,0
+1172,CNN Indonesia,0,raw,0
+1173,CNN Indonesia,0,raw,0
+1186,CNN Indonesia,0,raw,0
+1200,CNN Indonesia,0,raw,0
+1204,CNN Indonesia,0,raw,0
+1206,CNN Indonesia,0,raw,0
+1231,CNN Indonesia,0,raw,0
+1235,CNN Indonesia,0,raw,0
+1242,CNN Indonesia,0,raw,0
+1277,CNN Indonesia,0,raw,0
+1278,CNN Indonesia,0,raw,0
+1286,CNN Indonesia,0,raw,0
+1290,CNN Indonesia,0,raw,0
+1300,CNN Indonesia,0,raw,0
+1310,CNN Indonesia,0,raw,0
+1326,CNN Indonesia,0,raw,0
+1345,CNN Indonesia,0,raw,0
+1347,CNN Indonesia,0,raw,0
+1348,CNN Indonesia,0,raw,0
+1365,CNN Indonesia,0,raw,0
+1405,CNN Indonesia,0,raw,0
+1425,CNN Indonesia,0,raw,0
+1428,CNN Indonesia,0,raw,0
+1429,CNN Indonesia,0,raw,0
+1438,CNN Indonesia,0,raw,0
+1450,CNN Indonesia,0,raw,0
+1452,CNN Indonesia,0,raw,0
+1458,CNN Indonesia,0,raw,0
+1473,CNN Indonesia,0,raw,0
+1484,CNN Indonesia,0,raw,0
+1494,CNN Indonesia,0,raw,0
+1509,CNN Indonesia,0,raw,0
+1533,CNN Indonesia,0,raw,0
+1544,CNN Indonesia,0,raw,0
+1552,CNN Indonesia,0,raw,0
+1569,CNN Indonesia,0,raw,0
+1570,CNN Indonesia,0,raw,0
+1577,CNN Indonesia,0,raw,0
+1585,CNN Indonesia,0,raw,0
+1592,CNN Indonesia,0,raw,0
+1601,CNN Indonesia,0,raw,0
+1611,CNN Indonesia,0,raw,0
+1639,CNN Indonesia,0,raw,0
+1643,CNN Indonesia,0,raw,0
+1649,CNN Indonesia,0,raw,0
+1666,CNN Indonesia,0,raw,0
+1678,CNN Indonesia,0,raw,0
+1681,CNN Indonesia,0,raw,0
+1684,CNN Indonesia,0,raw,0
+1687,CNN Indonesia,0,raw,0
+1688,CNN Indonesia,0,raw,0
+1696,CNN Indonesia,0,raw,0
+1698,CNN Indonesia,0,raw,0
+1705,CNN Indonesia,0,raw,0
+1706,CNN Indonesia,0,raw,0
+1714,CNN Indonesia,0,raw,0
+1746,CNN Indonesia,0,raw,0
+1749,CNN Indonesia,0,raw,0
+1759,CNN Indonesia,0,raw,0
+1760,CNN Indonesia,0,raw,0
+1789,CNN Indonesia,0,raw,0
+1792,CNN Indonesia,0,raw,0
+1798,CNN Indonesia,0,raw,0
+1800,CNN Indonesia,0,raw,0
+1816,CNN Indonesia,0,raw,0
+1819,CNN Indonesia,0,raw,0
+1823,CNN Indonesia,0,raw,0
+1827,CNN Indonesia,0,raw,0
+1828,CNN Indonesia,0,raw,0
+1829,CNN Indonesia,0,raw,0
+1839,CNN Indonesia,0,raw,0
+1841,CNN Indonesia,0,raw,0
+1860,CNN Indonesia,0,raw,0
+1888,CNN Indonesia,0,raw,0
+1892,CNN Indonesia,0,raw,0
+1895,CNN Indonesia,0,raw,0
+1912,CNN Indonesia,0,raw,0
+1925,CNN Indonesia,0,raw,0
+1926,CNN Indonesia,0,raw,0
+1939,CNN Indonesia,0,raw,0
+1945,CNN Indonesia,0,raw,0
+1964,CNN Indonesia,0,raw,0
+1973,CNN Indonesia,0,raw,0
+1980,CNN Indonesia,0,raw,0
+1981,CNN Indonesia,0,raw,0
+1982,CNN Indonesia,0,raw,0
+1987,CNN Indonesia,0,raw,0
+1988,CNN Indonesia,0,raw,0
+1991,CNN Indonesia,0,raw,0
+1994,CNN Indonesia,0,raw,0
+2005,CNN Indonesia,0,raw,0
+2007,CNN Indonesia,0,raw,0
+2010,CNN Indonesia,0,raw,0
+2017,CNN Indonesia,0,raw,0
+2023,CNN Indonesia,0,raw,0
+2044,CNN Indonesia,0,raw,0
+2069,CNN Indonesia,0,raw,0
+2087,CNN Indonesia,0,raw,0
+2090,CNN Indonesia,0,raw,0
+2108,CNN Indonesia,0,raw,0
+2109,CNN Indonesia,0,raw,0
+2120,CNN Indonesia,0,raw,0
+2124,CNN Indonesia,0,raw,0
+2126,CNN Indonesia,0,raw,0
+2169,CNN Indonesia,0,raw,0
+2170,CNN Indonesia,0,raw,0
+2183,CNN Indonesia,0,raw,0
+2193,CNN Indonesia,0,raw,0
+2197,CNN Indonesia,0,raw,0
+2216,CNN Indonesia,0,raw,0
+2228,CNN Indonesia,0,raw,0
+2236,CNN Indonesia,0,raw,0
+2247,CNN Indonesia,0,raw,0
+2254,CNN Indonesia,0,raw,0
+2269,CNN Indonesia,0,raw,0
+2277,CNN Indonesia,0,raw,0
+2284,CNN Indonesia,0,raw,0
+2299,CNN Indonesia,0,raw,0
+2301,CNN Indonesia,0,raw,0
+2306,CNN Indonesia,0,raw,0
+2324,CNN Indonesia,0,raw,0
+2325,CNN Indonesia,0,raw,0
+2361,CNN Indonesia,0,raw,0
+2368,CNN Indonesia,0,raw,0
+2372,CNN Indonesia,0,raw,0
+2375,CNN Indonesia,0,raw,0
+2416,CNN Indonesia,0,raw,0
+2422,CNN Indonesia,0,raw,0
+2442,CNN Indonesia,0,raw,0
+2464,CNN Indonesia,0,raw,0
+2470,CNN Indonesia,0,raw,0
+2472,CNN Indonesia,0,raw,0
+2513,CNN Indonesia,0,raw,0
+2516,CNN Indonesia,0,raw,0
+2519,CNN Indonesia,0,raw,0
+2525,CNN Indonesia,0,raw,0
+2529,CNN Indonesia,0,raw,0
+2553,CNN Indonesia,0,raw,0
+2563,CNN Indonesia,0,raw,0
+2568,CNN Indonesia,0,raw,0
+2571,CNN Indonesia,0,raw,0
+2586,CNN Indonesia,0,raw,0
+2588,CNN Indonesia,0,raw,0
+2599,CNN Indonesia,0,raw,0
+2634,CNN Indonesia,0,raw,0
+2638,CNN Indonesia,0,raw,0
+2651,CNN Indonesia,0,raw,0
+2663,CNN Indonesia,0,raw,0
+2674,CNN Indonesia,0,raw,0
+2694,CNN Indonesia,0,raw,0
+2700,CNN Indonesia,0,raw,0
+2721,CNN Indonesia,0,raw,0
+2762,CNN Indonesia,0,raw,0
+2763,CNN Indonesia,0,raw,0
+2796,CNN Indonesia,0,raw,0
+2818,CNN Indonesia,0,raw,0
+2824,CNN Indonesia,0,raw,0
+2827,CNN Indonesia,0,raw,0
+2853,CNN Indonesia,0,raw,0
+2855,CNN Indonesia,0,raw,0
+2866,CNN Indonesia,0,raw,0
+2873,CNN Indonesia,0,raw,0
+2885,CNN Indonesia,0,raw,0
+2889,CNN Indonesia,0,raw,0
+2890,CNN Indonesia,0,raw,0
+2911,CNN Indonesia,0,raw,0
+2919,CNN Indonesia,0,raw,0
+2929,CNN Indonesia,0,raw,0
+2942,CNN Indonesia,0,raw,0
+2947,CNN Indonesia,0,raw,0
+2954,CNN Indonesia,0,raw,0
+2959,CNN Indonesia,0,raw,0
+2965,CNN Indonesia,0,raw,0
+2970,CNN Indonesia,0,raw,0
+2980,CNN Indonesia,0,raw,0
+2983,CNN Indonesia,0,raw,0
+2988,CNN Indonesia,0,raw,0
+2992,CNN Indonesia,0,raw,0
+3008,CNN Indonesia,0,raw,0
+3034,CNN Indonesia,0,raw,0
+3041,CNN Indonesia,0,raw,0
+3064,CNN Indonesia,0,raw,0
+3073,CNN Indonesia,0,raw,0
+3083,CNN Indonesia,0,raw,0
+3084,CNN Indonesia,0,raw,0
+3086,CNN Indonesia,0,raw,0
+3105,CNN Indonesia,0,raw,0
+3118,CNN Indonesia,0,raw,0
+3129,CNN Indonesia,0,raw,0
+3130,CNN Indonesia,0,raw,0
+3134,CNN Indonesia,0,raw,0
+3165,CNN Indonesia,0,raw,0
+3176,CNN Indonesia,0,raw,0
+3177,CNN Indonesia,0,raw,0
+3192,CNN Indonesia,0,raw,0
+3197,CNN Indonesia,0,raw,0
+3199,CNN Indonesia,0,raw,0
+3209,CNN Indonesia,0,raw,0
+3229,CNN Indonesia,0,raw,0
+3261,CNN Indonesia,0,raw,0
+3264,CNN Indonesia,0,raw,0
+3268,CNN Indonesia,0,raw,0
+3280,CNN Indonesia,0,raw,0
+3283,CNN Indonesia,0,raw,0
+3292,CNN Indonesia,0,raw,0
+3302,CNN Indonesia,0,raw,0
+3307,CNN Indonesia,0,raw,0
+3309,CNN Indonesia,0,raw,0
+3315,CNN Indonesia,0,raw,0
+3320,CNN Indonesia,0,raw,0
+3346,CNN Indonesia,0,raw,0
+3355,CNN Indonesia,0,raw,0
+3358,CNN Indonesia,0,raw,0
+3381,CNN Indonesia,0,raw,0
+3384,CNN Indonesia,0,raw,0
+3385,CNN Indonesia,0,raw,0
+3394,CNN Indonesia,0,raw,0
+3400,CNN Indonesia,0,raw,0
+3401,CNN Indonesia,0,raw,0
+3407,CNN Indonesia,0,raw,0
+3414,CNN Indonesia,0,raw,0
+3428,CNN Indonesia,0,raw,0
+3438,CNN Indonesia,0,raw,0
+3442,CNN Indonesia,0,raw,0
+3451,CNN Indonesia,0,raw,0
+3460,CNN Indonesia,0,raw,0
+3466,CNN Indonesia,0,raw,0
+3481,CNN Indonesia,0,raw,0
+3482,CNN Indonesia,0,raw,0
+3487,CNN Indonesia,0,raw,0
+3519,CNN Indonesia,0,raw,0
+3529,CNN Indonesia,0,raw,0
+3530,CNN Indonesia,0,raw,0
+3548,CNN Indonesia,0,raw,0
+3554,CNN Indonesia,0,raw,0
+3557,CNN Indonesia,0,raw,0
+3559,CNN Indonesia,0,raw,0
+3576,CNN Indonesia,0,raw,0
+3580,CNN Indonesia,0,raw,0
+3594,CNN Indonesia,0,raw,0
+3597,CNN Indonesia,0,raw,0
+3600,CNN Indonesia,0,raw,0
+3644,CNN Indonesia,0,raw,0
+3650,CNN Indonesia,0,raw,0
+3661,CNN Indonesia,0,raw,0
+3675,CNN Indonesia,0,raw,0
+3697,CNN Indonesia,0,raw,0
+3699,CNN Indonesia,0,raw,0
+3700,CNN Indonesia,0,raw,0
+3702,CNN Indonesia,0,raw,0
+3707,CNN Indonesia,0,raw,0
+3710,CNN Indonesia,0,raw,0
+3714,CNN Indonesia,0,raw,0
+3730,CNN Indonesia,0,raw,0
+3733,CNN Indonesia,0,raw,0
+3747,CNN Indonesia,0,raw,0
+3754,CNN Indonesia,0,raw,0
+3758,CNN Indonesia,0,raw,0
+3785,CNN Indonesia,0,raw,0
+3791,CNN Indonesia,0,raw,0
+3813,CNN Indonesia,0,raw,0
+3816,CNN Indonesia,0,raw,0
+3825,CNN Indonesia,0,raw,0
+3832,CNN Indonesia,0,raw,0
+3846,CNN Indonesia,0,raw,0
+3864,CNN Indonesia,0,raw,0
+3870,CNN Indonesia,0,raw,0
+3877,CNN Indonesia,0,raw,0
+3883,CNN Indonesia,0,raw,0
+3894,CNN Indonesia,0,raw,0
+3897,CNN Indonesia,0,raw,0
+3904,CNN Indonesia,0,raw,0
+3908,CNN Indonesia,0,raw,0
+3910,CNN Indonesia,0,raw,0
+3915,CNN Indonesia,0,raw,0
+3917,CNN Indonesia,0,raw,0
+3953,CNN Indonesia,0,raw,0
+3961,CNN Indonesia,0,raw,0
+3963,CNN Indonesia,0,raw,0
+3964,CNN Indonesia,0,raw,0
+3968,CNN Indonesia,0,raw,0
+3970,CNN Indonesia,0,raw,0
+3972,CNN Indonesia,0,raw,0
+3981,CNN Indonesia,0,raw,0
+3984,CNN Indonesia,0,raw,0
+3986,CNN Indonesia,0,raw,0
+3988,CNN Indonesia,0,raw,0
+3995,CNN Indonesia,0,raw,0
+4006,CNN Indonesia,0,raw,0
+4007,CNN Indonesia,0,raw,0
+4022,CNN Indonesia,0,raw,0
+4024,CNN Indonesia,0,raw,0
+4026,CNN Indonesia,0,raw,0
+4029,CNN Indonesia,0,raw,0
+4048,CNN Indonesia,0,raw,0
+4051,CNN Indonesia,0,raw,0
+4059,CNN Indonesia,0,raw,0
+4075,CNN Indonesia,0,raw,0
+4084,CNN Indonesia,0,raw,0
+4096,CNN Indonesia,0,raw,0
+4104,CNN Indonesia,0,raw,0
+4129,CNN Indonesia,0,raw,0
+4130,CNN Indonesia,0,raw,0
+4132,CNN Indonesia,0,raw,0
+4146,CNN Indonesia,0,raw,0
+4150,CNN Indonesia,0,raw,0
+4163,CNN Indonesia,0,raw,0
+4178,CNN Indonesia,0,raw,0
+4181,CNN Indonesia,0,raw,0
+4182,CNN Indonesia,0,raw,0
+4197,CNN Indonesia,0,raw,0
+4243,CNN Indonesia,0,raw,0
+4246,CNN Indonesia,0,raw,0
+4252,CNN Indonesia,0,raw,0
+4271,CNN Indonesia,0,raw,0
+4272,CNN Indonesia,0,raw,0
+4278,CNN Indonesia,0,raw,0
+4298,CNN Indonesia,0,raw,0
+4299,CNN Indonesia,0,raw,0
+4303,CNN Indonesia,0,raw,0
+4307,CNN Indonesia,0,raw,0
+4310,CNN Indonesia,0,raw,0
+4311,CNN Indonesia,0,raw,0
+4323,CNN Indonesia,0,raw,0
+4332,CNN Indonesia,0,raw,0
+4338,CNN Indonesia,0,raw,0
+4343,CNN Indonesia,0,raw,0
+4374,CNN Indonesia,0,raw,0
+4380,CNN Indonesia,0,raw,0
+4398,CNN Indonesia,0,raw,0
+4409,CNN Indonesia,0,raw,0
+4415,CNN Indonesia,0,raw,0
+4417,CNN Indonesia,0,raw,0
+4429,CNN Indonesia,0,raw,0
+4466,CNN Indonesia,0,raw,0
+4492,CNN Indonesia,0,raw,0
+4503,CNN Indonesia,0,raw,0
+4515,CNN Indonesia,0,raw,0
+4526,CNN Indonesia,0,raw,0
+4527,CNN Indonesia,0,raw,0
+4532,CNN Indonesia,0,raw,0
+4539,CNN Indonesia,0,raw,0
+4559,CNN Indonesia,0,raw,0
+4575,CNN Indonesia,0,raw,0
+4597,CNN Indonesia,0,raw,0
+4598,CNN Indonesia,0,raw,0
+4603,CNN Indonesia,0,raw,0
+4615,CNN Indonesia,0,raw,0
+4616,CNN Indonesia,0,raw,0
+4624,CNN Indonesia,0,raw,0
+4631,CNN Indonesia,0,raw,0
+4669,CNN Indonesia,0,raw,0
+4671,CNN Indonesia,0,raw,0
+4674,CNN Indonesia,0,raw,0
+4696,CNN Indonesia,0,raw,0
+4702,CNN Indonesia,0,raw,0
+4710,CNN Indonesia,0,raw,0
+4722,CNN Indonesia,0,raw,0
+4723,CNN Indonesia,0,raw,0
+4735,CNN Indonesia,0,raw,1
+4759,CNN Indonesia,0,raw,0
+4780,CNN Indonesia,0,raw,0
+4793,CNN Indonesia,0,raw,0
+4796,CNN Indonesia,0,raw,0
+4797,CNN Indonesia,0,raw,0
+4802,CNN Indonesia,0,raw,0
+4813,CNN Indonesia,0,raw,0
+4823,CNN Indonesia,0,raw,0
+4825,CNN Indonesia,0,raw,0
+4829,CNN Indonesia,0,raw,0
+4831,CNN Indonesia,0,raw,0
+4833,CNN Indonesia,0,raw,0
+4839,CNN Indonesia,0,raw,0
+4850,CNN Indonesia,0,raw,0
+4851,CNN Indonesia,0,raw,0
+4905,CNN Indonesia,0,raw,0
+4914,CNN Indonesia,0,raw,0
+4915,CNN Indonesia,0,raw,0
+4923,CNN Indonesia,0,raw,0
+4924,CNN Indonesia,0,raw,0
+4948,CNN Indonesia,0,raw,0
+4951,CNN Indonesia,0,raw,0
+4957,CNN Indonesia,0,raw,0
+4984,CNN Indonesia,0,raw,0
+4993,CNN Indonesia,0,raw,0
+4994,CNN Indonesia,0,raw,0
+4995,CNN Indonesia,0,raw,0
+5025,CNN Indonesia,0,raw,0
+5043,CNN Indonesia,0,raw,0
+5047,CNN Indonesia,0,raw,0
+5048,CNN Indonesia,0,raw,0
+5066,CNN Indonesia,0,raw,0
+5083,CNN Indonesia,0,raw,0
+5086,CNN Indonesia,0,raw,0
+5123,CNN Indonesia,0,raw,0
+5125,CNN Indonesia,0,raw,0
+5136,CNN Indonesia,0,raw,0
+5138,CNN Indonesia,0,raw,0
+5156,CNN Indonesia,0,raw,0
+5159,CNN Indonesia,0,raw,0
+5163,CNN Indonesia,0,raw,0
+5168,CNN Indonesia,0,raw,0
+5178,CNN Indonesia,0,raw,0
+5187,CNN Indonesia,0,raw,0
+5189,CNN Indonesia,0,raw,0
+5190,CNN Indonesia,0,raw,0
+5203,CNN Indonesia,0,raw,0
+5210,CNN Indonesia,0,raw,0
+5229,CNN Indonesia,0,raw,0
+5232,CNN Indonesia,0,raw,0
+5244,CNN Indonesia,0,raw,0
+5245,CNN Indonesia,0,raw,0
+5248,CNN Indonesia,0,raw,0
+5267,CNN Indonesia,0,raw,0
+5271,CNN Indonesia,0,raw,0
+5277,CNN Indonesia,0,raw,0
+5278,CNN Indonesia,0,raw,0
+5286,CNN Indonesia,0,raw,0
+5290,CNN Indonesia,0,raw,0
+5297,CNN Indonesia,0,raw,1
+5298,CNN Indonesia,0,raw,0
+5316,CNN Indonesia,0,raw,0
+5320,CNN Indonesia,0,raw,0
+5326,CNN Indonesia,0,raw,0
+5336,CNN Indonesia,0,raw,0
+5374,CNN Indonesia,0,raw,0
+5375,CNN Indonesia,0,raw,0
+5383,CNN Indonesia,0,raw,0
+5411,CNN Indonesia,0,raw,0
+5422,CNN Indonesia,0,raw,0
+5451,CNN Indonesia,0,raw,0
+5456,CNN Indonesia,0,raw,0
+5458,CNN Indonesia,0,raw,0
+5476,CNN Indonesia,0,raw,0
+5483,CNN Indonesia,0,raw,0
+5485,CNN Indonesia,0,raw,0
+5495,CNN Indonesia,0,raw,0
+5509,CNN Indonesia,0,raw,0
+5512,CNN Indonesia,0,raw,0
+5521,CNN Indonesia,0,raw,0
+5560,CNN Indonesia,0,raw,0
+5578,CNN Indonesia,0,raw,0
+5592,CNN Indonesia,0,raw,0
+5613,CNN Indonesia,0,raw,0
+5638,CNN Indonesia,0,raw,0
+5640,CNN Indonesia,0,raw,0
+5644,CNN Indonesia,0,raw,0
+5650,CNN Indonesia,0,raw,0
+5652,CNN Indonesia,0,raw,0
+5654,CNN Indonesia,0,raw,0
+5655,CNN Indonesia,0,raw,0
+5657,CNN Indonesia,0,raw,0
+5664,CNN Indonesia,0,raw,0
+5670,CNN Indonesia,0,raw,0
+5676,CNN Indonesia,0,raw,0
+5682,CNN Indonesia,0,raw,0
+5683,CNN Indonesia,0,raw,0
+5727,CNN Indonesia,0,raw,0
+5743,CNN Indonesia,0,raw,0
+5749,CNN Indonesia,0,raw,0
+5759,CNN Indonesia,0,raw,0
+5776,CNN Indonesia,0,raw,0
+5778,CNN Indonesia,0,raw,0
+5781,CNN Indonesia,0,raw,0
+5792,CNN Indonesia,0,raw,0
+5795,CNN Indonesia,0,raw,0
+5797,CNN Indonesia,0,raw,0
+5826,CNN Indonesia,0,raw,0
+5830,CNN Indonesia,0,raw,0
+5832,CNN Indonesia,0,raw,0
+5834,CNN Indonesia,0,raw,0
+5836,CNN Indonesia,0,raw,0
+5864,CNN Indonesia,0,raw,0
+5865,CNN Indonesia,0,raw,0
+5869,CNN Indonesia,0,raw,0
+5870,CNN Indonesia,0,raw,0
+5884,CNN Indonesia,0,raw,0
+5911,CNN Indonesia,0,raw,0
+5916,CNN Indonesia,0,raw,0
+5922,CNN Indonesia,0,raw,0
+5934,CNN Indonesia,0,raw,0
+5936,CNN Indonesia,0,raw,0
+5954,CNN Indonesia,0,raw,0
+5965,CNN Indonesia,0,raw,0
+5970,CNN Indonesia,0,raw,0
+5985,CNN Indonesia,0,raw,0
+5996,CNN Indonesia,0,raw,0
+6002,CNN Indonesia,0,raw,0
+6005,CNN Indonesia,0,raw,0
+6011,CNN Indonesia,0,raw,0
+6015,CNN Indonesia,0,raw,0
+6024,CNN Indonesia,0,raw,0
+6033,CNN Indonesia,0,raw,0
+6042,CNN Indonesia,0,raw,0
+6048,CNN Indonesia,0,raw,1
+6059,CNN Indonesia,0,raw,0
+6072,CNN Indonesia,0,raw,0
+6085,CNN Indonesia,0,raw,0
+6088,CNN Indonesia,0,raw,0
+6096,CNN Indonesia,0,raw,0
+6107,CNN Indonesia,0,raw,0
+6109,CNN Indonesia,0,raw,0
+6113,CNN Indonesia,0,raw,0
+6124,CNN Indonesia,0,raw,0
+6160,CNN Indonesia,0,raw,0
+6163,CNN Indonesia,0,raw,0
+6165,CNN Indonesia,0,raw,0
+6168,CNN Indonesia,0,raw,0
+6170,CNN Indonesia,0,raw,0
+6198,CNN Indonesia,0,raw,0
+6204,CNN Indonesia,0,raw,0
+6206,CNN Indonesia,0,raw,0
+6208,CNN Indonesia,0,raw,0
+6209,CNN Indonesia,0,raw,0
+6254,CNN Indonesia,0,raw,0
+6265,CNN Indonesia,0,raw,0
+6266,CNN Indonesia,0,raw,0
+6269,CNN Indonesia,0,raw,0
+6310,CNN Indonesia,0,raw,0
+6318,CNN Indonesia,0,raw,0
+6323,CNN Indonesia,0,raw,0
+6350,CNN Indonesia,0,raw,0
+6371,CNN Indonesia,0,raw,0
+6383,CNN Indonesia,0,raw,0
+6384,CNN Indonesia,0,raw,0
+6397,CNN Indonesia,0,raw,0
+6414,CNN Indonesia,0,raw,0
+6460,CNN Indonesia,0,raw,0
+6465,CNN Indonesia,0,raw,0
+6483,CNN Indonesia,0,raw,0
+6486,CNN Indonesia,0,raw,0
+6493,CNN Indonesia,0,raw,0
+6501,CNN Indonesia,0,raw,0
+6504,CNN Indonesia,0,raw,0
+6508,CNN Indonesia,0,raw,0
+6529,CNN Indonesia,0,raw,0
+6531,CNN Indonesia,0,raw,0
+6537,CNN Indonesia,0,raw,0
+6538,CNN Indonesia,0,raw,0
+6547,CNN Indonesia,0,raw,0
+6548,CNN Indonesia,0,raw,0
+6552,CNN Indonesia,0,raw,0
+6572,CNN Indonesia,0,raw,0
+6578,CNN Indonesia,0,raw,0
+6591,CNN Indonesia,0,raw,0
+6599,CNN Indonesia,0,raw,0
+6606,CNN Indonesia,0,raw,0
+6608,CNN Indonesia,0,raw,0
+6612,CNN Indonesia,0,raw,0
+6635,CNN Indonesia,0,raw,0
+6661,CNN Indonesia,0,raw,0
+6667,CNN Indonesia,0,raw,0
+6671,CNN Indonesia,0,raw,0
+6683,CNN Indonesia,0,raw,0
+6692,CNN Indonesia,0,raw,0
+6712,CNN Indonesia,0,raw,0
+6714,CNN Indonesia,0,raw,0
+6719,CNN Indonesia,0,raw,0
+6731,CNN Indonesia,0,raw,0
+6759,CNN Indonesia,0,raw,0
+6764,CNN Indonesia,0,raw,0
+6776,CNN Indonesia,0,raw,0
+6785,CNN Indonesia,0,raw,0
+6786,CNN Indonesia,0,raw,0
+6793,CNN Indonesia,0,raw,0
+6802,CNN Indonesia,0,raw,0
+6811,CNN Indonesia,0,raw,0
+6828,CNN Indonesia,0,raw,0
+6829,CNN Indonesia,0,raw,0
+6832,CNN Indonesia,0,raw,0
+6834,CNN Indonesia,0,raw,0
+6838,CNN Indonesia,0,raw,0
+6862,CNN Indonesia,0,raw,0
+6864,CNN Indonesia,0,raw,0
+6878,CNN Indonesia,0,raw,0
+6888,CNN Indonesia,0,raw,0
+6895,CNN Indonesia,0,raw,0
+6906,CNN Indonesia,0,raw,0
+6926,CNN Indonesia,0,raw,0
+6947,CNN Indonesia,0,raw,0
+6955,CNN Indonesia,0,raw,0
+6961,CNN Indonesia,0,raw,0
+6967,CNN Indonesia,0,raw,0
+6969,CNN Indonesia,0,raw,0
+6972,CNN Indonesia,0,raw,0
+6982,CNN Indonesia,0,raw,0
+7002,CNN Indonesia,0,raw,0
+7015,CNN Indonesia,0,raw,0
+7023,CNN Indonesia,0,raw,0
+7025,CNN Indonesia,0,raw,0
+7026,CNN Indonesia,0,raw,0
+7053,CNN Indonesia,0,raw,0
+7062,CNN Indonesia,0,raw,0
+7074,CNN Indonesia,0,raw,0
+7092,CNN Indonesia,0,raw,0
+7107,CNN Indonesia,0,raw,0
+7149,CNN Indonesia,0,raw,0
+7150,CNN Indonesia,0,raw,0
+7158,CNN Indonesia,0,raw,0
+7162,CNN Indonesia,0,raw,0
+7167,CNN Indonesia,0,raw,0
+7197,CNN Indonesia,0,raw,0
+7200,CNN Indonesia,0,raw,0
+7202,CNN Indonesia,0,raw,0
+7208,CNN Indonesia,0,raw,0
+7212,CNN Indonesia,0,raw,0
+7219,CNN Indonesia,0,raw,0
+7228,CNN Indonesia,0,raw,0
+7231,CNN Indonesia,0,raw,0
+7232,CNN Indonesia,0,raw,0
+7239,CNN Indonesia,0,raw,0
+7240,CNN Indonesia,0,raw,0
+7242,CNN Indonesia,0,raw,0
+7250,CNN Indonesia,0,raw,0
+7253,CNN Indonesia,0,raw,0
+7271,CNN Indonesia,0,raw,0
+7284,CNN Indonesia,0,raw,0
+7317,CNN Indonesia,0,raw,0
+7322,CNN Indonesia,0,raw,0
+7336,CNN Indonesia,0,raw,0
+7348,CNN Indonesia,0,raw,0
+7349,CNN Indonesia,0,raw,0
+7363,CNN Indonesia,0,raw,0
+7366,CNN Indonesia,0,raw,0
+7381,CNN Indonesia,0,raw,0
+7390,CNN Indonesia,0,raw,0
+7391,CNN Indonesia,0,raw,0
+7392,CNN Indonesia,0,raw,0
+7401,CNN Indonesia,0,raw,0
+7405,CNN Indonesia,0,raw,0
+7416,CNN Indonesia,0,raw,0
+7423,CNN Indonesia,0,raw,0
+7427,CNN Indonesia,0,raw,0
+7431,CNN Indonesia,0,raw,0
+7448,CNN Indonesia,0,raw,0
+7452,CNN Indonesia,0,raw,0
+7453,CNN Indonesia,0,raw,0
+7455,CNN Indonesia,0,raw,0
+7462,CNN Indonesia,0,raw,0
+7466,CNN Indonesia,0,raw,0
+7497,CNN Indonesia,0,raw,0
+7510,CNN Indonesia,0,raw,0
+7514,CNN Indonesia,0,raw,0
+7544,CNN Indonesia,0,raw,0
+7549,CNN Indonesia,0,raw,0
+7572,CNN Indonesia,0,raw,0
+7573,CNN Indonesia,0,raw,0
+7589,CNN Indonesia,0,raw,0
+7592,CNN Indonesia,0,raw,0
+7602,CNN Indonesia,0,raw,0
+7621,CNN Indonesia,0,raw,0
+7626,CNN Indonesia,0,raw,0
+7639,CNN Indonesia,0,raw,0
+7650,CNN Indonesia,0,raw,0
+7656,CNN Indonesia,0,raw,0
+7657,CNN Indonesia,0,raw,0
+7674,CNN Indonesia,0,raw,0
+7678,CNN Indonesia,0,raw,0
+7700,CNN Indonesia,0,raw,0
+7703,CNN Indonesia,0,raw,0
+7709,CNN Indonesia,0,raw,0
+7712,CNN Indonesia,0,raw,0
+7741,CNN Indonesia,0,raw,0
+7747,CNN Indonesia,0,raw,0
+7771,CNN Indonesia,0,raw,0
+7773,CNN Indonesia,0,raw,0
+7782,CNN Indonesia,0,raw,0
+7809,CNN Indonesia,0,raw,0
+7814,CNN Indonesia,0,raw,0
+7831,CNN Indonesia,0,raw,0
+7832,CNN Indonesia,0,raw,0
+7849,CNN Indonesia,0,raw,0
+7850,CNN Indonesia,0,raw,0
+7853,CNN Indonesia,0,raw,0
+7864,CNN Indonesia,0,raw,0
+7878,CNN Indonesia,0,raw,0
+7887,CNN Indonesia,0,raw,0
+7889,CNN Indonesia,0,raw,0
+7899,CNN Indonesia,0,raw,0
+7905,CNN Indonesia,0,raw,0
+7912,CNN Indonesia,0,raw,0
+7917,CNN Indonesia,0,raw,0
+7925,CNN Indonesia,0,raw,0
+7939,CNN Indonesia,0,raw,0
+7955,CNN Indonesia,0,raw,0
+7969,CNN Indonesia,0,raw,0
+7970,CNN Indonesia,0,raw,0
+7975,CNN Indonesia,0,raw,0
+7980,CNN Indonesia,0,raw,0
+7989,CNN Indonesia,0,raw,0
+7993,CNN Indonesia,0,raw,0
+8006,CNN Indonesia,0,raw,0
+8011,CNN Indonesia,0,raw,0
+8014,CNN Indonesia,0,raw,0
+8032,CNN Indonesia,0,raw,0
+8033,CNN Indonesia,0,raw,0
+8055,CNN Indonesia,0,raw,0
+8058,CNN Indonesia,0,raw,0
+8074,CNN Indonesia,0,raw,0
+8080,CNN Indonesia,0,raw,0
+8085,CNN Indonesia,0,raw,0
+8101,CNN Indonesia,0,raw,0
+8102,CNN Indonesia,0,raw,0
+8109,CNN Indonesia,0,raw,0
+8114,CNN Indonesia,0,raw,0
+8115,CNN Indonesia,0,raw,0
+8126,CNN Indonesia,0,raw,0
+8140,CNN Indonesia,0,raw,0
+8143,CNN Indonesia,0,raw,0
+8160,CNN Indonesia,0,raw,0
+8163,CNN Indonesia,0,raw,0
+8224,CNN Indonesia,0,raw,0
+8232,CNN Indonesia,0,raw,0
+8240,CNN Indonesia,0,raw,0
+8247,CNN Indonesia,0,raw,0
+8254,CNN Indonesia,0,raw,0
+8264,CNN Indonesia,0,raw,0
+8267,CNN Indonesia,0,raw,0
+8286,CNN Indonesia,0,raw,0
+8291,CNN Indonesia,0,raw,0
+8293,CNN Indonesia,0,raw,0
+8296,CNN Indonesia,0,raw,0
+8299,CNN Indonesia,0,raw,0
+8300,CNN Indonesia,0,raw,0
+8302,CNN Indonesia,0,raw,0
+8305,CNN Indonesia,0,raw,0
+8314,CNN Indonesia,0,raw,0
+8315,CNN Indonesia,0,raw,0
+8324,CNN Indonesia,0,raw,0
+8336,CNN Indonesia,0,raw,0
+8339,CNN Indonesia,0,raw,0
+8351,CNN Indonesia,0,raw,0
+8368,CNN Indonesia,0,raw,0
+8371,CNN Indonesia,0,raw,0
+8376,CNN Indonesia,0,raw,0
+8410,CNN Indonesia,0,raw,0
+8422,CNN Indonesia,0,raw,0
+8454,CNN Indonesia,0,raw,0
+8456,CNN Indonesia,0,raw,0
+8464,CNN Indonesia,0,raw,0
+8466,CNN Indonesia,0,raw,0
+8479,CNN Indonesia,0,raw,0
+8493,CNN Indonesia,0,raw,0
+8507,CNN Indonesia,0,raw,0
+8515,CNN Indonesia,0,raw,0
+8531,CNN Indonesia,0,raw,0
+8535,CNN Indonesia,0,raw,0
+8539,CNN Indonesia,0,raw,0
+8540,CNN Indonesia,0,raw,0
+8554,CNN Indonesia,0,raw,0
+8568,CNN Indonesia,0,raw,0
+8585,CNN Indonesia,0,raw,0
+8597,CNN Indonesia,0,raw,0
+8636,CNN Indonesia,0,raw,0
+8640,CNN Indonesia,0,raw,0
+8641,CNN Indonesia,0,raw,0
+8644,CNN Indonesia,0,raw,0
+8650,CNN Indonesia,0,raw,0
+8662,CNN Indonesia,0,raw,0
+8673,CNN Indonesia,0,raw,0
+8679,CNN Indonesia,0,raw,0
+8702,CNN Indonesia,0,raw,0
+8709,CNN Indonesia,0,raw,0
+8715,CNN Indonesia,0,raw,0
+8717,CNN Indonesia,0,raw,0
+8755,CNN Indonesia,0,raw,0
+8758,CNN Indonesia,0,raw,0
+8770,CNN Indonesia,0,raw,0
+8783,CNN Indonesia,0,raw,0
+8797,CNN Indonesia,0,raw,0
+8812,CNN Indonesia,0,raw,0
+8813,CNN Indonesia,0,raw,0
+8824,CNN Indonesia,0,raw,0
+8870,CNN Indonesia,0,raw,0
+8871,CNN Indonesia,0,raw,0
+8875,CNN Indonesia,0,raw,0
+8889,CNN Indonesia,0,raw,0
+8902,CNN Indonesia,0,raw,1
+8914,CNN Indonesia,0,raw,0
+8917,CNN Indonesia,0,raw,0
+8927,CNN Indonesia,0,raw,0
+8960,CNN Indonesia,0,raw,0
+8970,CNN Indonesia,0,raw,0
+8987,CNN Indonesia,0,raw,0
+9010,CNN Indonesia,0,raw,0
+9018,CNN Indonesia,0,raw,0
+9019,CNN Indonesia,0,raw,0
+9035,CNN Indonesia,0,raw,0
+9066,CNN Indonesia,0,raw,0
+9087,CNN Indonesia,0,raw,0
+9090,CNN Indonesia,0,raw,0
+9121,CNN Indonesia,0,raw,0
+9132,CNN Indonesia,0,raw,0
+9140,CNN Indonesia,0,raw,0
+9152,CNN Indonesia,0,raw,0
+9180,CNN Indonesia,0,raw,0
+9196,CNN Indonesia,0,raw,0
+9202,CNN Indonesia,0,raw,0
+9239,CNN Indonesia,0,raw,0
+9251,CNN Indonesia,0,raw,0
+9266,CNN Indonesia,0,raw,0
+9267,CNN Indonesia,0,raw,0
+9273,CNN Indonesia,0,raw,0
+9280,CNN Indonesia,0,raw,0
+9289,CNN Indonesia,0,raw,0
+9312,CNN Indonesia,0,raw,0
+9333,CNN Indonesia,0,raw,0
+9336,CNN Indonesia,0,raw,0
+9345,CNN Indonesia,0,raw,0
+9357,CNN Indonesia,0,raw,0
+9380,CNN Indonesia,0,raw,0
+9384,CNN Indonesia,0,raw,0
+9431,CNN Indonesia,0,raw,0
+9433,CNN Indonesia,0,raw,0
+9441,CNN Indonesia,0,raw,0
+9464,CNN Indonesia,0,raw,0
+9468,CNN Indonesia,0,raw,0
+9470,CNN Indonesia,0,raw,0
+9471,CNN Indonesia,0,raw,0
+9488,CNN Indonesia,0,raw,0
+9491,CNN Indonesia,0,raw,0
+9492,CNN Indonesia,0,raw,0
+9497,CNN Indonesia,0,raw,0
+9509,CNN Indonesia,0,raw,0
+9515,CNN Indonesia,0,raw,0
+9519,CNN Indonesia,0,raw,0
+9524,CNN Indonesia,0,raw,0
+9545,CNN Indonesia,0,raw,0
+9548,CNN Indonesia,0,raw,0
+9570,CNN Indonesia,0,raw,0
+9571,CNN Indonesia,0,raw,0
+9582,CNN Indonesia,0,raw,0
+9585,CNN Indonesia,0,raw,0
+9591,CNN Indonesia,0,raw,0
+9644,CNN Indonesia,0,raw,0
+9670,CNN Indonesia,0,raw,0
+9676,CNN Indonesia,0,raw,0
+9689,CNN Indonesia,0,raw,0
+9704,CNN Indonesia,0,raw,0
+9708,CNN Indonesia,0,raw,0
+9712,CNN Indonesia,0,raw,0
+9714,CNN Indonesia,0,raw,0
+9740,CNN Indonesia,0,raw,0
+9754,CNN Indonesia,0,raw,0
+9801,CNN Indonesia,0,raw,0
+9814,CNN Indonesia,0,raw,0
+9828,CNN Indonesia,0,raw,0
+9839,CNN Indonesia,0,raw,0
+9861,CNN Indonesia,0,raw,0
+9864,CNN Indonesia,0,raw,0
+9871,CNN Indonesia,0,raw,0
+9887,CNN Indonesia,0,raw,0
+9890,CNN Indonesia,0,raw,0
+9894,CNN Indonesia,0,raw,0
+9898,CNN Indonesia,0,raw,0
+9910,CNN Indonesia,0,raw,0
+9941,CNN Indonesia,0,raw,0
+9953,CNN Indonesia,0,raw,0
+9969,CNN Indonesia,0,raw,0
+10015,Kompas,0,raw,0
+10069,Kompas,0,raw,0
+10120,Kompas,0,raw,0
+10124,Kompas,0,raw,0
+10128,Kompas,0,raw,0
+10146,Kompas,0,raw,0
+10151,Kompas,0,raw,0
+10172,Kompas,0,raw,0
+10176,Kompas,0,raw,1
+10182,Kompas,0,raw,0
+10183,Kompas,0,raw,1
+10185,Kompas,0,raw,1
+10191,Kompas,0,raw,0
+10212,Kompas,0,raw,1
+10221,Kompas,0,raw,0
+10225,Kompas,0,raw,0
+10241,Kompas,0,raw,0
+10254,Kompas,0,raw,0
+10256,Kompas,0,raw,0
+10268,Kompas,0,raw,0
+10271,Kompas,0,raw,0
+10274,Kompas,0,raw,0
+10289,Kompas,0,raw,0
+10293,Kompas,0,raw,0
+10299,Kompas,0,raw,0
+10305,Kompas,0,raw,0
+10306,Kompas,0,raw,0
+10307,Kompas,0,raw,1
+10308,Kompas,0,raw,0
+10331,Kompas,0,raw,0
+10332,Kompas,0,raw,0
+10340,Kompas,0,raw,1
+10342,Kompas,0,raw,0
+10347,Kompas,0,raw,0
+10360,Kompas,0,raw,0
+10384,Kompas,0,raw,1
+10399,Kompas,0,raw,1
+10408,Kompas,0,raw,1
+10409,Kompas,0,raw,0
+10422,Kompas,0,raw,0
+10442,Kompas,0,raw,0
+10451,Kompas,0,raw,1
+10454,Kompas,0,raw,0
+10456,Kompas,0,raw,1
+10474,Kompas,0,raw,1
+10493,Kompas,0,raw,0
+10509,Kompas,0,raw,0
+10534,Kompas,0,raw,1
+10540,Kompas,0,raw,0
+10543,Kompas,0,raw,0
+10548,Kompas,0,raw,1
+10563,Kompas,0,raw,0
+10571,Kompas,0,raw,0
+10575,Kompas,0,raw,0
+10576,Kompas,0,raw,0
+10577,Kompas,0,raw,0
+10579,Kompas,0,raw,0
+10581,Kompas,0,raw,0
+10594,Kompas,0,raw,0
+10596,Kompas,0,raw,0
+10608,Kompas,0,raw,0
+10610,Kompas,0,raw,0
+10621,Kompas,0,raw,0
+10633,Kompas,0,raw,0
+10634,Kompas,0,raw,0
+10649,Kompas,0,raw,0
+10659,Kompas,0,raw,0
+10674,Kompas,0,raw,1
+10693,Kompas,0,raw,0
+10699,Kompas,0,raw,0
+10701,Kompas,0,raw,0
+10741,Kompas,0,raw,0
+10750,Kompas,0,raw,1
+10754,Kompas,0,raw,1
+10762,Kompas,0,raw,0
+10796,Kompas,0,raw,0
+10816,Kompas,0,raw,0
+10830,Kompas,0,raw,0
+10832,Kompas,0,raw,0
+10849,Kompas,0,raw,0
+10859,Kompas,0,raw,0
+10876,Kompas,0,raw,0
+10880,Kompas,0,raw,0
+10906,Kompas,0,raw,0
+10915,Kompas,0,raw,0
+10916,Kompas,0,raw,0
+10945,Kompas,0,raw,0
+10946,Kompas,0,raw,0
+10949,Kompas,0,raw,0
+10954,Kompas,0,raw,0
+10969,Kompas,0,raw,0
+10980,Kompas,0,raw,0
+10982,Kompas,0,raw,0
+10988,Kompas,0,raw,0
+10991,Kompas,0,raw,0
+10998,Kompas,0,raw,0
+11024,Kompas,0,raw,1
+11033,Kompas,0,raw,0
+11034,Kompas,0,raw,0
+11049,Kompas,0,raw,0
+11058,Kompas,0,raw,0
+11067,Kompas,0,raw,0
+11073,Kompas,0,raw,0
+11075,Kompas,0,raw,0
+11084,Kompas,0,raw,0
+11088,Kompas,0,raw,0
+11108,Kompas,0,raw,0
+11111,Kompas,0,raw,0
+11116,Kompas,0,raw,0
+11119,Kompas,0,raw,0
+11127,Kompas,0,raw,0
+11132,Kompas,0,raw,0
+11135,Kompas,0,raw,0
+11138,Kompas,0,raw,0
+11151,Kompas,0,raw,0
+11158,Kompas,0,raw,0
+11170,Kompas,0,raw,0
+11172,Kompas,0,raw,0
+11178,Kompas,0,raw,0
+11179,Kompas,0,raw,0
+11182,Kompas,0,raw,0
+11185,Kompas,0,raw,0
+11188,Kompas,0,raw,0
+11191,Kompas,0,raw,0
+11193,Kompas,0,raw,0
+11208,Kompas,0,raw,0
+11210,Kompas,0,raw,0
+11211,Kompas,0,raw,0
+11221,Kompas,0,raw,0
+11225,Kompas,0,raw,0
+11229,Kompas,0,raw,0
+11235,Kompas,0,raw,0
+11244,Kompas,0,raw,0
+11252,Kompas,0,raw,0
+11253,Kompas,0,raw,0
+11258,Kompas,0,raw,0
+11261,Kompas,0,raw,0
+11264,Kompas,0,raw,0
+11267,Kompas,0,raw,0
+11285,Kompas,0,raw,0
+11294,Kompas,0,raw,0
+11310,Kompas,0,raw,0
+11314,Kompas,0,raw,0
+11322,Kompas,0,raw,0
+11350,Kompas,0,raw,0
+11353,Kompas,0,raw,0
+11403,Kompas,0,raw,0
+11420,Kompas,0,raw,0
+11438,Kompas,0,raw,0
+11439,Kompas,0,raw,0
+11442,Kompas,0,raw,0
+11453,Kompas,0,raw,0
+11459,Kompas,0,raw,0
+11460,Kompas,0,raw,0
+11473,Kompas,0,raw,0
+11491,Kompas,0,raw,0
+11502,Kompas,0,raw,0
+11503,Kompas,0,raw,0
+11521,Kompas,0,raw,0
+11522,Kompas,0,raw,0
+11531,Kompas,0,raw,0
+11532,Kompas,0,raw,0
+11542,Kompas,0,raw,0
+11566,Kompas,0,raw,0
+11568,Kompas,0,raw,0
+11576,Kompas,0,raw,0
+11589,Kompas,0,raw,0
+11596,Kompas,0,raw,0
+11607,Kompas,0,raw,0
+11612,Kompas,0,raw,0
+11613,Kompas,0,raw,0
+11621,Kompas,0,raw,0
+11624,Kompas,0,raw,0
+11625,Kompas,0,raw,0
+11647,Kompas,0,raw,0
+11674,Kompas,0,raw,0
+11686,Kompas,0,raw,0
+11692,Kompas,0,raw,0
+11694,Kompas,0,raw,0
+11700,Kompas,0,raw,0
+11711,Kompas,0,raw,0
+11720,Kompas,0,raw,0
+11721,Kompas,0,raw,0
+11742,Kompas,0,raw,0
+11752,Kompas,0,raw,0
+11754,Kompas,0,raw,0
+11768,Kompas,0,raw,0
+11778,Kompas,0,raw,0
+11784,Kompas,0,raw,0
+11802,Kompas,0,raw,0
+11803,Kompas,0,raw,0
+11821,Kompas,0,raw,0
+11823,Kompas,0,raw,0
+11834,Kompas,0,raw,0
+11837,Kompas,0,raw,0
+11847,Kompas,0,raw,0
+11850,Kompas,0,raw,0
+11853,Kompas,0,raw,0
+11861,Kompas,0,raw,0
+11865,Kompas,0,raw,0
+11889,Kompas,0,raw,0
+11912,Kompas,0,raw,0
+11917,Kompas,0,raw,0
+11925,Kompas,0,raw,0
+11927,Kompas,0,raw,0
+11928,Kompas,0,raw,0
+11935,Kompas,0,raw,0
+11952,Kompas,0,raw,0
+11957,Kompas,0,raw,0
+11958,Kompas,0,raw,0
+11978,Kompas,0,raw,0
+11985,Kompas,0,raw,0
+11988,Kompas,0,raw,0
+12005,Kompas,0,raw,0
+12019,Kompas,0,raw,0
+12032,Kompas,0,raw,0
+12035,Kompas,0,raw,0
+12041,Kompas,0,raw,0
+12080,Kompas,0,raw,0
+12084,Kompas,0,raw,0
+12088,Kompas,0,raw,0
+12092,Kompas,0,raw,0
+12107,Kompas,0,raw,0
+12110,Kompas,0,raw,0
+12127,Kompas,0,raw,0
+12134,Kompas,0,raw,0
+12137,Kompas,0,raw,0
+12143,Kompas,0,raw,0
+12150,Kompas,0,raw,0
+12156,Kompas,0,raw,0
+12180,Kompas,0,raw,0
+12181,Kompas,0,raw,0
+12182,Kompas,0,raw,0
+12192,Kompas,0,raw,0
+12198,Kompas,0,raw,0
+12220,Kompas,0,raw,0
+12230,Kompas,0,raw,0
+12244,Kompas,0,raw,0
+12257,Kompas,0,raw,0
+12267,Kompas,0,raw,0
+12269,Kompas,0,raw,0
+12272,Kompas,0,raw,0
+12277,Kompas,0,raw,0
+12278,Kompas,0,raw,0
+12292,Kompas,0,raw,0
+12309,Kompas,0,raw,0
+12315,Kompas,0,raw,0
+12318,Kompas,0,raw,0
+12333,Kompas,0,raw,0
+12352,Kompas,0,raw,0
+12362,Kompas,0,raw,0
+12373,Kompas,0,raw,0
+12393,Kompas,0,raw,0
+12398,Kompas,0,raw,0
+12400,Kompas,0,raw,0
+12413,Kompas,0,raw,0
+12414,Kompas,0,raw,0
+12415,Kompas,0,raw,0
+12434,Kompas,0,raw,0
+12460,Kompas,0,raw,0
+12476,Kompas,0,raw,0
+12488,Kompas,0,raw,0
+12512,Kompas,0,raw,0
+12520,Kompas,0,raw,0
+12525,Kompas,0,raw,0
+12532,Kompas,0,raw,0
+12534,Kompas,0,raw,0
+12536,Kompas,0,raw,0
+12541,Kompas,0,raw,0
+12554,Kompas,0,raw,0
+12560,Kompas,0,raw,0
+12572,Kompas,0,raw,0
+12575,Kompas,0,raw,0
+12577,Kompas,0,raw,0
+12589,Kompas,0,raw,0
+12594,Kompas,0,raw,0
+12595,Kompas,0,raw,0
+12603,Kompas,0,raw,0
+12623,Kompas,0,raw,0
+12628,Kompas,0,raw,0
+12637,Kompas,0,raw,0
+12642,Kompas,0,raw,0
+12651,Kompas,0,raw,0
+12652,Kompas,0,raw,0
+12653,Kompas,0,raw,0
+12679,Kompas,0,raw,0
+12698,Kompas,0,raw,0
+12703,Kompas,0,raw,0
+12705,Kompas,0,raw,0
+12710,Kompas,0,raw,0
+12734,Kompas,0,raw,0
+12742,Kompas,0,raw,0
+12761,Kompas,0,raw,0
+12768,Kompas,0,raw,0
+12772,Kompas,0,raw,0
+12781,Kompas,0,raw,0
+12782,Kompas,0,raw,0
+12790,Kompas,0,raw,0
+12801,Kompas,0,raw,0
+12828,Kompas,0,raw,0
+12856,Kompas,0,raw,0
+12863,Kompas,0,raw,0
+12869,Kompas,0,raw,0
+12893,Kompas,0,raw,0
+12894,Kompas,0,raw,0
+12897,Kompas,0,raw,0
+12898,Kompas,0,raw,0
+12918,Kompas,0,raw,0
+12945,Kompas,0,raw,0
+12947,Kompas,0,raw,0
+12978,Kompas,0,raw,0
+12986,Kompas,0,raw,0
+13021,Kompas,0,raw,0
+13033,Kompas,0,raw,0
+13037,Kompas,0,raw,0
+13045,Kompas,0,raw,0
+13047,Kompas,0,raw,0
+13052,Kompas,0,raw,0
+13070,Kompas,0,raw,0
+13074,Kompas,0,raw,0
+13086,Kompas,0,raw,0
+13092,Kompas,0,raw,0
+13096,Kompas,0,raw,0
+13121,Kompas,0,raw,0
+13133,Kompas,0,raw,0
+13158,Kompas,0,raw,0
+13167,Kompas,0,raw,0
+13177,Kompas,0,raw,0
+13182,Kompas,0,raw,0
+13202,Kompas,0,raw,0
+13208,Kompas,0,raw,0
+13210,Kompas,0,raw,0
+13213,Kompas,0,raw,0
+13218,Kompas,0,raw,0
+13220,Kompas,0,raw,0
+13248,Kompas,0,raw,0
+13253,Kompas,0,raw,0
+13261,Kompas,0,raw,0
+13264,Kompas,0,raw,0
+13297,Kompas,0,raw,0
+13301,Kompas,0,raw,0
+13312,Kompas,0,raw,0
+13313,Kompas,0,raw,0
+13317,Kompas,0,raw,0
+13326,Kompas,0,raw,0
+13337,Kompas,0,raw,0
+13359,Kompas,0,raw,0
+13371,Kompas,0,raw,0
+13382,Kompas,0,raw,0
+13393,Kompas,0,raw,0
+13398,Kompas,0,raw,0
+13413,Kompas,0,raw,0
+13422,Kompas,0,raw,0
+13429,Kompas,0,raw,0
+13431,Kompas,0,raw,0
+13434,Kompas,0,raw,0
+13438,Kompas,0,raw,0
+13443,Kompas,0,raw,0
+13446,Kompas,0,raw,0
+13453,Kompas,0,raw,0
+13460,Kompas,0,raw,0
+13478,Kompas,0,raw,0
+13492,Kompas,0,raw,0
+13504,Kompas,0,raw,0
+13512,Kompas,0,raw,0
+13514,Kompas,0,raw,0
+13517,Kompas,0,raw,0
+13521,Kompas,0,raw,0
+13523,Kompas,0,raw,0
+13528,Kompas,0,raw,0
+13534,Kompas,0,raw,0
+13556,Kompas,0,raw,0
+13563,Kompas,0,raw,0
+13574,Kompas,0,raw,0
+13578,Kompas,0,raw,0
+13587,Kompas,0,raw,0
+13615,Kompas,0,raw,0
+13630,Kompas,0,raw,0
+13631,Kompas,0,raw,0
+13639,Kompas,0,raw,0
+13647,Kompas,0,raw,0
+13671,Kompas,0,raw,0
+13677,Kompas,0,raw,0
+13679,Kompas,0,raw,0
+13684,Kompas,0,raw,0
+13726,Kompas,0,raw,0
+13728,Kompas,0,raw,0
+13730,Kompas,0,raw,0
+13735,Kompas,0,raw,0
+13770,Kompas,0,raw,0
+13771,Kompas,0,raw,0
+13779,Kompas,0,raw,0
+13781,Kompas,0,raw,0
+13798,Kompas,0,raw,0
+13827,Kompas,0,raw,0
+13828,Kompas,0,raw,0
+13840,Kompas,0,raw,0
+13843,Kompas,0,raw,0
+13847,Kompas,0,raw,0
+13849,Kompas,0,raw,0
+13852,Kompas,0,raw,0
+13855,Kompas,0,raw,0
+13865,Kompas,0,raw,0
+13877,Kompas,0,raw,0
+13888,Kompas,0,raw,0
+13900,Kompas,0,raw,0
+13904,Kompas,0,raw,0
+13915,Kompas,0,raw,0
+13920,Kompas,0,raw,0
+13937,Kompas,0,raw,0
+13948,Kompas,0,raw,0
+13951,Kompas,0,raw,0
+13955,Kompas,0,raw,0
+13965,Kompas,0,raw,0
+13968,Kompas,0,raw,0
+13970,Kompas,0,raw,0
+13976,Kompas,0,raw,0
+13986,Kompas,0,raw,0
+13997,Kompas,0,raw,0
+14000,Kompas,0,raw,0
+14014,Kompas,0,raw,0
+14015,Kompas,0,raw,0
+14034,Kompas,0,raw,0
+14046,Kompas,0,raw,0
+14064,Kompas,0,raw,0
+14073,Kompas,0,raw,0
+14074,Kompas,0,raw,0
+14121,Kompas,0,raw,0
+14127,Kompas,0,raw,0
+14134,Kompas,0,raw,0
+14155,Kompas,0,raw,0
+14163,Kompas,0,raw,0
+14168,Kompas,0,raw,0
+14198,Kompas,0,raw,0
+14213,Kompas,0,raw,0
+14226,Kompas,0,raw,0
+14227,Kompas,0,raw,0
+14260,Kompas,0,raw,0
+14300,Kompas,0,raw,0
+14306,Kompas,0,raw,0
+14308,Kompas,0,raw,0
+14319,Kompas,0,raw,0
+14351,Kompas,0,raw,0
+14353,Kompas,0,raw,0
+14360,Kompas,0,raw,0
+14367,Kompas,0,raw,0
+14370,Kompas,0,raw,0
+14373,Kompas,0,raw,0
+14387,Kompas,0,raw,0
+14392,Kompas,0,raw,0
+14393,Kompas,0,raw,0
+14399,Kompas,0,raw,0
+14408,Kompas,0,raw,0
+14426,Kompas,0,raw,0
+14427,Kompas,0,raw,0
+14431,Kompas,0,raw,0
+14437,Kompas,0,raw,0
+14455,Kompas,0,raw,0
+14457,Kompas,0,raw,0
+14460,Kompas,0,raw,0
+14473,Kompas,0,raw,0
+14489,Kompas,0,raw,0
+14498,Kompas,0,raw,0
+14522,Kompas,0,raw,0
+14532,Kompas,0,raw,0
+14542,Kompas,0,raw,0
+14545,Kompas,0,raw,0
+14553,Kompas,0,raw,0
+14557,Kompas,0,raw,0
+14579,Kompas,0,raw,0
+14583,Kompas,0,raw,0
+14584,Kompas,0,raw,0
+14592,Kompas,0,raw,1
+14594,Kompas,0,raw,0
+14605,Kompas,0,raw,0
+14608,Kompas,0,raw,0
+14609,Kompas,0,raw,0
+14623,Kompas,0,raw,0
+14624,Kompas,0,raw,0
+14632,Kompas,0,raw,0
+14659,Kompas,0,raw,0
+14678,Kompas,0,raw,0
+14681,Kompas,0,raw,0
+14682,Kompas,0,raw,0
+14703,Kompas,0,raw,0
+14741,Kompas,0,raw,0
+14826,Tempo,0,raw,0
+14835,Tempo,0,raw,0
+14849,Tempo,0,raw,0
+14858,Tempo,0,raw,0
+14909,Tempo,0,raw,0
+14913,Tempo,0,raw,0
+14922,Tempo,0,raw,0
+14927,Tempo,0,raw,0
+14954,Tempo,0,raw,0
+14962,Tempo,0,raw,0
+14967,Tempo,0,raw,0
+14970,Tempo,0,raw,0
+14974,Tempo,0,raw,0
+14991,Tempo,0,raw,0
+15013,Tempo,0,raw,0
+15022,Tempo,0,raw,0
+15041,Tempo,0,raw,0
+15060,Tempo,0,raw,0
+15063,Tempo,0,raw,0
+15067,Tempo,0,raw,0
+15071,Tempo,0,raw,0
+15077,Tempo,0,raw,0
+15091,Tempo,0,raw,0
+15092,Tempo,0,raw,0
+15102,Tempo,0,raw,0
+15106,Tempo,0,raw,0
+15136,Tempo,0,raw,0
+15149,Tempo,0,raw,0
+15171,Tempo,0,raw,0
+15178,Tempo,0,raw,0
+15205,Tempo,0,raw,0
+15211,Tempo,0,raw,0
+15223,Tempo,0,raw,0
+15226,Tempo,0,raw,0
+15228,Tempo,0,raw,0
+15255,Tempo,0,raw,0
+15256,Tempo,0,raw,0
+15283,Tempo,0,raw,0
+15289,Tempo,0,raw,0
+15334,Tempo,0,raw,0
+15346,Tempo,0,raw,0
+15361,Tempo,0,raw,0
+15364,Tempo,0,raw,0
+15368,Tempo,0,raw,0
+15377,Tempo,0,raw,0
+15379,Tempo,0,raw,0
+15430,Tempo,0,raw,0
+15436,Tempo,0,raw,0
+15439,Tempo,0,raw,0
+15441,Tempo,0,raw,0
+15456,Tempo,0,raw,0
+15464,Tempo,0,raw,0
+15473,Tempo,0,raw,0
+15495,Tempo,0,raw,0
+15535,Tempo,0,raw,0
+15560,Tempo,0,raw,0
+15563,Tempo,0,raw,0
+15577,Tempo,0,raw,0
+15578,Tempo,0,raw,0
+15588,Tempo,0,raw,0
+15604,Tempo,0,raw,0
+15609,Tempo,0,raw,0
+15618,Tempo,0,raw,0
+15623,Tempo,0,raw,0
+15628,Tempo,0,raw,0
+15633,Tempo,0,raw,0
+15654,Tempo,0,raw,0
+15665,Tempo,0,raw,0
+15680,Tempo,0,raw,0
+15689,Tempo,0,raw,0
+15692,Tempo,0,raw,0
+15700,Tempo,0,raw,0
+15709,Tempo,0,raw,0
+15717,Tempo,0,raw,0
+15723,Tempo,0,raw,0
+15733,Tempo,0,raw,0
+15740,Tempo,0,raw,0
+15742,Tempo,0,raw,0
+15746,Tempo,0,raw,0
+15766,Tempo,0,raw,0
+15769,Tempo,0,raw,0
+15780,Tempo,0,raw,0
+15811,Tempo,0,raw,0
+15822,Tempo,0,raw,0
+15849,Tempo,0,raw,0
+15853,Tempo,0,raw,0
+15857,Tempo,0,raw,0
+15878,Tempo,0,raw,0
+15886,Tempo,0,raw,0
+15892,Tempo,0,raw,0
+15908,Tempo,0,raw,0
+15913,Tempo,0,raw,0
+15919,Tempo,0,raw,0
+15925,Tempo,0,raw,0
+15948,Tempo,0,raw,0
+15984,Tempo,0,raw,0
+15997,Tempo,0,raw,0
+16016,Tempo,0,raw,0
+16025,Tempo,0,raw,0
+16033,Tempo,0,raw,0
+16044,Tempo,0,raw,0
+16052,Tempo,0,raw,0
+16054,Tempo,0,raw,0
+16055,Tempo,0,raw,0
+16060,Tempo,0,raw,0
+16065,Tempo,0,raw,0
+16074,Tempo,0,raw,0
+16089,Tempo,0,raw,0
+16092,Tempo,0,raw,0
+16102,Tempo,0,raw,0
+16103,Tempo,0,raw,0
+16125,Tempo,0,raw,0
+16127,Tempo,0,raw,0
+16136,Tempo,0,raw,0
+16139,Tempo,0,raw,0
+16163,Tempo,0,raw,0
+16167,Tempo,0,raw,0
+16176,Tempo,0,raw,0
+16178,Tempo,0,raw,0
+16189,Tempo,0,raw,0
+16210,Tempo,0,raw,0
+16249,Tempo,0,raw,0
+16258,Tempo,0,raw,0
+16289,Tempo,0,raw,0
+16311,Tempo,0,raw,0
+16316,Tempo,0,raw,0
+16328,Tempo,0,raw,0
+16337,Tempo,0,raw,0
+16351,Tempo,0,raw,0
+16363,Tempo,0,raw,0
+16367,Tempo,0,raw,0
+16389,Tempo,0,raw,0
+16428,Tempo,0,raw,0
+16437,Tempo,0,raw,0
+16440,Tempo,0,raw,0
+16447,Tempo,0,raw,0
+16454,Tempo,0,raw,0
+16457,Tempo,0,raw,0
+16462,Tempo,0,raw,0
+16465,Tempo,0,raw,0
+16468,Tempo,0,raw,0
+16486,Tempo,0,raw,0
+16520,Tempo,0,raw,0
+16531,Tempo,0,raw,0
+16537,Tempo,0,raw,0
+16538,Tempo,0,raw,0
+16543,Tempo,0,raw,0
+16555,Tempo,0,raw,0
+16562,Tempo,0,raw,0
+16564,Tempo,0,raw,0
+16570,Tempo,0,raw,0
+16573,Tempo,0,raw,0
+16575,Tempo,0,raw,0
+16585,Tempo,0,raw,0
+16589,Tempo,0,raw,0
+16623,Tempo,0,raw,0
+16628,Tempo,0,raw,0
+16634,Tempo,0,raw,0
+16641,Tempo,0,raw,0
+16674,Tempo,0,raw,0
+16695,Tempo,0,raw,0
+16698,Tempo,0,raw,0
+16707,Tempo,0,raw,0
+16712,Tempo,0,raw,0
+16715,Tempo,0,raw,0
+16751,Tempo,0,raw,0
+16753,Tempo,0,raw,0
+16779,Tempo,0,raw,0
+16783,Tempo,0,raw,0
+16822,Tempo,0,raw,0
+16827,Tempo,0,raw,0
+16841,Tempo,0,raw,0
+16842,Tempo,0,raw,0
+16851,Tempo,0,raw,0
+16854,Tempo,0,raw,0
+16856,Tempo,0,raw,0
+16893,Tempo,0,raw,0
+16895,Tempo,0,raw,0
+16911,Tempo,0,raw,0
+16912,Tempo,0,raw,0
+16913,Tempo,0,raw,0
+16919,Tempo,0,raw,0
+16920,Tempo,0,raw,0
+16922,Tempo,0,raw,0
+16928,Tempo,0,raw,0
+16930,Tempo,0,raw,0
+16932,Tempo,0,raw,0
+16944,Tempo,0,raw,0
+16947,Tempo,0,raw,0
+16948,Tempo,0,raw,0
+16964,Tempo,0,raw,0
+16975,Tempo,0,raw,0
+16978,Tempo,0,raw,0
+16980,Tempo,0,raw,0
+16988,Tempo,0,raw,0
+16990,Tempo,0,raw,0
+16998,Tempo,0,raw,0
+17004,Tempo,0,raw,0
+17020,Tempo,0,raw,0
+17041,Tempo,0,raw,0
+17042,Tempo,0,raw,0
+17056,Tempo,0,raw,0
+17059,Tempo,0,raw,0
+17063,Tempo,0,raw,0
+17065,Tempo,0,raw,0
+17066,Tempo,0,raw,0
+17080,Tempo,0,raw,0
+17084,Tempo,0,raw,0
+17086,Tempo,0,raw,0
+17108,Tempo,0,raw,0
+17152,Tempo,0,raw,0
+17158,Tempo,0,raw,0
+17167,Tempo,0,raw,0
+17181,Tempo,0,raw,0
+17190,Tempo,0,raw,0
+17195,Tempo,0,raw,0
+17211,Tempo,0,raw,0
+17215,Tempo,0,raw,0
+17232,Tempo,0,raw,0
+17255,Tempo,0,raw,0
+17257,Tempo,0,raw,0
+17266,Tempo,0,raw,0
+17267,Tempo,0,raw,0
+17271,Tempo,0,raw,0
+17274,Tempo,0,raw,0
+17290,Tempo,0,raw,0
+17296,Tempo,0,raw,0
+17332,Tempo,0,raw,0
+17350,Tempo,0,raw,0
+17375,Tempo,0,raw,0
+17378,Tempo,0,raw,0
+17381,Tempo,0,raw,0
+17391,Tempo,0,raw,0
+17402,Tempo,0,raw,0
+17409,Tempo,0,raw,0
+17416,Tempo,0,raw,0
+17439,Tempo,0,raw,0
+17463,Tempo,0,raw,0
+17483,Tempo,0,raw,0
+17493,Tempo,0,raw,0
+17498,Tempo,0,raw,0
+17502,Tempo,0,raw,0
+17527,Tempo,0,raw,0
+17528,Tempo,0,raw,0
+17529,Tempo,0,raw,0
+17533,Tempo,0,raw,0
+17542,Tempo,0,raw,0
+17544,Tempo,0,raw,0
+17558,Tempo,0,raw,0
+17566,Tempo,0,raw,0
+17569,Tempo,0,raw,0
+17573,Tempo,0,raw,0
+17586,Tempo,0,raw,0
+17587,Tempo,0,raw,0
+17591,Tempo,0,raw,0
+17599,Tempo,0,raw,0
+17607,Tempo,0,raw,0
+17613,Tempo,0,raw,0
+17616,Tempo,0,raw,0
+17617,Tempo,0,raw,0
+17623,Tempo,0,raw,0
+17631,Tempo,0,raw,0
+17645,Tempo,0,raw,0
+17689,Tempo,0,raw,0
+17706,Tempo,0,raw,0
+17752,Tempo,0,raw,0
+17753,Tempo,0,raw,0
+17791,Tempo,0,raw,0
+17802,Tempo,0,raw,0
+17804,Tempo,0,raw,0
+17806,Tempo,0,raw,0
+17810,Tempo,0,raw,0
+17819,Tempo,0,raw,0
+17833,Tempo,0,raw,0
+17838,Tempo,0,raw,0
+17839,Tempo,0,raw,0
+17847,Tempo,0,raw,0
+17848,Tempo,0,raw,0
+17856,Tempo,0,raw,0
+17861,Tempo,0,raw,0
+17864,Tempo,0,raw,0
+17874,Tempo,0,raw,0
+17876,Tempo,0,raw,0
+17881,Tempo,0,raw,0
+17882,Tempo,0,raw,0
+17900,Tempo,0,raw,0
+17904,Tempo,0,raw,0
+17908,Tempo,0,raw,0
+17917,Tempo,0,raw,0
+17920,Tempo,0,raw,0
+17940,Tempo,0,raw,0
+17956,Tempo,0,raw,0
+17968,Tempo,0,raw,0
+17973,Tempo,0,raw,0
+17985,Tempo,0,raw,0
+17993,Tempo,0,raw,0
+17997,Tempo,0,raw,0
+18000,Tempo,0,raw,0
+18028,Tempo,0,raw,0
+18058,Tempo,0,raw,0
+18076,Tempo,0,raw,0
+18086,Tempo,0,raw,0
+18113,Tempo,0,raw,0
+18126,Tempo,0,raw,0
+18130,Tempo,0,raw,0
+18133,Tempo,0,raw,0
+18146,Tempo,0,raw,0
+18155,Tempo,0,raw,0
+18166,Tempo,0,raw,0
+18193,Tempo,0,raw,0
+18194,Tempo,0,raw,0
+18204,Tempo,0,raw,0
+18205,Tempo,0,raw,0
+18218,Tempo,0,raw,0
+18224,Tempo,0,raw,0
+18229,Tempo,0,raw,0
+18236,Tempo,0,raw,0
+18239,Tempo,0,raw,0
+18246,Tempo,0,raw,0
+18260,Tempo,0,raw,0
+18271,Tempo,0,raw,0
+18284,Tempo,0,raw,0
+18308,Tempo,0,raw,0
+18315,Tempo,0,raw,0
+18317,Tempo,0,raw,0
+18318,Tempo,0,raw,0
+18330,Tempo,0,raw,0
+18335,Tempo,0,raw,0
+18353,Tempo,0,raw,0
+18359,Tempo,0,raw,0
+18368,Tempo,0,raw,0
+18377,Tempo,0,raw,0
+18383,Tempo,0,raw,0
+18388,Tempo,0,raw,0
+18394,Tempo,0,raw,0
+18402,Tempo,0,raw,0
+18410,Tempo,0,raw,0
+18445,Tempo,0,raw,0
+18449,Tempo,0,raw,0
+18453,Tempo,0,raw,0
+18456,Tempo,0,raw,0
+18459,Tempo,0,raw,0
+18468,Tempo,0,raw,0
+18497,Tempo,0,raw,0
+18505,Tempo,0,raw,0
+18534,Tempo,0,raw,0
+18563,Tempo,0,raw,0
+18568,Tempo,0,raw,0
+18576,Tempo,0,raw,0
+18581,Tempo,0,raw,0
+18592,Tempo,0,raw,0
+18596,Tempo,0,raw,0
+18602,Tempo,0,raw,0
+18614,Tempo,0,raw,0
+18637,Tempo,0,raw,0
+18643,Tempo,0,raw,0
+18661,Tempo,0,raw,0
+18667,Tempo,0,raw,0
+18686,Tempo,0,raw,0
+18691,Tempo,0,raw,0
+18696,Tempo,0,raw,0
+18704,Tempo,0,raw,0
+18706,Tempo,0,raw,0
+18716,Tempo,0,raw,0
+18725,Tempo,0,raw,0
+18752,Tempo,0,raw,0
+18765,Tempo,0,raw,0
+18767,Tempo,0,raw,0
+18772,Tempo,0,raw,0
+18782,Tempo,0,raw,0
+18785,Tempo,0,raw,0
+18807,Tempo,0,raw,0
+18813,Tempo,0,raw,0
+18816,Tempo,0,raw,0
+18829,Tempo,0,raw,0
+18835,Tempo,0,raw,0
+18840,Tempo,0,raw,0
+18842,Tempo,0,raw,0
+18858,Tempo,0,raw,0
+18878,Tempo,0,raw,0
+18902,Tempo,0,raw,0
+18905,Tempo,0,raw,0
+18921,Tempo,0,raw,0
+18922,Tempo,0,raw,0
+18923,Tempo,0,raw,0
+18926,Tempo,0,raw,0
+18929,Tempo,0,raw,0
+18936,Tempo,0,raw,0
+18939,Tempo,0,raw,0
+18940,Tempo,0,raw,0
+18943,Tempo,0,raw,0
+18972,Tempo,0,raw,0
+18976,Tempo,0,raw,0
+18980,Tempo,0,raw,0
+18991,Tempo,0,raw,0
+18994,Tempo,0,raw,0
+19003,Tempo,0,raw,0
+19026,Tempo,0,raw,0
+19041,Tempo,0,raw,0
+19054,Tempo,0,raw,0
+19065,Tempo,0,raw,0
+19067,Tempo,0,raw,0
+19070,Tempo,0,raw,0
+19085,Tempo,0,raw,0
+19089,Tempo,0,raw,0
+19109,Tempo,0,raw,0
+19136,Tempo,0,raw,0
+19138,Tempo,0,raw,0
+19141,Tempo,0,raw,0
+19177,Tempo,0,raw,0
+19184,Tempo,0,raw,0
+19222,Tempo,0,raw,0
+19241,Tempo,0,raw,0
+19251,Tempo,0,raw,0
+19256,Tempo,0,raw,0
+19268,Tempo,0,raw,0
+19278,Tempo,0,raw,0
+19288,Tempo,0,raw,0
+19294,Tempo,0,raw,0
+19300,Tempo,0,raw,0
+19312,Tempo,0,raw,0
+19322,Tempo,0,raw,0
+19335,Tempo,0,raw,0
+19348,Tempo,0,raw,0
+19350,Tempo,0,raw,0
+19351,Tempo,0,raw,0
+19410,Tempo,0,raw,0
+19422,Tempo,0,raw,0
+19432,Tempo,0,raw,0
+19444,Tempo,0,raw,0
+19447,Tempo,0,raw,0
+19449,Tempo,0,raw,0
+19489,Tempo,0,raw,0
+19502,Tempo,0,raw,0
+19511,Tempo,0,raw,0
+19521,Tempo,0,raw,0
+19530,Tempo,0,raw,0
+19544,Tempo,0,raw,0
+19575,Tempo,0,raw,0
+19576,Tempo,0,raw,0
+19579,Tempo,0,raw,0
+19590,Tempo,0,raw,0
+19603,Tempo,0,raw,0
+19616,Tempo,0,raw,0
+19632,Tempo,0,raw,0
+19641,Tempo,0,raw,0
+19647,Tempo,0,raw,0
+19650,Tempo,0,raw,0
+19654,Tempo,0,raw,0
+19663,Tempo,0,raw,0
+19665,Tempo,0,raw,0
+19673,Tempo,0,raw,0
+19674,Tempo,0,raw,0
+19681,Tempo,0,raw,0
+19690,Tempo,0,raw,0
+19697,Tempo,0,raw,0
+19700,Tempo,0,raw,0
+19718,Tempo,0,raw,0
+19719,Tempo,0,raw,0
+19726,Tempo,0,raw,0
+19735,Tempo,0,raw,0
+19744,Tempo,0,raw,0
+19749,Tempo,0,raw,0
+19755,Tempo,0,raw,0
+19767,Tempo,0,raw,0
+19768,Tempo,0,raw,0
+19772,Tempo,0,raw,0
+19794,Tempo,0,raw,0
+19796,Tempo,0,raw,0
+19801,Tempo,0,raw,0
+19809,Tempo,0,raw,0
+19818,Tempo,0,raw,0
+19825,Tempo,0,raw,0
+19827,Tempo,0,raw,0
+19852,Tempo,0,raw,0
+19858,Tempo,0,raw,0
+19860,Tempo,0,raw,0
+19866,Tempo,0,raw,0
+19875,Tempo,0,raw,0
+19879,Tempo,0,raw,0
+19905,Tempo,0,raw,0
+19921,Tempo,0,raw,0
+19923,Tempo,0,raw,0
+19948,Tempo,0,raw,0
+19960,Tempo,0,raw,0
+19965,Tempo,0,raw,0
+19971,Tempo,0,raw,0
+19972,Tempo,0,raw,0
+19987,Tempo,0,raw,0
+20001,Tempo,0,raw,0
+20002,Tempo,0,raw,0
+20010,Tempo,0,raw,0
+20020,Tempo,0,raw,0
+20042,Tempo,0,raw,0
+20069,Tempo,0,raw,0
+20070,Tempo,0,raw,0
+20075,Tempo,0,raw,0
+20086,Tempo,0,raw,0
+20094,Tempo,0,raw,0
+20102,Tempo,0,raw,0
+20106,Tempo,0,raw,0
+20112,Tempo,0,raw,0
+20146,Tempo,0,raw,0
+20152,Tempo,0,raw,0
+20154,Tempo,0,raw,0
+20171,Tempo,0,raw,0
+20187,Tempo,0,raw,0
+20204,Tempo,0,raw,0
+20210,Tempo,0,raw,0
+20231,Tempo,0,raw,0
+20253,Tempo,0,raw,0
+20256,Tempo,0,raw,0
+20283,Tempo,0,raw,0
+20284,Tempo,0,raw,0
+20303,Tempo,0,raw,0
+20305,Tempo,0,raw,0
+20313,Tempo,0,raw,0
+20314,Tempo,0,raw,0
+20321,Tempo,0,raw,0
+20322,Tempo,0,raw,0
+20323,Tempo,0,raw,0
+20336,Tempo,0,raw,0
+20337,Tempo,0,raw,0
+20339,Tempo,0,raw,0
+20345,Tempo,0,raw,0
+20361,Tempo,0,raw,0
+20364,Tempo,0,raw,0
+20366,Tempo,0,raw,0
+20367,Tempo,0,raw,0
+20375,Tempo,0,raw,0
+20392,Tempo,0,raw,0
+20402,Tempo,0,raw,0
+20403,Tempo,0,raw,0
+20413,Tempo,0,raw,0
+20415,Tempo,0,raw,0
+20418,Tempo,0,raw,0
+20429,Tempo,0,raw,0
+20432,Tempo,0,raw,0
+20435,Tempo,0,raw,0
+20464,Tempo,0,raw,0
+20473,Tempo,0,raw,0
+20474,Tempo,0,raw,0
+20475,Tempo,0,raw,0
+20497,Tempo,0,raw,0
+20511,Tempo,0,raw,0
+20529,Tempo,0,raw,0
+20542,Tempo,0,raw,0
+20551,Tempo,0,raw,0
+20557,Tempo,0,raw,0
+20558,Tempo,0,raw,0
+20567,Tempo,0,raw,0
+20568,Tempo,0,raw,0
+20583,Tempo,0,raw,0
+20595,Tempo,0,raw,0
+20611,Tempo,0,raw,0
+20612,Tempo,0,raw,0
+20623,Tempo,0,raw,0
+20625,Tempo,0,raw,0
+20638,Tempo,0,raw,0
+20656,Tempo,0,raw,0
+20661,Tempo,0,raw,0
+20670,Tempo,0,raw,0
+20676,Tempo,0,raw,0
+20682,Tempo,0,raw,0
+20687,Tempo,0,raw,0
+20692,Tempo,0,raw,0
+20698,Tempo,0,raw,0
+20706,Tempo,0,raw,0
+20707,Tempo,0,raw,0
+20715,Tempo,0,raw,0
+20731,Tempo,0,raw,0
+20743,Tempo,0,raw,0
+20747,Tempo,0,raw,0
+20763,Tempo,0,raw,0
+20768,Tempo,0,raw,0
+20769,Tempo,0,raw,0
+20783,Tempo,0,raw,0
+20788,Tempo,0,raw,0
+20794,Tempo,0,raw,0
+20814,Tempo,0,raw,0
+20819,Tempo,0,raw,0
+20837,Tempo,0,raw,0
+20841,Tempo,0,raw,0
+20848,Tempo,0,raw,0
+20850,Tempo,0,raw,0
+20856,Tempo,0,raw,0
+20864,Tempo,0,raw,0
+20870,Tempo,0,raw,0
+20875,Tempo,0,raw,0
+20882,Tempo,0,raw,0
+20895,Tempo,0,raw,0
+20917,Tempo,0,raw,0
+20918,Tempo,0,raw,0
+20936,Tempo,0,raw,0
+20938,Tempo,0,raw,0
+20958,Tempo,0,raw,0
+20991,Tempo,0,raw,0
+20992,Tempo,0,raw,0
+20999,Tempo,0,raw,0
+21002,Tempo,0,raw,0
+21003,Tempo,0,raw,0
+21006,Tempo,0,raw,0
+21013,Tempo,0,raw,0
+21014,Tempo,0,raw,0
+21049,Tempo,0,raw,0
+21053,Tempo,0,raw,0
+21056,Tempo,0,raw,0
+21067,Tempo,0,raw,0
+21068,Tempo,0,raw,0
+21073,Tempo,0,raw,0
+21078,Tempo,0,raw,0
+21085,Tempo,0,raw,0
+21090,Tempo,0,raw,0
+21100,Tempo,0,raw,0
+21112,Tempo,0,raw,0
+21124,Tempo,0,raw,0
+21126,Tempo,0,raw,0
+21134,Tempo,0,raw,0
+21141,Tempo,0,raw,0
+21143,Tempo,0,raw,0
+21149,Tempo,0,raw,0
+21155,Tempo,0,raw,0
+21173,Tempo,0,raw,0
+21180,Tempo,0,raw,0
+21201,Tempo,0,raw,0
+21206,Tempo,0,raw,0
+21210,Tempo,0,raw,0
+21261,Tempo,0,raw,0
+21262,Tempo,0,raw,0
+21267,Tempo,0,raw,0
+21283,Tempo,0,raw,0
+21297,Tempo,0,raw,0
+21301,Tempo,0,raw,0
+21315,Tempo,0,raw,0
+21318,Tempo,0,raw,0
+21328,Tempo,0,raw,0
+21345,Tempo,0,raw,0
+21353,Tempo,0,raw,0
+21356,Tempo,0,raw,0
+21368,Tempo,0,raw,0
+21394,Tempo,0,raw,0
+21405,Tempo,0,raw,0
+21424,TurnBackHoax,1,raw,1
+21438,TurnBackHoax,1,raw,1
+21459,TurnBackHoax,1,raw,1
+21472,TurnBackHoax,1,raw,1
+21495,TurnBackHoax,1,raw,1
+21498,TurnBackHoax,1,raw,1
+21500,TurnBackHoax,1,raw,1
+21504,TurnBackHoax,1,raw,1
+21523,TurnBackHoax,1,raw,1
+21526,TurnBackHoax,1,raw,1
+21549,TurnBackHoax,1,raw,1
+21552,TurnBackHoax,1,raw,1
+21566,TurnBackHoax,1,raw,1
+21580,TurnBackHoax,1,raw,1
+21601,TurnBackHoax,1,raw,1
+21639,TurnBackHoax,1,raw,1
+21658,TurnBackHoax,1,raw,1
+21664,TurnBackHoax,1,raw,1
+21669,TurnBackHoax,1,raw,1
+21678,TurnBackHoax,1,raw,1
+21685,TurnBackHoax,1,raw,1
+21757,TurnBackHoax,1,raw,1
+21760,TurnBackHoax,1,raw,1
+21764,TurnBackHoax,1,raw,1
+21797,TurnBackHoax,1,raw,1
+21818,TurnBackHoax,1,raw,1
+21837,TurnBackHoax,1,raw,1
+21841,TurnBackHoax,1,raw,1
+21847,TurnBackHoax,1,raw,1
+21856,TurnBackHoax,1,raw,1
+21859,TurnBackHoax,1,raw,1
+21881,TurnBackHoax,1,raw,1
+21891,TurnBackHoax,1,raw,1
+21904,TurnBackHoax,1,raw,1
+21921,TurnBackHoax,1,raw,1
+21950,TurnBackHoax,1,raw,1
+21958,TurnBackHoax,1,raw,1
+21960,TurnBackHoax,1,raw,1
+21967,TurnBackHoax,1,raw,1
+21970,TurnBackHoax,1,raw,1
+21978,TurnBackHoax,1,raw,1
+21989,TurnBackHoax,1,raw,1
+21990,TurnBackHoax,1,raw,1
+21993,TurnBackHoax,1,raw,1
+21997,TurnBackHoax,1,raw,1
+22002,TurnBackHoax,1,raw,1
+22022,TurnBackHoax,1,raw,1
+22026,TurnBackHoax,1,raw,1
+22034,TurnBackHoax,1,raw,1
+22047,TurnBackHoax,1,raw,0
+22062,TurnBackHoax,1,raw,1
+22063,TurnBackHoax,1,raw,1
+22068,TurnBackHoax,1,raw,1
+22075,TurnBackHoax,1,raw,1
+22077,TurnBackHoax,1,raw,0
+22081,TurnBackHoax,1,raw,1
+22095,TurnBackHoax,1,raw,1
+22105,TurnBackHoax,1,raw,1
+22112,TurnBackHoax,1,raw,1
+22114,TurnBackHoax,1,raw,1
+22122,TurnBackHoax,1,raw,1
+22126,TurnBackHoax,1,raw,1
+22138,TurnBackHoax,1,raw,1
+22140,TurnBackHoax,1,raw,1
+22177,TurnBackHoax,1,raw,1
+22183,TurnBackHoax,1,raw,1
+22188,TurnBackHoax,1,raw,1
+22203,TurnBackHoax,1,raw,1
+22215,TurnBackHoax,1,raw,1
+22236,TurnBackHoax,1,raw,1
+22245,TurnBackHoax,1,raw,1
+22256,TurnBackHoax,1,raw,1
+22281,TurnBackHoax,1,raw,1
+22306,TurnBackHoax,1,raw,1
+22313,TurnBackHoax,1,raw,1
+22314,TurnBackHoax,1,raw,1
+22318,TurnBackHoax,1,raw,0
+22321,TurnBackHoax,1,raw,1
+22336,TurnBackHoax,1,raw,1
+22343,TurnBackHoax,1,raw,1
+22344,TurnBackHoax,1,raw,1
+22357,TurnBackHoax,1,raw,1
+22359,TurnBackHoax,1,raw,1
+22366,TurnBackHoax,1,raw,1
+22368,TurnBackHoax,1,raw,1
+22390,TurnBackHoax,1,raw,1
+22391,TurnBackHoax,1,raw,1
+22392,TurnBackHoax,1,raw,1
+22402,TurnBackHoax,1,raw,1
+22409,TurnBackHoax,1,raw,1
+22419,TurnBackHoax,1,raw,1
+22439,TurnBackHoax,1,raw,1
+22480,TurnBackHoax,1,raw,1
+22482,TurnBackHoax,1,raw,1
+22494,TurnBackHoax,1,raw,1
+22495,TurnBackHoax,1,raw,1
+22496,TurnBackHoax,1,raw,1
+22502,TurnBackHoax,1,raw,1
+22527,TurnBackHoax,1,raw,1
+22541,TurnBackHoax,1,raw,1
+22553,TurnBackHoax,1,raw,1
+22571,TurnBackHoax,1,raw,1
+22573,TurnBackHoax,1,raw,1
+22585,TurnBackHoax,1,raw,1
+22602,TurnBackHoax,1,raw,1
+22607,TurnBackHoax,1,raw,1
+22617,TurnBackHoax,1,raw,1
+22636,TurnBackHoax,1,raw,1
+22645,TurnBackHoax,1,raw,1
+22650,TurnBackHoax,1,raw,1
+22665,TurnBackHoax,1,raw,1
+22696,TurnBackHoax,1,raw,1
+22708,TurnBackHoax,1,raw,1
+22709,TurnBackHoax,1,raw,1
+22712,TurnBackHoax,1,raw,1
+22714,TurnBackHoax,1,raw,1
+22740,TurnBackHoax,1,raw,1
+22750,TurnBackHoax,1,raw,1
+22771,TurnBackHoax,1,raw,1
+22780,TurnBackHoax,1,raw,1
+22786,TurnBackHoax,1,raw,1
+22789,TurnBackHoax,1,raw,1
+22790,TurnBackHoax,1,raw,1
+22808,TurnBackHoax,1,raw,1
+22811,TurnBackHoax,1,raw,1
+22820,TurnBackHoax,1,raw,1
+22824,TurnBackHoax,1,raw,1
+22835,TurnBackHoax,1,raw,1
+22836,TurnBackHoax,1,raw,1
+22868,TurnBackHoax,1,raw,1
+22878,TurnBackHoax,1,raw,1
+22884,TurnBackHoax,1,raw,1
+22890,TurnBackHoax,1,raw,1
+22903,TurnBackHoax,1,raw,1
+22912,TurnBackHoax,1,raw,1
+22915,TurnBackHoax,1,raw,1
+22919,TurnBackHoax,1,raw,1
+22920,TurnBackHoax,1,raw,1
+22938,TurnBackHoax,1,raw,0
+22939,TurnBackHoax,1,raw,0
+22946,TurnBackHoax,1,raw,1
+22953,TurnBackHoax,1,raw,1
+22959,TurnBackHoax,1,raw,1
+22975,TurnBackHoax,1,raw,0
+22989,TurnBackHoax,1,raw,1
+22997,TurnBackHoax,1,raw,1
+23001,TurnBackHoax,1,raw,1
+23018,TurnBackHoax,1,raw,1
+23021,TurnBackHoax,1,raw,1
+23027,TurnBackHoax,1,raw,1
+23041,TurnBackHoax,1,raw,1
+23059,TurnBackHoax,1,raw,1
+23062,TurnBackHoax,1,raw,1
+23070,TurnBackHoax,1,raw,1
+23074,TurnBackHoax,1,raw,1
+23104,TurnBackHoax,1,raw,1
+23119,TurnBackHoax,1,raw,1
+23125,TurnBackHoax,1,raw,1
+23127,TurnBackHoax,1,raw,1
+23139,TurnBackHoax,1,raw,1
+23141,TurnBackHoax,1,raw,1
+23145,TurnBackHoax,1,raw,1
+23146,TurnBackHoax,1,raw,1
+23159,TurnBackHoax,1,raw,1
+23171,TurnBackHoax,1,raw,1
+23179,TurnBackHoax,1,raw,1
+23185,TurnBackHoax,1,raw,1
+23235,TurnBackHoax,1,raw,1
+23244,TurnBackHoax,1,raw,1
+23254,TurnBackHoax,1,raw,1
+23297,TurnBackHoax,1,raw,1
+23302,TurnBackHoax,1,raw,1
+23303,TurnBackHoax,1,raw,1
+23323,TurnBackHoax,1,raw,1
+23332,TurnBackHoax,1,raw,1
+23346,TurnBackHoax,1,raw,1
+23359,TurnBackHoax,1,raw,1
+23361,TurnBackHoax,1,raw,1
+23376,TurnBackHoax,1,raw,1
+23396,TurnBackHoax,1,raw,1
+23399,TurnBackHoax,1,raw,1
+23414,TurnBackHoax,1,raw,1
+23428,TurnBackHoax,1,raw,1
+23429,TurnBackHoax,1,raw,1
+23469,TurnBackHoax,1,raw,1
+23497,TurnBackHoax,1,raw,1
+23503,TurnBackHoax,1,raw,1
+23520,TurnBackHoax,1,raw,1
+23543,TurnBackHoax,1,raw,1
+23544,TurnBackHoax,1,raw,1
+23566,TurnBackHoax,1,raw,1
+23569,TurnBackHoax,1,raw,1
+23574,TurnBackHoax,1,raw,1
+23587,TurnBackHoax,1,raw,1
+23598,TurnBackHoax,1,raw,1
+23602,TurnBackHoax,1,raw,1
+23603,TurnBackHoax,1,raw,0
+23632,TurnBackHoax,1,raw,1
+23634,TurnBackHoax,1,raw,1
+23639,TurnBackHoax,1,raw,1
+23642,TurnBackHoax,1,raw,1
+23652,TurnBackHoax,1,raw,1
+23658,TurnBackHoax,1,raw,1
+23668,TurnBackHoax,1,raw,1
+23678,TurnBackHoax,1,raw,1
+23684,TurnBackHoax,1,raw,1
+23703,TurnBackHoax,1,raw,1
+23710,TurnBackHoax,1,raw,1
+23713,TurnBackHoax,1,raw,1
+23718,TurnBackHoax,1,raw,1
+23737,TurnBackHoax,1,raw,1
+23739,TurnBackHoax,1,raw,1
+23760,TurnBackHoax,1,raw,1
+23761,TurnBackHoax,1,raw,1
+23764,TurnBackHoax,1,raw,1
+23772,TurnBackHoax,1,raw,1
+23773,TurnBackHoax,1,raw,1
+23781,TurnBackHoax,1,raw,1
+23788,TurnBackHoax,1,raw,1
+23835,TurnBackHoax,1,raw,1
+23836,TurnBackHoax,1,raw,1
+23853,TurnBackHoax,1,raw,1
+23855,TurnBackHoax,1,raw,1
+23871,TurnBackHoax,1,raw,1
+23875,TurnBackHoax,1,raw,1
+23892,TurnBackHoax,1,raw,1
+23899,TurnBackHoax,1,raw,0
+23904,TurnBackHoax,1,raw,0
+23908,TurnBackHoax,1,raw,1
+23919,TurnBackHoax,1,raw,1
+23936,TurnBackHoax,1,raw,1
+23953,TurnBackHoax,1,raw,0
+23954,TurnBackHoax,1,raw,1
+23966,TurnBackHoax,1,raw,1
+23980,TurnBackHoax,1,raw,1
+23993,TurnBackHoax,1,raw,1
+24012,TurnBackHoax,1,raw,1
+24014,TurnBackHoax,1,raw,1
+24017,TurnBackHoax,1,raw,1
+24019,TurnBackHoax,1,raw,1
+24021,TurnBackHoax,1,raw,1
+24037,TurnBackHoax,1,raw,1
+24043,TurnBackHoax,1,raw,1
+24054,TurnBackHoax,1,raw,1
+24058,TurnBackHoax,1,raw,1
+24068,TurnBackHoax,1,raw,1
+24083,TurnBackHoax,1,raw,1
+24092,TurnBackHoax,1,raw,1
+24096,TurnBackHoax,1,raw,1
+24102,TurnBackHoax,1,raw,1
+24112,TurnBackHoax,1,raw,1
+24123,TurnBackHoax,1,raw,1
+24125,TurnBackHoax,1,raw,1
+24139,TurnBackHoax,1,raw,1
+24163,TurnBackHoax,1,raw,1
+24190,TurnBackHoax,1,raw,0
+24219,TurnBackHoax,1,raw,0
+24235,TurnBackHoax,1,raw,1
+24238,TurnBackHoax,1,raw,1
+24239,TurnBackHoax,1,raw,0
+24244,TurnBackHoax,1,raw,1
+24261,TurnBackHoax,1,raw,1
+24263,TurnBackHoax,1,raw,1
+24272,TurnBackHoax,1,raw,1
+24280,TurnBackHoax,1,raw,1
+24291,TurnBackHoax,1,raw,1
+24305,TurnBackHoax,1,raw,1
+24314,TurnBackHoax,1,raw,1
+24315,TurnBackHoax,1,raw,1
+24359,TurnBackHoax,1,raw,1
+24366,TurnBackHoax,1,raw,1
+24407,TurnBackHoax,1,raw,1
+24416,TurnBackHoax,1,raw,1
+24417,TurnBackHoax,1,raw,1
+24418,TurnBackHoax,1,raw,1
+24426,TurnBackHoax,1,raw,1
+24451,TurnBackHoax,1,raw,0
+24454,TurnBackHoax,1,raw,1
+24466,TurnBackHoax,1,raw,1
+24470,TurnBackHoax,1,raw,0
+24471,TurnBackHoax,1,raw,1
+24490,TurnBackHoax,1,raw,1
+24493,TurnBackHoax,1,raw,1
+24500,TurnBackHoax,1,raw,1
+24536,TurnBackHoax,1,raw,1
+24547,TurnBackHoax,1,raw,1
+24553,TurnBackHoax,1,raw,1
+24554,TurnBackHoax,1,raw,1
+24556,TurnBackHoax,1,raw,1
+24561,TurnBackHoax,1,raw,1
+24564,TurnBackHoax,1,raw,1
+24578,TurnBackHoax,1,raw,1
+24604,TurnBackHoax,1,raw,1
+24616,TurnBackHoax,1,raw,1
+24623,TurnBackHoax,1,raw,0
+24640,TurnBackHoax,1,raw,1
+24643,TurnBackHoax,1,raw,1
+24684,TurnBackHoax,1,raw,0
+24691,TurnBackHoax,1,raw,1
+24720,TurnBackHoax,1,raw,1
+24740,TurnBackHoax,1,raw,1
+24759,TurnBackHoax,1,raw,1
+24776,TurnBackHoax,1,raw,1
+24789,TurnBackHoax,1,raw,1
+24798,TurnBackHoax,1,raw,1
+24820,TurnBackHoax,1,raw,1
+24854,TurnBackHoax,1,raw,1
+24859,TurnBackHoax,1,raw,1
+24863,TurnBackHoax,1,raw,0
+24869,TurnBackHoax,1,raw,1
+24879,TurnBackHoax,1,raw,1
+24900,TurnBackHoax,1,raw,1
+24901,TurnBackHoax,1,raw,1
+24909,TurnBackHoax,1,raw,1
+24910,TurnBackHoax,1,raw,1
+24921,TurnBackHoax,1,raw,1
+24927,TurnBackHoax,1,raw,1
+24929,TurnBackHoax,1,raw,1
+24932,TurnBackHoax,1,raw,0
+24946,TurnBackHoax,1,raw,1
+24948,TurnBackHoax,1,raw,1
+24959,TurnBackHoax,1,raw,1
+24963,TurnBackHoax,1,raw,1
+24977,TurnBackHoax,1,raw,1
+24999,TurnBackHoax,1,raw,1
+25033,TurnBackHoax,1,raw,1
+25036,TurnBackHoax,1,raw,1
+25048,TurnBackHoax,1,raw,1
+25056,TurnBackHoax,1,raw,1
+25062,TurnBackHoax,1,raw,1
+25072,TurnBackHoax,1,raw,0
+25073,TurnBackHoax,1,raw,1
+25074,TurnBackHoax,1,raw,1
+25086,TurnBackHoax,1,raw,1
+25088,TurnBackHoax,1,raw,1
+25092,TurnBackHoax,1,raw,1
+25093,TurnBackHoax,1,raw,1
+25108,TurnBackHoax,1,raw,1
+25113,TurnBackHoax,1,raw,1
+25135,TurnBackHoax,1,raw,1
+25141,TurnBackHoax,1,raw,1
+25149,TurnBackHoax,1,raw,1
+25167,TurnBackHoax,1,raw,1
+25179,TurnBackHoax,1,raw,1
+25188,TurnBackHoax,1,raw,1
+25192,TurnBackHoax,1,raw,1
+25210,TurnBackHoax,1,raw,1
+25224,TurnBackHoax,1,raw,1
+25228,TurnBackHoax,1,raw,1
+25272,TurnBackHoax,1,raw,1
+25294,TurnBackHoax,1,raw,1
+25300,TurnBackHoax,1,raw,1
+25302,TurnBackHoax,1,raw,1
+25317,TurnBackHoax,1,raw,1
+25337,TurnBackHoax,1,raw,1
+25380,TurnBackHoax,1,raw,1
+25398,TurnBackHoax,1,raw,0
+25399,TurnBackHoax,1,raw,1
+25402,TurnBackHoax,1,raw,1
+25403,TurnBackHoax,1,raw,1
+25407,TurnBackHoax,1,raw,1
+25412,TurnBackHoax,1,raw,1
+25427,TurnBackHoax,1,raw,1
+25428,TurnBackHoax,1,raw,0
+25429,TurnBackHoax,1,raw,1
+25432,TurnBackHoax,1,raw,1
+25442,TurnBackHoax,1,raw,1
+25445,TurnBackHoax,1,raw,1
+25448,TurnBackHoax,1,raw,0
+25467,TurnBackHoax,1,raw,1
+25468,TurnBackHoax,1,raw,0
+25470,TurnBackHoax,1,raw,1
+25475,TurnBackHoax,1,raw,1
+25479,TurnBackHoax,1,raw,1
+25497,TurnBackHoax,1,raw,1
+25499,TurnBackHoax,1,raw,1
+25507,TurnBackHoax,1,raw,1
+25515,TurnBackHoax,1,raw,1
+25525,TurnBackHoax,1,raw,1
+25549,TurnBackHoax,1,raw,1
+25552,TurnBackHoax,1,raw,1
+25554,TurnBackHoax,1,raw,1
+25561,TurnBackHoax,1,raw,1
+25568,TurnBackHoax,1,raw,0
+25577,TurnBackHoax,1,raw,1
+25581,TurnBackHoax,1,raw,1
+25584,TurnBackHoax,1,raw,1
+25607,TurnBackHoax,1,raw,1
+25616,TurnBackHoax,1,raw,1
+25618,TurnBackHoax,1,raw,1
+25641,TurnBackHoax,1,raw,0
+25642,TurnBackHoax,1,raw,1
+25646,TurnBackHoax,1,raw,1
+25648,TurnBackHoax,1,raw,1
+25661,TurnBackHoax,1,raw,1
+25699,TurnBackHoax,1,raw,1
+25707,TurnBackHoax,1,raw,1
+25717,TurnBackHoax,1,raw,1
+25723,TurnBackHoax,1,raw,1
+25738,TurnBackHoax,1,raw,1
+25745,TurnBackHoax,1,raw,0
+25749,TurnBackHoax,1,raw,1
+25750,TurnBackHoax,1,raw,1
+25772,TurnBackHoax,1,raw,1
+25782,TurnBackHoax,1,raw,1
+25796,TurnBackHoax,1,raw,1
+25815,TurnBackHoax,1,raw,1
+25833,TurnBackHoax,1,raw,1
+25854,TurnBackHoax,1,raw,1
+25872,TurnBackHoax,1,raw,1
+25878,TurnBackHoax,1,raw,1
+25895,TurnBackHoax,1,raw,0
+25932,TurnBackHoax,1,raw,1
+25938,TurnBackHoax,1,raw,1
+25943,TurnBackHoax,1,raw,1
+25947,TurnBackHoax,1,raw,1
+25950,TurnBackHoax,1,raw,1
+25954,TurnBackHoax,1,raw,1
+25959,TurnBackHoax,1,raw,1
+25964,TurnBackHoax,1,raw,1
+25984,TurnBackHoax,1,raw,1
+26003,TurnBackHoax,1,raw,1
+26008,TurnBackHoax,1,raw,1
+26009,TurnBackHoax,1,raw,1
+26028,TurnBackHoax,1,raw,1
+26031,TurnBackHoax,1,raw,1
+26040,TurnBackHoax,1,raw,1
+26050,TurnBackHoax,1,raw,1
+26062,TurnBackHoax,1,raw,1
+26077,TurnBackHoax,1,raw,1
+26083,TurnBackHoax,1,raw,1
+26090,TurnBackHoax,1,raw,1
+26104,TurnBackHoax,1,raw,1
+26112,TurnBackHoax,1,raw,1
+26139,TurnBackHoax,1,raw,1
+26154,TurnBackHoax,1,raw,1
+26181,TurnBackHoax,1,raw,1
+26215,TurnBackHoax,1,raw,0
+26238,TurnBackHoax,1,raw,1
+26250,TurnBackHoax,1,raw,1
+26258,TurnBackHoax,1,raw,1
+26262,TurnBackHoax,1,raw,1
+26272,TurnBackHoax,1,raw,1
+26281,TurnBackHoax,1,raw,1
+26286,TurnBackHoax,1,raw,1
+26302,TurnBackHoax,1,raw,1
+26310,TurnBackHoax,1,raw,1
+26316,TurnBackHoax,1,raw,1
+26328,TurnBackHoax,1,raw,0
+26332,TurnBackHoax,1,raw,1
+26342,TurnBackHoax,1,raw,1
+26348,TurnBackHoax,1,raw,1
+26354,TurnBackHoax,1,raw,1
+26359,TurnBackHoax,1,raw,1
+26386,TurnBackHoax,1,raw,1
+26399,TurnBackHoax,1,raw,1
+26420,TurnBackHoax,1,raw,1
+26436,TurnBackHoax,1,raw,1
+26437,TurnBackHoax,1,raw,1
+26446,TurnBackHoax,1,raw,1
+26491,TurnBackHoax,1,raw,1
+26523,TurnBackHoax,1,raw,1
+26550,TurnBackHoax,1,raw,1
+26567,TurnBackHoax,1,raw,0
+26581,TurnBackHoax,1,raw,1
+26587,TurnBackHoax,1,raw,1
+26592,TurnBackHoax,1,raw,1
+26603,TurnBackHoax,1,raw,1
+26623,TurnBackHoax,1,raw,1
+26665,TurnBackHoax,1,raw,1
+26671,TurnBackHoax,1,raw,1
+26687,TurnBackHoax,1,raw,1
+26700,TurnBackHoax,1,raw,1
+26734,TurnBackHoax,1,raw,0
+26738,TurnBackHoax,1,raw,1
+26748,TurnBackHoax,1,raw,1
+26752,TurnBackHoax,1,raw,1
+26762,TurnBackHoax,1,raw,1
+26763,TurnBackHoax,1,raw,1
+26769,TurnBackHoax,1,raw,1
+26810,TurnBackHoax,1,raw,1
+26813,TurnBackHoax,1,raw,1
+26842,TurnBackHoax,1,raw,1
+26871,TurnBackHoax,1,raw,1
+26886,TurnBackHoax,1,raw,1
+26893,TurnBackHoax,1,raw,1
+26894,TurnBackHoax,1,raw,1
+26901,TurnBackHoax,1,raw,1
+26908,TurnBackHoax,1,raw,1
+26926,TurnBackHoax,1,raw,1
+26945,TurnBackHoax,1,raw,1
+26949,TurnBackHoax,1,raw,1
+26951,TurnBackHoax,1,raw,1
+26977,TurnBackHoax,1,raw,1
+26986,TurnBackHoax,1,raw,1
+26987,TurnBackHoax,1,raw,1
+26989,TurnBackHoax,1,raw,1
+27004,TurnBackHoax,1,raw,1
+27032,TurnBackHoax,1,raw,1
+27037,TurnBackHoax,1,raw,1
+27048,TurnBackHoax,1,raw,1
+27050,TurnBackHoax,1,raw,0
+27052,TurnBackHoax,1,raw,1
+27086,TurnBackHoax,1,raw,1
+27093,TurnBackHoax,1,raw,1
+27103,TurnBackHoax,1,raw,1
+27110,TurnBackHoax,1,raw,1
+27136,TurnBackHoax,1,raw,1
+27159,TurnBackHoax,1,raw,1
+27170,TurnBackHoax,1,raw,1
+27187,TurnBackHoax,1,raw,1
+27213,TurnBackHoax,1,raw,1
+27254,TurnBackHoax,1,raw,1
+27256,TurnBackHoax,1,raw,1
+27269,TurnBackHoax,1,raw,1
+27294,TurnBackHoax,1,raw,1
+27295,TurnBackHoax,1,raw,1
+27298,TurnBackHoax,1,raw,1
+27304,TurnBackHoax,1,raw,1
+27318,TurnBackHoax,1,raw,1
+27329,TurnBackHoax,1,raw,0
+27332,TurnBackHoax,1,raw,1
+27334,TurnBackHoax,1,raw,1
+27335,TurnBackHoax,1,raw,1
+27342,TurnBackHoax,1,raw,0
+27343,TurnBackHoax,1,raw,1
+27365,TurnBackHoax,1,raw,1
+27367,TurnBackHoax,1,raw,0
+27376,TurnBackHoax,1,raw,0
+27399,TurnBackHoax,1,raw,1
+27403,TurnBackHoax,1,raw,1
+27405,TurnBackHoax,1,raw,1
+27411,TurnBackHoax,1,raw,1
+27414,TurnBackHoax,1,raw,1
+27416,TurnBackHoax,1,raw,1
+27431,TurnBackHoax,1,raw,1
+27475,TurnBackHoax,1,raw,1
+27487,TurnBackHoax,1,raw,1
+27490,TurnBackHoax,1,raw,1
+27495,TurnBackHoax,1,raw,0
+27496,TurnBackHoax,1,raw,0
+27506,TurnBackHoax,1,raw,1
+27510,TurnBackHoax,1,raw,1
+27512,TurnBackHoax,1,raw,1
+27516,TurnBackHoax,1,raw,1
+27523,TurnBackHoax,1,raw,1
+27529,TurnBackHoax,1,raw,1
+27542,TurnBackHoax,1,raw,1
+27554,TurnBackHoax,1,raw,1
+27562,TurnBackHoax,1,raw,0
+27568,TurnBackHoax,1,raw,1
+27581,TurnBackHoax,1,raw,1
+27593,TurnBackHoax,1,raw,1
+27599,TurnBackHoax,1,raw,1
+27607,TurnBackHoax,1,raw,1
+27658,TurnBackHoax,1,raw,1
+27660,TurnBackHoax,1,raw,1
+27675,TurnBackHoax,1,raw,1
+27698,TurnBackHoax,1,raw,1
+27703,TurnBackHoax,1,raw,1
+27710,TurnBackHoax,1,raw,1
+27729,TurnBackHoax,1,raw,0
+27736,TurnBackHoax,1,raw,1
+27741,TurnBackHoax,1,raw,1
+27750,TurnBackHoax,1,raw,1
+27772,TurnBackHoax,1,raw,1
+27791,TurnBackHoax,1,raw,0
+27794,TurnBackHoax,1,raw,1
+27816,TurnBackHoax,1,raw,0
+27825,TurnBackHoax,1,raw,1
+27831,TurnBackHoax,1,raw,1
+27836,TurnBackHoax,1,raw,0
+27848,TurnBackHoax,1,raw,1
+27853,TurnBackHoax,1,raw,1
+27855,TurnBackHoax,1,raw,1
+27873,TurnBackHoax,1,raw,1
+27882,TurnBackHoax,1,raw,1
+27883,TurnBackHoax,1,raw,1
+27906,TurnBackHoax,1,raw,1
+27908,TurnBackHoax,1,raw,1
+27931,TurnBackHoax,1,raw,1
+27940,TurnBackHoax,1,raw,1
+27943,TurnBackHoax,1,raw,1
+27944,TurnBackHoax,1,raw,1
+27950,TurnBackHoax,1,raw,1
+27959,TurnBackHoax,1,raw,1
+27981,TurnBackHoax,1,raw,1
+27982,TurnBackHoax,1,raw,1
+27984,TurnBackHoax,1,raw,1
+28000,TurnBackHoax,1,raw,1
+28005,TurnBackHoax,1,raw,1
+28036,TurnBackHoax,1,raw,1
+28044,TurnBackHoax,1,raw,1
+28046,TurnBackHoax,1,raw,1
+28050,TurnBackHoax,1,raw,1
+28056,TurnBackHoax,1,raw,1
+28059,TurnBackHoax,1,raw,1
+28070,TurnBackHoax,1,raw,1
+28072,TurnBackHoax,1,raw,1
+28092,TurnBackHoax,1,raw,1
+28096,TurnBackHoax,1,raw,1
+28130,TurnBackHoax,1,raw,1
+28136,TurnBackHoax,1,raw,1
+28138,TurnBackHoax,1,raw,1
+28144,TurnBackHoax,1,raw,1
+28163,TurnBackHoax,1,raw,1
+28174,TurnBackHoax,1,raw,1
+28183,TurnBackHoax,1,raw,1
+28192,TurnBackHoax,1,raw,1
+28204,TurnBackHoax,1,raw,1
+28208,TurnBackHoax,1,raw,1
+28229,TurnBackHoax,1,raw,1
+28278,TurnBackHoax,1,raw,1
+28288,TurnBackHoax,1,raw,1
+28292,TurnBackHoax,1,raw,0
+28347,TurnBackHoax,1,raw,1
+28350,TurnBackHoax,1,raw,1
+28409,TurnBackHoax,1,raw,1
+28411,TurnBackHoax,1,raw,1
+28441,TurnBackHoax,1,raw,1
+28445,TurnBackHoax,1,raw,1
+28458,TurnBackHoax,1,raw,1
+28461,TurnBackHoax,1,raw,1
+28467,TurnBackHoax,1,raw,1
+28494,TurnBackHoax,1,raw,1
+28496,TurnBackHoax,1,raw,1
+28536,TurnBackHoax,1,raw,1
+28560,TurnBackHoax,1,raw,1
+28561,TurnBackHoax,1,raw,1
+28577,TurnBackHoax,1,raw,1
+28588,TurnBackHoax,1,raw,1
+28593,TurnBackHoax,1,raw,1
+28595,TurnBackHoax,1,raw,1
+28638,TurnBackHoax,1,raw,1
+28666,TurnBackHoax,1,raw,1
+28673,TurnBackHoax,1,raw,1
+28699,TurnBackHoax,1,raw,0
+28704,TurnBackHoax,1,raw,1
+28708,TurnBackHoax,1,raw,0
+28713,TurnBackHoax,1,raw,1
+28726,TurnBackHoax,1,raw,1
+28751,TurnBackHoax,1,raw,1
+28774,TurnBackHoax,1,raw,1
+28801,TurnBackHoax,1,raw,1
+28802,TurnBackHoax,1,raw,1
+28829,TurnBackHoax,1,raw,1
+28847,TurnBackHoax,1,raw,1
+28856,TurnBackHoax,1,raw,1
+28861,TurnBackHoax,1,raw,1
+28884,TurnBackHoax,1,raw,1
+28899,TurnBackHoax,1,raw,1
+28900,TurnBackHoax,1,raw,1
+28939,TurnBackHoax,1,raw,1
+28953,TurnBackHoax,1,raw,1
+28984,TurnBackHoax,1,raw,1
+28999,TurnBackHoax,1,raw,1
+29008,TurnBackHoax,1,raw,1
+29018,TurnBackHoax,1,raw,1
+29019,TurnBackHoax,1,raw,1
+29036,TurnBackHoax,1,raw,1
+29066,TurnBackHoax,1,raw,1
+29084,TurnBackHoax,1,raw,1
+29087,TurnBackHoax,1,raw,1
+29140,TurnBackHoax,1,raw,1
+29170,TurnBackHoax,1,raw,1
+29175,TurnBackHoax,1,raw,0
+29190,TurnBackHoax,1,raw,1
+29196,TurnBackHoax,1,raw,1
+29206,TurnBackHoax,1,raw,1
+29220,TurnBackHoax,1,raw,1
+29295,TurnBackHoax,1,raw,1
+29300,TurnBackHoax,1,raw,1
+29304,TurnBackHoax,1,raw,1
+29305,TurnBackHoax,1,raw,1
+29320,TurnBackHoax,1,raw,1
+29335,TurnBackHoax,1,raw,1
+29336,TurnBackHoax,1,raw,0
+29355,TurnBackHoax,1,raw,1
+29356,TurnBackHoax,1,raw,1
+29382,TurnBackHoax,1,raw,0
+29385,TurnBackHoax,1,raw,1
+29393,TurnBackHoax,1,raw,0
+29394,TurnBackHoax,1,raw,1
+29413,TurnBackHoax,1,raw,1
+29434,TurnBackHoax,1,raw,1
+29438,TurnBackHoax,1,raw,1
+29442,TurnBackHoax,1,raw,0
+29452,TurnBackHoax,1,raw,1
+29511,TurnBackHoax,1,raw,0
+29536,TurnBackHoax,1,raw,1
+29540,TurnBackHoax,1,raw,1
+29544,TurnBackHoax,1,raw,1
+29546,TurnBackHoax,1,raw,1
+29554,TurnBackHoax,1,raw,1
+29557,TurnBackHoax,1,raw,1
+29581,TurnBackHoax,1,raw,1
+29596,TurnBackHoax,1,raw,1
+29610,TurnBackHoax,1,raw,1
+29619,TurnBackHoax,1,raw,1
+29645,TurnBackHoax,1,raw,1
+29658,TurnBackHoax,1,raw,1
+29685,TurnBackHoax,1,raw,1
+29689,TurnBackHoax,1,raw,1
+29700,TurnBackHoax,1,raw,1
+29705,TurnBackHoax,1,raw,1
+29707,TurnBackHoax,1,raw,1
+29708,TurnBackHoax,1,raw,1
+29722,TurnBackHoax,1,raw,1
+29726,TurnBackHoax,1,raw,0
+29752,TurnBackHoax,1,raw,0
+29789,TurnBackHoax,1,raw,1
+29808,TurnBackHoax,1,raw,0
+29813,TurnBackHoax,1,raw,1
+29836,TurnBackHoax,1,raw,1
+29845,TurnBackHoax,1,raw,1
+29902,TurnBackHoax,1,raw,1
+29937,TurnBackHoax,1,raw,1
+29942,TurnBackHoax,1,raw,1
+29943,TurnBackHoax,1,raw,1
+29954,TurnBackHoax,1,raw,1
+29985,TurnBackHoax,1,raw,1
+29987,TurnBackHoax,1,raw,1
+29999,TurnBackHoax,1,raw,1
+30013,TurnBackHoax,1,raw,0
+30019,TurnBackHoax,1,raw,1
+30042,TurnBackHoax,1,raw,1
+30055,TurnBackHoax,1,raw,1
+30086,TurnBackHoax,1,raw,1
+30097,TurnBackHoax,1,raw,1
+30124,TurnBackHoax,1,raw,0
+30129,TurnBackHoax,1,raw,0
+30133,TurnBackHoax,1,raw,1
+30136,TurnBackHoax,1,raw,0
+30157,TurnBackHoax,1,raw,1
+30171,TurnBackHoax,1,raw,1
+30181,TurnBackHoax,1,raw,1
+30248,TurnBackHoax,1,raw,1
+30250,TurnBackHoax,1,raw,1
+30259,TurnBackHoax,1,raw,1
+30267,TurnBackHoax,1,raw,1
+30273,TurnBackHoax,1,raw,1
+30295,TurnBackHoax,1,raw,1
+30312,TurnBackHoax,1,raw,1
+30320,TurnBackHoax,1,raw,1
+30349,TurnBackHoax,1,raw,1
+30368,TurnBackHoax,1,raw,1
+30370,TurnBackHoax,1,raw,0
+30392,TurnBackHoax,1,raw,1
+30406,TurnBackHoax,1,raw,1
+30426,TurnBackHoax,1,raw,1
+30435,TurnBackHoax,1,raw,0
+30460,TurnBackHoax,1,raw,0
+30473,TurnBackHoax,1,raw,0
+30523,TurnBackHoax,1,raw,1
+30532,TurnBackHoax,1,raw,1
+30537,TurnBackHoax,1,raw,0
+30626,TurnBackHoax,1,raw,0
+30634,TurnBackHoax,1,raw,0
+30649,TurnBackHoax,1,raw,0
+30668,TurnBackHoax,1,raw,0
+30719,TurnBackHoax,1,raw,0
+30727,TurnBackHoax,1,raw,1
+30774,TurnBackHoax,1,raw,0
+30783,TurnBackHoax,1,raw,0
+30798,TurnBackHoax,1,raw,1
+30823,TurnBackHoax,1,raw,1
+30833,TurnBackHoax,1,raw,1
+30840,TurnBackHoax,1,raw,1
+30886,TurnBackHoax,1,raw,0
+30889,TurnBackHoax,1,raw,1
+30915,TurnBackHoax,1,raw,1
+30928,TurnBackHoax,1,raw,1
+30956,TurnBackHoax,1,raw,1
+30977,TurnBackHoax,1,raw,1
+30981,TurnBackHoax,1,raw,0
+30982,TurnBackHoax,1,raw,0
+30984,TurnBackHoax,1,raw,1
+30985,TurnBackHoax,1,raw,0
+30986,TurnBackHoax,1,raw,1
+30992,TurnBackHoax,1,raw,1
+30997,TurnBackHoax,1,raw,1
+31008,TurnBackHoax,1,raw,1
+31017,TurnBackHoax,1,raw,1
+31047,TurnBackHoax,1,raw,1
+31091,TurnBackHoax,1,raw,1
+31122,TurnBackHoax,1,raw,1
+31154,TurnBackHoax,1,raw,1
+31158,TurnBackHoax,1,raw,1
+31164,TurnBackHoax,1,raw,1
+31170,TurnBackHoax,1,raw,1
+31195,TurnBackHoax,1,raw,1
+31231,TurnBackHoax,1,raw,1
+31266,TurnBackHoax,1,raw,1
+31267,TurnBackHoax,1,raw,0
+31274,TurnBackHoax,1,raw,1
+31313,TurnBackHoax,1,raw,1
+31316,TurnBackHoax,1,raw,1
+31319,TurnBackHoax,1,raw,1
+31328,TurnBackHoax,1,raw,1
+31332,TurnBackHoax,1,raw,1
+31358,TurnBackHoax,1,raw,1
+31361,TurnBackHoax,1,raw,1
+31382,TurnBackHoax,1,raw,1
+31384,TurnBackHoax,1,raw,1
+31390,TurnBackHoax,1,raw,1
+31399,TurnBackHoax,1,raw,1
+31426,TurnBackHoax,1,raw,1
+31470,TurnBackHoax,1,raw,1
+31474,TurnBackHoax,1,raw,1
+31488,TurnBackHoax,1,raw,1
+31489,TurnBackHoax,1,raw,1
+31499,TurnBackHoax,1,raw,1
+31502,TurnBackHoax,1,raw,1
+31530,TurnBackHoax,1,raw,1
+31557,TurnBackHoax,1,raw,0
+31561,TurnBackHoax,1,raw,1
+31581,TurnBackHoax,1,raw,0
+31617,TurnBackHoax,1,raw,0
+31640,TurnBackHoax,1,raw,1
+31644,TurnBackHoax,1,raw,1
+31670,TurnBackHoax,1,raw,1
+31676,TurnBackHoax,1,raw,1
+31680,TurnBackHoax,1,raw,0
+31682,TurnBackHoax,1,raw,1
+31705,TurnBackHoax,1,raw,1
+31712,TurnBackHoax,1,raw,1
+31740,TurnBackHoax,1,raw,1
+31745,TurnBackHoax,1,raw,0
+31762,TurnBackHoax,1,raw,1
+31771,TurnBackHoax,1,raw,0
+31792,TurnBackHoax,1,raw,1
+31796,TurnBackHoax,1,raw,1
+9,CNN Indonesia,0,clean_v31,0
+11,CNN Indonesia,0,clean_v31,0
+16,CNN Indonesia,0,clean_v31,0
+61,CNN Indonesia,0,clean_v31,0
+78,CNN Indonesia,0,clean_v31,0
+87,CNN Indonesia,0,clean_v31,0
+98,CNN Indonesia,0,clean_v31,0
+126,CNN Indonesia,0,clean_v31,0
+127,CNN Indonesia,0,clean_v31,0
+142,CNN Indonesia,0,clean_v31,0
+148,CNN Indonesia,0,clean_v31,0
+158,CNN Indonesia,0,clean_v31,0
+164,CNN Indonesia,0,clean_v31,0
+168,CNN Indonesia,0,clean_v31,0
+169,CNN Indonesia,0,clean_v31,0
+177,CNN Indonesia,0,clean_v31,0
+195,CNN Indonesia,0,clean_v31,0
+196,CNN Indonesia,0,clean_v31,0
+200,CNN Indonesia,0,clean_v31,0
+205,CNN Indonesia,0,clean_v31,0
+209,CNN Indonesia,0,clean_v31,0
+238,CNN Indonesia,0,clean_v31,0
+239,CNN Indonesia,0,clean_v31,0
+243,CNN Indonesia,0,clean_v31,0
+274,CNN Indonesia,0,clean_v31,0
+281,CNN Indonesia,0,clean_v31,0
+287,CNN Indonesia,0,clean_v31,0
+300,CNN Indonesia,0,clean_v31,0
+308,CNN Indonesia,0,clean_v31,0
+321,CNN Indonesia,0,clean_v31,0
+345,CNN Indonesia,0,clean_v31,0
+347,CNN Indonesia,0,clean_v31,0
+372,CNN Indonesia,0,clean_v31,0
+373,CNN Indonesia,0,clean_v31,0
+382,CNN Indonesia,0,clean_v31,0
+392,CNN Indonesia,0,clean_v31,0
+422,CNN Indonesia,0,clean_v31,0
+451,CNN Indonesia,0,clean_v31,0
+452,CNN Indonesia,0,clean_v31,0
+487,CNN Indonesia,0,clean_v31,0
+493,CNN Indonesia,0,clean_v31,0
+501,CNN Indonesia,0,clean_v31,0
+516,CNN Indonesia,0,clean_v31,0
+520,CNN Indonesia,0,clean_v31,0
+526,CNN Indonesia,0,clean_v31,0
+534,CNN Indonesia,0,clean_v31,0
+538,CNN Indonesia,0,clean_v31,0
+584,CNN Indonesia,0,clean_v31,0
+586,CNN Indonesia,0,clean_v31,0
+601,CNN Indonesia,0,clean_v31,0
+607,CNN Indonesia,0,clean_v31,0
+611,CNN Indonesia,0,clean_v31,0
+629,CNN Indonesia,0,clean_v31,0
+643,CNN Indonesia,0,clean_v31,0
+644,CNN Indonesia,0,clean_v31,0
+645,CNN Indonesia,0,clean_v31,0
+647,CNN Indonesia,0,clean_v31,0
+666,CNN Indonesia,0,clean_v31,0
+682,CNN Indonesia,0,clean_v31,0
+683,CNN Indonesia,0,clean_v31,0
+705,CNN Indonesia,0,clean_v31,0
+715,CNN Indonesia,0,clean_v31,0
+735,CNN Indonesia,0,clean_v31,0
+746,CNN Indonesia,0,clean_v31,0
+786,CNN Indonesia,0,clean_v31,0
+789,CNN Indonesia,0,clean_v31,0
+825,CNN Indonesia,0,clean_v31,0
+833,CNN Indonesia,0,clean_v31,0
+842,CNN Indonesia,0,clean_v31,0
+849,CNN Indonesia,0,clean_v31,0
+876,CNN Indonesia,0,clean_v31,0
+880,CNN Indonesia,0,clean_v31,0
+881,CNN Indonesia,0,clean_v31,0
+883,CNN Indonesia,0,clean_v31,0
+895,CNN Indonesia,0,clean_v31,0
+921,CNN Indonesia,0,clean_v31,0
+944,CNN Indonesia,0,clean_v31,0
+946,CNN Indonesia,0,clean_v31,0
+956,CNN Indonesia,0,clean_v31,0
+979,CNN Indonesia,0,clean_v31,0
+982,CNN Indonesia,0,clean_v31,0
+1015,CNN Indonesia,0,clean_v31,0
+1016,CNN Indonesia,0,clean_v31,0
+1043,CNN Indonesia,0,clean_v31,0
+1044,CNN Indonesia,0,clean_v31,0
+1045,CNN Indonesia,0,clean_v31,0
+1050,CNN Indonesia,0,clean_v31,0
+1089,CNN Indonesia,0,clean_v31,0
+1090,CNN Indonesia,0,clean_v31,0
+1102,CNN Indonesia,0,clean_v31,0
+1110,CNN Indonesia,0,clean_v31,0
+1111,CNN Indonesia,0,clean_v31,0
+1118,CNN Indonesia,0,clean_v31,0
+1123,CNN Indonesia,0,clean_v31,0
+1133,CNN Indonesia,0,clean_v31,0
+1135,CNN Indonesia,0,clean_v31,0
+1148,CNN Indonesia,0,clean_v31,0
+1165,CNN Indonesia,0,clean_v31,0
+1167,CNN Indonesia,0,clean_v31,0
+1168,CNN Indonesia,0,clean_v31,0
+1172,CNN Indonesia,0,clean_v31,0
+1173,CNN Indonesia,0,clean_v31,0
+1186,CNN Indonesia,0,clean_v31,0
+1200,CNN Indonesia,0,clean_v31,0
+1204,CNN Indonesia,0,clean_v31,0
+1206,CNN Indonesia,0,clean_v31,0
+1231,CNN Indonesia,0,clean_v31,0
+1235,CNN Indonesia,0,clean_v31,0
+1242,CNN Indonesia,0,clean_v31,0
+1277,CNN Indonesia,0,clean_v31,0
+1278,CNN Indonesia,0,clean_v31,0
+1286,CNN Indonesia,0,clean_v31,0
+1290,CNN Indonesia,0,clean_v31,0
+1300,CNN Indonesia,0,clean_v31,0
+1310,CNN Indonesia,0,clean_v31,0
+1326,CNN Indonesia,0,clean_v31,0
+1345,CNN Indonesia,0,clean_v31,0
+1347,CNN Indonesia,0,clean_v31,0
+1348,CNN Indonesia,0,clean_v31,0
+1365,CNN Indonesia,0,clean_v31,0
+1405,CNN Indonesia,0,clean_v31,0
+1425,CNN Indonesia,0,clean_v31,0
+1428,CNN Indonesia,0,clean_v31,0
+1429,CNN Indonesia,0,clean_v31,0
+1438,CNN Indonesia,0,clean_v31,0
+1450,CNN Indonesia,0,clean_v31,0
+1452,CNN Indonesia,0,clean_v31,0
+1458,CNN Indonesia,0,clean_v31,0
+1473,CNN Indonesia,0,clean_v31,0
+1484,CNN Indonesia,0,clean_v31,0
+1494,CNN Indonesia,0,clean_v31,0
+1509,CNN Indonesia,0,clean_v31,0
+1533,CNN Indonesia,0,clean_v31,0
+1544,CNN Indonesia,0,clean_v31,0
+1552,CNN Indonesia,0,clean_v31,0
+1569,CNN Indonesia,0,clean_v31,0
+1570,CNN Indonesia,0,clean_v31,0
+1577,CNN Indonesia,0,clean_v31,0
+1585,CNN Indonesia,0,clean_v31,0
+1592,CNN Indonesia,0,clean_v31,0
+1601,CNN Indonesia,0,clean_v31,0
+1611,CNN Indonesia,0,clean_v31,0
+1639,CNN Indonesia,0,clean_v31,0
+1643,CNN Indonesia,0,clean_v31,0
+1649,CNN Indonesia,0,clean_v31,0
+1666,CNN Indonesia,0,clean_v31,0
+1678,CNN Indonesia,0,clean_v31,0
+1681,CNN Indonesia,0,clean_v31,0
+1684,CNN Indonesia,0,clean_v31,0
+1687,CNN Indonesia,0,clean_v31,0
+1688,CNN Indonesia,0,clean_v31,0
+1696,CNN Indonesia,0,clean_v31,0
+1698,CNN Indonesia,0,clean_v31,0
+1705,CNN Indonesia,0,clean_v31,0
+1706,CNN Indonesia,0,clean_v31,0
+1714,CNN Indonesia,0,clean_v31,0
+1746,CNN Indonesia,0,clean_v31,0
+1749,CNN Indonesia,0,clean_v31,0
+1759,CNN Indonesia,0,clean_v31,0
+1760,CNN Indonesia,0,clean_v31,0
+1789,CNN Indonesia,0,clean_v31,0
+1792,CNN Indonesia,0,clean_v31,0
+1798,CNN Indonesia,0,clean_v31,0
+1800,CNN Indonesia,0,clean_v31,0
+1816,CNN Indonesia,0,clean_v31,0
+1819,CNN Indonesia,0,clean_v31,0
+1823,CNN Indonesia,0,clean_v31,0
+1827,CNN Indonesia,0,clean_v31,0
+1828,CNN Indonesia,0,clean_v31,0
+1829,CNN Indonesia,0,clean_v31,0
+1839,CNN Indonesia,0,clean_v31,0
+1841,CNN Indonesia,0,clean_v31,0
+1860,CNN Indonesia,0,clean_v31,0
+1888,CNN Indonesia,0,clean_v31,0
+1892,CNN Indonesia,0,clean_v31,0
+1895,CNN Indonesia,0,clean_v31,0
+1912,CNN Indonesia,0,clean_v31,0
+1925,CNN Indonesia,0,clean_v31,0
+1926,CNN Indonesia,0,clean_v31,0
+1939,CNN Indonesia,0,clean_v31,0
+1945,CNN Indonesia,0,clean_v31,0
+1964,CNN Indonesia,0,clean_v31,0
+1973,CNN Indonesia,0,clean_v31,0
+1980,CNN Indonesia,0,clean_v31,0
+1981,CNN Indonesia,0,clean_v31,0
+1982,CNN Indonesia,0,clean_v31,0
+1987,CNN Indonesia,0,clean_v31,0
+1988,CNN Indonesia,0,clean_v31,0
+1991,CNN Indonesia,0,clean_v31,0
+1994,CNN Indonesia,0,clean_v31,0
+2005,CNN Indonesia,0,clean_v31,0
+2007,CNN Indonesia,0,clean_v31,0
+2010,CNN Indonesia,0,clean_v31,0
+2017,CNN Indonesia,0,clean_v31,0
+2023,CNN Indonesia,0,clean_v31,0
+2044,CNN Indonesia,0,clean_v31,0
+2069,CNN Indonesia,0,clean_v31,0
+2087,CNN Indonesia,0,clean_v31,0
+2090,CNN Indonesia,0,clean_v31,0
+2108,CNN Indonesia,0,clean_v31,0
+2109,CNN Indonesia,0,clean_v31,0
+2120,CNN Indonesia,0,clean_v31,0
+2124,CNN Indonesia,0,clean_v31,0
+2126,CNN Indonesia,0,clean_v31,0
+2169,CNN Indonesia,0,clean_v31,0
+2170,CNN Indonesia,0,clean_v31,0
+2183,CNN Indonesia,0,clean_v31,0
+2193,CNN Indonesia,0,clean_v31,0
+2197,CNN Indonesia,0,clean_v31,0
+2216,CNN Indonesia,0,clean_v31,0
+2228,CNN Indonesia,0,clean_v31,0
+2236,CNN Indonesia,0,clean_v31,0
+2247,CNN Indonesia,0,clean_v31,0
+2254,CNN Indonesia,0,clean_v31,0
+2269,CNN Indonesia,0,clean_v31,0
+2277,CNN Indonesia,0,clean_v31,0
+2284,CNN Indonesia,0,clean_v31,0
+2299,CNN Indonesia,0,clean_v31,0
+2301,CNN Indonesia,0,clean_v31,0
+2306,CNN Indonesia,0,clean_v31,0
+2324,CNN Indonesia,0,clean_v31,0
+2325,CNN Indonesia,0,clean_v31,0
+2361,CNN Indonesia,0,clean_v31,0
+2368,CNN Indonesia,0,clean_v31,0
+2372,CNN Indonesia,0,clean_v31,0
+2375,CNN Indonesia,0,clean_v31,0
+2416,CNN Indonesia,0,clean_v31,0
+2422,CNN Indonesia,0,clean_v31,0
+2442,CNN Indonesia,0,clean_v31,0
+2464,CNN Indonesia,0,clean_v31,0
+2470,CNN Indonesia,0,clean_v31,0
+2472,CNN Indonesia,0,clean_v31,0
+2513,CNN Indonesia,0,clean_v31,0
+2516,CNN Indonesia,0,clean_v31,0
+2519,CNN Indonesia,0,clean_v31,0
+2525,CNN Indonesia,0,clean_v31,0
+2529,CNN Indonesia,0,clean_v31,0
+2553,CNN Indonesia,0,clean_v31,0
+2563,CNN Indonesia,0,clean_v31,0
+2568,CNN Indonesia,0,clean_v31,0
+2571,CNN Indonesia,0,clean_v31,0
+2586,CNN Indonesia,0,clean_v31,0
+2588,CNN Indonesia,0,clean_v31,0
+2599,CNN Indonesia,0,clean_v31,0
+2634,CNN Indonesia,0,clean_v31,0
+2638,CNN Indonesia,0,clean_v31,0
+2651,CNN Indonesia,0,clean_v31,0
+2663,CNN Indonesia,0,clean_v31,0
+2674,CNN Indonesia,0,clean_v31,0
+2694,CNN Indonesia,0,clean_v31,0
+2700,CNN Indonesia,0,clean_v31,0
+2721,CNN Indonesia,0,clean_v31,0
+2762,CNN Indonesia,0,clean_v31,0
+2763,CNN Indonesia,0,clean_v31,0
+2796,CNN Indonesia,0,clean_v31,0
+2818,CNN Indonesia,0,clean_v31,0
+2824,CNN Indonesia,0,clean_v31,0
+2827,CNN Indonesia,0,clean_v31,0
+2853,CNN Indonesia,0,clean_v31,0
+2855,CNN Indonesia,0,clean_v31,0
+2866,CNN Indonesia,0,clean_v31,0
+2873,CNN Indonesia,0,clean_v31,1
+2885,CNN Indonesia,0,clean_v31,0
+2889,CNN Indonesia,0,clean_v31,0
+2890,CNN Indonesia,0,clean_v31,0
+2911,CNN Indonesia,0,clean_v31,0
+2919,CNN Indonesia,0,clean_v31,0
+2929,CNN Indonesia,0,clean_v31,0
+2942,CNN Indonesia,0,clean_v31,0
+2947,CNN Indonesia,0,clean_v31,0
+2954,CNN Indonesia,0,clean_v31,0
+2959,CNN Indonesia,0,clean_v31,0
+2965,CNN Indonesia,0,clean_v31,0
+2970,CNN Indonesia,0,clean_v31,0
+2980,CNN Indonesia,0,clean_v31,0
+2983,CNN Indonesia,0,clean_v31,0
+2988,CNN Indonesia,0,clean_v31,0
+2992,CNN Indonesia,0,clean_v31,0
+3008,CNN Indonesia,0,clean_v31,0
+3034,CNN Indonesia,0,clean_v31,0
+3041,CNN Indonesia,0,clean_v31,0
+3064,CNN Indonesia,0,clean_v31,0
+3073,CNN Indonesia,0,clean_v31,0
+3083,CNN Indonesia,0,clean_v31,0
+3084,CNN Indonesia,0,clean_v31,0
+3086,CNN Indonesia,0,clean_v31,0
+3105,CNN Indonesia,0,clean_v31,0
+3118,CNN Indonesia,0,clean_v31,0
+3129,CNN Indonesia,0,clean_v31,0
+3130,CNN Indonesia,0,clean_v31,0
+3134,CNN Indonesia,0,clean_v31,0
+3165,CNN Indonesia,0,clean_v31,0
+3176,CNN Indonesia,0,clean_v31,0
+3177,CNN Indonesia,0,clean_v31,0
+3192,CNN Indonesia,0,clean_v31,0
+3197,CNN Indonesia,0,clean_v31,0
+3199,CNN Indonesia,0,clean_v31,0
+3209,CNN Indonesia,0,clean_v31,0
+3229,CNN Indonesia,0,clean_v31,0
+3261,CNN Indonesia,0,clean_v31,0
+3264,CNN Indonesia,0,clean_v31,0
+3268,CNN Indonesia,0,clean_v31,0
+3280,CNN Indonesia,0,clean_v31,0
+3283,CNN Indonesia,0,clean_v31,0
+3292,CNN Indonesia,0,clean_v31,0
+3302,CNN Indonesia,0,clean_v31,0
+3307,CNN Indonesia,0,clean_v31,0
+3309,CNN Indonesia,0,clean_v31,0
+3315,CNN Indonesia,0,clean_v31,0
+3320,CNN Indonesia,0,clean_v31,0
+3346,CNN Indonesia,0,clean_v31,0
+3355,CNN Indonesia,0,clean_v31,0
+3358,CNN Indonesia,0,clean_v31,0
+3381,CNN Indonesia,0,clean_v31,0
+3384,CNN Indonesia,0,clean_v31,1
+3385,CNN Indonesia,0,clean_v31,0
+3394,CNN Indonesia,0,clean_v31,0
+3400,CNN Indonesia,0,clean_v31,0
+3401,CNN Indonesia,0,clean_v31,0
+3407,CNN Indonesia,0,clean_v31,0
+3414,CNN Indonesia,0,clean_v31,0
+3428,CNN Indonesia,0,clean_v31,0
+3438,CNN Indonesia,0,clean_v31,0
+3442,CNN Indonesia,0,clean_v31,0
+3451,CNN Indonesia,0,clean_v31,0
+3460,CNN Indonesia,0,clean_v31,0
+3466,CNN Indonesia,0,clean_v31,0
+3481,CNN Indonesia,0,clean_v31,0
+3482,CNN Indonesia,0,clean_v31,0
+3487,CNN Indonesia,0,clean_v31,0
+3519,CNN Indonesia,0,clean_v31,0
+3529,CNN Indonesia,0,clean_v31,0
+3530,CNN Indonesia,0,clean_v31,0
+3548,CNN Indonesia,0,clean_v31,0
+3554,CNN Indonesia,0,clean_v31,0
+3557,CNN Indonesia,0,clean_v31,0
+3559,CNN Indonesia,0,clean_v31,0
+3576,CNN Indonesia,0,clean_v31,0
+3580,CNN Indonesia,0,clean_v31,0
+3594,CNN Indonesia,0,clean_v31,0
+3597,CNN Indonesia,0,clean_v31,0
+3600,CNN Indonesia,0,clean_v31,0
+3644,CNN Indonesia,0,clean_v31,0
+3650,CNN Indonesia,0,clean_v31,0
+3661,CNN Indonesia,0,clean_v31,0
+3675,CNN Indonesia,0,clean_v31,0
+3697,CNN Indonesia,0,clean_v31,0
+3699,CNN Indonesia,0,clean_v31,0
+3700,CNN Indonesia,0,clean_v31,0
+3702,CNN Indonesia,0,clean_v31,0
+3707,CNN Indonesia,0,clean_v31,0
+3710,CNN Indonesia,0,clean_v31,0
+3714,CNN Indonesia,0,clean_v31,0
+3730,CNN Indonesia,0,clean_v31,0
+3733,CNN Indonesia,0,clean_v31,0
+3747,CNN Indonesia,0,clean_v31,0
+3754,CNN Indonesia,0,clean_v31,0
+3758,CNN Indonesia,0,clean_v31,0
+3785,CNN Indonesia,0,clean_v31,0
+3791,CNN Indonesia,0,clean_v31,0
+3813,CNN Indonesia,0,clean_v31,0
+3816,CNN Indonesia,0,clean_v31,0
+3825,CNN Indonesia,0,clean_v31,0
+3832,CNN Indonesia,0,clean_v31,0
+3846,CNN Indonesia,0,clean_v31,0
+3864,CNN Indonesia,0,clean_v31,0
+3870,CNN Indonesia,0,clean_v31,0
+3877,CNN Indonesia,0,clean_v31,0
+3883,CNN Indonesia,0,clean_v31,0
+3894,CNN Indonesia,0,clean_v31,0
+3897,CNN Indonesia,0,clean_v31,0
+3904,CNN Indonesia,0,clean_v31,0
+3908,CNN Indonesia,0,clean_v31,0
+3910,CNN Indonesia,0,clean_v31,0
+3915,CNN Indonesia,0,clean_v31,0
+3917,CNN Indonesia,0,clean_v31,0
+3953,CNN Indonesia,0,clean_v31,0
+3961,CNN Indonesia,0,clean_v31,0
+3963,CNN Indonesia,0,clean_v31,0
+3964,CNN Indonesia,0,clean_v31,0
+3968,CNN Indonesia,0,clean_v31,0
+3970,CNN Indonesia,0,clean_v31,0
+3972,CNN Indonesia,0,clean_v31,0
+3981,CNN Indonesia,0,clean_v31,0
+3984,CNN Indonesia,0,clean_v31,0
+3986,CNN Indonesia,0,clean_v31,0
+3988,CNN Indonesia,0,clean_v31,0
+3995,CNN Indonesia,0,clean_v31,0
+4006,CNN Indonesia,0,clean_v31,0
+4007,CNN Indonesia,0,clean_v31,0
+4022,CNN Indonesia,0,clean_v31,0
+4024,CNN Indonesia,0,clean_v31,0
+4026,CNN Indonesia,0,clean_v31,0
+4029,CNN Indonesia,0,clean_v31,0
+4048,CNN Indonesia,0,clean_v31,0
+4051,CNN Indonesia,0,clean_v31,0
+4059,CNN Indonesia,0,clean_v31,0
+4075,CNN Indonesia,0,clean_v31,0
+4084,CNN Indonesia,0,clean_v31,0
+4096,CNN Indonesia,0,clean_v31,0
+4104,CNN Indonesia,0,clean_v31,0
+4129,CNN Indonesia,0,clean_v31,0
+4130,CNN Indonesia,0,clean_v31,0
+4132,CNN Indonesia,0,clean_v31,0
+4146,CNN Indonesia,0,clean_v31,0
+4150,CNN Indonesia,0,clean_v31,0
+4163,CNN Indonesia,0,clean_v31,0
+4178,CNN Indonesia,0,clean_v31,0
+4181,CNN Indonesia,0,clean_v31,0
+4182,CNN Indonesia,0,clean_v31,0
+4197,CNN Indonesia,0,clean_v31,0
+4243,CNN Indonesia,0,clean_v31,0
+4246,CNN Indonesia,0,clean_v31,0
+4252,CNN Indonesia,0,clean_v31,0
+4271,CNN Indonesia,0,clean_v31,0
+4272,CNN Indonesia,0,clean_v31,0
+4278,CNN Indonesia,0,clean_v31,0
+4298,CNN Indonesia,0,clean_v31,0
+4299,CNN Indonesia,0,clean_v31,0
+4303,CNN Indonesia,0,clean_v31,0
+4307,CNN Indonesia,0,clean_v31,0
+4310,CNN Indonesia,0,clean_v31,0
+4311,CNN Indonesia,0,clean_v31,0
+4323,CNN Indonesia,0,clean_v31,0
+4332,CNN Indonesia,0,clean_v31,0
+4338,CNN Indonesia,0,clean_v31,0
+4343,CNN Indonesia,0,clean_v31,0
+4374,CNN Indonesia,0,clean_v31,0
+4380,CNN Indonesia,0,clean_v31,0
+4398,CNN Indonesia,0,clean_v31,0
+4409,CNN Indonesia,0,clean_v31,0
+4415,CNN Indonesia,0,clean_v31,0
+4417,CNN Indonesia,0,clean_v31,0
+4429,CNN Indonesia,0,clean_v31,0
+4466,CNN Indonesia,0,clean_v31,0
+4492,CNN Indonesia,0,clean_v31,0
+4503,CNN Indonesia,0,clean_v31,0
+4515,CNN Indonesia,0,clean_v31,0
+4526,CNN Indonesia,0,clean_v31,0
+4527,CNN Indonesia,0,clean_v31,0
+4532,CNN Indonesia,0,clean_v31,0
+4539,CNN Indonesia,0,clean_v31,0
+4559,CNN Indonesia,0,clean_v31,0
+4575,CNN Indonesia,0,clean_v31,0
+4597,CNN Indonesia,0,clean_v31,0
+4598,CNN Indonesia,0,clean_v31,0
+4603,CNN Indonesia,0,clean_v31,0
+4615,CNN Indonesia,0,clean_v31,0
+4616,CNN Indonesia,0,clean_v31,0
+4624,CNN Indonesia,0,clean_v31,0
+4631,CNN Indonesia,0,clean_v31,0
+4669,CNN Indonesia,0,clean_v31,0
+4671,CNN Indonesia,0,clean_v31,0
+4674,CNN Indonesia,0,clean_v31,0
+4696,CNN Indonesia,0,clean_v31,0
+4702,CNN Indonesia,0,clean_v31,0
+4710,CNN Indonesia,0,clean_v31,0
+4722,CNN Indonesia,0,clean_v31,0
+4723,CNN Indonesia,0,clean_v31,0
+4735,CNN Indonesia,0,clean_v31,1
+4759,CNN Indonesia,0,clean_v31,0
+4780,CNN Indonesia,0,clean_v31,0
+4793,CNN Indonesia,0,clean_v31,0
+4796,CNN Indonesia,0,clean_v31,0
+4797,CNN Indonesia,0,clean_v31,0
+4802,CNN Indonesia,0,clean_v31,0
+4813,CNN Indonesia,0,clean_v31,0
+4823,CNN Indonesia,0,clean_v31,0
+4825,CNN Indonesia,0,clean_v31,0
+4829,CNN Indonesia,0,clean_v31,0
+4831,CNN Indonesia,0,clean_v31,0
+4833,CNN Indonesia,0,clean_v31,0
+4839,CNN Indonesia,0,clean_v31,0
+4850,CNN Indonesia,0,clean_v31,0
+4851,CNN Indonesia,0,clean_v31,0
+4905,CNN Indonesia,0,clean_v31,0
+4914,CNN Indonesia,0,clean_v31,0
+4915,CNN Indonesia,0,clean_v31,0
+4923,CNN Indonesia,0,clean_v31,0
+4924,CNN Indonesia,0,clean_v31,0
+4948,CNN Indonesia,0,clean_v31,0
+4951,CNN Indonesia,0,clean_v31,0
+4957,CNN Indonesia,0,clean_v31,0
+4984,CNN Indonesia,0,clean_v31,0
+4993,CNN Indonesia,0,clean_v31,0
+4994,CNN Indonesia,0,clean_v31,0
+4995,CNN Indonesia,0,clean_v31,0
+5025,CNN Indonesia,0,clean_v31,0
+5043,CNN Indonesia,0,clean_v31,0
+5047,CNN Indonesia,0,clean_v31,0
+5048,CNN Indonesia,0,clean_v31,0
+5066,CNN Indonesia,0,clean_v31,0
+5083,CNN Indonesia,0,clean_v31,0
+5086,CNN Indonesia,0,clean_v31,0
+5123,CNN Indonesia,0,clean_v31,0
+5125,CNN Indonesia,0,clean_v31,0
+5136,CNN Indonesia,0,clean_v31,0
+5138,CNN Indonesia,0,clean_v31,0
+5156,CNN Indonesia,0,clean_v31,0
+5159,CNN Indonesia,0,clean_v31,0
+5163,CNN Indonesia,0,clean_v31,0
+5168,CNN Indonesia,0,clean_v31,0
+5178,CNN Indonesia,0,clean_v31,0
+5187,CNN Indonesia,0,clean_v31,0
+5189,CNN Indonesia,0,clean_v31,0
+5190,CNN Indonesia,0,clean_v31,0
+5203,CNN Indonesia,0,clean_v31,0
+5210,CNN Indonesia,0,clean_v31,0
+5229,CNN Indonesia,0,clean_v31,0
+5232,CNN Indonesia,0,clean_v31,0
+5244,CNN Indonesia,0,clean_v31,0
+5245,CNN Indonesia,0,clean_v31,0
+5248,CNN Indonesia,0,clean_v31,0
+5267,CNN Indonesia,0,clean_v31,0
+5271,CNN Indonesia,0,clean_v31,0
+5277,CNN Indonesia,0,clean_v31,0
+5278,CNN Indonesia,0,clean_v31,0
+5286,CNN Indonesia,0,clean_v31,0
+5290,CNN Indonesia,0,clean_v31,0
+5297,CNN Indonesia,0,clean_v31,1
+5298,CNN Indonesia,0,clean_v31,0
+5316,CNN Indonesia,0,clean_v31,0
+5320,CNN Indonesia,0,clean_v31,0
+5326,CNN Indonesia,0,clean_v31,0
+5336,CNN Indonesia,0,clean_v31,0
+5374,CNN Indonesia,0,clean_v31,0
+5375,CNN Indonesia,0,clean_v31,0
+5383,CNN Indonesia,0,clean_v31,0
+5411,CNN Indonesia,0,clean_v31,0
+5422,CNN Indonesia,0,clean_v31,0
+5451,CNN Indonesia,0,clean_v31,0
+5456,CNN Indonesia,0,clean_v31,0
+5458,CNN Indonesia,0,clean_v31,0
+5476,CNN Indonesia,0,clean_v31,0
+5483,CNN Indonesia,0,clean_v31,0
+5485,CNN Indonesia,0,clean_v31,0
+5495,CNN Indonesia,0,clean_v31,0
+5509,CNN Indonesia,0,clean_v31,0
+5512,CNN Indonesia,0,clean_v31,0
+5521,CNN Indonesia,0,clean_v31,0
+5560,CNN Indonesia,0,clean_v31,0
+5578,CNN Indonesia,0,clean_v31,0
+5592,CNN Indonesia,0,clean_v31,0
+5613,CNN Indonesia,0,clean_v31,0
+5638,CNN Indonesia,0,clean_v31,0
+5640,CNN Indonesia,0,clean_v31,0
+5644,CNN Indonesia,0,clean_v31,0
+5650,CNN Indonesia,0,clean_v31,0
+5652,CNN Indonesia,0,clean_v31,0
+5654,CNN Indonesia,0,clean_v31,0
+5655,CNN Indonesia,0,clean_v31,0
+5657,CNN Indonesia,0,clean_v31,0
+5664,CNN Indonesia,0,clean_v31,0
+5670,CNN Indonesia,0,clean_v31,0
+5676,CNN Indonesia,0,clean_v31,0
+5682,CNN Indonesia,0,clean_v31,0
+5683,CNN Indonesia,0,clean_v31,0
+5727,CNN Indonesia,0,clean_v31,0
+5743,CNN Indonesia,0,clean_v31,0
+5749,CNN Indonesia,0,clean_v31,0
+5759,CNN Indonesia,0,clean_v31,0
+5776,CNN Indonesia,0,clean_v31,0
+5778,CNN Indonesia,0,clean_v31,0
+5781,CNN Indonesia,0,clean_v31,0
+5792,CNN Indonesia,0,clean_v31,0
+5795,CNN Indonesia,0,clean_v31,0
+5797,CNN Indonesia,0,clean_v31,0
+5826,CNN Indonesia,0,clean_v31,0
+5830,CNN Indonesia,0,clean_v31,0
+5832,CNN Indonesia,0,clean_v31,0
+5834,CNN Indonesia,0,clean_v31,0
+5836,CNN Indonesia,0,clean_v31,0
+5864,CNN Indonesia,0,clean_v31,0
+5865,CNN Indonesia,0,clean_v31,0
+5869,CNN Indonesia,0,clean_v31,0
+5870,CNN Indonesia,0,clean_v31,0
+5884,CNN Indonesia,0,clean_v31,0
+5911,CNN Indonesia,0,clean_v31,0
+5916,CNN Indonesia,0,clean_v31,0
+5922,CNN Indonesia,0,clean_v31,0
+5934,CNN Indonesia,0,clean_v31,0
+5936,CNN Indonesia,0,clean_v31,0
+5954,CNN Indonesia,0,clean_v31,0
+5965,CNN Indonesia,0,clean_v31,0
+5970,CNN Indonesia,0,clean_v31,0
+5985,CNN Indonesia,0,clean_v31,0
+5996,CNN Indonesia,0,clean_v31,0
+6002,CNN Indonesia,0,clean_v31,0
+6005,CNN Indonesia,0,clean_v31,0
+6011,CNN Indonesia,0,clean_v31,0
+6015,CNN Indonesia,0,clean_v31,0
+6024,CNN Indonesia,0,clean_v31,0
+6033,CNN Indonesia,0,clean_v31,0
+6042,CNN Indonesia,0,clean_v31,0
+6048,CNN Indonesia,0,clean_v31,1
+6059,CNN Indonesia,0,clean_v31,0
+6072,CNN Indonesia,0,clean_v31,0
+6085,CNN Indonesia,0,clean_v31,0
+6088,CNN Indonesia,0,clean_v31,0
+6096,CNN Indonesia,0,clean_v31,0
+6107,CNN Indonesia,0,clean_v31,0
+6109,CNN Indonesia,0,clean_v31,0
+6113,CNN Indonesia,0,clean_v31,0
+6124,CNN Indonesia,0,clean_v31,0
+6160,CNN Indonesia,0,clean_v31,0
+6163,CNN Indonesia,0,clean_v31,0
+6165,CNN Indonesia,0,clean_v31,0
+6168,CNN Indonesia,0,clean_v31,0
+6170,CNN Indonesia,0,clean_v31,0
+6198,CNN Indonesia,0,clean_v31,0
+6204,CNN Indonesia,0,clean_v31,0
+6206,CNN Indonesia,0,clean_v31,0
+6208,CNN Indonesia,0,clean_v31,0
+6209,CNN Indonesia,0,clean_v31,0
+6254,CNN Indonesia,0,clean_v31,0
+6265,CNN Indonesia,0,clean_v31,0
+6266,CNN Indonesia,0,clean_v31,0
+6269,CNN Indonesia,0,clean_v31,0
+6310,CNN Indonesia,0,clean_v31,0
+6318,CNN Indonesia,0,clean_v31,0
+6323,CNN Indonesia,0,clean_v31,0
+6350,CNN Indonesia,0,clean_v31,0
+6371,CNN Indonesia,0,clean_v31,0
+6383,CNN Indonesia,0,clean_v31,0
+6384,CNN Indonesia,0,clean_v31,0
+6397,CNN Indonesia,0,clean_v31,0
+6414,CNN Indonesia,0,clean_v31,0
+6460,CNN Indonesia,0,clean_v31,0
+6465,CNN Indonesia,0,clean_v31,0
+6483,CNN Indonesia,0,clean_v31,0
+6486,CNN Indonesia,0,clean_v31,0
+6493,CNN Indonesia,0,clean_v31,0
+6501,CNN Indonesia,0,clean_v31,0
+6504,CNN Indonesia,0,clean_v31,0
+6508,CNN Indonesia,0,clean_v31,0
+6529,CNN Indonesia,0,clean_v31,0
+6531,CNN Indonesia,0,clean_v31,0
+6537,CNN Indonesia,0,clean_v31,0
+6538,CNN Indonesia,0,clean_v31,0
+6547,CNN Indonesia,0,clean_v31,0
+6548,CNN Indonesia,0,clean_v31,0
+6552,CNN Indonesia,0,clean_v31,0
+6572,CNN Indonesia,0,clean_v31,0
+6578,CNN Indonesia,0,clean_v31,0
+6591,CNN Indonesia,0,clean_v31,0
+6599,CNN Indonesia,0,clean_v31,0
+6606,CNN Indonesia,0,clean_v31,0
+6608,CNN Indonesia,0,clean_v31,0
+6612,CNN Indonesia,0,clean_v31,0
+6635,CNN Indonesia,0,clean_v31,0
+6661,CNN Indonesia,0,clean_v31,0
+6667,CNN Indonesia,0,clean_v31,0
+6671,CNN Indonesia,0,clean_v31,0
+6683,CNN Indonesia,0,clean_v31,0
+6692,CNN Indonesia,0,clean_v31,0
+6712,CNN Indonesia,0,clean_v31,0
+6714,CNN Indonesia,0,clean_v31,0
+6719,CNN Indonesia,0,clean_v31,0
+6731,CNN Indonesia,0,clean_v31,0
+6759,CNN Indonesia,0,clean_v31,0
+6764,CNN Indonesia,0,clean_v31,0
+6776,CNN Indonesia,0,clean_v31,0
+6785,CNN Indonesia,0,clean_v31,0
+6786,CNN Indonesia,0,clean_v31,0
+6793,CNN Indonesia,0,clean_v31,0
+6802,CNN Indonesia,0,clean_v31,0
+6811,CNN Indonesia,0,clean_v31,0
+6828,CNN Indonesia,0,clean_v31,0
+6829,CNN Indonesia,0,clean_v31,0
+6832,CNN Indonesia,0,clean_v31,0
+6834,CNN Indonesia,0,clean_v31,0
+6838,CNN Indonesia,0,clean_v31,0
+6862,CNN Indonesia,0,clean_v31,0
+6864,CNN Indonesia,0,clean_v31,0
+6878,CNN Indonesia,0,clean_v31,0
+6888,CNN Indonesia,0,clean_v31,0
+6895,CNN Indonesia,0,clean_v31,0
+6906,CNN Indonesia,0,clean_v31,0
+6926,CNN Indonesia,0,clean_v31,0
+6947,CNN Indonesia,0,clean_v31,0
+6955,CNN Indonesia,0,clean_v31,0
+6961,CNN Indonesia,0,clean_v31,0
+6967,CNN Indonesia,0,clean_v31,0
+6969,CNN Indonesia,0,clean_v31,0
+6972,CNN Indonesia,0,clean_v31,0
+6982,CNN Indonesia,0,clean_v31,0
+7002,CNN Indonesia,0,clean_v31,0
+7015,CNN Indonesia,0,clean_v31,0
+7023,CNN Indonesia,0,clean_v31,0
+7025,CNN Indonesia,0,clean_v31,0
+7026,CNN Indonesia,0,clean_v31,0
+7053,CNN Indonesia,0,clean_v31,0
+7062,CNN Indonesia,0,clean_v31,0
+7074,CNN Indonesia,0,clean_v31,0
+7092,CNN Indonesia,0,clean_v31,0
+7107,CNN Indonesia,0,clean_v31,0
+7149,CNN Indonesia,0,clean_v31,0
+7150,CNN Indonesia,0,clean_v31,0
+7158,CNN Indonesia,0,clean_v31,0
+7162,CNN Indonesia,0,clean_v31,0
+7167,CNN Indonesia,0,clean_v31,0
+7197,CNN Indonesia,0,clean_v31,0
+7200,CNN Indonesia,0,clean_v31,0
+7202,CNN Indonesia,0,clean_v31,0
+7208,CNN Indonesia,0,clean_v31,0
+7212,CNN Indonesia,0,clean_v31,0
+7219,CNN Indonesia,0,clean_v31,0
+7228,CNN Indonesia,0,clean_v31,0
+7231,CNN Indonesia,0,clean_v31,0
+7232,CNN Indonesia,0,clean_v31,0
+7239,CNN Indonesia,0,clean_v31,0
+7240,CNN Indonesia,0,clean_v31,0
+7242,CNN Indonesia,0,clean_v31,0
+7250,CNN Indonesia,0,clean_v31,0
+7253,CNN Indonesia,0,clean_v31,0
+7271,CNN Indonesia,0,clean_v31,0
+7284,CNN Indonesia,0,clean_v31,0
+7317,CNN Indonesia,0,clean_v31,0
+7322,CNN Indonesia,0,clean_v31,0
+7336,CNN Indonesia,0,clean_v31,0
+7348,CNN Indonesia,0,clean_v31,0
+7349,CNN Indonesia,0,clean_v31,0
+7363,CNN Indonesia,0,clean_v31,0
+7366,CNN Indonesia,0,clean_v31,0
+7381,CNN Indonesia,0,clean_v31,0
+7390,CNN Indonesia,0,clean_v31,0
+7391,CNN Indonesia,0,clean_v31,0
+7392,CNN Indonesia,0,clean_v31,0
+7401,CNN Indonesia,0,clean_v31,0
+7405,CNN Indonesia,0,clean_v31,0
+7416,CNN Indonesia,0,clean_v31,0
+7423,CNN Indonesia,0,clean_v31,0
+7427,CNN Indonesia,0,clean_v31,0
+7431,CNN Indonesia,0,clean_v31,0
+7448,CNN Indonesia,0,clean_v31,0
+7452,CNN Indonesia,0,clean_v31,0
+7453,CNN Indonesia,0,clean_v31,0
+7455,CNN Indonesia,0,clean_v31,0
+7462,CNN Indonesia,0,clean_v31,0
+7466,CNN Indonesia,0,clean_v31,0
+7497,CNN Indonesia,0,clean_v31,0
+7510,CNN Indonesia,0,clean_v31,0
+7514,CNN Indonesia,0,clean_v31,0
+7544,CNN Indonesia,0,clean_v31,0
+7549,CNN Indonesia,0,clean_v31,0
+7572,CNN Indonesia,0,clean_v31,0
+7573,CNN Indonesia,0,clean_v31,0
+7589,CNN Indonesia,0,clean_v31,0
+7592,CNN Indonesia,0,clean_v31,0
+7602,CNN Indonesia,0,clean_v31,0
+7621,CNN Indonesia,0,clean_v31,0
+7626,CNN Indonesia,0,clean_v31,0
+7639,CNN Indonesia,0,clean_v31,0
+7650,CNN Indonesia,0,clean_v31,0
+7656,CNN Indonesia,0,clean_v31,0
+7657,CNN Indonesia,0,clean_v31,0
+7674,CNN Indonesia,0,clean_v31,0
+7678,CNN Indonesia,0,clean_v31,0
+7700,CNN Indonesia,0,clean_v31,0
+7703,CNN Indonesia,0,clean_v31,0
+7709,CNN Indonesia,0,clean_v31,0
+7712,CNN Indonesia,0,clean_v31,0
+7741,CNN Indonesia,0,clean_v31,0
+7747,CNN Indonesia,0,clean_v31,0
+7771,CNN Indonesia,0,clean_v31,0
+7773,CNN Indonesia,0,clean_v31,0
+7782,CNN Indonesia,0,clean_v31,0
+7809,CNN Indonesia,0,clean_v31,0
+7814,CNN Indonesia,0,clean_v31,0
+7831,CNN Indonesia,0,clean_v31,0
+7832,CNN Indonesia,0,clean_v31,0
+7849,CNN Indonesia,0,clean_v31,0
+7850,CNN Indonesia,0,clean_v31,0
+7853,CNN Indonesia,0,clean_v31,0
+7864,CNN Indonesia,0,clean_v31,0
+7878,CNN Indonesia,0,clean_v31,0
+7887,CNN Indonesia,0,clean_v31,0
+7889,CNN Indonesia,0,clean_v31,0
+7899,CNN Indonesia,0,clean_v31,0
+7905,CNN Indonesia,0,clean_v31,0
+7912,CNN Indonesia,0,clean_v31,0
+7917,CNN Indonesia,0,clean_v31,0
+7925,CNN Indonesia,0,clean_v31,0
+7939,CNN Indonesia,0,clean_v31,0
+7955,CNN Indonesia,0,clean_v31,0
+7969,CNN Indonesia,0,clean_v31,0
+7970,CNN Indonesia,0,clean_v31,0
+7975,CNN Indonesia,0,clean_v31,0
+7980,CNN Indonesia,0,clean_v31,0
+7989,CNN Indonesia,0,clean_v31,0
+7993,CNN Indonesia,0,clean_v31,0
+8006,CNN Indonesia,0,clean_v31,0
+8011,CNN Indonesia,0,clean_v31,0
+8014,CNN Indonesia,0,clean_v31,0
+8032,CNN Indonesia,0,clean_v31,0
+8033,CNN Indonesia,0,clean_v31,0
+8055,CNN Indonesia,0,clean_v31,0
+8058,CNN Indonesia,0,clean_v31,0
+8074,CNN Indonesia,0,clean_v31,0
+8080,CNN Indonesia,0,clean_v31,0
+8085,CNN Indonesia,0,clean_v31,0
+8101,CNN Indonesia,0,clean_v31,0
+8102,CNN Indonesia,0,clean_v31,0
+8109,CNN Indonesia,0,clean_v31,0
+8114,CNN Indonesia,0,clean_v31,0
+8115,CNN Indonesia,0,clean_v31,0
+8126,CNN Indonesia,0,clean_v31,0
+8140,CNN Indonesia,0,clean_v31,0
+8143,CNN Indonesia,0,clean_v31,0
+8160,CNN Indonesia,0,clean_v31,0
+8163,CNN Indonesia,0,clean_v31,0
+8224,CNN Indonesia,0,clean_v31,0
+8232,CNN Indonesia,0,clean_v31,0
+8240,CNN Indonesia,0,clean_v31,0
+8247,CNN Indonesia,0,clean_v31,0
+8254,CNN Indonesia,0,clean_v31,0
+8264,CNN Indonesia,0,clean_v31,0
+8267,CNN Indonesia,0,clean_v31,0
+8286,CNN Indonesia,0,clean_v31,0
+8291,CNN Indonesia,0,clean_v31,0
+8293,CNN Indonesia,0,clean_v31,0
+8296,CNN Indonesia,0,clean_v31,0
+8299,CNN Indonesia,0,clean_v31,0
+8300,CNN Indonesia,0,clean_v31,0
+8302,CNN Indonesia,0,clean_v31,0
+8305,CNN Indonesia,0,clean_v31,0
+8314,CNN Indonesia,0,clean_v31,0
+8315,CNN Indonesia,0,clean_v31,0
+8324,CNN Indonesia,0,clean_v31,0
+8336,CNN Indonesia,0,clean_v31,0
+8339,CNN Indonesia,0,clean_v31,0
+8351,CNN Indonesia,0,clean_v31,0
+8368,CNN Indonesia,0,clean_v31,0
+8371,CNN Indonesia,0,clean_v31,0
+8376,CNN Indonesia,0,clean_v31,0
+8410,CNN Indonesia,0,clean_v31,0
+8422,CNN Indonesia,0,clean_v31,0
+8454,CNN Indonesia,0,clean_v31,0
+8456,CNN Indonesia,0,clean_v31,0
+8464,CNN Indonesia,0,clean_v31,0
+8466,CNN Indonesia,0,clean_v31,0
+8479,CNN Indonesia,0,clean_v31,0
+8493,CNN Indonesia,0,clean_v31,0
+8507,CNN Indonesia,0,clean_v31,0
+8515,CNN Indonesia,0,clean_v31,0
+8531,CNN Indonesia,0,clean_v31,0
+8535,CNN Indonesia,0,clean_v31,0
+8539,CNN Indonesia,0,clean_v31,0
+8540,CNN Indonesia,0,clean_v31,0
+8554,CNN Indonesia,0,clean_v31,0
+8568,CNN Indonesia,0,clean_v31,0
+8585,CNN Indonesia,0,clean_v31,0
+8597,CNN Indonesia,0,clean_v31,0
+8636,CNN Indonesia,0,clean_v31,0
+8640,CNN Indonesia,0,clean_v31,0
+8641,CNN Indonesia,0,clean_v31,0
+8644,CNN Indonesia,0,clean_v31,0
+8650,CNN Indonesia,0,clean_v31,0
+8662,CNN Indonesia,0,clean_v31,0
+8673,CNN Indonesia,0,clean_v31,0
+8679,CNN Indonesia,0,clean_v31,0
+8702,CNN Indonesia,0,clean_v31,0
+8709,CNN Indonesia,0,clean_v31,0
+8715,CNN Indonesia,0,clean_v31,0
+8717,CNN Indonesia,0,clean_v31,0
+8755,CNN Indonesia,0,clean_v31,0
+8758,CNN Indonesia,0,clean_v31,0
+8770,CNN Indonesia,0,clean_v31,0
+8783,CNN Indonesia,0,clean_v31,0
+8797,CNN Indonesia,0,clean_v31,0
+8812,CNN Indonesia,0,clean_v31,0
+8813,CNN Indonesia,0,clean_v31,0
+8824,CNN Indonesia,0,clean_v31,0
+8870,CNN Indonesia,0,clean_v31,0
+8871,CNN Indonesia,0,clean_v31,0
+8875,CNN Indonesia,0,clean_v31,0
+8889,CNN Indonesia,0,clean_v31,0
+8902,CNN Indonesia,0,clean_v31,1
+8914,CNN Indonesia,0,clean_v31,0
+8917,CNN Indonesia,0,clean_v31,0
+8927,CNN Indonesia,0,clean_v31,0
+8960,CNN Indonesia,0,clean_v31,0
+8970,CNN Indonesia,0,clean_v31,0
+8987,CNN Indonesia,0,clean_v31,0
+9010,CNN Indonesia,0,clean_v31,0
+9018,CNN Indonesia,0,clean_v31,0
+9019,CNN Indonesia,0,clean_v31,0
+9035,CNN Indonesia,0,clean_v31,0
+9066,CNN Indonesia,0,clean_v31,0
+9087,CNN Indonesia,0,clean_v31,0
+9090,CNN Indonesia,0,clean_v31,0
+9121,CNN Indonesia,0,clean_v31,0
+9132,CNN Indonesia,0,clean_v31,0
+9140,CNN Indonesia,0,clean_v31,0
+9152,CNN Indonesia,0,clean_v31,0
+9180,CNN Indonesia,0,clean_v31,0
+9196,CNN Indonesia,0,clean_v31,0
+9202,CNN Indonesia,0,clean_v31,0
+9239,CNN Indonesia,0,clean_v31,0
+9251,CNN Indonesia,0,clean_v31,0
+9266,CNN Indonesia,0,clean_v31,0
+9267,CNN Indonesia,0,clean_v31,0
+9273,CNN Indonesia,0,clean_v31,0
+9280,CNN Indonesia,0,clean_v31,0
+9289,CNN Indonesia,0,clean_v31,0
+9312,CNN Indonesia,0,clean_v31,0
+9333,CNN Indonesia,0,clean_v31,0
+9336,CNN Indonesia,0,clean_v31,0
+9345,CNN Indonesia,0,clean_v31,0
+9357,CNN Indonesia,0,clean_v31,0
+9380,CNN Indonesia,0,clean_v31,0
+9384,CNN Indonesia,0,clean_v31,0
+9431,CNN Indonesia,0,clean_v31,0
+9433,CNN Indonesia,0,clean_v31,0
+9441,CNN Indonesia,0,clean_v31,0
+9464,CNN Indonesia,0,clean_v31,0
+9468,CNN Indonesia,0,clean_v31,0
+9470,CNN Indonesia,0,clean_v31,0
+9471,CNN Indonesia,0,clean_v31,0
+9488,CNN Indonesia,0,clean_v31,0
+9491,CNN Indonesia,0,clean_v31,0
+9492,CNN Indonesia,0,clean_v31,0
+9497,CNN Indonesia,0,clean_v31,0
+9509,CNN Indonesia,0,clean_v31,0
+9515,CNN Indonesia,0,clean_v31,0
+9519,CNN Indonesia,0,clean_v31,0
+9524,CNN Indonesia,0,clean_v31,0
+9545,CNN Indonesia,0,clean_v31,0
+9548,CNN Indonesia,0,clean_v31,0
+9570,CNN Indonesia,0,clean_v31,0
+9571,CNN Indonesia,0,clean_v31,0
+9582,CNN Indonesia,0,clean_v31,0
+9585,CNN Indonesia,0,clean_v31,0
+9591,CNN Indonesia,0,clean_v31,0
+9644,CNN Indonesia,0,clean_v31,0
+9670,CNN Indonesia,0,clean_v31,0
+9676,CNN Indonesia,0,clean_v31,0
+9689,CNN Indonesia,0,clean_v31,0
+9704,CNN Indonesia,0,clean_v31,0
+9708,CNN Indonesia,0,clean_v31,0
+9712,CNN Indonesia,0,clean_v31,0
+9714,CNN Indonesia,0,clean_v31,0
+9740,CNN Indonesia,0,clean_v31,0
+9754,CNN Indonesia,0,clean_v31,0
+9801,CNN Indonesia,0,clean_v31,0
+9814,CNN Indonesia,0,clean_v31,0
+9828,CNN Indonesia,0,clean_v31,0
+9839,CNN Indonesia,0,clean_v31,0
+9861,CNN Indonesia,0,clean_v31,0
+9864,CNN Indonesia,0,clean_v31,0
+9871,CNN Indonesia,0,clean_v31,0
+9887,CNN Indonesia,0,clean_v31,0
+9890,CNN Indonesia,0,clean_v31,0
+9894,CNN Indonesia,0,clean_v31,0
+9898,CNN Indonesia,0,clean_v31,0
+9910,CNN Indonesia,0,clean_v31,0
+9941,CNN Indonesia,0,clean_v31,0
+9953,CNN Indonesia,0,clean_v31,0
+9969,CNN Indonesia,0,clean_v31,0
+10015,Kompas,0,clean_v31,0
+10069,Kompas,0,clean_v31,0
+10120,Kompas,0,clean_v31,0
+10124,Kompas,0,clean_v31,0
+10128,Kompas,0,clean_v31,0
+10146,Kompas,0,clean_v31,0
+10151,Kompas,0,clean_v31,0
+10172,Kompas,0,clean_v31,0
+10176,Kompas,0,clean_v31,1
+10182,Kompas,0,clean_v31,0
+10183,Kompas,0,clean_v31,1
+10185,Kompas,0,clean_v31,1
+10191,Kompas,0,clean_v31,0
+10212,Kompas,0,clean_v31,1
+10221,Kompas,0,clean_v31,0
+10225,Kompas,0,clean_v31,0
+10241,Kompas,0,clean_v31,0
+10254,Kompas,0,clean_v31,0
+10256,Kompas,0,clean_v31,0
+10268,Kompas,0,clean_v31,0
+10271,Kompas,0,clean_v31,0
+10274,Kompas,0,clean_v31,0
+10289,Kompas,0,clean_v31,0
+10293,Kompas,0,clean_v31,0
+10299,Kompas,0,clean_v31,0
+10305,Kompas,0,clean_v31,0
+10306,Kompas,0,clean_v31,0
+10307,Kompas,0,clean_v31,1
+10308,Kompas,0,clean_v31,0
+10331,Kompas,0,clean_v31,0
+10332,Kompas,0,clean_v31,0
+10340,Kompas,0,clean_v31,1
+10342,Kompas,0,clean_v31,0
+10347,Kompas,0,clean_v31,0
+10360,Kompas,0,clean_v31,0
+10384,Kompas,0,clean_v31,1
+10399,Kompas,0,clean_v31,1
+10408,Kompas,0,clean_v31,1
+10409,Kompas,0,clean_v31,0
+10422,Kompas,0,clean_v31,0
+10442,Kompas,0,clean_v31,0
+10451,Kompas,0,clean_v31,1
+10454,Kompas,0,clean_v31,0
+10456,Kompas,0,clean_v31,1
+10474,Kompas,0,clean_v31,1
+10493,Kompas,0,clean_v31,0
+10509,Kompas,0,clean_v31,0
+10534,Kompas,0,clean_v31,1
+10540,Kompas,0,clean_v31,0
+10543,Kompas,0,clean_v31,0
+10548,Kompas,0,clean_v31,1
+10563,Kompas,0,clean_v31,0
+10571,Kompas,0,clean_v31,0
+10575,Kompas,0,clean_v31,0
+10576,Kompas,0,clean_v31,0
+10577,Kompas,0,clean_v31,0
+10579,Kompas,0,clean_v31,0
+10581,Kompas,0,clean_v31,0
+10594,Kompas,0,clean_v31,0
+10596,Kompas,0,clean_v31,0
+10608,Kompas,0,clean_v31,0
+10610,Kompas,0,clean_v31,0
+10621,Kompas,0,clean_v31,0
+10633,Kompas,0,clean_v31,0
+10634,Kompas,0,clean_v31,0
+10649,Kompas,0,clean_v31,0
+10659,Kompas,0,clean_v31,0
+10674,Kompas,0,clean_v31,1
+10693,Kompas,0,clean_v31,0
+10699,Kompas,0,clean_v31,0
+10701,Kompas,0,clean_v31,0
+10741,Kompas,0,clean_v31,0
+10750,Kompas,0,clean_v31,1
+10754,Kompas,0,clean_v31,1
+10762,Kompas,0,clean_v31,0
+10796,Kompas,0,clean_v31,0
+10816,Kompas,0,clean_v31,0
+10830,Kompas,0,clean_v31,0
+10832,Kompas,0,clean_v31,0
+10849,Kompas,0,clean_v31,0
+10859,Kompas,0,clean_v31,0
+10876,Kompas,0,clean_v31,0
+10880,Kompas,0,clean_v31,0
+10906,Kompas,0,clean_v31,0
+10915,Kompas,0,clean_v31,0
+10916,Kompas,0,clean_v31,0
+10945,Kompas,0,clean_v31,0
+10946,Kompas,0,clean_v31,0
+10949,Kompas,0,clean_v31,0
+10954,Kompas,0,clean_v31,0
+10969,Kompas,0,clean_v31,0
+10980,Kompas,0,clean_v31,0
+10982,Kompas,0,clean_v31,0
+10988,Kompas,0,clean_v31,0
+10991,Kompas,0,clean_v31,0
+10998,Kompas,0,clean_v31,0
+11024,Kompas,0,clean_v31,0
+11033,Kompas,0,clean_v31,0
+11034,Kompas,0,clean_v31,0
+11049,Kompas,0,clean_v31,0
+11058,Kompas,0,clean_v31,0
+11067,Kompas,0,clean_v31,0
+11073,Kompas,0,clean_v31,0
+11075,Kompas,0,clean_v31,0
+11084,Kompas,0,clean_v31,0
+11088,Kompas,0,clean_v31,0
+11108,Kompas,0,clean_v31,0
+11111,Kompas,0,clean_v31,0
+11116,Kompas,0,clean_v31,0
+11119,Kompas,0,clean_v31,0
+11127,Kompas,0,clean_v31,0
+11132,Kompas,0,clean_v31,0
+11135,Kompas,0,clean_v31,0
+11138,Kompas,0,clean_v31,0
+11151,Kompas,0,clean_v31,0
+11158,Kompas,0,clean_v31,0
+11170,Kompas,0,clean_v31,0
+11172,Kompas,0,clean_v31,0
+11178,Kompas,0,clean_v31,0
+11179,Kompas,0,clean_v31,0
+11182,Kompas,0,clean_v31,0
+11185,Kompas,0,clean_v31,0
+11188,Kompas,0,clean_v31,0
+11191,Kompas,0,clean_v31,0
+11193,Kompas,0,clean_v31,0
+11208,Kompas,0,clean_v31,0
+11210,Kompas,0,clean_v31,0
+11211,Kompas,0,clean_v31,0
+11221,Kompas,0,clean_v31,0
+11225,Kompas,0,clean_v31,0
+11229,Kompas,0,clean_v31,0
+11235,Kompas,0,clean_v31,0
+11244,Kompas,0,clean_v31,0
+11252,Kompas,0,clean_v31,0
+11253,Kompas,0,clean_v31,0
+11258,Kompas,0,clean_v31,0
+11261,Kompas,0,clean_v31,0
+11264,Kompas,0,clean_v31,0
+11267,Kompas,0,clean_v31,0
+11285,Kompas,0,clean_v31,0
+11294,Kompas,0,clean_v31,0
+11310,Kompas,0,clean_v31,0
+11314,Kompas,0,clean_v31,0
+11322,Kompas,0,clean_v31,0
+11350,Kompas,0,clean_v31,0
+11353,Kompas,0,clean_v31,0
+11403,Kompas,0,clean_v31,0
+11420,Kompas,0,clean_v31,0
+11438,Kompas,0,clean_v31,0
+11439,Kompas,0,clean_v31,0
+11442,Kompas,0,clean_v31,0
+11453,Kompas,0,clean_v31,0
+11459,Kompas,0,clean_v31,0
+11460,Kompas,0,clean_v31,0
+11473,Kompas,0,clean_v31,0
+11491,Kompas,0,clean_v31,0
+11502,Kompas,0,clean_v31,0
+11503,Kompas,0,clean_v31,0
+11521,Kompas,0,clean_v31,0
+11522,Kompas,0,clean_v31,0
+11531,Kompas,0,clean_v31,0
+11532,Kompas,0,clean_v31,0
+11542,Kompas,0,clean_v31,0
+11566,Kompas,0,clean_v31,0
+11568,Kompas,0,clean_v31,0
+11576,Kompas,0,clean_v31,0
+11589,Kompas,0,clean_v31,0
+11596,Kompas,0,clean_v31,0
+11607,Kompas,0,clean_v31,0
+11612,Kompas,0,clean_v31,0
+11613,Kompas,0,clean_v31,0
+11621,Kompas,0,clean_v31,0
+11624,Kompas,0,clean_v31,0
+11625,Kompas,0,clean_v31,0
+11647,Kompas,0,clean_v31,0
+11674,Kompas,0,clean_v31,0
+11686,Kompas,0,clean_v31,0
+11692,Kompas,0,clean_v31,0
+11694,Kompas,0,clean_v31,0
+11700,Kompas,0,clean_v31,0
+11711,Kompas,0,clean_v31,0
+11720,Kompas,0,clean_v31,0
+11721,Kompas,0,clean_v31,0
+11742,Kompas,0,clean_v31,0
+11752,Kompas,0,clean_v31,0
+11754,Kompas,0,clean_v31,0
+11768,Kompas,0,clean_v31,0
+11778,Kompas,0,clean_v31,0
+11784,Kompas,0,clean_v31,0
+11802,Kompas,0,clean_v31,0
+11803,Kompas,0,clean_v31,0
+11821,Kompas,0,clean_v31,0
+11823,Kompas,0,clean_v31,0
+11834,Kompas,0,clean_v31,0
+11837,Kompas,0,clean_v31,0
+11847,Kompas,0,clean_v31,0
+11850,Kompas,0,clean_v31,0
+11853,Kompas,0,clean_v31,0
+11861,Kompas,0,clean_v31,0
+11865,Kompas,0,clean_v31,0
+11889,Kompas,0,clean_v31,0
+11912,Kompas,0,clean_v31,0
+11917,Kompas,0,clean_v31,0
+11925,Kompas,0,clean_v31,0
+11927,Kompas,0,clean_v31,0
+11928,Kompas,0,clean_v31,0
+11935,Kompas,0,clean_v31,0
+11952,Kompas,0,clean_v31,0
+11957,Kompas,0,clean_v31,0
+11958,Kompas,0,clean_v31,0
+11978,Kompas,0,clean_v31,0
+11985,Kompas,0,clean_v31,0
+11988,Kompas,0,clean_v31,0
+12005,Kompas,0,clean_v31,0
+12019,Kompas,0,clean_v31,0
+12032,Kompas,0,clean_v31,0
+12035,Kompas,0,clean_v31,0
+12041,Kompas,0,clean_v31,0
+12080,Kompas,0,clean_v31,0
+12084,Kompas,0,clean_v31,0
+12088,Kompas,0,clean_v31,0
+12092,Kompas,0,clean_v31,0
+12107,Kompas,0,clean_v31,0
+12110,Kompas,0,clean_v31,0
+12127,Kompas,0,clean_v31,0
+12134,Kompas,0,clean_v31,0
+12137,Kompas,0,clean_v31,0
+12143,Kompas,0,clean_v31,0
+12150,Kompas,0,clean_v31,0
+12156,Kompas,0,clean_v31,0
+12180,Kompas,0,clean_v31,0
+12181,Kompas,0,clean_v31,0
+12182,Kompas,0,clean_v31,0
+12192,Kompas,0,clean_v31,0
+12198,Kompas,0,clean_v31,0
+12220,Kompas,0,clean_v31,0
+12230,Kompas,0,clean_v31,0
+12244,Kompas,0,clean_v31,0
+12257,Kompas,0,clean_v31,0
+12267,Kompas,0,clean_v31,0
+12269,Kompas,0,clean_v31,0
+12272,Kompas,0,clean_v31,0
+12277,Kompas,0,clean_v31,0
+12278,Kompas,0,clean_v31,0
+12292,Kompas,0,clean_v31,0
+12309,Kompas,0,clean_v31,0
+12315,Kompas,0,clean_v31,0
+12318,Kompas,0,clean_v31,0
+12333,Kompas,0,clean_v31,0
+12352,Kompas,0,clean_v31,0
+12362,Kompas,0,clean_v31,0
+12373,Kompas,0,clean_v31,0
+12393,Kompas,0,clean_v31,0
+12398,Kompas,0,clean_v31,0
+12400,Kompas,0,clean_v31,0
+12413,Kompas,0,clean_v31,0
+12414,Kompas,0,clean_v31,0
+12415,Kompas,0,clean_v31,0
+12434,Kompas,0,clean_v31,0
+12460,Kompas,0,clean_v31,0
+12476,Kompas,0,clean_v31,0
+12488,Kompas,0,clean_v31,0
+12512,Kompas,0,clean_v31,0
+12520,Kompas,0,clean_v31,0
+12525,Kompas,0,clean_v31,0
+12532,Kompas,0,clean_v31,0
+12534,Kompas,0,clean_v31,0
+12536,Kompas,0,clean_v31,0
+12541,Kompas,0,clean_v31,0
+12554,Kompas,0,clean_v31,0
+12560,Kompas,0,clean_v31,0
+12572,Kompas,0,clean_v31,0
+12575,Kompas,0,clean_v31,0
+12577,Kompas,0,clean_v31,0
+12589,Kompas,0,clean_v31,0
+12594,Kompas,0,clean_v31,0
+12595,Kompas,0,clean_v31,0
+12603,Kompas,0,clean_v31,0
+12623,Kompas,0,clean_v31,0
+12628,Kompas,0,clean_v31,0
+12637,Kompas,0,clean_v31,0
+12642,Kompas,0,clean_v31,0
+12651,Kompas,0,clean_v31,0
+12652,Kompas,0,clean_v31,0
+12653,Kompas,0,clean_v31,0
+12679,Kompas,0,clean_v31,0
+12698,Kompas,0,clean_v31,0
+12703,Kompas,0,clean_v31,0
+12705,Kompas,0,clean_v31,0
+12710,Kompas,0,clean_v31,0
+12734,Kompas,0,clean_v31,0
+12742,Kompas,0,clean_v31,0
+12761,Kompas,0,clean_v31,0
+12768,Kompas,0,clean_v31,0
+12772,Kompas,0,clean_v31,0
+12781,Kompas,0,clean_v31,0
+12782,Kompas,0,clean_v31,0
+12790,Kompas,0,clean_v31,0
+12801,Kompas,0,clean_v31,0
+12828,Kompas,0,clean_v31,0
+12856,Kompas,0,clean_v31,0
+12863,Kompas,0,clean_v31,0
+12869,Kompas,0,clean_v31,0
+12893,Kompas,0,clean_v31,0
+12894,Kompas,0,clean_v31,0
+12897,Kompas,0,clean_v31,0
+12898,Kompas,0,clean_v31,0
+12918,Kompas,0,clean_v31,0
+12945,Kompas,0,clean_v31,0
+12947,Kompas,0,clean_v31,0
+12978,Kompas,0,clean_v31,0
+12986,Kompas,0,clean_v31,0
+13021,Kompas,0,clean_v31,0
+13033,Kompas,0,clean_v31,0
+13037,Kompas,0,clean_v31,0
+13045,Kompas,0,clean_v31,0
+13047,Kompas,0,clean_v31,0
+13052,Kompas,0,clean_v31,0
+13070,Kompas,0,clean_v31,0
+13074,Kompas,0,clean_v31,0
+13086,Kompas,0,clean_v31,0
+13092,Kompas,0,clean_v31,0
+13096,Kompas,0,clean_v31,0
+13121,Kompas,0,clean_v31,0
+13133,Kompas,0,clean_v31,0
+13158,Kompas,0,clean_v31,0
+13167,Kompas,0,clean_v31,0
+13177,Kompas,0,clean_v31,0
+13182,Kompas,0,clean_v31,0
+13202,Kompas,0,clean_v31,0
+13208,Kompas,0,clean_v31,0
+13210,Kompas,0,clean_v31,0
+13213,Kompas,0,clean_v31,0
+13218,Kompas,0,clean_v31,0
+13220,Kompas,0,clean_v31,0
+13248,Kompas,0,clean_v31,0
+13253,Kompas,0,clean_v31,0
+13261,Kompas,0,clean_v31,0
+13264,Kompas,0,clean_v31,0
+13297,Kompas,0,clean_v31,0
+13301,Kompas,0,clean_v31,0
+13312,Kompas,0,clean_v31,0
+13313,Kompas,0,clean_v31,0
+13317,Kompas,0,clean_v31,0
+13326,Kompas,0,clean_v31,0
+13337,Kompas,0,clean_v31,0
+13359,Kompas,0,clean_v31,0
+13371,Kompas,0,clean_v31,0
+13382,Kompas,0,clean_v31,0
+13393,Kompas,0,clean_v31,0
+13398,Kompas,0,clean_v31,0
+13413,Kompas,0,clean_v31,0
+13422,Kompas,0,clean_v31,0
+13429,Kompas,0,clean_v31,0
+13431,Kompas,0,clean_v31,0
+13434,Kompas,0,clean_v31,0
+13438,Kompas,0,clean_v31,0
+13443,Kompas,0,clean_v31,0
+13446,Kompas,0,clean_v31,0
+13453,Kompas,0,clean_v31,0
+13460,Kompas,0,clean_v31,0
+13478,Kompas,0,clean_v31,0
+13492,Kompas,0,clean_v31,0
+13504,Kompas,0,clean_v31,0
+13512,Kompas,0,clean_v31,0
+13514,Kompas,0,clean_v31,0
+13517,Kompas,0,clean_v31,0
+13521,Kompas,0,clean_v31,0
+13523,Kompas,0,clean_v31,0
+13528,Kompas,0,clean_v31,0
+13534,Kompas,0,clean_v31,0
+13556,Kompas,0,clean_v31,0
+13563,Kompas,0,clean_v31,0
+13574,Kompas,0,clean_v31,0
+13578,Kompas,0,clean_v31,0
+13587,Kompas,0,clean_v31,0
+13615,Kompas,0,clean_v31,0
+13630,Kompas,0,clean_v31,0
+13631,Kompas,0,clean_v31,0
+13639,Kompas,0,clean_v31,0
+13647,Kompas,0,clean_v31,0
+13671,Kompas,0,clean_v31,0
+13677,Kompas,0,clean_v31,0
+13679,Kompas,0,clean_v31,0
+13684,Kompas,0,clean_v31,0
+13726,Kompas,0,clean_v31,0
+13728,Kompas,0,clean_v31,0
+13730,Kompas,0,clean_v31,0
+13735,Kompas,0,clean_v31,0
+13770,Kompas,0,clean_v31,0
+13771,Kompas,0,clean_v31,0
+13779,Kompas,0,clean_v31,0
+13781,Kompas,0,clean_v31,0
+13798,Kompas,0,clean_v31,0
+13827,Kompas,0,clean_v31,0
+13828,Kompas,0,clean_v31,0
+13840,Kompas,0,clean_v31,0
+13843,Kompas,0,clean_v31,0
+13847,Kompas,0,clean_v31,0
+13849,Kompas,0,clean_v31,0
+13852,Kompas,0,clean_v31,0
+13855,Kompas,0,clean_v31,0
+13865,Kompas,0,clean_v31,0
+13877,Kompas,0,clean_v31,0
+13888,Kompas,0,clean_v31,0
+13900,Kompas,0,clean_v31,0
+13904,Kompas,0,clean_v31,0
+13915,Kompas,0,clean_v31,0
+13920,Kompas,0,clean_v31,0
+13937,Kompas,0,clean_v31,0
+13948,Kompas,0,clean_v31,0
+13951,Kompas,0,clean_v31,0
+13955,Kompas,0,clean_v31,0
+13965,Kompas,0,clean_v31,0
+13968,Kompas,0,clean_v31,0
+13970,Kompas,0,clean_v31,0
+13976,Kompas,0,clean_v31,0
+13986,Kompas,0,clean_v31,0
+13997,Kompas,0,clean_v31,0
+14000,Kompas,0,clean_v31,0
+14014,Kompas,0,clean_v31,0
+14015,Kompas,0,clean_v31,0
+14034,Kompas,0,clean_v31,0
+14046,Kompas,0,clean_v31,0
+14064,Kompas,0,clean_v31,0
+14073,Kompas,0,clean_v31,0
+14074,Kompas,0,clean_v31,0
+14121,Kompas,0,clean_v31,0
+14127,Kompas,0,clean_v31,0
+14134,Kompas,0,clean_v31,0
+14155,Kompas,0,clean_v31,0
+14163,Kompas,0,clean_v31,0
+14168,Kompas,0,clean_v31,0
+14198,Kompas,0,clean_v31,0
+14213,Kompas,0,clean_v31,0
+14226,Kompas,0,clean_v31,0
+14227,Kompas,0,clean_v31,0
+14260,Kompas,0,clean_v31,0
+14300,Kompas,0,clean_v31,0
+14306,Kompas,0,clean_v31,0
+14308,Kompas,0,clean_v31,0
+14319,Kompas,0,clean_v31,0
+14351,Kompas,0,clean_v31,0
+14353,Kompas,0,clean_v31,0
+14360,Kompas,0,clean_v31,0
+14367,Kompas,0,clean_v31,0
+14370,Kompas,0,clean_v31,0
+14373,Kompas,0,clean_v31,0
+14387,Kompas,0,clean_v31,0
+14392,Kompas,0,clean_v31,0
+14393,Kompas,0,clean_v31,0
+14399,Kompas,0,clean_v31,0
+14408,Kompas,0,clean_v31,0
+14426,Kompas,0,clean_v31,0
+14427,Kompas,0,clean_v31,0
+14431,Kompas,0,clean_v31,0
+14437,Kompas,0,clean_v31,0
+14455,Kompas,0,clean_v31,0
+14457,Kompas,0,clean_v31,0
+14460,Kompas,0,clean_v31,0
+14473,Kompas,0,clean_v31,0
+14489,Kompas,0,clean_v31,0
+14498,Kompas,0,clean_v31,0
+14522,Kompas,0,clean_v31,0
+14532,Kompas,0,clean_v31,0
+14542,Kompas,0,clean_v31,0
+14545,Kompas,0,clean_v31,0
+14553,Kompas,0,clean_v31,0
+14557,Kompas,0,clean_v31,0
+14579,Kompas,0,clean_v31,0
+14583,Kompas,0,clean_v31,0
+14584,Kompas,0,clean_v31,0
+14592,Kompas,0,clean_v31,1
+14594,Kompas,0,clean_v31,0
+14605,Kompas,0,clean_v31,0
+14608,Kompas,0,clean_v31,0
+14609,Kompas,0,clean_v31,0
+14623,Kompas,0,clean_v31,0
+14624,Kompas,0,clean_v31,0
+14632,Kompas,0,clean_v31,0
+14659,Kompas,0,clean_v31,0
+14678,Kompas,0,clean_v31,0
+14681,Kompas,0,clean_v31,0
+14682,Kompas,0,clean_v31,0
+14703,Kompas,0,clean_v31,0
+14741,Kompas,0,clean_v31,0
+14826,Tempo,0,clean_v31,0
+14835,Tempo,0,clean_v31,0
+14849,Tempo,0,clean_v31,0
+14858,Tempo,0,clean_v31,0
+14909,Tempo,0,clean_v31,0
+14913,Tempo,0,clean_v31,0
+14922,Tempo,0,clean_v31,0
+14927,Tempo,0,clean_v31,0
+14954,Tempo,0,clean_v31,0
+14962,Tempo,0,clean_v31,0
+14967,Tempo,0,clean_v31,0
+14970,Tempo,0,clean_v31,0
+14974,Tempo,0,clean_v31,0
+14991,Tempo,0,clean_v31,0
+15013,Tempo,0,clean_v31,0
+15022,Tempo,0,clean_v31,0
+15041,Tempo,0,clean_v31,0
+15060,Tempo,0,clean_v31,0
+15063,Tempo,0,clean_v31,0
+15067,Tempo,0,clean_v31,0
+15071,Tempo,0,clean_v31,0
+15077,Tempo,0,clean_v31,0
+15091,Tempo,0,clean_v31,0
+15092,Tempo,0,clean_v31,0
+15102,Tempo,0,clean_v31,0
+15106,Tempo,0,clean_v31,0
+15136,Tempo,0,clean_v31,0
+15149,Tempo,0,clean_v31,0
+15171,Tempo,0,clean_v31,0
+15178,Tempo,0,clean_v31,0
+15205,Tempo,0,clean_v31,0
+15211,Tempo,0,clean_v31,0
+15223,Tempo,0,clean_v31,0
+15226,Tempo,0,clean_v31,0
+15228,Tempo,0,clean_v31,0
+15255,Tempo,0,clean_v31,0
+15256,Tempo,0,clean_v31,0
+15283,Tempo,0,clean_v31,0
+15289,Tempo,0,clean_v31,0
+15334,Tempo,0,clean_v31,0
+15346,Tempo,0,clean_v31,0
+15361,Tempo,0,clean_v31,0
+15364,Tempo,0,clean_v31,0
+15368,Tempo,0,clean_v31,0
+15377,Tempo,0,clean_v31,0
+15379,Tempo,0,clean_v31,0
+15430,Tempo,0,clean_v31,0
+15436,Tempo,0,clean_v31,0
+15439,Tempo,0,clean_v31,0
+15441,Tempo,0,clean_v31,0
+15456,Tempo,0,clean_v31,0
+15464,Tempo,0,clean_v31,0
+15473,Tempo,0,clean_v31,0
+15495,Tempo,0,clean_v31,0
+15535,Tempo,0,clean_v31,0
+15560,Tempo,0,clean_v31,0
+15563,Tempo,0,clean_v31,0
+15577,Tempo,0,clean_v31,0
+15578,Tempo,0,clean_v31,0
+15588,Tempo,0,clean_v31,0
+15604,Tempo,0,clean_v31,0
+15609,Tempo,0,clean_v31,0
+15618,Tempo,0,clean_v31,0
+15623,Tempo,0,clean_v31,0
+15628,Tempo,0,clean_v31,0
+15633,Tempo,0,clean_v31,0
+15654,Tempo,0,clean_v31,0
+15665,Tempo,0,clean_v31,0
+15680,Tempo,0,clean_v31,0
+15689,Tempo,0,clean_v31,0
+15692,Tempo,0,clean_v31,0
+15700,Tempo,0,clean_v31,0
+15709,Tempo,0,clean_v31,0
+15717,Tempo,0,clean_v31,0
+15723,Tempo,0,clean_v31,0
+15733,Tempo,0,clean_v31,0
+15740,Tempo,0,clean_v31,0
+15742,Tempo,0,clean_v31,0
+15746,Tempo,0,clean_v31,0
+15766,Tempo,0,clean_v31,0
+15769,Tempo,0,clean_v31,0
+15780,Tempo,0,clean_v31,0
+15811,Tempo,0,clean_v31,0
+15822,Tempo,0,clean_v31,0
+15849,Tempo,0,clean_v31,0
+15853,Tempo,0,clean_v31,0
+15857,Tempo,0,clean_v31,0
+15878,Tempo,0,clean_v31,0
+15886,Tempo,0,clean_v31,0
+15892,Tempo,0,clean_v31,0
+15908,Tempo,0,clean_v31,0
+15913,Tempo,0,clean_v31,0
+15919,Tempo,0,clean_v31,0
+15925,Tempo,0,clean_v31,0
+15948,Tempo,0,clean_v31,0
+15984,Tempo,0,clean_v31,0
+15997,Tempo,0,clean_v31,0
+16016,Tempo,0,clean_v31,0
+16025,Tempo,0,clean_v31,0
+16033,Tempo,0,clean_v31,0
+16044,Tempo,0,clean_v31,0
+16052,Tempo,0,clean_v31,0
+16054,Tempo,0,clean_v31,0
+16055,Tempo,0,clean_v31,0
+16060,Tempo,0,clean_v31,0
+16065,Tempo,0,clean_v31,0
+16074,Tempo,0,clean_v31,0
+16089,Tempo,0,clean_v31,0
+16092,Tempo,0,clean_v31,0
+16102,Tempo,0,clean_v31,0
+16103,Tempo,0,clean_v31,0
+16125,Tempo,0,clean_v31,0
+16127,Tempo,0,clean_v31,0
+16136,Tempo,0,clean_v31,0
+16139,Tempo,0,clean_v31,0
+16163,Tempo,0,clean_v31,0
+16167,Tempo,0,clean_v31,0
+16176,Tempo,0,clean_v31,0
+16178,Tempo,0,clean_v31,0
+16189,Tempo,0,clean_v31,0
+16210,Tempo,0,clean_v31,0
+16249,Tempo,0,clean_v31,0
+16258,Tempo,0,clean_v31,0
+16289,Tempo,0,clean_v31,0
+16311,Tempo,0,clean_v31,0
+16316,Tempo,0,clean_v31,0
+16328,Tempo,0,clean_v31,0
+16337,Tempo,0,clean_v31,0
+16351,Tempo,0,clean_v31,0
+16363,Tempo,0,clean_v31,0
+16367,Tempo,0,clean_v31,0
+16389,Tempo,0,clean_v31,0
+16428,Tempo,0,clean_v31,0
+16437,Tempo,0,clean_v31,0
+16440,Tempo,0,clean_v31,0
+16447,Tempo,0,clean_v31,0
+16454,Tempo,0,clean_v31,0
+16457,Tempo,0,clean_v31,0
+16462,Tempo,0,clean_v31,0
+16465,Tempo,0,clean_v31,0
+16468,Tempo,0,clean_v31,0
+16486,Tempo,0,clean_v31,0
+16520,Tempo,0,clean_v31,0
+16531,Tempo,0,clean_v31,0
+16537,Tempo,0,clean_v31,0
+16538,Tempo,0,clean_v31,0
+16543,Tempo,0,clean_v31,0
+16555,Tempo,0,clean_v31,0
+16562,Tempo,0,clean_v31,0
+16564,Tempo,0,clean_v31,0
+16570,Tempo,0,clean_v31,0
+16573,Tempo,0,clean_v31,0
+16575,Tempo,0,clean_v31,0
+16585,Tempo,0,clean_v31,0
+16589,Tempo,0,clean_v31,0
+16623,Tempo,0,clean_v31,0
+16628,Tempo,0,clean_v31,0
+16634,Tempo,0,clean_v31,0
+16641,Tempo,0,clean_v31,0
+16674,Tempo,0,clean_v31,0
+16695,Tempo,0,clean_v31,0
+16698,Tempo,0,clean_v31,0
+16707,Tempo,0,clean_v31,0
+16712,Tempo,0,clean_v31,0
+16715,Tempo,0,clean_v31,0
+16751,Tempo,0,clean_v31,0
+16753,Tempo,0,clean_v31,0
+16779,Tempo,0,clean_v31,0
+16783,Tempo,0,clean_v31,0
+16822,Tempo,0,clean_v31,0
+16827,Tempo,0,clean_v31,0
+16841,Tempo,0,clean_v31,0
+16842,Tempo,0,clean_v31,0
+16851,Tempo,0,clean_v31,0
+16854,Tempo,0,clean_v31,0
+16856,Tempo,0,clean_v31,0
+16893,Tempo,0,clean_v31,0
+16895,Tempo,0,clean_v31,0
+16911,Tempo,0,clean_v31,0
+16912,Tempo,0,clean_v31,0
+16913,Tempo,0,clean_v31,0
+16919,Tempo,0,clean_v31,0
+16920,Tempo,0,clean_v31,0
+16922,Tempo,0,clean_v31,0
+16928,Tempo,0,clean_v31,0
+16930,Tempo,0,clean_v31,0
+16932,Tempo,0,clean_v31,0
+16944,Tempo,0,clean_v31,0
+16947,Tempo,0,clean_v31,0
+16948,Tempo,0,clean_v31,0
+16964,Tempo,0,clean_v31,0
+16975,Tempo,0,clean_v31,0
+16978,Tempo,0,clean_v31,0
+16980,Tempo,0,clean_v31,0
+16988,Tempo,0,clean_v31,0
+16990,Tempo,0,clean_v31,0
+16998,Tempo,0,clean_v31,0
+17004,Tempo,0,clean_v31,0
+17020,Tempo,0,clean_v31,0
+17041,Tempo,0,clean_v31,0
+17042,Tempo,0,clean_v31,0
+17056,Tempo,0,clean_v31,0
+17059,Tempo,0,clean_v31,0
+17063,Tempo,0,clean_v31,0
+17065,Tempo,0,clean_v31,0
+17066,Tempo,0,clean_v31,0
+17080,Tempo,0,clean_v31,0
+17084,Tempo,0,clean_v31,0
+17086,Tempo,0,clean_v31,0
+17108,Tempo,0,clean_v31,0
+17152,Tempo,0,clean_v31,0
+17158,Tempo,0,clean_v31,0
+17167,Tempo,0,clean_v31,0
+17181,Tempo,0,clean_v31,0
+17190,Tempo,0,clean_v31,0
+17195,Tempo,0,clean_v31,0
+17211,Tempo,0,clean_v31,0
+17215,Tempo,0,clean_v31,0
+17232,Tempo,0,clean_v31,0
+17255,Tempo,0,clean_v31,0
+17257,Tempo,0,clean_v31,0
+17266,Tempo,0,clean_v31,0
+17267,Tempo,0,clean_v31,0
+17271,Tempo,0,clean_v31,0
+17274,Tempo,0,clean_v31,0
+17290,Tempo,0,clean_v31,0
+17296,Tempo,0,clean_v31,0
+17332,Tempo,0,clean_v31,0
+17350,Tempo,0,clean_v31,0
+17375,Tempo,0,clean_v31,0
+17378,Tempo,0,clean_v31,0
+17381,Tempo,0,clean_v31,0
+17391,Tempo,0,clean_v31,0
+17402,Tempo,0,clean_v31,0
+17409,Tempo,0,clean_v31,0
+17416,Tempo,0,clean_v31,0
+17439,Tempo,0,clean_v31,0
+17463,Tempo,0,clean_v31,0
+17483,Tempo,0,clean_v31,0
+17493,Tempo,0,clean_v31,0
+17498,Tempo,0,clean_v31,0
+17502,Tempo,0,clean_v31,0
+17527,Tempo,0,clean_v31,0
+17528,Tempo,0,clean_v31,0
+17529,Tempo,0,clean_v31,0
+17533,Tempo,0,clean_v31,0
+17542,Tempo,0,clean_v31,0
+17544,Tempo,0,clean_v31,0
+17558,Tempo,0,clean_v31,0
+17566,Tempo,0,clean_v31,0
+17569,Tempo,0,clean_v31,0
+17573,Tempo,0,clean_v31,0
+17586,Tempo,0,clean_v31,0
+17587,Tempo,0,clean_v31,0
+17591,Tempo,0,clean_v31,0
+17599,Tempo,0,clean_v31,0
+17607,Tempo,0,clean_v31,0
+17613,Tempo,0,clean_v31,0
+17616,Tempo,0,clean_v31,0
+17617,Tempo,0,clean_v31,0
+17623,Tempo,0,clean_v31,0
+17631,Tempo,0,clean_v31,0
+17645,Tempo,0,clean_v31,0
+17689,Tempo,0,clean_v31,0
+17706,Tempo,0,clean_v31,0
+17752,Tempo,0,clean_v31,0
+17753,Tempo,0,clean_v31,0
+17791,Tempo,0,clean_v31,0
+17802,Tempo,0,clean_v31,0
+17804,Tempo,0,clean_v31,0
+17806,Tempo,0,clean_v31,0
+17810,Tempo,0,clean_v31,0
+17819,Tempo,0,clean_v31,0
+17833,Tempo,0,clean_v31,0
+17838,Tempo,0,clean_v31,0
+17839,Tempo,0,clean_v31,0
+17847,Tempo,0,clean_v31,0
+17848,Tempo,0,clean_v31,0
+17856,Tempo,0,clean_v31,0
+17861,Tempo,0,clean_v31,0
+17864,Tempo,0,clean_v31,0
+17874,Tempo,0,clean_v31,0
+17876,Tempo,0,clean_v31,0
+17881,Tempo,0,clean_v31,0
+17882,Tempo,0,clean_v31,0
+17900,Tempo,0,clean_v31,0
+17904,Tempo,0,clean_v31,0
+17908,Tempo,0,clean_v31,0
+17917,Tempo,0,clean_v31,0
+17920,Tempo,0,clean_v31,0
+17940,Tempo,0,clean_v31,0
+17956,Tempo,0,clean_v31,0
+17968,Tempo,0,clean_v31,0
+17973,Tempo,0,clean_v31,0
+17985,Tempo,0,clean_v31,0
+17993,Tempo,0,clean_v31,0
+17997,Tempo,0,clean_v31,0
+18000,Tempo,0,clean_v31,0
+18028,Tempo,0,clean_v31,0
+18058,Tempo,0,clean_v31,0
+18076,Tempo,0,clean_v31,0
+18086,Tempo,0,clean_v31,0
+18113,Tempo,0,clean_v31,0
+18126,Tempo,0,clean_v31,0
+18130,Tempo,0,clean_v31,0
+18133,Tempo,0,clean_v31,0
+18146,Tempo,0,clean_v31,0
+18155,Tempo,0,clean_v31,0
+18166,Tempo,0,clean_v31,0
+18193,Tempo,0,clean_v31,0
+18194,Tempo,0,clean_v31,0
+18204,Tempo,0,clean_v31,0
+18205,Tempo,0,clean_v31,0
+18218,Tempo,0,clean_v31,0
+18224,Tempo,0,clean_v31,0
+18229,Tempo,0,clean_v31,0
+18236,Tempo,0,clean_v31,0
+18239,Tempo,0,clean_v31,0
+18246,Tempo,0,clean_v31,0
+18260,Tempo,0,clean_v31,0
+18271,Tempo,0,clean_v31,0
+18284,Tempo,0,clean_v31,0
+18308,Tempo,0,clean_v31,0
+18315,Tempo,0,clean_v31,0
+18317,Tempo,0,clean_v31,0
+18318,Tempo,0,clean_v31,0
+18330,Tempo,0,clean_v31,0
+18335,Tempo,0,clean_v31,0
+18353,Tempo,0,clean_v31,0
+18359,Tempo,0,clean_v31,0
+18368,Tempo,0,clean_v31,0
+18377,Tempo,0,clean_v31,0
+18383,Tempo,0,clean_v31,0
+18388,Tempo,0,clean_v31,0
+18394,Tempo,0,clean_v31,0
+18402,Tempo,0,clean_v31,0
+18410,Tempo,0,clean_v31,0
+18445,Tempo,0,clean_v31,0
+18449,Tempo,0,clean_v31,0
+18453,Tempo,0,clean_v31,0
+18456,Tempo,0,clean_v31,0
+18459,Tempo,0,clean_v31,0
+18468,Tempo,0,clean_v31,0
+18497,Tempo,0,clean_v31,0
+18505,Tempo,0,clean_v31,0
+18534,Tempo,0,clean_v31,0
+18563,Tempo,0,clean_v31,0
+18568,Tempo,0,clean_v31,0
+18576,Tempo,0,clean_v31,0
+18581,Tempo,0,clean_v31,0
+18592,Tempo,0,clean_v31,0
+18596,Tempo,0,clean_v31,0
+18602,Tempo,0,clean_v31,0
+18614,Tempo,0,clean_v31,0
+18637,Tempo,0,clean_v31,0
+18643,Tempo,0,clean_v31,0
+18661,Tempo,0,clean_v31,0
+18667,Tempo,0,clean_v31,0
+18686,Tempo,0,clean_v31,0
+18691,Tempo,0,clean_v31,0
+18696,Tempo,0,clean_v31,0
+18704,Tempo,0,clean_v31,0
+18706,Tempo,0,clean_v31,0
+18716,Tempo,0,clean_v31,0
+18725,Tempo,0,clean_v31,0
+18752,Tempo,0,clean_v31,0
+18765,Tempo,0,clean_v31,0
+18767,Tempo,0,clean_v31,0
+18772,Tempo,0,clean_v31,0
+18782,Tempo,0,clean_v31,0
+18785,Tempo,0,clean_v31,0
+18807,Tempo,0,clean_v31,0
+18813,Tempo,0,clean_v31,0
+18816,Tempo,0,clean_v31,0
+18829,Tempo,0,clean_v31,0
+18835,Tempo,0,clean_v31,0
+18840,Tempo,0,clean_v31,0
+18842,Tempo,0,clean_v31,0
+18858,Tempo,0,clean_v31,0
+18878,Tempo,0,clean_v31,0
+18902,Tempo,0,clean_v31,0
+18905,Tempo,0,clean_v31,0
+18921,Tempo,0,clean_v31,0
+18922,Tempo,0,clean_v31,0
+18923,Tempo,0,clean_v31,0
+18926,Tempo,0,clean_v31,0
+18929,Tempo,0,clean_v31,0
+18936,Tempo,0,clean_v31,0
+18939,Tempo,0,clean_v31,0
+18940,Tempo,0,clean_v31,0
+18943,Tempo,0,clean_v31,0
+18972,Tempo,0,clean_v31,0
+18976,Tempo,0,clean_v31,0
+18980,Tempo,0,clean_v31,0
+18991,Tempo,0,clean_v31,0
+18994,Tempo,0,clean_v31,0
+19003,Tempo,0,clean_v31,0
+19026,Tempo,0,clean_v31,0
+19041,Tempo,0,clean_v31,0
+19054,Tempo,0,clean_v31,0
+19065,Tempo,0,clean_v31,0
+19067,Tempo,0,clean_v31,0
+19070,Tempo,0,clean_v31,0
+19085,Tempo,0,clean_v31,0
+19089,Tempo,0,clean_v31,0
+19109,Tempo,0,clean_v31,0
+19136,Tempo,0,clean_v31,0
+19138,Tempo,0,clean_v31,0
+19141,Tempo,0,clean_v31,0
+19177,Tempo,0,clean_v31,0
+19184,Tempo,0,clean_v31,0
+19222,Tempo,0,clean_v31,0
+19241,Tempo,0,clean_v31,0
+19251,Tempo,0,clean_v31,0
+19256,Tempo,0,clean_v31,0
+19268,Tempo,0,clean_v31,0
+19278,Tempo,0,clean_v31,0
+19288,Tempo,0,clean_v31,0
+19294,Tempo,0,clean_v31,0
+19300,Tempo,0,clean_v31,0
+19312,Tempo,0,clean_v31,0
+19322,Tempo,0,clean_v31,0
+19335,Tempo,0,clean_v31,0
+19348,Tempo,0,clean_v31,0
+19350,Tempo,0,clean_v31,0
+19351,Tempo,0,clean_v31,0
+19410,Tempo,0,clean_v31,0
+19422,Tempo,0,clean_v31,0
+19432,Tempo,0,clean_v31,0
+19444,Tempo,0,clean_v31,0
+19447,Tempo,0,clean_v31,0
+19449,Tempo,0,clean_v31,0
+19489,Tempo,0,clean_v31,0
+19502,Tempo,0,clean_v31,0
+19511,Tempo,0,clean_v31,0
+19521,Tempo,0,clean_v31,0
+19530,Tempo,0,clean_v31,0
+19544,Tempo,0,clean_v31,0
+19575,Tempo,0,clean_v31,0
+19576,Tempo,0,clean_v31,0
+19579,Tempo,0,clean_v31,0
+19590,Tempo,0,clean_v31,0
+19603,Tempo,0,clean_v31,0
+19616,Tempo,0,clean_v31,0
+19632,Tempo,0,clean_v31,0
+19641,Tempo,0,clean_v31,0
+19647,Tempo,0,clean_v31,0
+19650,Tempo,0,clean_v31,0
+19654,Tempo,0,clean_v31,0
+19663,Tempo,0,clean_v31,0
+19665,Tempo,0,clean_v31,0
+19673,Tempo,0,clean_v31,0
+19674,Tempo,0,clean_v31,0
+19681,Tempo,0,clean_v31,0
+19690,Tempo,0,clean_v31,0
+19697,Tempo,0,clean_v31,0
+19700,Tempo,0,clean_v31,0
+19718,Tempo,0,clean_v31,0
+19719,Tempo,0,clean_v31,0
+19726,Tempo,0,clean_v31,0
+19735,Tempo,0,clean_v31,0
+19744,Tempo,0,clean_v31,0
+19749,Tempo,0,clean_v31,0
+19755,Tempo,0,clean_v31,0
+19767,Tempo,0,clean_v31,0
+19768,Tempo,0,clean_v31,0
+19772,Tempo,0,clean_v31,0
+19794,Tempo,0,clean_v31,0
+19796,Tempo,0,clean_v31,0
+19801,Tempo,0,clean_v31,0
+19809,Tempo,0,clean_v31,0
+19818,Tempo,0,clean_v31,0
+19825,Tempo,0,clean_v31,0
+19827,Tempo,0,clean_v31,0
+19852,Tempo,0,clean_v31,0
+19858,Tempo,0,clean_v31,0
+19860,Tempo,0,clean_v31,0
+19866,Tempo,0,clean_v31,0
+19875,Tempo,0,clean_v31,0
+19879,Tempo,0,clean_v31,0
+19905,Tempo,0,clean_v31,0
+19921,Tempo,0,clean_v31,0
+19923,Tempo,0,clean_v31,0
+19948,Tempo,0,clean_v31,0
+19960,Tempo,0,clean_v31,0
+19965,Tempo,0,clean_v31,0
+19971,Tempo,0,clean_v31,0
+19972,Tempo,0,clean_v31,0
+19987,Tempo,0,clean_v31,0
+20001,Tempo,0,clean_v31,0
+20002,Tempo,0,clean_v31,0
+20010,Tempo,0,clean_v31,0
+20020,Tempo,0,clean_v31,0
+20042,Tempo,0,clean_v31,0
+20069,Tempo,0,clean_v31,0
+20070,Tempo,0,clean_v31,0
+20075,Tempo,0,clean_v31,0
+20086,Tempo,0,clean_v31,0
+20094,Tempo,0,clean_v31,0
+20102,Tempo,0,clean_v31,0
+20106,Tempo,0,clean_v31,0
+20112,Tempo,0,clean_v31,0
+20146,Tempo,0,clean_v31,0
+20152,Tempo,0,clean_v31,0
+20154,Tempo,0,clean_v31,0
+20171,Tempo,0,clean_v31,0
+20187,Tempo,0,clean_v31,0
+20204,Tempo,0,clean_v31,0
+20210,Tempo,0,clean_v31,0
+20231,Tempo,0,clean_v31,0
+20253,Tempo,0,clean_v31,0
+20256,Tempo,0,clean_v31,0
+20283,Tempo,0,clean_v31,0
+20284,Tempo,0,clean_v31,0
+20303,Tempo,0,clean_v31,0
+20305,Tempo,0,clean_v31,0
+20313,Tempo,0,clean_v31,0
+20314,Tempo,0,clean_v31,0
+20321,Tempo,0,clean_v31,0
+20322,Tempo,0,clean_v31,0
+20323,Tempo,0,clean_v31,0
+20336,Tempo,0,clean_v31,0
+20337,Tempo,0,clean_v31,0
+20339,Tempo,0,clean_v31,0
+20345,Tempo,0,clean_v31,0
+20361,Tempo,0,clean_v31,0
+20364,Tempo,0,clean_v31,0
+20366,Tempo,0,clean_v31,0
+20367,Tempo,0,clean_v31,0
+20375,Tempo,0,clean_v31,0
+20392,Tempo,0,clean_v31,0
+20402,Tempo,0,clean_v31,0
+20403,Tempo,0,clean_v31,0
+20413,Tempo,0,clean_v31,0
+20415,Tempo,0,clean_v31,0
+20418,Tempo,0,clean_v31,0
+20429,Tempo,0,clean_v31,0
+20432,Tempo,0,clean_v31,0
+20435,Tempo,0,clean_v31,0
+20464,Tempo,0,clean_v31,0
+20473,Tempo,0,clean_v31,0
+20474,Tempo,0,clean_v31,0
+20475,Tempo,0,clean_v31,0
+20497,Tempo,0,clean_v31,0
+20511,Tempo,0,clean_v31,0
+20529,Tempo,0,clean_v31,0
+20542,Tempo,0,clean_v31,0
+20551,Tempo,0,clean_v31,0
+20557,Tempo,0,clean_v31,0
+20558,Tempo,0,clean_v31,0
+20567,Tempo,0,clean_v31,0
+20568,Tempo,0,clean_v31,0
+20583,Tempo,0,clean_v31,0
+20595,Tempo,0,clean_v31,0
+20611,Tempo,0,clean_v31,0
+20612,Tempo,0,clean_v31,0
+20623,Tempo,0,clean_v31,0
+20625,Tempo,0,clean_v31,0
+20638,Tempo,0,clean_v31,0
+20656,Tempo,0,clean_v31,0
+20661,Tempo,0,clean_v31,0
+20670,Tempo,0,clean_v31,0
+20676,Tempo,0,clean_v31,0
+20682,Tempo,0,clean_v31,0
+20687,Tempo,0,clean_v31,0
+20692,Tempo,0,clean_v31,0
+20698,Tempo,0,clean_v31,0
+20706,Tempo,0,clean_v31,0
+20707,Tempo,0,clean_v31,0
+20715,Tempo,0,clean_v31,0
+20731,Tempo,0,clean_v31,0
+20743,Tempo,0,clean_v31,0
+20747,Tempo,0,clean_v31,0
+20763,Tempo,0,clean_v31,0
+20768,Tempo,0,clean_v31,0
+20769,Tempo,0,clean_v31,0
+20783,Tempo,0,clean_v31,0
+20788,Tempo,0,clean_v31,0
+20794,Tempo,0,clean_v31,0
+20814,Tempo,0,clean_v31,0
+20819,Tempo,0,clean_v31,0
+20837,Tempo,0,clean_v31,0
+20841,Tempo,0,clean_v31,0
+20848,Tempo,0,clean_v31,0
+20850,Tempo,0,clean_v31,0
+20856,Tempo,0,clean_v31,0
+20864,Tempo,0,clean_v31,0
+20870,Tempo,0,clean_v31,0
+20875,Tempo,0,clean_v31,0
+20882,Tempo,0,clean_v31,0
+20895,Tempo,0,clean_v31,0
+20917,Tempo,0,clean_v31,0
+20918,Tempo,0,clean_v31,0
+20936,Tempo,0,clean_v31,0
+20938,Tempo,0,clean_v31,0
+20958,Tempo,0,clean_v31,0
+20991,Tempo,0,clean_v31,0
+20992,Tempo,0,clean_v31,0
+20999,Tempo,0,clean_v31,0
+21002,Tempo,0,clean_v31,0
+21003,Tempo,0,clean_v31,0
+21006,Tempo,0,clean_v31,0
+21013,Tempo,0,clean_v31,0
+21014,Tempo,0,clean_v31,0
+21049,Tempo,0,clean_v31,0
+21053,Tempo,0,clean_v31,0
+21056,Tempo,0,clean_v31,0
+21067,Tempo,0,clean_v31,0
+21068,Tempo,0,clean_v31,0
+21073,Tempo,0,clean_v31,0
+21078,Tempo,0,clean_v31,0
+21085,Tempo,0,clean_v31,0
+21090,Tempo,0,clean_v31,0
+21100,Tempo,0,clean_v31,0
+21112,Tempo,0,clean_v31,0
+21124,Tempo,0,clean_v31,0
+21126,Tempo,0,clean_v31,0
+21134,Tempo,0,clean_v31,0
+21141,Tempo,0,clean_v31,0
+21143,Tempo,0,clean_v31,0
+21149,Tempo,0,clean_v31,0
+21155,Tempo,0,clean_v31,0
+21173,Tempo,0,clean_v31,0
+21180,Tempo,0,clean_v31,0
+21201,Tempo,0,clean_v31,0
+21206,Tempo,0,clean_v31,0
+21210,Tempo,0,clean_v31,0
+21261,Tempo,0,clean_v31,0
+21262,Tempo,0,clean_v31,0
+21267,Tempo,0,clean_v31,0
+21283,Tempo,0,clean_v31,0
+21297,Tempo,0,clean_v31,0
+21301,Tempo,0,clean_v31,0
+21315,Tempo,0,clean_v31,0
+21318,Tempo,0,clean_v31,0
+21328,Tempo,0,clean_v31,0
+21345,Tempo,0,clean_v31,0
+21353,Tempo,0,clean_v31,0
+21356,Tempo,0,clean_v31,0
+21368,Tempo,0,clean_v31,0
+21394,Tempo,0,clean_v31,0
+21405,Tempo,0,clean_v31,0
+21424,TurnBackHoax,1,clean_v31,1
+21438,TurnBackHoax,1,clean_v31,1
+21459,TurnBackHoax,1,clean_v31,1
+21472,TurnBackHoax,1,clean_v31,1
+21495,TurnBackHoax,1,clean_v31,1
+21498,TurnBackHoax,1,clean_v31,1
+21500,TurnBackHoax,1,clean_v31,1
+21504,TurnBackHoax,1,clean_v31,1
+21523,TurnBackHoax,1,clean_v31,1
+21526,TurnBackHoax,1,clean_v31,1
+21549,TurnBackHoax,1,clean_v31,1
+21552,TurnBackHoax,1,clean_v31,1
+21566,TurnBackHoax,1,clean_v31,1
+21580,TurnBackHoax,1,clean_v31,1
+21601,TurnBackHoax,1,clean_v31,1
+21639,TurnBackHoax,1,clean_v31,1
+21658,TurnBackHoax,1,clean_v31,1
+21664,TurnBackHoax,1,clean_v31,1
+21669,TurnBackHoax,1,clean_v31,1
+21678,TurnBackHoax,1,clean_v31,1
+21685,TurnBackHoax,1,clean_v31,1
+21757,TurnBackHoax,1,clean_v31,1
+21760,TurnBackHoax,1,clean_v31,1
+21764,TurnBackHoax,1,clean_v31,1
+21797,TurnBackHoax,1,clean_v31,1
+21818,TurnBackHoax,1,clean_v31,1
+21837,TurnBackHoax,1,clean_v31,1
+21841,TurnBackHoax,1,clean_v31,1
+21847,TurnBackHoax,1,clean_v31,1
+21856,TurnBackHoax,1,clean_v31,1
+21859,TurnBackHoax,1,clean_v31,1
+21881,TurnBackHoax,1,clean_v31,1
+21891,TurnBackHoax,1,clean_v31,1
+21904,TurnBackHoax,1,clean_v31,1
+21921,TurnBackHoax,1,clean_v31,1
+21950,TurnBackHoax,1,clean_v31,1
+21958,TurnBackHoax,1,clean_v31,1
+21960,TurnBackHoax,1,clean_v31,1
+21967,TurnBackHoax,1,clean_v31,1
+21970,TurnBackHoax,1,clean_v31,1
+21978,TurnBackHoax,1,clean_v31,1
+21989,TurnBackHoax,1,clean_v31,1
+21990,TurnBackHoax,1,clean_v31,1
+21993,TurnBackHoax,1,clean_v31,1
+21997,TurnBackHoax,1,clean_v31,1
+22002,TurnBackHoax,1,clean_v31,1
+22022,TurnBackHoax,1,clean_v31,1
+22026,TurnBackHoax,1,clean_v31,1
+22034,TurnBackHoax,1,clean_v31,1
+22047,TurnBackHoax,1,clean_v31,0
+22062,TurnBackHoax,1,clean_v31,1
+22063,TurnBackHoax,1,clean_v31,1
+22068,TurnBackHoax,1,clean_v31,1
+22075,TurnBackHoax,1,clean_v31,1
+22077,TurnBackHoax,1,clean_v31,0
+22081,TurnBackHoax,1,clean_v31,1
+22095,TurnBackHoax,1,clean_v31,1
+22105,TurnBackHoax,1,clean_v31,1
+22112,TurnBackHoax,1,clean_v31,1
+22114,TurnBackHoax,1,clean_v31,1
+22122,TurnBackHoax,1,clean_v31,1
+22126,TurnBackHoax,1,clean_v31,1
+22138,TurnBackHoax,1,clean_v31,1
+22140,TurnBackHoax,1,clean_v31,1
+22177,TurnBackHoax,1,clean_v31,1
+22183,TurnBackHoax,1,clean_v31,1
+22188,TurnBackHoax,1,clean_v31,1
+22203,TurnBackHoax,1,clean_v31,1
+22215,TurnBackHoax,1,clean_v31,1
+22236,TurnBackHoax,1,clean_v31,1
+22245,TurnBackHoax,1,clean_v31,1
+22256,TurnBackHoax,1,clean_v31,1
+22281,TurnBackHoax,1,clean_v31,1
+22306,TurnBackHoax,1,clean_v31,1
+22313,TurnBackHoax,1,clean_v31,1
+22314,TurnBackHoax,1,clean_v31,1
+22318,TurnBackHoax,1,clean_v31,0
+22321,TurnBackHoax,1,clean_v31,1
+22336,TurnBackHoax,1,clean_v31,1
+22343,TurnBackHoax,1,clean_v31,1
+22344,TurnBackHoax,1,clean_v31,1
+22357,TurnBackHoax,1,clean_v31,1
+22359,TurnBackHoax,1,clean_v31,1
+22366,TurnBackHoax,1,clean_v31,1
+22368,TurnBackHoax,1,clean_v31,1
+22390,TurnBackHoax,1,clean_v31,1
+22391,TurnBackHoax,1,clean_v31,1
+22392,TurnBackHoax,1,clean_v31,1
+22402,TurnBackHoax,1,clean_v31,1
+22409,TurnBackHoax,1,clean_v31,1
+22419,TurnBackHoax,1,clean_v31,1
+22439,TurnBackHoax,1,clean_v31,1
+22480,TurnBackHoax,1,clean_v31,1
+22482,TurnBackHoax,1,clean_v31,1
+22494,TurnBackHoax,1,clean_v31,1
+22495,TurnBackHoax,1,clean_v31,1
+22496,TurnBackHoax,1,clean_v31,1
+22502,TurnBackHoax,1,clean_v31,1
+22527,TurnBackHoax,1,clean_v31,1
+22541,TurnBackHoax,1,clean_v31,1
+22553,TurnBackHoax,1,clean_v31,1
+22571,TurnBackHoax,1,clean_v31,1
+22573,TurnBackHoax,1,clean_v31,1
+22585,TurnBackHoax,1,clean_v31,1
+22602,TurnBackHoax,1,clean_v31,1
+22607,TurnBackHoax,1,clean_v31,1
+22617,TurnBackHoax,1,clean_v31,1
+22636,TurnBackHoax,1,clean_v31,1
+22645,TurnBackHoax,1,clean_v31,1
+22650,TurnBackHoax,1,clean_v31,1
+22665,TurnBackHoax,1,clean_v31,1
+22696,TurnBackHoax,1,clean_v31,1
+22708,TurnBackHoax,1,clean_v31,1
+22709,TurnBackHoax,1,clean_v31,1
+22712,TurnBackHoax,1,clean_v31,1
+22714,TurnBackHoax,1,clean_v31,1
+22740,TurnBackHoax,1,clean_v31,1
+22750,TurnBackHoax,1,clean_v31,1
+22771,TurnBackHoax,1,clean_v31,1
+22780,TurnBackHoax,1,clean_v31,1
+22786,TurnBackHoax,1,clean_v31,1
+22789,TurnBackHoax,1,clean_v31,1
+22790,TurnBackHoax,1,clean_v31,1
+22808,TurnBackHoax,1,clean_v31,1
+22811,TurnBackHoax,1,clean_v31,1
+22820,TurnBackHoax,1,clean_v31,1
+22824,TurnBackHoax,1,clean_v31,1
+22835,TurnBackHoax,1,clean_v31,1
+22836,TurnBackHoax,1,clean_v31,1
+22868,TurnBackHoax,1,clean_v31,1
+22878,TurnBackHoax,1,clean_v31,1
+22884,TurnBackHoax,1,clean_v31,1
+22890,TurnBackHoax,1,clean_v31,1
+22903,TurnBackHoax,1,clean_v31,1
+22912,TurnBackHoax,1,clean_v31,1
+22915,TurnBackHoax,1,clean_v31,1
+22919,TurnBackHoax,1,clean_v31,1
+22920,TurnBackHoax,1,clean_v31,1
+22938,TurnBackHoax,1,clean_v31,0
+22939,TurnBackHoax,1,clean_v31,0
+22946,TurnBackHoax,1,clean_v31,1
+22953,TurnBackHoax,1,clean_v31,1
+22959,TurnBackHoax,1,clean_v31,1
+22975,TurnBackHoax,1,clean_v31,0
+22989,TurnBackHoax,1,clean_v31,1
+22997,TurnBackHoax,1,clean_v31,1
+23001,TurnBackHoax,1,clean_v31,1
+23018,TurnBackHoax,1,clean_v31,1
+23021,TurnBackHoax,1,clean_v31,1
+23027,TurnBackHoax,1,clean_v31,1
+23041,TurnBackHoax,1,clean_v31,1
+23059,TurnBackHoax,1,clean_v31,1
+23062,TurnBackHoax,1,clean_v31,1
+23070,TurnBackHoax,1,clean_v31,1
+23074,TurnBackHoax,1,clean_v31,1
+23104,TurnBackHoax,1,clean_v31,1
+23119,TurnBackHoax,1,clean_v31,1
+23125,TurnBackHoax,1,clean_v31,1
+23127,TurnBackHoax,1,clean_v31,1
+23139,TurnBackHoax,1,clean_v31,1
+23141,TurnBackHoax,1,clean_v31,1
+23145,TurnBackHoax,1,clean_v31,1
+23146,TurnBackHoax,1,clean_v31,1
+23159,TurnBackHoax,1,clean_v31,1
+23171,TurnBackHoax,1,clean_v31,1
+23179,TurnBackHoax,1,clean_v31,1
+23185,TurnBackHoax,1,clean_v31,1
+23235,TurnBackHoax,1,clean_v31,1
+23244,TurnBackHoax,1,clean_v31,1
+23254,TurnBackHoax,1,clean_v31,1
+23297,TurnBackHoax,1,clean_v31,1
+23302,TurnBackHoax,1,clean_v31,1
+23303,TurnBackHoax,1,clean_v31,1
+23323,TurnBackHoax,1,clean_v31,1
+23332,TurnBackHoax,1,clean_v31,1
+23346,TurnBackHoax,1,clean_v31,1
+23359,TurnBackHoax,1,clean_v31,1
+23361,TurnBackHoax,1,clean_v31,1
+23376,TurnBackHoax,1,clean_v31,1
+23396,TurnBackHoax,1,clean_v31,1
+23399,TurnBackHoax,1,clean_v31,1
+23414,TurnBackHoax,1,clean_v31,1
+23428,TurnBackHoax,1,clean_v31,1
+23429,TurnBackHoax,1,clean_v31,1
+23469,TurnBackHoax,1,clean_v31,1
+23497,TurnBackHoax,1,clean_v31,1
+23503,TurnBackHoax,1,clean_v31,1
+23520,TurnBackHoax,1,clean_v31,1
+23543,TurnBackHoax,1,clean_v31,1
+23544,TurnBackHoax,1,clean_v31,0
+23566,TurnBackHoax,1,clean_v31,1
+23569,TurnBackHoax,1,clean_v31,1
+23574,TurnBackHoax,1,clean_v31,1
+23587,TurnBackHoax,1,clean_v31,1
+23598,TurnBackHoax,1,clean_v31,1
+23602,TurnBackHoax,1,clean_v31,1
+23603,TurnBackHoax,1,clean_v31,1
+23632,TurnBackHoax,1,clean_v31,1
+23634,TurnBackHoax,1,clean_v31,1
+23639,TurnBackHoax,1,clean_v31,1
+23642,TurnBackHoax,1,clean_v31,1
+23652,TurnBackHoax,1,clean_v31,1
+23658,TurnBackHoax,1,clean_v31,1
+23668,TurnBackHoax,1,clean_v31,1
+23678,TurnBackHoax,1,clean_v31,1
+23684,TurnBackHoax,1,clean_v31,1
+23703,TurnBackHoax,1,clean_v31,1
+23710,TurnBackHoax,1,clean_v31,1
+23713,TurnBackHoax,1,clean_v31,1
+23718,TurnBackHoax,1,clean_v31,1
+23737,TurnBackHoax,1,clean_v31,1
+23739,TurnBackHoax,1,clean_v31,1
+23760,TurnBackHoax,1,clean_v31,1
+23761,TurnBackHoax,1,clean_v31,1
+23764,TurnBackHoax,1,clean_v31,1
+23772,TurnBackHoax,1,clean_v31,1
+23773,TurnBackHoax,1,clean_v31,1
+23781,TurnBackHoax,1,clean_v31,1
+23788,TurnBackHoax,1,clean_v31,1
+23835,TurnBackHoax,1,clean_v31,1
+23836,TurnBackHoax,1,clean_v31,1
+23853,TurnBackHoax,1,clean_v31,1
+23855,TurnBackHoax,1,clean_v31,1
+23871,TurnBackHoax,1,clean_v31,1
+23875,TurnBackHoax,1,clean_v31,1
+23892,TurnBackHoax,1,clean_v31,1
+23899,TurnBackHoax,1,clean_v31,0
+23904,TurnBackHoax,1,clean_v31,0
+23908,TurnBackHoax,1,clean_v31,1
+23919,TurnBackHoax,1,clean_v31,1
+23936,TurnBackHoax,1,clean_v31,1
+23953,TurnBackHoax,1,clean_v31,0
+23954,TurnBackHoax,1,clean_v31,1
+23966,TurnBackHoax,1,clean_v31,1
+23980,TurnBackHoax,1,clean_v31,1
+23993,TurnBackHoax,1,clean_v31,1
+24012,TurnBackHoax,1,clean_v31,1
+24014,TurnBackHoax,1,clean_v31,1
+24017,TurnBackHoax,1,clean_v31,1
+24019,TurnBackHoax,1,clean_v31,1
+24021,TurnBackHoax,1,clean_v31,1
+24037,TurnBackHoax,1,clean_v31,1
+24043,TurnBackHoax,1,clean_v31,1
+24054,TurnBackHoax,1,clean_v31,1
+24058,TurnBackHoax,1,clean_v31,1
+24068,TurnBackHoax,1,clean_v31,1
+24083,TurnBackHoax,1,clean_v31,1
+24092,TurnBackHoax,1,clean_v31,1
+24096,TurnBackHoax,1,clean_v31,1
+24102,TurnBackHoax,1,clean_v31,1
+24112,TurnBackHoax,1,clean_v31,1
+24123,TurnBackHoax,1,clean_v31,1
+24125,TurnBackHoax,1,clean_v31,1
+24139,TurnBackHoax,1,clean_v31,1
+24163,TurnBackHoax,1,clean_v31,1
+24190,TurnBackHoax,1,clean_v31,0
+24219,TurnBackHoax,1,clean_v31,0
+24235,TurnBackHoax,1,clean_v31,1
+24238,TurnBackHoax,1,clean_v31,1
+24239,TurnBackHoax,1,clean_v31,0
+24244,TurnBackHoax,1,clean_v31,1
+24261,TurnBackHoax,1,clean_v31,1
+24263,TurnBackHoax,1,clean_v31,1
+24272,TurnBackHoax,1,clean_v31,1
+24280,TurnBackHoax,1,clean_v31,1
+24291,TurnBackHoax,1,clean_v31,1
+24305,TurnBackHoax,1,clean_v31,1
+24314,TurnBackHoax,1,clean_v31,1
+24315,TurnBackHoax,1,clean_v31,1
+24359,TurnBackHoax,1,clean_v31,1
+24366,TurnBackHoax,1,clean_v31,1
+24407,TurnBackHoax,1,clean_v31,1
+24416,TurnBackHoax,1,clean_v31,1
+24417,TurnBackHoax,1,clean_v31,1
+24418,TurnBackHoax,1,clean_v31,1
+24426,TurnBackHoax,1,clean_v31,1
+24451,TurnBackHoax,1,clean_v31,1
+24454,TurnBackHoax,1,clean_v31,1
+24466,TurnBackHoax,1,clean_v31,1
+24470,TurnBackHoax,1,clean_v31,0
+24471,TurnBackHoax,1,clean_v31,1
+24490,TurnBackHoax,1,clean_v31,1
+24493,TurnBackHoax,1,clean_v31,1
+24500,TurnBackHoax,1,clean_v31,1
+24536,TurnBackHoax,1,clean_v31,1
+24547,TurnBackHoax,1,clean_v31,1
+24553,TurnBackHoax,1,clean_v31,1
+24554,TurnBackHoax,1,clean_v31,1
+24556,TurnBackHoax,1,clean_v31,1
+24561,TurnBackHoax,1,clean_v31,1
+24564,TurnBackHoax,1,clean_v31,1
+24578,TurnBackHoax,1,clean_v31,1
+24604,TurnBackHoax,1,clean_v31,1
+24616,TurnBackHoax,1,clean_v31,1
+24623,TurnBackHoax,1,clean_v31,0
+24640,TurnBackHoax,1,clean_v31,1
+24643,TurnBackHoax,1,clean_v31,1
+24684,TurnBackHoax,1,clean_v31,0
+24691,TurnBackHoax,1,clean_v31,1
+24720,TurnBackHoax,1,clean_v31,1
+24740,TurnBackHoax,1,clean_v31,1
+24759,TurnBackHoax,1,clean_v31,1
+24776,TurnBackHoax,1,clean_v31,1
+24789,TurnBackHoax,1,clean_v31,0
+24798,TurnBackHoax,1,clean_v31,1
+24820,TurnBackHoax,1,clean_v31,1
+24854,TurnBackHoax,1,clean_v31,1
+24859,TurnBackHoax,1,clean_v31,1
+24863,TurnBackHoax,1,clean_v31,0
+24869,TurnBackHoax,1,clean_v31,1
+24879,TurnBackHoax,1,clean_v31,1
+24900,TurnBackHoax,1,clean_v31,1
+24901,TurnBackHoax,1,clean_v31,1
+24909,TurnBackHoax,1,clean_v31,1
+24910,TurnBackHoax,1,clean_v31,1
+24921,TurnBackHoax,1,clean_v31,1
+24927,TurnBackHoax,1,clean_v31,1
+24929,TurnBackHoax,1,clean_v31,1
+24932,TurnBackHoax,1,clean_v31,0
+24946,TurnBackHoax,1,clean_v31,1
+24948,TurnBackHoax,1,clean_v31,1
+24959,TurnBackHoax,1,clean_v31,1
+24963,TurnBackHoax,1,clean_v31,1
+24977,TurnBackHoax,1,clean_v31,1
+24999,TurnBackHoax,1,clean_v31,1
+25033,TurnBackHoax,1,clean_v31,1
+25036,TurnBackHoax,1,clean_v31,1
+25048,TurnBackHoax,1,clean_v31,1
+25056,TurnBackHoax,1,clean_v31,1
+25062,TurnBackHoax,1,clean_v31,1
+25072,TurnBackHoax,1,clean_v31,0
+25073,TurnBackHoax,1,clean_v31,1
+25074,TurnBackHoax,1,clean_v31,1
+25086,TurnBackHoax,1,clean_v31,1
+25088,TurnBackHoax,1,clean_v31,1
+25092,TurnBackHoax,1,clean_v31,1
+25093,TurnBackHoax,1,clean_v31,1
+25108,TurnBackHoax,1,clean_v31,1
+25113,TurnBackHoax,1,clean_v31,1
+25135,TurnBackHoax,1,clean_v31,1
+25141,TurnBackHoax,1,clean_v31,1
+25149,TurnBackHoax,1,clean_v31,1
+25167,TurnBackHoax,1,clean_v31,1
+25179,TurnBackHoax,1,clean_v31,1
+25188,TurnBackHoax,1,clean_v31,1
+25192,TurnBackHoax,1,clean_v31,1
+25210,TurnBackHoax,1,clean_v31,0
+25224,TurnBackHoax,1,clean_v31,1
+25228,TurnBackHoax,1,clean_v31,1
+25272,TurnBackHoax,1,clean_v31,1
+25294,TurnBackHoax,1,clean_v31,1
+25300,TurnBackHoax,1,clean_v31,1
+25302,TurnBackHoax,1,clean_v31,1
+25317,TurnBackHoax,1,clean_v31,1
+25337,TurnBackHoax,1,clean_v31,1
+25380,TurnBackHoax,1,clean_v31,1
+25398,TurnBackHoax,1,clean_v31,0
+25399,TurnBackHoax,1,clean_v31,1
+25402,TurnBackHoax,1,clean_v31,1
+25403,TurnBackHoax,1,clean_v31,1
+25407,TurnBackHoax,1,clean_v31,1
+25412,TurnBackHoax,1,clean_v31,1
+25427,TurnBackHoax,1,clean_v31,1
+25428,TurnBackHoax,1,clean_v31,1
+25429,TurnBackHoax,1,clean_v31,1
+25432,TurnBackHoax,1,clean_v31,1
+25442,TurnBackHoax,1,clean_v31,1
+25445,TurnBackHoax,1,clean_v31,1
+25448,TurnBackHoax,1,clean_v31,0
+25467,TurnBackHoax,1,clean_v31,1
+25468,TurnBackHoax,1,clean_v31,0
+25470,TurnBackHoax,1,clean_v31,1
+25475,TurnBackHoax,1,clean_v31,1
+25479,TurnBackHoax,1,clean_v31,1
+25497,TurnBackHoax,1,clean_v31,1
+25499,TurnBackHoax,1,clean_v31,1
+25507,TurnBackHoax,1,clean_v31,1
+25515,TurnBackHoax,1,clean_v31,1
+25525,TurnBackHoax,1,clean_v31,1
+25549,TurnBackHoax,1,clean_v31,1
+25552,TurnBackHoax,1,clean_v31,1
+25554,TurnBackHoax,1,clean_v31,1
+25561,TurnBackHoax,1,clean_v31,1
+25568,TurnBackHoax,1,clean_v31,0
+25577,TurnBackHoax,1,clean_v31,1
+25581,TurnBackHoax,1,clean_v31,1
+25584,TurnBackHoax,1,clean_v31,1
+25607,TurnBackHoax,1,clean_v31,1
+25616,TurnBackHoax,1,clean_v31,1
+25618,TurnBackHoax,1,clean_v31,1
+25641,TurnBackHoax,1,clean_v31,0
+25642,TurnBackHoax,1,clean_v31,1
+25646,TurnBackHoax,1,clean_v31,1
+25648,TurnBackHoax,1,clean_v31,1
+25661,TurnBackHoax,1,clean_v31,1
+25699,TurnBackHoax,1,clean_v31,1
+25707,TurnBackHoax,1,clean_v31,1
+25717,TurnBackHoax,1,clean_v31,1
+25723,TurnBackHoax,1,clean_v31,1
+25738,TurnBackHoax,1,clean_v31,1
+25745,TurnBackHoax,1,clean_v31,0
+25749,TurnBackHoax,1,clean_v31,1
+25750,TurnBackHoax,1,clean_v31,1
+25772,TurnBackHoax,1,clean_v31,1
+25782,TurnBackHoax,1,clean_v31,1
+25796,TurnBackHoax,1,clean_v31,1
+25815,TurnBackHoax,1,clean_v31,1
+25833,TurnBackHoax,1,clean_v31,1
+25854,TurnBackHoax,1,clean_v31,1
+25872,TurnBackHoax,1,clean_v31,1
+25878,TurnBackHoax,1,clean_v31,1
+25895,TurnBackHoax,1,clean_v31,0
+25932,TurnBackHoax,1,clean_v31,1
+25938,TurnBackHoax,1,clean_v31,1
+25943,TurnBackHoax,1,clean_v31,1
+25947,TurnBackHoax,1,clean_v31,1
+25950,TurnBackHoax,1,clean_v31,1
+25954,TurnBackHoax,1,clean_v31,1
+25959,TurnBackHoax,1,clean_v31,1
+25964,TurnBackHoax,1,clean_v31,1
+25984,TurnBackHoax,1,clean_v31,1
+26003,TurnBackHoax,1,clean_v31,1
+26008,TurnBackHoax,1,clean_v31,1
+26009,TurnBackHoax,1,clean_v31,1
+26028,TurnBackHoax,1,clean_v31,1
+26031,TurnBackHoax,1,clean_v31,1
+26040,TurnBackHoax,1,clean_v31,1
+26050,TurnBackHoax,1,clean_v31,1
+26062,TurnBackHoax,1,clean_v31,1
+26077,TurnBackHoax,1,clean_v31,1
+26083,TurnBackHoax,1,clean_v31,1
+26090,TurnBackHoax,1,clean_v31,1
+26104,TurnBackHoax,1,clean_v31,1
+26112,TurnBackHoax,1,clean_v31,1
+26139,TurnBackHoax,1,clean_v31,1
+26154,TurnBackHoax,1,clean_v31,1
+26181,TurnBackHoax,1,clean_v31,1
+26215,TurnBackHoax,1,clean_v31,1
+26238,TurnBackHoax,1,clean_v31,1
+26250,TurnBackHoax,1,clean_v31,1
+26258,TurnBackHoax,1,clean_v31,1
+26262,TurnBackHoax,1,clean_v31,1
+26272,TurnBackHoax,1,clean_v31,1
+26281,TurnBackHoax,1,clean_v31,1
+26286,TurnBackHoax,1,clean_v31,1
+26302,TurnBackHoax,1,clean_v31,1
+26310,TurnBackHoax,1,clean_v31,1
+26316,TurnBackHoax,1,clean_v31,1
+26328,TurnBackHoax,1,clean_v31,1
+26332,TurnBackHoax,1,clean_v31,1
+26342,TurnBackHoax,1,clean_v31,1
+26348,TurnBackHoax,1,clean_v31,1
+26354,TurnBackHoax,1,clean_v31,1
+26359,TurnBackHoax,1,clean_v31,1
+26386,TurnBackHoax,1,clean_v31,1
+26399,TurnBackHoax,1,clean_v31,1
+26420,TurnBackHoax,1,clean_v31,1
+26436,TurnBackHoax,1,clean_v31,1
+26437,TurnBackHoax,1,clean_v31,1
+26446,TurnBackHoax,1,clean_v31,1
+26491,TurnBackHoax,1,clean_v31,1
+26523,TurnBackHoax,1,clean_v31,1
+26550,TurnBackHoax,1,clean_v31,1
+26567,TurnBackHoax,1,clean_v31,0
+26581,TurnBackHoax,1,clean_v31,1
+26587,TurnBackHoax,1,clean_v31,1
+26592,TurnBackHoax,1,clean_v31,1
+26603,TurnBackHoax,1,clean_v31,1
+26623,TurnBackHoax,1,clean_v31,1
+26665,TurnBackHoax,1,clean_v31,1
+26671,TurnBackHoax,1,clean_v31,1
+26687,TurnBackHoax,1,clean_v31,1
+26700,TurnBackHoax,1,clean_v31,1
+26734,TurnBackHoax,1,clean_v31,0
+26738,TurnBackHoax,1,clean_v31,1
+26748,TurnBackHoax,1,clean_v31,1
+26752,TurnBackHoax,1,clean_v31,1
+26762,TurnBackHoax,1,clean_v31,1
+26763,TurnBackHoax,1,clean_v31,1
+26769,TurnBackHoax,1,clean_v31,1
+26810,TurnBackHoax,1,clean_v31,1
+26813,TurnBackHoax,1,clean_v31,1
+26842,TurnBackHoax,1,clean_v31,1
+26871,TurnBackHoax,1,clean_v31,1
+26886,TurnBackHoax,1,clean_v31,1
+26893,TurnBackHoax,1,clean_v31,1
+26894,TurnBackHoax,1,clean_v31,1
+26901,TurnBackHoax,1,clean_v31,1
+26908,TurnBackHoax,1,clean_v31,1
+26926,TurnBackHoax,1,clean_v31,1
+26945,TurnBackHoax,1,clean_v31,1
+26949,TurnBackHoax,1,clean_v31,1
+26951,TurnBackHoax,1,clean_v31,1
+26977,TurnBackHoax,1,clean_v31,1
+26986,TurnBackHoax,1,clean_v31,1
+26987,TurnBackHoax,1,clean_v31,1
+26989,TurnBackHoax,1,clean_v31,1
+27004,TurnBackHoax,1,clean_v31,1
+27032,TurnBackHoax,1,clean_v31,1
+27037,TurnBackHoax,1,clean_v31,1
+27048,TurnBackHoax,1,clean_v31,1
+27050,TurnBackHoax,1,clean_v31,0
+27052,TurnBackHoax,1,clean_v31,1
+27086,TurnBackHoax,1,clean_v31,1
+27093,TurnBackHoax,1,clean_v31,1
+27103,TurnBackHoax,1,clean_v31,1
+27110,TurnBackHoax,1,clean_v31,1
+27136,TurnBackHoax,1,clean_v31,1
+27159,TurnBackHoax,1,clean_v31,1
+27170,TurnBackHoax,1,clean_v31,1
+27187,TurnBackHoax,1,clean_v31,1
+27213,TurnBackHoax,1,clean_v31,1
+27254,TurnBackHoax,1,clean_v31,1
+27256,TurnBackHoax,1,clean_v31,1
+27269,TurnBackHoax,1,clean_v31,1
+27294,TurnBackHoax,1,clean_v31,1
+27295,TurnBackHoax,1,clean_v31,1
+27298,TurnBackHoax,1,clean_v31,1
+27304,TurnBackHoax,1,clean_v31,1
+27318,TurnBackHoax,1,clean_v31,1
+27329,TurnBackHoax,1,clean_v31,0
+27332,TurnBackHoax,1,clean_v31,1
+27334,TurnBackHoax,1,clean_v31,1
+27335,TurnBackHoax,1,clean_v31,1
+27342,TurnBackHoax,1,clean_v31,0
+27343,TurnBackHoax,1,clean_v31,1
+27365,TurnBackHoax,1,clean_v31,1
+27367,TurnBackHoax,1,clean_v31,0
+27376,TurnBackHoax,1,clean_v31,0
+27399,TurnBackHoax,1,clean_v31,1
+27403,TurnBackHoax,1,clean_v31,1
+27405,TurnBackHoax,1,clean_v31,1
+27411,TurnBackHoax,1,clean_v31,1
+27414,TurnBackHoax,1,clean_v31,1
+27416,TurnBackHoax,1,clean_v31,1
+27431,TurnBackHoax,1,clean_v31,1
+27475,TurnBackHoax,1,clean_v31,1
+27487,TurnBackHoax,1,clean_v31,1
+27490,TurnBackHoax,1,clean_v31,1
+27495,TurnBackHoax,1,clean_v31,0
+27496,TurnBackHoax,1,clean_v31,0
+27506,TurnBackHoax,1,clean_v31,1
+27510,TurnBackHoax,1,clean_v31,1
+27512,TurnBackHoax,1,clean_v31,1
+27516,TurnBackHoax,1,clean_v31,1
+27523,TurnBackHoax,1,clean_v31,1
+27529,TurnBackHoax,1,clean_v31,1
+27542,TurnBackHoax,1,clean_v31,1
+27554,TurnBackHoax,1,clean_v31,1
+27562,TurnBackHoax,1,clean_v31,1
+27568,TurnBackHoax,1,clean_v31,1
+27581,TurnBackHoax,1,clean_v31,1
+27593,TurnBackHoax,1,clean_v31,1
+27599,TurnBackHoax,1,clean_v31,1
+27607,TurnBackHoax,1,clean_v31,1
+27658,TurnBackHoax,1,clean_v31,1
+27660,TurnBackHoax,1,clean_v31,1
+27675,TurnBackHoax,1,clean_v31,1
+27698,TurnBackHoax,1,clean_v31,1
+27703,TurnBackHoax,1,clean_v31,1
+27710,TurnBackHoax,1,clean_v31,1
+27729,TurnBackHoax,1,clean_v31,0
+27736,TurnBackHoax,1,clean_v31,1
+27741,TurnBackHoax,1,clean_v31,1
+27750,TurnBackHoax,1,clean_v31,1
+27772,TurnBackHoax,1,clean_v31,1
+27791,TurnBackHoax,1,clean_v31,0
+27794,TurnBackHoax,1,clean_v31,1
+27816,TurnBackHoax,1,clean_v31,0
+27825,TurnBackHoax,1,clean_v31,1
+27831,TurnBackHoax,1,clean_v31,1
+27836,TurnBackHoax,1,clean_v31,0
+27848,TurnBackHoax,1,clean_v31,1
+27853,TurnBackHoax,1,clean_v31,1
+27855,TurnBackHoax,1,clean_v31,1
+27873,TurnBackHoax,1,clean_v31,1
+27882,TurnBackHoax,1,clean_v31,1
+27883,TurnBackHoax,1,clean_v31,1
+27906,TurnBackHoax,1,clean_v31,1
+27908,TurnBackHoax,1,clean_v31,1
+27931,TurnBackHoax,1,clean_v31,1
+27940,TurnBackHoax,1,clean_v31,1
+27943,TurnBackHoax,1,clean_v31,1
+27944,TurnBackHoax,1,clean_v31,1
+27950,TurnBackHoax,1,clean_v31,1
+27959,TurnBackHoax,1,clean_v31,1
+27981,TurnBackHoax,1,clean_v31,1
+27982,TurnBackHoax,1,clean_v31,1
+27984,TurnBackHoax,1,clean_v31,1
+28000,TurnBackHoax,1,clean_v31,1
+28005,TurnBackHoax,1,clean_v31,1
+28036,TurnBackHoax,1,clean_v31,1
+28044,TurnBackHoax,1,clean_v31,1
+28046,TurnBackHoax,1,clean_v31,1
+28050,TurnBackHoax,1,clean_v31,1
+28056,TurnBackHoax,1,clean_v31,1
+28059,TurnBackHoax,1,clean_v31,1
+28070,TurnBackHoax,1,clean_v31,1
+28072,TurnBackHoax,1,clean_v31,1
+28092,TurnBackHoax,1,clean_v31,1
+28096,TurnBackHoax,1,clean_v31,1
+28130,TurnBackHoax,1,clean_v31,1
+28136,TurnBackHoax,1,clean_v31,1
+28138,TurnBackHoax,1,clean_v31,1
+28144,TurnBackHoax,1,clean_v31,1
+28163,TurnBackHoax,1,clean_v31,1
+28174,TurnBackHoax,1,clean_v31,1
+28183,TurnBackHoax,1,clean_v31,1
+28192,TurnBackHoax,1,clean_v31,1
+28204,TurnBackHoax,1,clean_v31,1
+28208,TurnBackHoax,1,clean_v31,1
+28229,TurnBackHoax,1,clean_v31,1
+28278,TurnBackHoax,1,clean_v31,1
+28288,TurnBackHoax,1,clean_v31,1
+28292,TurnBackHoax,1,clean_v31,0
+28347,TurnBackHoax,1,clean_v31,1
+28350,TurnBackHoax,1,clean_v31,1
+28409,TurnBackHoax,1,clean_v31,1
+28411,TurnBackHoax,1,clean_v31,1
+28441,TurnBackHoax,1,clean_v31,1
+28445,TurnBackHoax,1,clean_v31,1
+28458,TurnBackHoax,1,clean_v31,1
+28461,TurnBackHoax,1,clean_v31,1
+28467,TurnBackHoax,1,clean_v31,1
+28494,TurnBackHoax,1,clean_v31,1
+28496,TurnBackHoax,1,clean_v31,1
+28536,TurnBackHoax,1,clean_v31,1
+28560,TurnBackHoax,1,clean_v31,1
+28561,TurnBackHoax,1,clean_v31,1
+28577,TurnBackHoax,1,clean_v31,1
+28588,TurnBackHoax,1,clean_v31,1
+28593,TurnBackHoax,1,clean_v31,1
+28595,TurnBackHoax,1,clean_v31,1
+28638,TurnBackHoax,1,clean_v31,1
+28666,TurnBackHoax,1,clean_v31,1
+28673,TurnBackHoax,1,clean_v31,1
+28699,TurnBackHoax,1,clean_v31,0
+28704,TurnBackHoax,1,clean_v31,1
+28708,TurnBackHoax,1,clean_v31,0
+28713,TurnBackHoax,1,clean_v31,1
+28726,TurnBackHoax,1,clean_v31,1
+28751,TurnBackHoax,1,clean_v31,1
+28774,TurnBackHoax,1,clean_v31,1
+28801,TurnBackHoax,1,clean_v31,1
+28802,TurnBackHoax,1,clean_v31,1
+28829,TurnBackHoax,1,clean_v31,1
+28847,TurnBackHoax,1,clean_v31,1
+28856,TurnBackHoax,1,clean_v31,1
+28861,TurnBackHoax,1,clean_v31,1
+28884,TurnBackHoax,1,clean_v31,1
+28899,TurnBackHoax,1,clean_v31,1
+28900,TurnBackHoax,1,clean_v31,1
+28939,TurnBackHoax,1,clean_v31,1
+28953,TurnBackHoax,1,clean_v31,1
+28984,TurnBackHoax,1,clean_v31,1
+28999,TurnBackHoax,1,clean_v31,1
+29008,TurnBackHoax,1,clean_v31,1
+29018,TurnBackHoax,1,clean_v31,1
+29019,TurnBackHoax,1,clean_v31,1
+29036,TurnBackHoax,1,clean_v31,1
+29066,TurnBackHoax,1,clean_v31,1
+29084,TurnBackHoax,1,clean_v31,1
+29087,TurnBackHoax,1,clean_v31,1
+29140,TurnBackHoax,1,clean_v31,1
+29170,TurnBackHoax,1,clean_v31,1
+29175,TurnBackHoax,1,clean_v31,0
+29190,TurnBackHoax,1,clean_v31,1
+29196,TurnBackHoax,1,clean_v31,1
+29206,TurnBackHoax,1,clean_v31,1
+29220,TurnBackHoax,1,clean_v31,1
+29295,TurnBackHoax,1,clean_v31,1
+29300,TurnBackHoax,1,clean_v31,1
+29304,TurnBackHoax,1,clean_v31,1
+29305,TurnBackHoax,1,clean_v31,1
+29320,TurnBackHoax,1,clean_v31,1
+29335,TurnBackHoax,1,clean_v31,1
+29336,TurnBackHoax,1,clean_v31,0
+29355,TurnBackHoax,1,clean_v31,1
+29356,TurnBackHoax,1,clean_v31,1
+29382,TurnBackHoax,1,clean_v31,0
+29385,TurnBackHoax,1,clean_v31,1
+29393,TurnBackHoax,1,clean_v31,0
+29394,TurnBackHoax,1,clean_v31,1
+29413,TurnBackHoax,1,clean_v31,1
+29434,TurnBackHoax,1,clean_v31,1
+29438,TurnBackHoax,1,clean_v31,1
+29442,TurnBackHoax,1,clean_v31,0
+29452,TurnBackHoax,1,clean_v31,1
+29511,TurnBackHoax,1,clean_v31,0
+29536,TurnBackHoax,1,clean_v31,1
+29540,TurnBackHoax,1,clean_v31,1
+29544,TurnBackHoax,1,clean_v31,1
+29546,TurnBackHoax,1,clean_v31,1
+29554,TurnBackHoax,1,clean_v31,1
+29557,TurnBackHoax,1,clean_v31,1
+29581,TurnBackHoax,1,clean_v31,1
+29596,TurnBackHoax,1,clean_v31,1
+29610,TurnBackHoax,1,clean_v31,1
+29619,TurnBackHoax,1,clean_v31,1
+29645,TurnBackHoax,1,clean_v31,1
+29658,TurnBackHoax,1,clean_v31,1
+29685,TurnBackHoax,1,clean_v31,1
+29689,TurnBackHoax,1,clean_v31,1
+29700,TurnBackHoax,1,clean_v31,1
+29705,TurnBackHoax,1,clean_v31,1
+29707,TurnBackHoax,1,clean_v31,1
+29708,TurnBackHoax,1,clean_v31,1
+29722,TurnBackHoax,1,clean_v31,1
+29726,TurnBackHoax,1,clean_v31,0
+29752,TurnBackHoax,1,clean_v31,0
+29789,TurnBackHoax,1,clean_v31,1
+29808,TurnBackHoax,1,clean_v31,0
+29813,TurnBackHoax,1,clean_v31,1
+29836,TurnBackHoax,1,clean_v31,1
+29845,TurnBackHoax,1,clean_v31,1
+29902,TurnBackHoax,1,clean_v31,1
+29937,TurnBackHoax,1,clean_v31,1
+29942,TurnBackHoax,1,clean_v31,1
+29943,TurnBackHoax,1,clean_v31,1
+29954,TurnBackHoax,1,clean_v31,1
+29985,TurnBackHoax,1,clean_v31,1
+29987,TurnBackHoax,1,clean_v31,1
+29999,TurnBackHoax,1,clean_v31,1
+30013,TurnBackHoax,1,clean_v31,0
+30019,TurnBackHoax,1,clean_v31,1
+30042,TurnBackHoax,1,clean_v31,1
+30055,TurnBackHoax,1,clean_v31,1
+30086,TurnBackHoax,1,clean_v31,1
+30097,TurnBackHoax,1,clean_v31,1
+30124,TurnBackHoax,1,clean_v31,0
+30129,TurnBackHoax,1,clean_v31,0
+30133,TurnBackHoax,1,clean_v31,1
+30136,TurnBackHoax,1,clean_v31,0
+30157,TurnBackHoax,1,clean_v31,1
+30171,TurnBackHoax,1,clean_v31,1
+30181,TurnBackHoax,1,clean_v31,1
+30248,TurnBackHoax,1,clean_v31,1
+30250,TurnBackHoax,1,clean_v31,1
+30259,TurnBackHoax,1,clean_v31,1
+30267,TurnBackHoax,1,clean_v31,1
+30273,TurnBackHoax,1,clean_v31,1
+30295,TurnBackHoax,1,clean_v31,1
+30312,TurnBackHoax,1,clean_v31,1
+30320,TurnBackHoax,1,clean_v31,1
+30349,TurnBackHoax,1,clean_v31,1
+30368,TurnBackHoax,1,clean_v31,1
+30370,TurnBackHoax,1,clean_v31,0
+30392,TurnBackHoax,1,clean_v31,1
+30406,TurnBackHoax,1,clean_v31,1
+30426,TurnBackHoax,1,clean_v31,1
+30435,TurnBackHoax,1,clean_v31,0
+30460,TurnBackHoax,1,clean_v31,0
+30473,TurnBackHoax,1,clean_v31,0
+30523,TurnBackHoax,1,clean_v31,1
+30532,TurnBackHoax,1,clean_v31,1
+30537,TurnBackHoax,1,clean_v31,0
+30626,TurnBackHoax,1,clean_v31,0
+30634,TurnBackHoax,1,clean_v31,0
+30649,TurnBackHoax,1,clean_v31,0
+30668,TurnBackHoax,1,clean_v31,0
+30719,TurnBackHoax,1,clean_v31,0
+30727,TurnBackHoax,1,clean_v31,1
+30774,TurnBackHoax,1,clean_v31,0
+30783,TurnBackHoax,1,clean_v31,0
+30798,TurnBackHoax,1,clean_v31,1
+30823,TurnBackHoax,1,clean_v31,1
+30833,TurnBackHoax,1,clean_v31,1
+30840,TurnBackHoax,1,clean_v31,1
+30886,TurnBackHoax,1,clean_v31,0
+30889,TurnBackHoax,1,clean_v31,1
+30915,TurnBackHoax,1,clean_v31,1
+30928,TurnBackHoax,1,clean_v31,1
+30956,TurnBackHoax,1,clean_v31,1
+30977,TurnBackHoax,1,clean_v31,1
+30981,TurnBackHoax,1,clean_v31,0
+30982,TurnBackHoax,1,clean_v31,0
+30984,TurnBackHoax,1,clean_v31,1
+30985,TurnBackHoax,1,clean_v31,0
+30986,TurnBackHoax,1,clean_v31,1
+30992,TurnBackHoax,1,clean_v31,1
+30997,TurnBackHoax,1,clean_v31,1
+31008,TurnBackHoax,1,clean_v31,1
+31017,TurnBackHoax,1,clean_v31,1
+31047,TurnBackHoax,1,clean_v31,1
+31091,TurnBackHoax,1,clean_v31,1
+31122,TurnBackHoax,1,clean_v31,1
+31154,TurnBackHoax,1,clean_v31,1
+31158,TurnBackHoax,1,clean_v31,1
+31164,TurnBackHoax,1,clean_v31,1
+31170,TurnBackHoax,1,clean_v31,1
+31195,TurnBackHoax,1,clean_v31,1
+31231,TurnBackHoax,1,clean_v31,1
+31266,TurnBackHoax,1,clean_v31,1
+31267,TurnBackHoax,1,clean_v31,0
+31274,TurnBackHoax,1,clean_v31,1
+31313,TurnBackHoax,1,clean_v31,1
+31316,TurnBackHoax,1,clean_v31,1
+31319,TurnBackHoax,1,clean_v31,1
+31328,TurnBackHoax,1,clean_v31,1
+31332,TurnBackHoax,1,clean_v31,1
+31358,TurnBackHoax,1,clean_v31,1
+31361,TurnBackHoax,1,clean_v31,1
+31382,TurnBackHoax,1,clean_v31,1
+31384,TurnBackHoax,1,clean_v31,1
+31390,TurnBackHoax,1,clean_v31,1
+31399,TurnBackHoax,1,clean_v31,1
+31426,TurnBackHoax,1,clean_v31,1
+31470,TurnBackHoax,1,clean_v31,1
+31474,TurnBackHoax,1,clean_v31,1
+31488,TurnBackHoax,1,clean_v31,1
+31489,TurnBackHoax,1,clean_v31,1
+31499,TurnBackHoax,1,clean_v31,1
+31502,TurnBackHoax,1,clean_v31,1
+31530,TurnBackHoax,1,clean_v31,1
+31557,TurnBackHoax,1,clean_v31,0
+31561,TurnBackHoax,1,clean_v31,1
+31581,TurnBackHoax,1,clean_v31,0
+31617,TurnBackHoax,1,clean_v31,0
+31640,TurnBackHoax,1,clean_v31,1
+31644,TurnBackHoax,1,clean_v31,1
+31670,TurnBackHoax,1,clean_v31,1
+31676,TurnBackHoax,1,clean_v31,1
+31680,TurnBackHoax,1,clean_v31,0
+31682,TurnBackHoax,1,clean_v31,1
+31705,TurnBackHoax,1,clean_v31,1
+31712,TurnBackHoax,1,clean_v31,1
+31740,TurnBackHoax,1,clean_v31,1
+31745,TurnBackHoax,1,clean_v31,0
+31762,TurnBackHoax,1,clean_v31,1
+31771,TurnBackHoax,1,clean_v31,1
+31792,TurnBackHoax,1,clean_v31,1
+31796,TurnBackHoax,1,clean_v31,1

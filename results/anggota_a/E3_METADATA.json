@@ -1,0 +1,24 @@
+{
+  "data_version": "V3.1_A2_PROVISIONAL",
+  "dataset_file": "DATASET_V3_1_KANDIDAT_OPERASIONAL.csv",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "features": [
+    "uppercase_ratio",
+    "exclamation_count",
+    "question_count",
+    "allcaps_word_count",
+    "word_count"
+  ],
+  "seed": 42,
+  "train_count": 23351,
+  "validation_count": 2919,
+  "test_accessed_for_experiment": false,
+  "logistic_regression": {
+    "max_iter": 3000,
+    "class_weight": "none",
+    "scaler_fit": "TRAIN_ONLY",
+    "C": 1.0
+  },
+  "sklearn_version": "1.6.1",
+  "caveat": "Source and label confounded; raw includes dataset artifacts. Do not interpret as causal attribution."
+}
