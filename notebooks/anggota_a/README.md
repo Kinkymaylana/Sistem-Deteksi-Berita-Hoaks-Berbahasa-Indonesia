@@ -6,6 +6,6 @@ Folder ini berisi notebook pengerjaan Anggota A untuk proyek Sistem Deteksi Beri
 - A2: Preprocessing dataset V3.1
 - A3: Pengujian kesetaraan preprocessing
 - A4: Eksperimen E3 fitur gaya
-- A5: Eksperimen E4 kontrol panjang teks
+- A5: Eksperimen E4 kontrol panjang teks (diambil alih anggota D)
 
 Dataset berukuran besar disimpan di Google Drive kelompok.

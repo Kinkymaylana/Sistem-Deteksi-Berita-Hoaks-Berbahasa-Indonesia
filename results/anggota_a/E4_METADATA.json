@@ -1,0 +1,39 @@
+{
+  "experiment": "E4",
+  "task": "A5",
+  "data_version": "V3.1_A2_PROVISIONAL",
+  "dataset_file": "DATASET_V3_1_KANDIDAT_OPERASIONAL.csv",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "text_col": "text_clean_v31",
+  "split_col": "random_split",
+  "seed": 42,
+  "length_pool": "word count of HOAKS in LATIH only",
+  "truncation": "head (first k words), VALID only",
+  "valid_truncated": 20090,
+  "valid_total": 20867,
+  "tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_features": 200000,
+    "sublinear_tf": true
+  },
+  "models": {
+    "ComplementNB": {
+      "alpha": 1.0
+    },
+    "LinearSVM": {
+      "C": 1.0,
+      "class_weight": "balanced"
+    }
+  },
+  "n_bootstrap": 1000,
+  "train_count": 23351,
+  "validation_count": 2919,
+  "test_accessed_for_experiment": false,
+  "sklearn_version": "1.6.1",
+  "run_at": "2026-11-20T17:46:41",
+  "caveat": "Length control removes length cues only; topic and style differences between sources remain."
+}
