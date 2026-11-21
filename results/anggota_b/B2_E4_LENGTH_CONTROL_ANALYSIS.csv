@@ -1,0 +1,3 @@
+model,feature,macro_f1,macro_f1_ci_95,accuracy,f1_hoaks,precision_hoaks,recall_hoaks
+ComplementNB,text_clean_e4 (Kontrol Panjang),0.942362,"[0.9334, 0.9512]",0.954436,0.915982,0.965379,0.871394
+LinearSVM,text_clean_e4 (Kontrol Panjang),0.976599,"[0.9708, 0.9822]",0.980815,0.966667,0.957547,0.975962

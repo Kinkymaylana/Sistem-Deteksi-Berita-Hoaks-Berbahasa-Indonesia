@@ -1,0 +1,5 @@
+model,skema_split,macro_f1_val_2021,macro_f1_ci_95,accuracy,f1_hoaks
+ComplementNB,temporal_main (Kompas & TBH),0.964037,"[0.9547, 0.9729]",0.972902,0.981893
+ComplementNB,temporal_split (Semua Sumber),0.981899,"[0.9775, 0.9857]",0.983202,0.977042
+LinearSVM,temporal_main (Kompas & TBH),0.995219,"[0.9916, 0.9982]",0.996503,0.997697
+LinearSVM,temporal_split (Semua Sumber),0.989549,"[0.9865, 0.9925]",0.990219,0.986902
