@@ -1,0 +1,3 @@
+model,feature,macro_f1,macro_f1_ci_95,accuracy,f1_hoaks,precision_hoaks,recall_hoaks
+ComplementNB,title (Judul Saja),0.956139,"[0.9485, 0.9640]",0.964029,0.937537,0.928151,0.947115
+LinearSVM,title (Judul Saja),0.997899,"[0.9958, 0.9996]",0.998287,0.996997,0.996399,0.997596

@@ -1,0 +1,17 @@
+{
+  "model_tokenizer": "indobenchmark/indobert-base-p1",
+  "token_count_includes_special_tokens": true,
+  "threshold": 256,
+  "class_0_VALID": {
+    "n": 20867,
+    "count_over_256": 19591,
+    "percent_over_256": 93.89,
+    "median_token": 421
+  },
+  "class_1_HOAKS": {
+    "n": 8322,
+    "count_over_256": 657,
+    "percent_over_256": 7.89,
+    "median_token": 50.0
+  }
+}

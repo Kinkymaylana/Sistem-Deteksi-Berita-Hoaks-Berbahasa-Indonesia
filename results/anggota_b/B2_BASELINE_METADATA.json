@@ -1,0 +1,8 @@
+{
+  "dataset": "Dataset V3, 29189 baris",
+  "evaluasi": "VALIDASI; data UJI tidak digunakan",
+  "sklearn_version": "1.8.0",
+  "python_version": "3.13.5",
+  "pipeline": "TFIDF unigram-bigram min_df=2 sublinear_tf=True max_features=200000",
+  "preprocess": "Dilakukan sebelumnya; dilatih pada kolom text_clean V3"
+}
