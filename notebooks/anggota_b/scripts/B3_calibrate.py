@@ -51,25 +51,31 @@ def load_dataset(data_path):
 def main():
     parser = argparse.ArgumentParser(description="Kalibrasi Probabilitas SVM & Evaluasi Agen S2 (Anggota B)")
     parser.add_argument('--data', default=str(BASE_DIR / 'data' / 'DATASET_V3_KANDIDAT_OPERASIONAL.csv'))
+    parser.add_argument('--text-col', default='text_clean')
+    parser.add_argument('--data-version', default='Korpus V3.1 (atau V3 pre-V3.1)')
     parser.add_argument('--model-in', default=str(BASE_DIR / 'models' / 'LinearSVM.joblib'))
     parser.add_argument('--model-out', default=str(BASE_DIR / 'models' / 'LinearSVM_calibrated.joblib'))
     parser.add_argument('--model-card', default=str(BASE_DIR / 'models' / 'model_card.json'))
     parser.add_argument('--experiments-log', default=str(BASE_DIR / 'results' / 'experiments.csv'))
+    parser.add_argument('--rel-out', default=str(BASE_DIR / 'results' / 'reliability_bins_svm.csv'))
+    parser.add_argument('--risk-out', default=str(BASE_DIR / 'results' / 'selective_risk_coverage_svm.csv'))
     args = parser.parse_args()
 
-    models_dir = BASE_DIR / 'models'
-    models_dir.mkdir(parents=True, exist_ok=True)
-    results_dir = BASE_DIR / 'results'
-    results_dir.mkdir(parents=True, exist_ok=True)
+    Path(args.model_in).parent.mkdir(parents=True, exist_ok=True)
+    Path(args.model_out).parent.mkdir(parents=True, exist_ok=True)
+    Path(args.model_card).parent.mkdir(parents=True, exist_ok=True)
+    Path(args.experiments_log).parent.mkdir(parents=True, exist_ok=True)
+    Path(args.rel_out).parent.mkdir(parents=True, exist_ok=True)
+    Path(args.risk_out).parent.mkdir(parents=True, exist_ok=True)
 
     df = load_dataset(args.data)
     df_active = df.loc[df['random_split'].isin(['LATIH', 'VALIDASI'])].copy()
     train_df = df_active.loc[df_active['random_split'] == 'LATIH']
     valid_df = df_active.loc[df_active['random_split'] == 'VALIDASI']
 
-    X_train = train_df['text_clean'].fillna('').astype(str)
+    X_train = train_df[args.text_col].fillna('').astype(str)
     y_train = train_df['label']
-    X_valid = valid_df['text_clean'].fillna('').astype(str)
+    X_valid = valid_df[args.text_col].fillna('').astype(str)
     y_valid = valid_df['label']
 
     model_in_path = Path(args.model_in)
@@ -136,7 +142,7 @@ def main():
             'mean_prob_post': b_post['mean_predicted_prob'],
             'emp_pos_post': b_post['empirical_positive_rate']
         })
-    rel_path = results_dir / 'reliability_bins_svm.csv'
+    rel_path = Path(args.rel_out)
     pd.DataFrame(rel_rows).to_csv(rel_path, index=False)
 
     # Evaluasi Risk-Coverage / Expected Loss untuk C_FN in {3, 5, 10}
@@ -160,7 +166,7 @@ def main():
               f"Selective F1: {sel_res['selective_macro_f1']:.4f} | FN turun: {sel_res['fn_count_standard']} -> {sel_res['fn_count_selective']} | "
               f"Expected Loss: {sel_res['expected_loss_standard']:.4f} -> {sel_res['expected_loss_selective']:.4f}")
 
-    risk_path = results_dir / 'selective_risk_coverage_svm.csv'
+    risk_path = Path(args.risk_out)
     pd.DataFrame(risk_rows).to_csv(risk_path, index=False)
 
     # 4. Simpan Artefak Model & Model Card S2
@@ -170,7 +176,7 @@ def main():
     model_card_data = {
         "model_name": "LinearSVM_calibrated",
         "description": "Model Linear Support Vector Classifier dengan TF-IDF (1,2) dikalibrasi menggunakan Platt Scaling (Sigmoid) & dievaluasi dengan Chow's Rejection Rule",
-        "data_version": "Korpus V3.1 (atau V3 pre-V3.1)",
+        "data_version": args.data_version,
         "n_samples_train": len(X_train),
         "n_samples_valid": len(X_valid),
         "hyperparameters": {
@@ -221,7 +227,7 @@ def main():
     log_experiment(
         results_csv_path=args.experiments_log,
         run_id="calibration_LinearSVM_platt_s2",
-        versi_data="V3.1 (atau V3 pre-V3.1)",
+        versi_data=args.data_version,
         kondisi="platt_scaling_sigmoid_s2",
         split="random_split",
         model_name="LinearSVM_calibrated",

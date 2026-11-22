@@ -1,84 +1,79 @@
 {
-  "experiment": "B5_INDOBERT_RANDOM_SPLIT",
+  "experiment": "B5_INDOBERT_RANDOM_SPLIT_V31",
   "task": "B5",
   "owner": "Anggota B",
-  "data_version": "V3_KANDIDAT_OPERASIONAL",
-  "dataset_file": "DATASET_V3_KANDIDAT_OPERASIONAL.csv",
-  "text_col": "text_clean",
+  "data_version": "V3.1_A2_PROVISIONAL",
+  "dataset_file": "DATASET_V3_1_KANDIDAT_OPERASIONAL.csv",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "text_col": "text_clean_v31",
   "split_col": "random_split",
   "train_count": 23351,
   "validation_count": 2919,
   "test_accessed_for_experiment": false,
   "model_name": "indobenchmark/indobert-base-p1",
-  "hardware": "NVIDIA A100-SXM4-80GB (bfloat16 + TF32)",
   "truncation": "head_tail",
   "max_length": 256,
-  "seeds": [42, 123, 2026],
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
   "anti_shortcut_settings": {
     "label_smoothing": 0.1,
     "random_token_mask": 0.1,
-    "llrd": true,
-    "class_weights_ce": {
-      "VALID": 0.6994,
-      "HOAKS": 1.7536
-    }
+    "llrd": 0.9,
+    "lr": 2e-05
   },
   "calibration": "Temperature Scaling (NLL minimization on validation logits)",
   "per_seed_validation_summary": {
     "42": {
-      "optimal_T": 1.3825,
-      "macro_f1": 0.99874,
-      "accuracy": 0.998972,
-      "f1_hoaks": 0.998198,
-      "ece_before": 0.000998,
-      "ece_after": 0.001513,
-      "brier_after": 0.00103,
-      "coverage_agen": 0.999657,
-      "selective_macro_f1": 0.998739,
-      "expected_loss": 0.003426
+      "optimal_T": 1.416,
+      "macro_f1": 0.999159,
+      "accuracy": 0.999315,
+      "f1_hoaks": 0.998798,
+      "ece_after": 0.155094,
+      "brier_after": 0.028205,
+      "coverage_agen": 0.976362,
+      "selective_macro_f1": 0.999575,
+      "expected_loss": 0.024323
     },
     "123": {
-      "optimal_T": 1.3704,
+      "optimal_T": 1.4163,
       "macro_f1": 0.99874,
       "accuracy": 0.998972,
       "f1_hoaks": 0.998198,
-      "ece_before": 0.001083,
-      "ece_after": 0.001916,
-      "brier_after": 0.001073,
-      "coverage_agen": 0.999657,
-      "selective_macro_f1": 0.998739,
-      "expected_loss": 0.003426
+      "ece_after": 0.15572,
+      "brier_after": 0.029316,
+      "coverage_agen": 0.868448,
+      "selective_macro_f1": 0.999105,
+      "expected_loss": 0.132922
     },
     "2026": {
-      "optimal_T": 1.3756,
-      "macro_f1": 0.99958,
-      "accuracy": 0.999657,
-      "f1_hoaks": 0.999399,
-      "ece_before": 0.000608,
-      "ece_after": 0.001113,
-      "brier_after": 0.000443,
-      "coverage_agen": 0.999315,
-      "selective_macro_f1": 0.99958,
-      "expected_loss": 0.00137
+      "optimal_T": 1.4155,
+      "macro_f1": 0.99832,
+      "accuracy": 0.99863,
+      "f1_hoaks": 0.997599,
+      "ece_after": 0.15329,
+      "brier_after": 0.027666,
+      "coverage_agen": 0.989723,
+      "selective_macro_f1": 0.998734,
+      "expected_loss": 0.012333
     }
   },
   "aggregated_mean_std": {
-    "macro_f1": "0.9990 ± 0.0005",
-    "accuracy": "0.9992 ± 0.0004",
-    "f1_hoaks": "0.9986 ± 0.0007",
-    "ece_before": "0.0009 ± 0.0003",
-    "ece_after": "0.0015 ± 0.0004",
-    "brier_after": "0.0008 ± 0.0004",
-    "coverage_agen": "0.9995 ± 0.0002",
-    "selective_macro_f1": "0.9990 ± 0.0005",
-    "expected_loss": "0.0027 ± 0.0012"
+    "macro_f1": "0.9987 ± 0.0004",
+    "accuracy": "0.9990 ± 0.0003",
+    "f1_hoaks": "0.9982 ± 0.0006",
+    "ece_after": "0.1547 ± 0.0013",
+    "brier_after": "0.0284 ± 0.0008",
+    "coverage_agen": "0.9448 ± 0.0665",
+    "selective_macro_f1": "0.9991 ± 0.0004",
+    "expected_loss": "0.0565 ± 0.0664"
   },
-  "drive_artifacts": {
-    "checkpoint_dir": "/content/drive/MyDrive/PSP_IndoBERT_Checkpoints_S2",
-    "pending_repo_sync": [
-      "experiments_indobert_random_split.csv",
-      "reliability_diagram_indobert_random_split.png"
-    ]
-  },
-  "caveat": "Trained on V3 text_clean (pre-V3.1 marker cleanup) and random_split only. Temporal (E2) and length-controlled (E4) IndoBERT evaluations on V3.1 remain pending."
+  "results_files": [
+    "experiments_indobert_random_split_text_clean_v31_head_tail_ls10_mask10.csv",
+    "reliability_diagram_indobert_random_split.png"
+  ],
+  "drive_checkpoints_dir": "/content/drive/MyDrive/PSP_IndoBERT_Checkpoints_S2/indobert_best_model_random_split_text_clean_v31_head_tail_ls10_mask10",
+  "caveat": "Trained on V3.1 text_clean_v31 and random_split only. Temporal (E2) and length-controlled (E4) IndoBERT evaluations on V3.1 remain pending."
 }
