@@ -52,15 +52,15 @@ def load_dataset(data_path):
     return pd.read_csv(data_path)
 
 
-def create_length_controlled_column(df, seed=42):
+def create_length_controlled_column(df, text_col='text_clean', seed=42):
     """E4: Menyamakan distribusi panjang berita VALID dengan distribusi berita HOAKS."""
     rng = np.random.RandomState(seed)
-    hoax_texts = df.loc[df['label'] == 1, 'text_clean'].fillna('').astype(str)
+    hoax_texts = df.loc[df['label'] == 1, text_col].fillna('').astype(str)
     hoax_lengths = [max(1, len(t.split())) for t in hoax_texts]
 
     controlled_texts = []
     for _, row in df.iterrows():
-        text = str(row['text_clean']) if pd.notna(row['text_clean']) else ''
+        text = str(row[text_col]) if pd.notna(row[text_col]) else ''
         if row['label'] == 1:
             controlled_texts.append(text)
         else:
@@ -70,7 +70,7 @@ def create_length_controlled_column(df, seed=42):
     return controlled_texts
 
 
-def run_single_eval(df, split_col, feature_col, model_type, hyperparams, run_id, kondisi, exp_log_path):
+def run_single_eval(df, split_col, feature_col, model_type, hyperparams, run_id, kondisi, exp_log_path, versi_data='V3.1 (atau V3 pre-V3.1)'):
     df_active = df.loc[df[split_col].isin(['LATIH', 'VALIDASI'])].copy()
     train_df = df_active.loc[df_active[split_col] == 'LATIH']
     valid_df = df_active.loc[df_active[split_col] == 'VALIDASI']
@@ -98,7 +98,7 @@ def run_single_eval(df, split_col, feature_col, model_type, hyperparams, run_id,
     log_experiment(
         results_csv_path=exp_log_path,
         run_id=run_id,
-        versi_data='V3.1 (atau V3 pre-V3.1)',
+        versi_data=versi_data,
         kondisi=kondisi,
         split=split_col,
         model_name=model_type,
@@ -132,6 +132,8 @@ def run_single_eval(df, split_col, feature_col, model_type, hyperparams, run_id,
 def main():
     parser = argparse.ArgumentParser(description="Jalankan Eksperimen Resmi Anggota B (Standar S2)")
     parser.add_argument('--data', default=str(BASE_DIR / 'data' / 'DATASET_V3_KANDIDAT_OPERASIONAL.csv'))
+    parser.add_argument('--text-col', default='text_clean')
+    parser.add_argument('--data-version', default='V3.1 (atau V3 pre-V3.1)')
     parser.add_argument('--experiments-log', default=str(BASE_DIR / 'results' / 'experiments.csv'))
     parser.add_argument('--e1-out', default=str(BASE_DIR / 'results' / 'e1_shortcut_analysis.csv'))
     parser.add_argument('--e2-out', default=str(BASE_DIR / 'results' / 'e2_temporal_analysis.csv'))
@@ -157,13 +159,13 @@ def main():
             df=df, split_col='random_split', feature_col='text_raw',
             model_type=model_name, hyperparams=hparams,
             run_id=f"E1_{model_name}_raw", kondisi="E1_data_mentah",
-            exp_log_path=args.experiments_log
+            exp_log_path=args.experiments_log, versi_data=args.data_version
         )
         clean_res = run_single_eval(
-            df=df, split_col='random_split', feature_col='text_clean',
+            df=df, split_col='random_split', feature_col=args.text_col,
             model_type=model_name, hyperparams=hparams,
             run_id=f"E1_{model_name}_clean", kondisi="E1_data_bersih",
-            exp_log_path=args.experiments_log
+            exp_log_path=args.experiments_log, versi_data=args.data_version
         )
         clean_preds_by_model[model_name] = clean_res['y_pred']
         y_valid_ref = clean_res['y_true']
@@ -197,16 +199,16 @@ def main():
     e2_records = []
     for model_name, hparams in models:
         main_res = run_single_eval(
-            df=df, split_col='temporal_main', feature_col='text_clean',
+            df=df, split_col='temporal_main', feature_col=args.text_col,
             model_type=model_name, hyperparams=hparams,
             run_id=f"E2_{model_name}_temporal_main", kondisi="E2_temporal_main_2021",
-            exp_log_path=args.experiments_log
+            exp_log_path=args.experiments_log, versi_data=args.data_version
         )
         split_res = run_single_eval(
-            df=df, split_col='temporal_split', feature_col='text_clean',
+            df=df, split_col='temporal_split', feature_col=args.text_col,
             model_type=model_name, hyperparams=hparams,
             run_id=f"E2_{model_name}_temporal_split", kondisi="E2_temporal_split_2021",
-            exp_log_path=args.experiments_log
+            exp_log_path=args.experiments_log, versi_data=args.data_version
         )
         print(f"[{model_name}] Validasi 2021 temporal_main Macro-F1: {main_res['macro_f1']:.4f} | temporal_split: {split_res['macro_f1']:.4f}")
 
@@ -240,7 +242,7 @@ def main():
             df=df, split_col='random_split', feature_col='title',
             model_type=model_name, hyperparams=hparams,
             run_id=f"E_Title_{model_name}", kondisi="Title_Only_Anti_Shortcut",
-            exp_log_path=args.experiments_log
+            exp_log_path=args.experiments_log, versi_data=args.data_version
         )
         print(f"[{model_name} (Title-Only)] Macro-F1: {t_res['macro_f1']:.4f} | F1-Hoaks: {t_res['f1_hoaks']:.4f} | Acc: {t_res['accuracy']:.4f}")
         title_records.append({
@@ -261,14 +263,14 @@ def main():
     print("BAGIAN 4: EKSPERIMEN E4 — KONTROL PANJANG TEKS (LENGTH-MATCHED SUBSAMPLING)")
     print("="*75)
     print("Membuat kolom text_clean_e4 (menyamakan distribusi panjang berita VALID dengan HOAKS)...")
-    df['text_clean_e4'] = create_length_controlled_column(df, seed=42)
+    df['text_clean_e4'] = create_length_controlled_column(df, text_col=args.text_col, seed=42)
     e4_records = []
     for model_name, hparams in models:
         e4_res = run_single_eval(
             df=df, split_col='random_split', feature_col='text_clean_e4',
             model_type=model_name, hyperparams=hparams,
             run_id=f"E4_{model_name}_length_control", kondisi="E4_Length_Controlled",
-            exp_log_path=args.experiments_log
+            exp_log_path=args.experiments_log, versi_data=args.data_version
         )
         print(f"[{model_name} (E4 Kontrol Panjang)] Macro-F1: {e4_res['macro_f1']:.4f} | F1-Hoaks: {e4_res['f1_hoaks']:.4f} | Acc: {e4_res['accuracy']:.4f}")
         e4_records.append({

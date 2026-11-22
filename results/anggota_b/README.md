@@ -20,6 +20,7 @@ Folder ini menyimpan hasil pemodelan baseline, kalibrasi probabilitas, statistik
 
 ## B5 — Fine-Tuning & Kalibrasi Suhu IndoBERT (`random_split`, 3-Seed)
 - `B5_INDOBERT_RANDOM_METADATA.json`
-- *(Pending unduhan dari Google Drive `/content/drive/MyDrive/PSP_IndoBERT_Checkpoints_S2/`)*:
-  - `experiments_indobert_random_split.csv`
-  - `reliability_diagram_indobert_random_split.png`
+- `experiments_indobert_random_split.csv`
+- `experiments_indobert_random_split_text_clean_head_tail_ls10_mask10.csv`
+- `reliability_diagram_indobert_random_split.png`
+*(Checkpoint `.pt` dan dataset besar disimpan di luar Git pada Google Drive `/content/drive/MyDrive/PSP_IndoBERT_Checkpoints_S2/`.)*

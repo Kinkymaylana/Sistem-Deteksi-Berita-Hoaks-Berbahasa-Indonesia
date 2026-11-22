@@ -1,8 +1,11 @@
 {
-  "dataset": "Dataset V3, 29189 baris",
+  "data_version": "V3.1_A2_PROVISIONAL",
+  "dataset_file": "DATASET_V3_1_KANDIDAT_OPERASIONAL.csv",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
   "evaluasi": "VALIDASI; data UJI tidak digunakan",
-  "sklearn_version": "1.8.0",
-  "python_version": "3.13.5",
+  "test_accessed_for_experiment": false,
+  "sklearn_version": "1.6.1",
+  "python_version": "3.11.9",
   "pipeline": "TFIDF unigram-bigram min_df=2 sublinear_tf=True max_features=200000",
-  "preprocess": "Dilakukan sebelumnya; dilatih pada kolom text_clean V3"
+  "preprocess": "Kolom text_clean_v31 dari A2_PEMBERSIHAN_V3_1_COLAB.ipynb"
 }
