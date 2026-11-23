@@ -61,6 +61,14 @@ def main():
     parser = argparse.ArgumentParser(description="Tuning Hyperparameter Baseline (Anggota B)")
     parser.add_argument('--data', default=str(BASE_DIR / 'data' / 'DATASET_V3_KANDIDAT_OPERASIONAL.csv'),
                         help="Path ke berkas dataset CSV")
+    parser.add_argument('--text-col', default='text_clean',
+                        help="Nama kolom teks bersih (default: text_clean; V3.1: text_clean_v31)")
+    parser.add_argument('--data-version', default='V3.1 (atau V3 pre-V3.1)',
+                        help="Label versi data untuk log eksperimen")
+    parser.add_argument('--models-dir', default=str(BASE_DIR / 'models'),
+                        help="Direktori penyimpanan model terbaik")
+    parser.add_argument('--skip-save-models', action='store_true',
+                        help="Lewati penyimpanan berkas .joblib model")
     parser.add_argument('--split-col', default='random_split',
                         help="Nama kolom split (default: random_split)")
     parser.add_argument('--output', default=str(BASE_DIR / 'results' / 'tuning_results.csv'),
@@ -71,8 +79,9 @@ def main():
 
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    models_dir = BASE_DIR / 'models'
-    models_dir.mkdir(parents=True, exist_ok=True)
+    models_dir = Path(args.models_dir)
+    if not args.skip_save_models:
+        models_dir.mkdir(parents=True, exist_ok=True)
 
     df = load_dataset(args.data)
     
@@ -94,7 +103,7 @@ def main():
         ('LinearSVM', {'C': 10.0}),
     ]
 
-    feature_cols = ['text_clean', 'text_raw']
+    feature_cols = [args.text_col, 'text_raw']
     results = []
     best_models = {}
 
@@ -151,7 +160,7 @@ def main():
             log_experiment(
                 results_csv_path=args.experiments_log,
                 run_id=run_id,
-                versi_data='V3.1 (atau V3 pre-V3.1)',
+                versi_data=args.data_version,
                 kondisi='tuning_hyperparameter',
                 split=args.split_col,
                 model_name=model_type,
@@ -162,7 +171,7 @@ def main():
             )
 
             # Lacak konfigurasi terbaik per model pada text_clean
-            if feature_col == 'text_clean':
+            if feature_col == args.text_col:
                 if model_type not in best_models or metrics['macro_f1'] > best_models[model_type]['macro_f1']:
                     best_models[model_type] = {
                         'params': params,
@@ -175,14 +184,20 @@ def main():
     print(f"\n[SUKSES] Seluruh hasil tuning tersimpan di: {output_path}")
 
     print("\n" + "="*70)
-    print("RINGKASAN KONFIGURASI TERBAIK (VALIDASI - TEXT_CLEAN):")
+    print(f"RINGKASAN KONFIGURASI TERBAIK (VALIDASI - {args.text_col.upper()}):")
     print("="*70)
     for m_type, b_info in best_models.items():
         print(f"Model: {m_type:15} | Params: {str(b_info['params']):20} | Macro-F1: {b_info['macro_f1']:.6f}")
         # Simpan model terbaik ke models/
-        save_path = models_dir / f"{m_type}.joblib"
-        joblib.dump(b_info['pipeline'], save_path, compress=3)
-        print(f"  -> Model terbaik disimpan ke: {save_path.name}")
+        if not args.skip_save_models:
+            save_path = models_dir / f"{m_type}.joblib"
+            joblib.dump(b_info['pipeline'], save_path, compress=3)
+            print(f"  -> Model terbaik disimpan ke: {save_path.name}")
+    
+    
+
+
+
     print("="*70)
 
 
