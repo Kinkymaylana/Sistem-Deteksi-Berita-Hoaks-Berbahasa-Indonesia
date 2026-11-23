@@ -1,0 +1,272 @@
+{
+  "status": "DIBEKUKAN",
+  "versi_data": "V3.1_A2_PROVISIONAL",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "seed": 42,
+  "keputusan": [
+    {
+      "id": "K1_data",
+      "pertanyaan": "V3.1 (SHA-256 a790c0a6…) dipakai sebagai versi final walaupun labelnya PROVISIONAL?",
+      "usulan": "Ya, V3.1_A2_PROVISIONAL dipakai apa adanya untuk UJI.",
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "V3.1_A2_PROVISIONAL (SHA-256 a790c0a6…) dipakai apa adanya sebagai data final untuk UJI.",
+      "tanggal_sepakat": "2026-11-23"
+    },
+    {
+      "id": "K2_hyperparameter",
+      "pertanyaan": "Tetap alpha=1,0 dan C=1,0, atau tuning B1 dulu?",
+      "usulan": "SVM: C=1,0 (C=10 hanya +0,0008 macro-F1, CI tumpang tindih; B3, agen C, dan D3 sudah memakai C=1,0). NB: alpha=0,1 (macro-F1 0,9748 vs 0,9290 pada alpha=1,0, CI tidak tumpang tindih; dicek D: alpha 0,03-0,1 membentuk dataran sehingga 0,1 bukan artefak ujung grid). Baris E1-E4 NB di VALIDASI dengan alpha=1,0 dilaporkan sebagai 'tanpa tuning' atau dijalankan ulang dengan alpha=0,1.",
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "SVM C=1,0 dan NB alpha=0,1 (hasil tuning B1 V3.1, results/anggota_b/B1_TUNING_RESULTS_V31.csv). Opsi (a): bagian NB di B2 (E1, E2, judul saja, E4 versi B) dan E4 A5 dijalankan ulang di VALIDASI dengan alpha=0,1 sebelum pembekuan; baris alpha=1,0 tetap di log sebagai 'tanpa tuning'.",
+      "catatan": "23 Nov: hasil B1 V3.1 ada di results/anggota_b/B1_TUNING_RESULTS_V31.csv dan B1_EXPERIMENTS_TUNING_V31.csv; baris alpha=1,0 dan C=1,0 sama persis dengan B2 (D1).",
+      "tanggal_sepakat": "2026-11-23"
+    },
+    {
+      "id": "K3_catatan_C",
+      "pertanyaan": "Catatan C nomor 1, 3, 4: kata 'the'/'i' dikecualikan dari aturan bahasa, mode Kompas C untuk sumber tak dikenal, regex kredit foto A dibiarkan.",
+      "usulan": "Ketiganya diterima seperti di prototipe saat ini.",
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "Catatan C nomor 1, 3, 4 diterima seperti di prototipe saat ini: 'the'/'i' dikecualikan dari aturan bahasa, mode Kompas C untuk sumber tak dikenal, regex kredit foto A dibiarkan.",
+      "tanggal_sepakat": "2026-11-23"
+    },
+    {
+      "id": "K4_E4_resmi",
+      "pertanyaan": "E4 resmi adalah versi A5 (distribusi panjang dari LATIH saja)?",
+      "usulan": "Ya; E4 B hanya pembanding.",
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "E4 resmi adalah hasil A5 (distribusi panjang dari LATIH saja). E4 versi B hanya pembanding.",
+      "tanggal_sepakat": "2026-11-23"
+    },
+    {
+      "id": "K5_agen",
+      "pertanyaan": "Konfigurasi agen dibekukan: ambang 0,20/0,50 (C_FP=2, C_FN=5, C_R=1), tau_mirip 0,90, min 8 kata, model LinearSVM_calibrated_v31.",
+      "usulan": "Ya, sesuai src/config.py dan models/ saat ini.",
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "Konfigurasi agen dibekukan sesuai src/config.py dan models/ saat ini: ambang 0,20/0,50 (C_FP=2, C_FN=5, C_R=1), tau_mirip 0,90, minimal 8 kata, tau_bahasa persentil ke-1 LATIH, model LinearSVM_calibrated_v31. Biaya aturan bahasa di VALIDASI (25 hoaks ditahan, kerugian agen 0,0247 vs model selektif 0,0161, D3) diterima dan dilaporkan.",
+      "tanggal_sepakat": "2026-11-23"
+    }
+  ],
+  "runs": [
+    {
+      "run_key": "UJI_ComplementNB_random_raw",
+      "split": "random_split",
+      "text_col": "text_raw",
+      "model": "ComplementNB",
+      "hyperparameter": {
+        "alpha": 0.1
+      },
+      "tfidf": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "sublinear_tf": true,
+        "max_features": 200000
+      },
+      "kondisi": "UJI_E1_raw",
+      "latih_dari": "LATIH"
+    },
+    {
+      "run_key": "UJI_ComplementNB_random_clean",
+      "split": "random_split",
+      "text_col": "text_clean_v31",
+      "model": "ComplementNB",
+      "hyperparameter": {
+        "alpha": 0.1
+      },
+      "tfidf": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "sublinear_tf": true,
+        "max_features": 200000
+      },
+      "kondisi": "UJI_E1_clean",
+      "latih_dari": "LATIH"
+    },
+    {
+      "run_key": "UJI_ComplementNB_temporal_main",
+      "split": "temporal_main",
+      "text_col": "text_clean_v31",
+      "model": "ComplementNB",
+      "hyperparameter": {
+        "alpha": 0.1
+      },
+      "tfidf": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "sublinear_tf": true,
+        "max_features": 200000
+      },
+      "kondisi": "UJI_E2_temporal_main_2022_2023",
+      "latih_dari": "LATIH"
+    },
+    {
+      "run_key": "UJI_LinearSVM_random_raw",
+      "split": "random_split",
+      "text_col": "text_raw",
+      "model": "LinearSVM",
+      "hyperparameter": {
+        "C": 1.0,
+        "class_weight": "balanced",
+        "max_iter": 3000,
+        "random_state": 42
+      },
+      "tfidf": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "sublinear_tf": true,
+        "max_features": 200000
+      },
+      "kondisi": "UJI_E1_raw",
+      "latih_dari": "LATIH"
+    },
+    {
+      "run_key": "UJI_LinearSVM_random_clean",
+      "split": "random_split",
+      "text_col": "text_clean_v31",
+      "model": "LinearSVM",
+      "hyperparameter": {
+        "C": 1.0,
+        "class_weight": "balanced",
+        "max_iter": 3000,
+        "random_state": 42
+      },
+      "tfidf": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "sublinear_tf": true,
+        "max_features": 200000
+      },
+      "kondisi": "UJI_E1_clean",
+      "latih_dari": "LATIH"
+    },
+    {
+      "run_key": "UJI_LinearSVM_temporal_main",
+      "split": "temporal_main",
+      "text_col": "text_clean_v31",
+      "model": "LinearSVM",
+      "hyperparameter": {
+        "C": 1.0,
+        "class_weight": "balanced",
+        "max_iter": 3000,
+        "random_state": 42
+      },
+      "tfidf": {
+        "ngram_range": [
+          1,
+          2
+        ],
+        "min_df": 2,
+        "sublinear_tf": true,
+        "max_features": 200000
+      },
+      "kondisi": "UJI_E2_temporal_main_2022_2023",
+      "latih_dari": "LATIH"
+    },
+    {
+      "run_key": "UJI_Agen_random",
+      "split": "random_split",
+      "text_col": "text_clean_v31",
+      "model": "LinearSVM_calibrated_v31 + scope_guard + find_similar",
+      "hyperparameter": {
+        "tau_low": 0.2,
+        "tau_high": 0.5,
+        "c_fp": 2,
+        "c_fn": 5,
+        "c_r": 1,
+        "tau_similar": 0.9,
+        "min_words": 8
+      },
+      "kondisi": "UJI_agen_utuh",
+      "latih_dari": "model jadi (prototipe/anggota_c/models)"
+    }
+  ],
+  "berkas_dibekukan": [
+    {
+      "path": "prototipe/anggota_c/src/evaluate.py",
+      "sha256": "349e1271407444f0e2570caf2a30869394861a88711c135bd3693279f4e782bd",
+      "bytes": 17942
+    },
+    {
+      "path": "prototipe/anggota_c/src/uji_lock.py",
+      "sha256": "26aa70a67de3cc8aa2254435a084601a3b79f7b242c1b8c248896d6ba2e1525b",
+      "bytes": 15631
+    },
+    {
+      "path": "prototipe/anggota_c/src/config.py",
+      "sha256": "d1a99f6acae627a1e92ff8852e1c3892084139dbfa10218ec039c3f607927df8",
+      "bytes": 3071
+    },
+    {
+      "path": "prototipe/anggota_c/src/agent.py",
+      "sha256": "98759b47a9764db6cdc2335b214eea88fb56bccc2e8f03914d18c493faabf494",
+      "bytes": 13527
+    },
+    {
+      "path": "prototipe/anggota_c/src/reactive.py",
+      "sha256": "8adfc9e00f6741d067c5fd80739911636e4fcee7808485c2db92a409397f7a93",
+      "bytes": 12254
+    },
+    {
+      "path": "prototipe/anggota_c/src/preprocess.py",
+      "sha256": "5ac6a15fcd90af158fb7697d75ecdceaff35485da1a3394e16c174e9c5c372c6",
+      "bytes": 7075
+    },
+    {
+      "path": "prototipe/anggota_c/src/preprocess_v31.py",
+      "sha256": "afb1a3d0601219dffe7d6a1de3aacc2ee716f76b44b2cd464797c45b0549b0dd",
+      "bytes": 2119
+    },
+    {
+      "path": "prototipe/anggota_c/models/LinearSVM_calibrated_v31.joblib",
+      "sha256": "7d8da944ec63be48a0d1a68d9a1a2b9bb178339fe072e7aa120dd4bf0251cbd6",
+      "bytes": 3834782
+    },
+    {
+      "path": "prototipe/anggota_c/models/similar_index.joblib",
+      "sha256": "f66d6e2bd765b3cdcb9147bd1d96ce06774c37506349257eabf25365c0e9507b",
+      "bytes": 8271692
+    },
+    {
+      "path": "prototipe/anggota_c/models/language_rule.json",
+      "sha256": "e0aa8bfce41dae160c656a4c6c1beb4d292a7300ad4c02126aec3e811eaebc55",
+      "bytes": 6191
+    },
+    {
+      "path": "prototipe/anggota_c/models/model_card.json",
+      "sha256": "338ce02d0701c905fa9243f7b415a2791233f14e4ec7b7dade0cc6c35b9c6627",
+      "bytes": 2047
+    },
+    {
+      "path": "scripts/anggota_d/d4_uji_final.py",
+      "sha256": "1c2cf12b1a365f217effa4219607f8fc2d1cd4704ed774646d550fc0b2f221f2",
+      "bytes": 14683
+    },
+    {
+      "path": "scripts/anggota_d/d3_evaluasi_agen.py",
+      "sha256": "ca685e108bab85d3a5cf0f17727fa4fc669e73165dfc875ae485fc82ad5615de",
+      "bytes": 19669
+    }
+  ],
+  "disetujui_oleh": [
+    "Anggota A (B)",
+    "Anggota B (F)",
+    "Anggota C (K)",
+    "Anggota D (I)"
+  ],
+  "dataset_file": "DATASET_V3_1_KANDIDAT_OPERASIONAL.csv",
+  "tanggal_beku": "2026-11-23 11:48:11"
+}
