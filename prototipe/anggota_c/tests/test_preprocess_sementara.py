@@ -15,7 +15,7 @@ import pytest
 
 from src import preprocess as P
 
-NB_DIR = (Path(__file__).resolve().parents[2] / "kinkymaylana" / "sistem-deteksi-berita-hoaks-berbahasa-indonesia"
+NB_DIR = (Path(__file__).resolve().parents[3]
           / "notebooks" / "anggota_a")
 NOTEBOOK = NB_DIR / "EDA_Preprocessing_V3_1.ipynb"
 NOTEBOOK_A2 = NB_DIR / "A2_PEMBERSIHAN_V3_1_COLAB.ipynb"
