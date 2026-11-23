@@ -30,6 +30,7 @@
   "ada",
   "adalah",
   "adanya",
+  "adapun",
   "agar",
   "agustus",
   "ahmad",
@@ -152,7 +153,6 @@
   "hasto",
   "hingga",
   "hukum",
-  "i",
   "ia",
   "ibu",
   "ikn",
@@ -206,6 +206,7 @@
   "kembali",
   "kementerian",
   "kemudian",
+  "kemungkinan",
   "kepada",
   "kepala",
   "kepentingan",
@@ -466,7 +467,6 @@
   "terus",
   "tetap",
   "tetapi",
-  "the",
   "tidak",
   "tiga",
   "tim",
@@ -501,13 +501,17 @@
   "yang",
   "yg"
  ],
- "tau": 0.1111111111111111,
+ "tau": 0.1,
  "top_n": 500,
  "percentile": 1.0,
  "n_texts": 23351,
  "source": "DATASET_V3_1_KANDIDAT_OPERASIONAL.csv; kolom=text_clean_v31; random_split=LATIH",
  "meta": {
   "score_min": 0.0,
-  "score_median": 0.5644599303135889
+  "score_median": 0.5643564356435643,
+  "excluded_words": [
+   "i",
+   "the"
+  ]
  }
 }

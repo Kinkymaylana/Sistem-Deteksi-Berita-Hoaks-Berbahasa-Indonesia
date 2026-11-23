@@ -180,6 +180,14 @@ def test_aturan_bahasa_simpan_dan_muat(tmp_path):
     assert loaded.vocab == rule.vocab and loaded.tau == rule.tau
 
 
+def test_kata_inggris_tersering_tidak_masuk_kosakata_bahasa():
+    teks = ["the pemerintah kota the warga i baru"] * 5
+    rule = build_language_rule(teks, top_n=10)
+    assert "the" not in rule.vocab and "i" not in rule.vocab
+    assert "pemerintah" in rule.vocab
+    assert rule.meta["excluded_words"] == ["i", "the"]
+
+
 def test_tanpa_aturan_bahasa_teks_inggris_tidak_ditolak_scope_guard():
     # Mendokumentasikan perilaku saat language_rule.json belum dibangun.
     assert scope_guard(EN_TEXT) is None

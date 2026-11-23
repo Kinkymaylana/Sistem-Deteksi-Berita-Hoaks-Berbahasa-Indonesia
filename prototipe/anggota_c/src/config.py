@@ -48,6 +48,7 @@ class AgentConfig:
     min_words: int = 8              # teks < 8 kata -> PERLU VERIFIKASI
     lang_top_n: int = 500           # jumlah kata paling sering dari LATIH
     lang_percentile: float = 1.0    # tau_bahasa = persentil ke-1 skor LATIH
+    lang_exclude: tuple[str, ...] = ("the", "i")  # kata Inggris yang tidak boleh masuk kosakata bahasa
 
     # find_similar (diisi setelah penyetelan di VALIDASI; titik awal 0,90)
     tau_similar: float = 0.90
