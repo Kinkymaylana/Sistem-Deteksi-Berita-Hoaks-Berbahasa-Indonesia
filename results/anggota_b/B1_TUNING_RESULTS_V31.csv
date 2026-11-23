@@ -1,0 +1,13 @@
+run_id,model,fit_text,param_name,param_value,durasi_detik,macro_f1_validasi,macro_f1_ci_95,accuracy_validasi,f1_hoaks,precision_hoaks,recall_hoaks,f1_valid,precision_valid,recall_valid,ece_mentah
+tune_ComplementNB_alpha_0.1_text_clean_v31,ComplementNB,text_clean_v31,alpha,0.1,40.24,0.974802,"[0.9685, 0.9811]",0.979445,0.963986,0.96283,0.965144,0.985618,0.986091,0.985146,0.009198
+tune_ComplementNB_alpha_0.5_text_clean_v31,ComplementNB,text_clean_v31,alpha,0.5,39.69,0.960241,"[0.9525, 0.9681]",0.968482,0.942138,0.988127,0.90024,0.978343,0.961592,0.995688,0.036254
+tune_ComplementNB_alpha_1.0_text_clean_v31,ComplementNB,text_clean_v31,alpha,1.0,35.62,0.929013,"[0.9184, 0.9396]",0.945529,0.894772,0.995582,0.8125,0.963254,0.930357,0.998563,0.070689
+tune_LinearSVM_C_0.1_text_clean_v31,LinearSVM,text_clean_v31,C,0.1,39.2,0.991152,"[0.9870, 0.9946]",0.992806,0.987326,0.991515,0.983173,0.994977,0.993314,0.996646,0.26077
+tune_LinearSVM_C_1.0_text_clean_v31,LinearSVM,text_clean_v31,C,1.0,38.09,0.993256,"[0.9899, 0.9962]",0.994519,0.990338,0.995146,0.985577,0.996174,0.994272,0.998083,0.214667
+tune_LinearSVM_C_10.0_text_clean_v31,LinearSVM,text_clean_v31,C,10.0,38.45,0.994095,"[0.9908, 0.9967]",0.995204,0.991536,0.997567,0.985577,0.996654,0.994278,0.999042,0.200169
+tune_ComplementNB_alpha_0.1_text_raw,ComplementNB,text_raw,alpha,0.1,46.55,0.979047,"[0.9734, 0.9846]",0.982871,0.970096,0.965476,0.97476,0.987998,0.989899,0.986104,0.006342
+tune_ComplementNB_alpha_0.5_text_raw,ComplementNB,text_raw,alpha,0.5,39.16,0.97266,"[0.9661, 0.9791]",0.978075,0.960494,0.98731,0.935096,0.984827,0.97466,0.995208,0.026783
+tune_ComplementNB_alpha_1.0_text_raw,ComplementNB,text_raw,alpha,1.0,48.61,0.944988,"[0.9358, 0.9542]",0.957177,0.919094,0.995792,0.853365,0.970883,0.944696,0.998563,0.057225
+tune_LinearSVM_C_0.1_text_raw,LinearSVM,text_raw,C,0.1,39.33,0.995369,"[0.9924, 0.9979]",0.996232,0.993369,0.996372,0.990385,0.997368,0.996176,0.998563,0.261808
+tune_LinearSVM_C_1.0_text_raw,LinearSVM,text_raw,C,1.0,47.16,0.997051,"[0.9946, 0.9992]",0.997602,0.995775,1.0,0.991587,0.998326,0.996657,1.0,0.223913
+tune_LinearSVM_C_10.0_text_raw,LinearSVM,text_raw,C,10.0,41.64,0.997473,"[0.9953, 0.9992]",0.997945,0.996381,1.0,0.992788,0.998565,0.997133,1.0,0.212996
