@@ -28,8 +28,9 @@ Konvensi (Rencana Kerja Tahap 3, bagian Anggota D):
 
 Log eksperimen (results/experiments.csv) memakai 25 kolom yang sama dengan
 results/anggota_b/B2_EXPERIMENTS_BASELINE.csv, lihat EXPERIMENT_COLUMNS.
-Baris berstatus UJI hanya bisa ditulis dengan allow_uji=True. Penguncian
-UJI lengkap (flag --final dan uji_log.csv) dibuat terpisah pada tugas D-2.
+Baris berstatus UJI hanya bisa ditulis dengan allow_uji=True. Skrip UJI
+tidak memanggil ini langsung, tetapi lewat UjiSession.log_experiment di
+src/uji_lock.py (flag --final, manifest pembekuan, uji_log.csv).
 """
 from __future__ import annotations
 
@@ -391,7 +392,7 @@ def log_experiment(
 
     - File dan foldernya dibuat bila belum ada, header ditulis sekali.
     - Jika file lama punya header berbeda, fungsi berhenti agar log tidak rusak.
-    - status_evaluasi UJI ditolak kecuali allow_uji=True (dipakai skrip UJI D).
+    - status_evaluasi UJI ditolak kecuali allow_uji=True (dipakai src/uji_lock.py).
     """
     status = str(status_evaluasi).upper()
     if status not in (STATUS_VALIDASI, STATUS_UJI):

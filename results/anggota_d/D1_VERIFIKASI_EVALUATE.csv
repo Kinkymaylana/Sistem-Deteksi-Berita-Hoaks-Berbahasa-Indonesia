@@ -1,0 +1,502 @@
+file,baris,kolom,nilai_b,nilai_ulang,cocok
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,kondisi,E1_data_mentah,E1_data_mentah,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,model,ComplementNB,ComplementNB,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,hyperparameter,"{""alpha"": 1.0}","{""alpha"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,macro_f1,0.944988,0.944988,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,macro_f1_ci_95,"[0.9358, 0.9542]","[0.9358, 0.9542]",True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,accuracy,0.957177,0.957177,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,f1_hoaks,0.919094,0.919094,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,precision_hoaks,0.995792,0.995792,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,recall_hoaks,0.853365,0.853365,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,f1_valid,0.970883,0.970883,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,precision_valid,0.944696,0.944696,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,recall_valid,0.998563,0.998563,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,ece,0.057225,0.057225,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,brier_score,0.031669,0.031669,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,coverage_agen,0.973279,0.973279,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,selective_macro_f1,0.977956,0.977956,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_raw,expected_loss,0.105858,0.105858,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,kondisi,E1_data_bersih,E1_data_bersih,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,model,ComplementNB,ComplementNB,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,hyperparameter,"{""alpha"": 1.0}","{""alpha"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,macro_f1,0.929013,0.929013,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,macro_f1_ci_95,"[0.9184, 0.9396]","[0.9184, 0.9396]",True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,accuracy,0.945529,0.945529,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,f1_hoaks,0.894772,0.894772,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,precision_hoaks,0.995582,0.995582,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,recall_hoaks,0.8125,0.8125,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,f1_valid,0.963254,0.963254,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,precision_valid,0.930357,0.930357,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,recall_valid,0.998563,0.998563,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,ece,0.070689,0.070689,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,brier_score,0.041097,0.041097,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,coverage_agen,0.96814,0.96814,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,selective_macro_f1,0.967567,0.967567,True
+B2_EXPERIMENTS_BASELINE,E1_ComplementNB_clean,expected_loss,0.146968,0.146968,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,kondisi,E1_data_mentah,E1_data_mentah,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,model,LinearSVM,LinearSVM,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,hyperparameter,"{""C"": 1.0}","{""C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,macro_f1,0.997051,0.997051,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,macro_f1_ci_95,"[0.9946, 0.9992]","[0.9946, 0.9992]",True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,accuracy,0.997602,0.997602,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,f1_hoaks,0.995775,0.995775,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,precision_hoaks,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,recall_hoaks,0.991587,0.991587,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,f1_valid,0.998326,0.998326,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,precision_valid,0.996657,0.996657,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,recall_valid,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,ece,0.223913,0.223913,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,brier_score,0.054245,0.054245,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,coverage_agen,0.546763,0.546763,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,selective_macro_f1,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_raw,expected_loss,0.453237,0.453237,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,kondisi,E1_data_bersih,E1_data_bersih,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,model,LinearSVM,LinearSVM,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,hyperparameter,"{""C"": 1.0}","{""C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,macro_f1,0.993256,0.993256,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,macro_f1_ci_95,"[0.9899, 0.9962]","[0.9899, 0.9962]",True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,accuracy,0.994519,0.994519,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,f1_hoaks,0.990338,0.990338,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,precision_hoaks,0.995146,0.995146,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,recall_hoaks,0.985577,0.985577,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,f1_valid,0.996174,0.996174,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,precision_valid,0.994272,0.994272,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,recall_valid,0.998083,0.998083,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,ece,0.214667,0.214667,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,brier_score,0.053727,0.053727,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,coverage_agen,0.630695,0.630695,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,selective_macro_f1,0.997802,0.997802,True
+B2_EXPERIMENTS_BASELINE,E1_LinearSVM_clean,expected_loss,0.372045,0.372045,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,kondisi,E2_temporal_main_2021,E2_temporal_main_2021,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,split,temporal_main,temporal_main,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,model,ComplementNB,ComplementNB,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,hyperparameter,"{""alpha"": 1.0}","{""alpha"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,macro_f1,0.964037,0.964037,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,macro_f1_ci_95,"[0.9547, 0.9729]","[0.9547, 0.9729]",True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,accuracy,0.972902,0.972902,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,f1_hoaks,0.981893,0.981893,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,precision_hoaks,0.995263,0.995263,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,recall_hoaks,0.968876,0.968876,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,f1_valid,0.946181,0.946181,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,precision_valid,0.90985,0.90985,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,recall_valid,0.985533,0.985533,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,ece,0.098974,0.098974,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,brier_score,0.031995,0.031995,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,coverage_agen,0.967657,0.967657,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,selective_macro_f1,0.990643,0.990643,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_main,expected_loss,0.054633,0.054633,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,kondisi,E2_temporal_split_2021,E2_temporal_split_2021,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,split,temporal_split,temporal_split,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,model,ComplementNB,ComplementNB,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,hyperparameter,"{""alpha"": 1.0}","{""alpha"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,macro_f1,0.982126,0.982126,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,macro_f1_ci_95,"[0.9776, 0.9859]","[0.9776, 0.9859]",True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,accuracy,0.983415,0.983415,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,f1_hoaks,0.977326,0.977326,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,precision_hoaks,0.985924,0.985924,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,recall_hoaks,0.968876,0.968876,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,f1_valid,0.986926,0.986926,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,precision_valid,0.981988,0.981988,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,recall_valid,0.991914,0.991914,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,ece,0.058685,0.058685,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,brier_score,0.019582,0.019582,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,coverage_agen,0.964491,0.964491,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,selective_macro_f1,0.992702,0.992702,True
+B2_EXPERIMENTS_BASELINE,E2_ComplementNB_temporal_split,expected_loss,0.053158,0.053158,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,kondisi,E2_temporal_main_2021,E2_temporal_main_2021,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,split,temporal_main,temporal_main,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,model,LinearSVM,LinearSVM,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,hyperparameter,"{""C"": 1.0}","{""C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,macro_f1,0.995219,0.995219,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,macro_f1_ci_95,"[0.9916, 0.9982]","[0.9916, 0.9982]",True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,accuracy,0.996503,0.996503,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,f1_hoaks,0.997697,0.997697,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,precision_hoaks,0.99655,0.99655,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,recall_hoaks,0.998847,0.998847,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,f1_valid,0.99274,0.99274,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,precision_valid,0.996357,0.996357,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,recall_valid,0.98915,0.98915,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,ece,0.252374,0.252374,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,brier_score,0.069054,0.069054,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,coverage_agen,0.8125,0.8125,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,selective_macro_f1,0.986941,0.986941,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_main,expected_loss,0.192745,0.192745,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,kondisi,E2_temporal_split_2021,E2_temporal_split_2021,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,split,temporal_split,temporal_split,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,model,LinearSVM,LinearSVM,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,hyperparameter,"{""C"": 1.0}","{""C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,macro_f1,0.987742,0.987742,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,macro_f1_ci_95,"[0.9845, 0.9909]","[0.9845, 0.9909]",True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,accuracy,0.988518,0.988518,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,f1_hoaks,0.984659,0.984659,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,precision_hoaks,0.970868,0.970868,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,recall_hoaks,0.998847,0.998847,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,f1_valid,0.990826,0.990826,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,precision_valid,0.999315,0.999315,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,recall_valid,0.98248,0.98248,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,ece,0.294347,0.294347,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,brier_score,0.09535,0.09535,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,coverage_agen,0.420157,0.420157,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,selective_macro_f1,0.932702,0.932702,True
+B2_EXPERIMENTS_BASELINE,E2_LinearSVM_temporal_split,expected_loss,0.601956,0.601956,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,kondisi,Title_Only_Anti_Shortcut,Title_Only_Anti_Shortcut,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,model,ComplementNB,ComplementNB,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,hyperparameter,"{""alpha"": 1.0}","{""alpha"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,macro_f1,0.956139,0.956139,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,macro_f1_ci_95,"[0.9485, 0.9640]","[0.9485, 0.9640]",True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,accuracy,0.964029,0.964029,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,f1_hoaks,0.937537,0.937537,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,precision_hoaks,0.928151,0.928151,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,recall_hoaks,0.947115,0.947115,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,f1_valid,0.974741,0.974741,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,precision_valid,0.978744,0.978744,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,recall_valid,0.970771,0.970771,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,ece,0.051733,0.051733,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,brier_score,0.030977,0.030977,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,coverage_agen,0.918808,0.918808,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,selective_macro_f1,0.967613,0.967613,True
+B2_EXPERIMENTS_BASELINE,E_Title_ComplementNB,expected_loss,0.145255,0.145255,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,kondisi,Title_Only_Anti_Shortcut,Title_Only_Anti_Shortcut,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,model,LinearSVM,LinearSVM,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,hyperparameter,"{""C"": 1.0}","{""C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,macro_f1,0.997899,0.997899,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,macro_f1_ci_95,"[0.9958, 0.9996]","[0.9958, 0.9996]",True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,accuracy,0.998287,0.998287,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,f1_hoaks,0.996997,0.996997,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,precision_hoaks,0.996399,0.996399,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,recall_hoaks,0.997596,0.997596,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,f1_valid,0.998802,0.998802,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,precision_valid,0.999041,0.999041,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,recall_valid,0.998563,0.998563,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,ece,0.227947,0.227947,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,brier_score,0.056464,0.056464,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,coverage_agen,0.411442,0.411442,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,selective_macro_f1,0.997068,0.997068,True
+B2_EXPERIMENTS_BASELINE,E_Title_LinearSVM,expected_loss,0.590613,0.590613,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,kondisi,E4_Length_Controlled,E4_Length_Controlled,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,model,ComplementNB,ComplementNB,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,hyperparameter,"{""alpha"": 1.0}","{""alpha"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,macro_f1,0.942362,0.942362,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,macro_f1_ci_95,"[0.9334, 0.9512]","[0.9334, 0.9512]",True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,accuracy,0.954436,0.954436,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,f1_hoaks,0.915982,0.915982,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,precision_hoaks,0.965379,0.965379,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,recall_hoaks,0.871394,0.871394,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,f1_valid,0.968743,0.968743,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,precision_valid,0.950646,0.950646,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,recall_valid,0.987542,0.987542,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,ece,0.031955,0.031955,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,brier_score,0.034135,0.034135,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,coverage_agen,0.950325,0.950325,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,selective_macro_f1,0.970489,0.970489,True
+B2_EXPERIMENTS_BASELINE,E4_ComplementNB_length_control,expected_loss,0.134293,0.134293,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,kondisi,E4_Length_Controlled,E4_Length_Controlled,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,model,LinearSVM,LinearSVM,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,hyperparameter,"{""C"": 1.0}","{""C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,seed,42,42,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,macro_f1,0.976599,0.976599,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,macro_f1_ci_95,"[0.9708, 0.9822]","[0.9708, 0.9822]",True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,accuracy,0.980815,0.980815,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,f1_hoaks,0.966667,0.966667,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,precision_hoaks,0.957547,0.957547,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,recall_hoaks,0.975962,0.975962,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,f1_valid,0.986532,0.986532,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,precision_valid,0.990343,0.990343,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,recall_valid,0.98275,0.98275,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,ece,0.21319,0.21319,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,brier_score,0.066707,0.066707,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,coverage_agen,0.645769,0.645769,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,selective_macro_f1,0.98009,0.98009,True
+B2_EXPERIMENTS_BASELINE,E4_LinearSVM_length_control,expected_loss,0.38061,0.38061,True
+B2_E1_SHORTCUT_ANALYSIS,0,model,ComplementNB,ComplementNB,True
+B2_E1_SHORTCUT_ANALYSIS,0,macro_f1_mentah,0.944988,0.944988,True
+B2_E1_SHORTCUT_ANALYSIS,0,macro_f1_bersih,0.929013,0.929013,True
+B2_E1_SHORTCUT_ANALYSIS,0,macro_f1_bersih_ci_95,"[0.9184, 0.9396]","[0.9184, 0.9396]",True
+B2_E1_SHORTCUT_ANALYSIS,0,delta_f1,0.015975,0.015975,True
+B2_E1_SHORTCUT_ANALYSIS,0,p_value_raw_vs_clean,0.0,0.0,True
+B2_E1_SHORTCUT_ANALYSIS,0,signifikan_alpha_005,True,True,True
+B2_E1_SHORTCUT_ANALYSIS,0,f1_hoaks_mentah,0.919094,0.919094,True
+B2_E1_SHORTCUT_ANALYSIS,0,f1_hoaks_bersih,0.894772,0.894772,True
+B2_E1_SHORTCUT_ANALYSIS,1,model,LinearSVM,LinearSVM,True
+B2_E1_SHORTCUT_ANALYSIS,1,macro_f1_mentah,0.997051,0.997051,True
+B2_E1_SHORTCUT_ANALYSIS,1,macro_f1_bersih,0.993256,0.993256,True
+B2_E1_SHORTCUT_ANALYSIS,1,macro_f1_bersih_ci_95,"[0.9899, 0.9962]","[0.9899, 0.9962]",True
+B2_E1_SHORTCUT_ANALYSIS,1,delta_f1,0.003795,0.003795,True
+B2_E1_SHORTCUT_ANALYSIS,1,p_value_raw_vs_clean,0.002,0.0,False
+B2_E1_SHORTCUT_ANALYSIS,1,signifikan_alpha_005,True,True,True
+B2_E1_SHORTCUT_ANALYSIS,1,f1_hoaks_mentah,0.995775,0.995775,True
+B2_E1_SHORTCUT_ANALYSIS,1,f1_hoaks_bersih,0.990338,0.990338,True
+B2_E2_TEMPORAL_ANALYSIS,0,model,ComplementNB,ComplementNB,True
+B2_E2_TEMPORAL_ANALYSIS,0,skema_split,temporal_main (Kompas & TBH),temporal_main (Kompas & TBH),True
+B2_E2_TEMPORAL_ANALYSIS,0,macro_f1_val_2021,0.964037,0.964037,True
+B2_E2_TEMPORAL_ANALYSIS,0,macro_f1_ci_95,"[0.9547, 0.9729]","[0.9547, 0.9729]",True
+B2_E2_TEMPORAL_ANALYSIS,0,accuracy,0.972902,0.972902,True
+B2_E2_TEMPORAL_ANALYSIS,0,f1_hoaks,0.981893,0.981893,True
+B2_E2_TEMPORAL_ANALYSIS,1,model,ComplementNB,ComplementNB,True
+B2_E2_TEMPORAL_ANALYSIS,1,skema_split,temporal_split (Semua Sumber),temporal_split (Semua Sumber),True
+B2_E2_TEMPORAL_ANALYSIS,1,macro_f1_val_2021,0.982126,0.982126,True
+B2_E2_TEMPORAL_ANALYSIS,1,macro_f1_ci_95,"[0.9776, 0.9859]","[0.9776, 0.9859]",True
+B2_E2_TEMPORAL_ANALYSIS,1,accuracy,0.983415,0.983415,True
+B2_E2_TEMPORAL_ANALYSIS,1,f1_hoaks,0.977326,0.977326,True
+B2_E2_TEMPORAL_ANALYSIS,2,model,LinearSVM,LinearSVM,True
+B2_E2_TEMPORAL_ANALYSIS,2,skema_split,temporal_main (Kompas & TBH),temporal_main (Kompas & TBH),True
+B2_E2_TEMPORAL_ANALYSIS,2,macro_f1_val_2021,0.995219,0.995219,True
+B2_E2_TEMPORAL_ANALYSIS,2,macro_f1_ci_95,"[0.9916, 0.9982]","[0.9916, 0.9982]",True
+B2_E2_TEMPORAL_ANALYSIS,2,accuracy,0.996503,0.996503,True
+B2_E2_TEMPORAL_ANALYSIS,2,f1_hoaks,0.997697,0.997697,True
+B2_E2_TEMPORAL_ANALYSIS,3,model,LinearSVM,LinearSVM,True
+B2_E2_TEMPORAL_ANALYSIS,3,skema_split,temporal_split (Semua Sumber),temporal_split (Semua Sumber),True
+B2_E2_TEMPORAL_ANALYSIS,3,macro_f1_val_2021,0.987742,0.987742,True
+B2_E2_TEMPORAL_ANALYSIS,3,macro_f1_ci_95,"[0.9845, 0.9909]","[0.9845, 0.9909]",True
+B2_E2_TEMPORAL_ANALYSIS,3,accuracy,0.988518,0.988518,True
+B2_E2_TEMPORAL_ANALYSIS,3,f1_hoaks,0.984659,0.984659,True
+B2_TITLE_ONLY_ANALYSIS,0,model,ComplementNB,ComplementNB,True
+B2_TITLE_ONLY_ANALYSIS,0,feature,title (Judul Saja),title (Judul Saja),True
+B2_TITLE_ONLY_ANALYSIS,0,macro_f1,0.956139,0.956139,True
+B2_TITLE_ONLY_ANALYSIS,0,macro_f1_ci_95,"[0.9485, 0.9640]","[0.9485, 0.9640]",True
+B2_TITLE_ONLY_ANALYSIS,0,accuracy,0.964029,0.964029,True
+B2_TITLE_ONLY_ANALYSIS,0,f1_hoaks,0.937537,0.937537,True
+B2_TITLE_ONLY_ANALYSIS,0,precision_hoaks,0.928151,0.928151,True
+B2_TITLE_ONLY_ANALYSIS,0,recall_hoaks,0.947115,0.947115,True
+B2_TITLE_ONLY_ANALYSIS,1,model,LinearSVM,LinearSVM,True
+B2_TITLE_ONLY_ANALYSIS,1,feature,title (Judul Saja),title (Judul Saja),True
+B2_TITLE_ONLY_ANALYSIS,1,macro_f1,0.997899,0.997899,True
+B2_TITLE_ONLY_ANALYSIS,1,macro_f1_ci_95,"[0.9958, 0.9996]","[0.9958, 0.9996]",True
+B2_TITLE_ONLY_ANALYSIS,1,accuracy,0.998287,0.998287,True
+B2_TITLE_ONLY_ANALYSIS,1,f1_hoaks,0.996997,0.996997,True
+B2_TITLE_ONLY_ANALYSIS,1,precision_hoaks,0.996399,0.996399,True
+B2_TITLE_ONLY_ANALYSIS,1,recall_hoaks,0.997596,0.997596,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,model,ComplementNB,ComplementNB,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,feature,text_clean_e4 (Kontrol Panjang),text_clean_e4 (Kontrol Panjang),True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,macro_f1,0.942362,0.942362,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,macro_f1_ci_95,"[0.9334, 0.9512]","[0.9334, 0.9512]",True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,accuracy,0.954436,0.954436,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,f1_hoaks,0.915982,0.915982,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,precision_hoaks,0.965379,0.965379,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,0,recall_hoaks,0.871394,0.871394,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,model,LinearSVM,LinearSVM,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,feature,text_clean_e4 (Kontrol Panjang),text_clean_e4 (Kontrol Panjang),True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,macro_f1,0.976599,0.976599,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,macro_f1_ci_95,"[0.9708, 0.9822]","[0.9708, 0.9822]",True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,accuracy,0.980815,0.980815,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,f1_hoaks,0.966667,0.966667,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,precision_hoaks,0.957547,0.957547,True
+B2_E4_LENGTH_CONTROL_ANALYSIS,1,recall_hoaks,0.975962,0.975962,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,versi_data,V3.1_A2_PROVISIONAL,V3.1_A2_PROVISIONAL,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,kondisi,platt_scaling_sigmoid_s2,platt_scaling_sigmoid_s2,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,split,random_split,random_split,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,model,LinearSVM_calibrated,LinearSVM_calibrated,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,hyperparameter,"{""method"": ""sigmoid"", ""cv"": ""prefit"", ""base_C"": 1.0}","{""method"": ""sigmoid"", ""cv"": ""prefit"", ""base_C"": 1.0}",True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,seed,42,42,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,status_evaluasi,VALIDASI,VALIDASI,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,macro_f1,0.992842,0.992842,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,macro_f1_ci_95,"[0.9893, 0.9959]","[0.9893, 0.9959]",True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,accuracy,0.994176,0.994176,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,f1_hoaks,0.989753,0.989753,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,precision_hoaks,0.992745,0.992745,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,recall_hoaks,0.986779,0.986779,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,f1_valid,0.995932,0.995932,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,precision_valid,0.994742,0.994742,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,recall_valid,0.997125,0.997125,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,ece,0.003933,0.003933,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,brier_score,0.003824,0.003824,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,precision_at_50,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,precision_at_100,1.0,1.0,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,coverage_agen,0.996574,0.996574,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,selective_macro_f1,0.995352,0.995352,True
+B2_EXPERIMENTS_BASELINE(kalibrasi),calibration_LinearSVM_platt_s2,expected_loss,0.016101,0.016101,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,coverage,0.998287,0.998287,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,abstain_rate,0.001713,0.001713,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,selective_accuracy,0.995196,0.995196,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,selective_error_rate,0.004804,0.004804,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,selective_macro_f1,0.994095,0.994095,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,fp_count_selective,6.0,6.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,fn_count_selective,8.0,8.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,fn_count_standard,11.0,11.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,reject_count,5.0,5.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,expected_loss_selective,0.014046,0.014046,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,expected_loss_standard,0.015416,0.015416,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,c_fn,3.0,3.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,c_fp,2.0,2.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,c_r,1.0,1.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,tau_low,0.3333,0.3333,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,0,tau_high,0.5,0.5,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,coverage,0.996574,0.996574,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,abstain_rate,0.003426,0.003426,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,selective_accuracy,0.996219,0.996219,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,selective_error_rate,0.003781,0.003781,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,selective_macro_f1,0.995352,0.995352,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,fp_count_selective,6.0,6.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,fn_count_selective,5.0,5.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,fn_count_standard,11.0,11.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,reject_count,10.0,10.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,expected_loss_selective,0.016101,0.016101,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,expected_loss_standard,0.022953,0.022953,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,c_fn,5.0,5.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,c_fp,2.0,2.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,c_r,1.0,1.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,tau_low,0.2,0.2,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,1,tau_high,0.5,0.5,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,coverage,0.993148,0.993148,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,abstain_rate,0.006852,0.006852,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,selective_accuracy,0.996895,0.996895,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,selective_error_rate,0.003105,0.003105,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,selective_macro_f1,0.996189,0.996189,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,fp_count_selective,6.0,6.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,fn_count_selective,3.0,3.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,fn_count_standard,11.0,11.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,reject_count,20.0,20.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,expected_loss_selective,0.02124,0.02124,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,expected_loss_standard,0.041795,0.041795,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,c_fn,10.0,10.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,c_fp,2.0,2.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,c_r,1.0,1.0,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,tau_low,0.1,0.1,True
+B3_SELECTIVE_RISK_COVERAGE_SVM,2,tau_high,0.5,0.5,True
+B3_RELIABILITY_BINS_SVM,0,bin_index,0,0,True
+B3_RELIABILITY_BINS_SVM,0,bin_range,"[0.0, 0.1)","[0.0, 0.1)",True
+B3_RELIABILITY_BINS_SVM,0,count_pre,37,37,True
+B3_RELIABILITY_BINS_SVM,0,mean_prob_pre,0.0856334642134281,0.0856334642134281,True
+B3_RELIABILITY_BINS_SVM,0,emp_pos_pre,0.0,0.0,True
+B3_RELIABILITY_BINS_SVM,0,count_post,2072,2072,True
+B3_RELIABILITY_BINS_SVM,0,mean_prob_post,0.0026505195992364,0.0026505195992364,True
+B3_RELIABILITY_BINS_SVM,0,emp_pos_post,0.0014478764478764,0.0014478764478764,True
+B3_RELIABILITY_BINS_SVM,1,bin_index,1,1,True
+B3_RELIABILITY_BINS_SVM,1,bin_range,"[0.1, 0.2)","[0.1, 0.2)",True
+B3_RELIABILITY_BINS_SVM,1,count_pre,980,980,True
+B3_RELIABILITY_BINS_SVM,1,mean_prob_pre,0.1590439139466917,0.1590439139466917,True
+B3_RELIABILITY_BINS_SVM,1,emp_pos_pre,0.0,0.0,True
+B3_RELIABILITY_BINS_SVM,1,count_post,10,10,True
+B3_RELIABILITY_BINS_SVM,1,mean_prob_post,0.1645382190585377,0.1645382190585376,True
+B3_RELIABILITY_BINS_SVM,1,emp_pos_post,0.2,0.2,True
+B3_RELIABILITY_BINS_SVM,2,bin_index,2,2,True
+B3_RELIABILITY_BINS_SVM,2,bin_range,"[0.2, 0.3)","[0.2, 0.3)",True
+B3_RELIABILITY_BINS_SVM,2,count_pre,871,871,True
+B3_RELIABILITY_BINS_SVM,2,mean_prob_pre,0.2392607441911496,0.2392607441911496,True
+B3_RELIABILITY_BINS_SVM,2,emp_pos_pre,0.0,0.0,True
+B3_RELIABILITY_BINS_SVM,2,count_post,3,3,True
+B3_RELIABILITY_BINS_SVM,2,mean_prob_post,0.2247146970899021,0.224714697089902,True
+B3_RELIABILITY_BINS_SVM,2,emp_pos_post,0.6666666666666666,0.6666666666666666,True
+B3_RELIABILITY_BINS_SVM,3,bin_index,3,3,True
+B3_RELIABILITY_BINS_SVM,3,bin_range,"[0.3, 0.4)","[0.3, 0.4)",True
+B3_RELIABILITY_BINS_SVM,3,count_pre,184,184,True
+B3_RELIABILITY_BINS_SVM,3,mean_prob_pre,0.3350023327032581,0.3350023327032581,True
+B3_RELIABILITY_BINS_SVM,3,emp_pos_pre,0.0163043478260869,0.0163043478260869,True
+B3_RELIABILITY_BINS_SVM,3,count_post,6,6,True
+B3_RELIABILITY_BINS_SVM,3,mean_prob_post,0.3551658450327561,0.3551658450327561,True
+B3_RELIABILITY_BINS_SVM,3,emp_pos_post,0.6666666666666666,0.6666666666666666,True
+B3_RELIABILITY_BINS_SVM,4,bin_index,4,4,True
+B3_RELIABILITY_BINS_SVM,4,bin_range,"[0.4, 0.5)","[0.4, 0.5)",True
+B3_RELIABILITY_BINS_SVM,4,count_pre,23,23,True
+B3_RELIABILITY_BINS_SVM,4,mean_prob_pre,0.440486554573482,0.440486554573482,True
+B3_RELIABILITY_BINS_SVM,4,emp_pos_pre,0.391304347826087,0.391304347826087,True
+B3_RELIABILITY_BINS_SVM,4,count_post,1,1,True
+B3_RELIABILITY_BINS_SVM,4,mean_prob_post,0.4367830194530819,0.4367830194530819,True
+B3_RELIABILITY_BINS_SVM,4,emp_pos_post,0.0,0.0,True
+B3_RELIABILITY_BINS_SVM,5,bin_index,5,5,True
+B3_RELIABILITY_BINS_SVM,5,bin_range,"[0.5, 0.6)","[0.5, 0.6)",True
+B3_RELIABILITY_BINS_SVM,5,count_pre,26,26,True
+B3_RELIABILITY_BINS_SVM,5,mean_prob_pre,0.5626164983101991,0.5626164983101991,True
+B3_RELIABILITY_BINS_SVM,5,emp_pos_pre,0.8461538461538461,0.8461538461538461,True
+B3_RELIABILITY_BINS_SVM,5,count_post,3,3,True
+B3_RELIABILITY_BINS_SVM,5,mean_prob_post,0.5427894010627398,0.5427894010627398,True
+B3_RELIABILITY_BINS_SVM,5,emp_pos_post,0.3333333333333333,0.3333333333333333,True
+B3_RELIABILITY_BINS_SVM,6,bin_index,6,6,True
+B3_RELIABILITY_BINS_SVM,6,bin_range,"[0.6, 0.7)","[0.6, 0.7)",True
+B3_RELIABILITY_BINS_SVM,6,count_pre,112,112,True
+B3_RELIABILITY_BINS_SVM,6,mean_prob_pre,0.6703081301454047,0.6703081301454047,True
+B3_RELIABILITY_BINS_SVM,6,emp_pos_pre,1.0,1.0,True
+B3_RELIABILITY_BINS_SVM,6,count_post,1,1,True
+B3_RELIABILITY_BINS_SVM,6,mean_prob_post,0.6456128717435946,0.6456128717435946,True
+B3_RELIABILITY_BINS_SVM,6,emp_pos_post,0.0,0.0,True
+B3_RELIABILITY_BINS_SVM,7,bin_index,7,7,True
+B3_RELIABILITY_BINS_SVM,7,bin_range,"[0.7, 0.8)","[0.7, 0.8)",True
+B3_RELIABILITY_BINS_SVM,7,count_pre,501,501,True
+B3_RELIABILITY_BINS_SVM,7,mean_prob_pre,0.7539099991526544,0.7539099991526544,True
+B3_RELIABILITY_BINS_SVM,7,emp_pos_pre,1.0,1.0,True
+B3_RELIABILITY_BINS_SVM,7,count_post,4,4,True
+B3_RELIABILITY_BINS_SVM,7,mean_prob_post,0.7651496296573219,0.7651496296573219,True
+B3_RELIABILITY_BINS_SVM,7,emp_pos_post,0.5,0.5,True
+B3_RELIABILITY_BINS_SVM,8,bin_index,8,8,True
+B3_RELIABILITY_BINS_SVM,8,bin_range,"[0.8, 0.9)","[0.8, 0.9)",True
+B3_RELIABILITY_BINS_SVM,8,count_pre,183,183,True
+B3_RELIABILITY_BINS_SVM,8,mean_prob_pre,0.8270043191904098,0.8270043191904098,True
+B3_RELIABILITY_BINS_SVM,8,emp_pos_pre,1.0,1.0,True
+B3_RELIABILITY_BINS_SVM,8,count_post,4,4,True
+B3_RELIABILITY_BINS_SVM,8,mean_prob_post,0.8693430006449538,0.8693430006449538,True
+B3_RELIABILITY_BINS_SVM,8,emp_pos_post,0.75,0.75,True
+B3_RELIABILITY_BINS_SVM,9,bin_index,9,9,True
+B3_RELIABILITY_BINS_SVM,9,bin_range,"[0.9, 1.0)","[0.9, 1.0)",True
+B3_RELIABILITY_BINS_SVM,9,count_pre,2,2,True
+B3_RELIABILITY_BINS_SVM,9,mean_prob_pre,0.916035857074676,0.916035857074676,True
+B3_RELIABILITY_BINS_SVM,9,emp_pos_pre,1.0,1.0,True
+B3_RELIABILITY_BINS_SVM,9,count_post,815,815,True
+B3_RELIABILITY_BINS_SVM,9,mean_prob_post,0.997313261472062,0.997313261472062,True
+B3_RELIABILITY_BINS_SVM,9,emp_pos_post,1.0,1.0,True

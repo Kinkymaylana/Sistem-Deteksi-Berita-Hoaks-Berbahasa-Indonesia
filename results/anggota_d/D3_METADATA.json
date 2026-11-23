@@ -1,0 +1,137 @@
+{
+  "tugas": "D3 evaluasi agen di VALIDASI",
+  "tanggal": "2026-11-23 10:02:15",
+  "data_version": "V3.1_A2_PROVISIONAL",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "sama_dengan_file_a": true,
+  "split": "random_split = VALIDASI",
+  "n": 2919,
+  "n_hoaks": 832,
+  "uji_dibaca": false,
+  "limit": null,
+  "biaya": {
+    "c_fp": 2.0,
+    "c_r": 1.0,
+    "c_fn": [
+      3.0,
+      5.0,
+      10.0
+    ],
+    "c_fn_utama": 5.0
+  },
+  "agen": {
+    "preprocess": true,
+    "preprocess_version": "V3.1",
+    "scope_guard_panjang": true,
+    "scope_guard_bahasa": true,
+    "find_similar": true,
+    "model": true,
+    "tau_similar": 0.9,
+    "model_path": "LinearSVM_calibrated_v31.joblib",
+    "data_version_model": "V3.1_A2_PROVISIONAL"
+  },
+  "python": "3.13.18",
+  "scikit_learn": "1.6.1",
+  "bootstrap": {
+    "n": 1000,
+    "seed": 42
+  },
+  "kalibrasi": {
+    "ece_validasi_seperti_b3": 0.003932778956296575,
+    "ece_crossfit_2_lipatan": 0.0041670644044683736,
+    "catatan": "Platt B3 dipasang di VALIDASI, jadi ECE di VALIDASI optimis. ECE cross-fit: Platt dipasang di separuh VALIDASI dan dinilai di separuh lainnya, lalu ditukar. Angka ini yang jujur untuk laporan sebelum UJI.",
+    "reliability_bins_validasi": [
+      {
+        "bin_index": 0,
+        "bin_low": 0.0,
+        "bin_high": 0.1,
+        "count": 2072,
+        "mean_predicted_prob": 0.0026505195992364192,
+        "empirical_positive_rate": 0.0014478764478764478
+      },
+      {
+        "bin_index": 1,
+        "bin_low": 0.1,
+        "bin_high": 0.2,
+        "count": 10,
+        "mean_predicted_prob": 0.16453821905853772,
+        "empirical_positive_rate": 0.2
+      },
+      {
+        "bin_index": 2,
+        "bin_low": 0.2,
+        "bin_high": 0.30000000000000004,
+        "count": 3,
+        "mean_predicted_prob": 0.2247146970899021,
+        "empirical_positive_rate": 0.6666666666666666
+      },
+      {
+        "bin_index": 3,
+        "bin_low": 0.30000000000000004,
+        "bin_high": 0.4,
+        "count": 6,
+        "mean_predicted_prob": 0.35516584503275617,
+        "empirical_positive_rate": 0.6666666666666666
+      },
+      {
+        "bin_index": 4,
+        "bin_low": 0.4,
+        "bin_high": 0.5,
+        "count": 1,
+        "mean_predicted_prob": 0.4367830194530819,
+        "empirical_positive_rate": 0.0
+      },
+      {
+        "bin_index": 5,
+        "bin_low": 0.5,
+        "bin_high": 0.6000000000000001,
+        "count": 3,
+        "mean_predicted_prob": 0.5427894010627398,
+        "empirical_positive_rate": 0.3333333333333333
+      },
+      {
+        "bin_index": 6,
+        "bin_low": 0.6000000000000001,
+        "bin_high": 0.7000000000000001,
+        "count": 1,
+        "mean_predicted_prob": 0.6456128717435946,
+        "empirical_positive_rate": 0.0
+      },
+      {
+        "bin_index": 7,
+        "bin_low": 0.7000000000000001,
+        "bin_high": 0.8,
+        "count": 4,
+        "mean_predicted_prob": 0.7651496296573219,
+        "empirical_positive_rate": 0.5
+      },
+      {
+        "bin_index": 8,
+        "bin_low": 0.8,
+        "bin_high": 0.9,
+        "count": 4,
+        "mean_predicted_prob": 0.8693430006449538,
+        "empirical_positive_rate": 0.75
+      },
+      {
+        "bin_index": 9,
+        "bin_low": 0.9,
+        "bin_high": 1.0,
+        "count": 815,
+        "mean_predicted_prob": 0.997313261472062,
+        "empirical_positive_rate": 1.0
+      }
+    ]
+  },
+  "kesetaraan_preprocessing": {
+    "porsi_teks_bersih_sama_persis": 0.9972593353888318,
+    "n_berita_dengan_p": 2919,
+    "selisih_p_maks": 0.0014437073537604886,
+    "keputusan_model_berbeda_cfn5": 0
+  },
+  "latensi": {
+    "p50_ms": 20.805817999644205,
+    "p95_ms": 30.419636100486965,
+    "mesin": "Linux x86_64 | Python 3.13.18"
+  }
+}

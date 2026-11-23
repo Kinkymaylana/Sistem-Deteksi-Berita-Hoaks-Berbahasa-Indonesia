@@ -1,0 +1,12 @@
+raw_id,source,label,jenis,lapisan,alasan,p_hoaks,p_model,skor_mirip,judul_mirip
+5670,CNN Indonesia,0,FP (valid dituduh),model,"p = 0,50 mencapai ambang HOAKS 0,50",0.5040456940743258,0.5040456940743258,0.11792596540724276,"[SALAH] Dapat Suara Terbanyak Menjadi Ketua DPR, Puan Berjanji Akan Mensejahterakan Partai"
+11853,Kompas,0,FP (valid dituduh),model,"p = 0,80 mencapai ambang HOAKS 0,50",0.7986591495062816,0.7986591495062816,0.07711058183433435,[SALAH] JOKOWI JADI ORANG TERKAYA NOMOR 18 DI ASIA
+12181,Kompas,0,FP (valid dituduh),model,"p = 0,90 mencapai ambang HOAKS 0,50",0.8987794032339769,0.8987794032339769,0.0786631745677799,[HOAX] Ahok Ciptakan Lirik Lagu “Tuhan Tidak Tidur”
+12488,Kompas,0,FP (valid dituduh),model,"p = 0,73 mencapai ambang HOAKS 0,50",0.7342125221126601,0.7342125221126601,0.07525837667499949,[HOAX] “Viral Video Sekawanan Monyet di Arab Saudi Pertanda Ada Bencana Alam Besar”
+12653,Kompas,0,FP (valid dituduh),model,"p = 0,65 mencapai ambang HOAKS 0,50",0.6456128717435946,0.6456128717435946,0.06565735067770423,"[SALAH] Tidak Memakai Masker, Pengendara Motor dan Mobil Didenda  Rp 5 Juta atau Kurungan Penjara Dua Minggu"
+14308,Kompas,0,FP (valid dituduh),model,"p = 0,56 mencapai ambang HOAKS 0,50",0.5568579058336613,0.5568579058336613,0.14487749194263388,[SALAH] Lady Gaga Baca Alquran Surah Ad Dhuha
+23544,TurnBackHoax,1,FN (hoaks lolos),model,"p = 0,07 tidak melebihi ambang VALID 0,20",0.07071737027809012,0.07071737027809012,0.14245010787049955,[SALAH] Video Gempa di Banten 14 Januari 2022
+28708,TurnBackHoax,1,FN (hoaks lolos),model,"p = 0,15 tidak melebihi ambang VALID 0,20",0.14590410416942334,0.14590410416942334,0.11054566107619568,[DISINFORMASI] “Dari Jusuf Kalla: PERJUANGAN MORAL JOKOWI”
+29789,TurnBackHoax,1,FN (hoaks lolos),model,"p = 0,08 tidak melebihi ambang VALID 0,20",0.08295562971676061,0.08295562971676061,0.11751053586405018,[DISINFORMASI] Sebuah Rezim Yang Mencari Solusi Pembiayaan Pembangunan Dengan Cara Menjual Aset-Aset Vital Negara
+30985,TurnBackHoax,1,FN (hoaks lolos),model,"p = 0,05 tidak melebihi ambang VALID 0,20",0.0467235609332432,0.0467235609332432,0.24762773980135214,[SALAH] “Sultan Hassanal Bolkiah akan beli Singapura dan usir etnis China karena menolak Presiden Halimah”
+31581,TurnBackHoax,1,FN (hoaks lolos),model,"p = 0,14 tidak melebihi ambang VALID 0,20",0.14138647764943846,0.14138647764943846,0.18657431501199478,[SALAH] Harga Vaksin di Indonesia 1000% Lebih Mahal Daripada di Brazil

@@ -1,0 +1,60 @@
+{
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "sama_dengan_file_a": true,
+  "data_version": "V3.1_A2_PROVISIONAL",
+  "toleransi": 1e-06,
+  "python": "3.13.18",
+  "scikit_learn": "1.6.1",
+  "per_file": [
+    {
+      "file": "B2_E1_SHORTCUT_ANALYSIS",
+      "dibandingkan": 18,
+      "cocok": 17,
+      "beda": 1
+    },
+    {
+      "file": "B2_E2_TEMPORAL_ANALYSIS",
+      "dibandingkan": 24,
+      "cocok": 24,
+      "beda": 0
+    },
+    {
+      "file": "B2_E4_LENGTH_CONTROL_ANALYSIS",
+      "dibandingkan": 16,
+      "cocok": 16,
+      "beda": 0
+    },
+    {
+      "file": "B2_EXPERIMENTS_BASELINE",
+      "dibandingkan": 276,
+      "cocok": 276,
+      "beda": 0
+    },
+    {
+      "file": "B2_EXPERIMENTS_BASELINE(kalibrasi)",
+      "dibandingkan": 23,
+      "cocok": 23,
+      "beda": 0
+    },
+    {
+      "file": "B2_TITLE_ONLY_ANALYSIS",
+      "dibandingkan": 16,
+      "cocok": 16,
+      "beda": 0
+    },
+    {
+      "file": "B3_RELIABILITY_BINS_SVM",
+      "dibandingkan": 80,
+      "cocok": 80,
+      "beda": 0
+    },
+    {
+      "file": "B3_SELECTIVE_RISK_COVERAGE_SVM",
+      "dibandingkan": 48,
+      "cocok": 48,
+      "beda": 0
+    }
+  ],
+  "total_dibandingkan": 501,
+  "total_beda": 1
+}
