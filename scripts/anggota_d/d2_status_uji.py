@@ -58,7 +58,13 @@ def main() -> int:
         st = "SELESAI" if done[k] == 1 else (f"SELESAI x{done[k]} (DIULANG)" if done[k] > 1 else "belum")
         print(f"{k:40s} {r['split']:15s} {st}")
     siap = m["status"] == STATUS_DIBEKUKAN and not probs
-    print(f"\nUJI {'boleh dibuka dengan --final' if siap else 'TERKUNCI'}.")
+    belum = [r["run_key"] for r in m["runs"] if not done[r["run_key"]]]
+    if not siap:
+        print("\nUJI TERKUNCI.")
+    elif belum:
+        print(f"\nUJI boleh dibuka dengan --final untuk {len(belum)} run yang belum selesai.")
+    else:
+        print("\nSemua run UJI sudah SELESAI. Tidak ada UJI yang perlu dibuka lagi.")
     return 0
 
 

@@ -179,7 +179,7 @@ def test_add_final_args_bawaan_tertutup():
     assert a.manifest.endswith("PEMBEKUAN_UJI.json") and a.uji_log.endswith("uji_log.csv")
 
 
-def test_draf_repo_tidak_bisa_dibekukan_selama_keputusan_belum_disepakati(mini):
+def test_draf_repo_tidak_bisa_dibekukan_dengan_dataset_lain(mini):
     draf = REPO / "results" / "anggota_d" / "PEMBEKUAN_UJI_DRAF.json"
     script = REPO / "scripts" / "anggota_d" / "d2_bekukan.py"
     if not (draf.exists() and script.exists()):
@@ -188,7 +188,8 @@ def test_draf_repo_tidak_bisa_dibekukan_selama_keputusan_belum_disepakati(mini):
     r = subprocess.run([sys.executable, str(script), "--dataset", str(mini["data"]), "--draf", str(draf),
                         "--out", str(out), "--uji-log", str(mini["log"]), "--disetujui", "A"],
                        capture_output=True, text=True)
-    assert r.returncode == 1 and "belum DISEPAKATI" in r.stdout
+    # Draf repo meminta SHA-256 V3.1 milik A; dataset tes berbeda, jadi harus ditolak
+    assert r.returncode == 1 and "[BELUM BISA DIBEKUKAN]" in r.stdout
     assert not out.exists()
 
 

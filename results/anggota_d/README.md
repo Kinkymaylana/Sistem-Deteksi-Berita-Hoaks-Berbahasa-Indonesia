@@ -9,7 +9,7 @@ Kedua file berasal dari notebook `notebooks/anggota_d/D1_Verifikasi_Evaluate.ipy
 **Hasil:** 500 dari 501 angka sama dengan hasil B. Satu-satunya beda adalah *p-value* E1 SVM (0,002 vs 0,000), dan kesimpulannya tetap sama. Penjelasan lengkap ada di `scripts/anggota_d/README.md`.
 
 ## D2 — Kunci UJI
-- `PEMBEKUAN_UJI_DRAF.json`: draf keputusan yang diisi kelompok. Statusnya masih DRAF, dan kelima keputusan BELUM_DISEPAKATI
+- `PEMBEKUAN_UJI_DRAF.json`: draf keputusan. Kelima keputusan (K1–K5) sudah DISEPAKATI pada 23 Nov
 - `PEMBEKUAN_UJI.json`: dibuat `scripts/anggota_d/d2_bekukan.py` setelah kelima keputusan disepakati. **Belum ada**
 - `uji_log.csv`: dibuat otomatis saat UJI pertama kali dicoba dibuka. **Belum ada**
 
@@ -22,3 +22,7 @@ Diisi dari `notebooks/anggota_d/D3_Evaluasi_Agen.ipynb` (file V3.1 milik A):
 - `D3_KESALAHAN_AGEN.csv`, `D3_PREDIKSI_AGEN_VALIDASI.csv`, `D3_METADATA.json`
 
 Penjelasan dan temuan ada di `scripts/anggota_d/README.md` bagian D3.
+
+
+## D4 — UJI final
+Diisi dari `notebooks/anggota_d/D4_UJI_Final.ipynb`: `PEMBEKUAN_UJI.json`, `uji_log.csv`, `experiments_uji.csv`, dan `D4_*`. **Belum dijalankan.**

@@ -183,3 +183,60 @@ Agen milik C dimuat dengan `load_default_agent()` dan dijalankan apa adanya pada
 4. **Kesetaraan preprocessing:** 99,7% teks bersih agen sama persis dengan kolom `text_clean_v31`, dan tidak ada keputusan yang berbeda.
 5. **Latensi:** p50 sekitar 13 ms, p95 sekitar 17 ms per berita (CPU).
 6. **Semua hoaks berasal dari TurnBackHoax.** Semua FN ada di TurnBackHoax, dan semua FP ada di media arus utama (Kompas 5, CNN 1). Angka per sumber ikut mencerminkan *shortcut* sumber.
+
+## D4. Pembekuan dan evaluasi final di UJI
+
+**Skrip:** `scripts/anggota_d/d4_uji_final.py`. **Notebook Colab:** `notebooks/anggota_d/D4_UJI_Final.ipynb`.
+
+### Keputusan yang dibekukan (23 Nov)
+| ID | Keputusan |
+|---|---|
+| K1 | Data V3.1_A2_PROVISIONAL (SHA-256 `a790c0a6…`) |
+| K2 | SVM C = 1,0 dan NB α = 0,1 (tuning B1 V3.1). Bagian NB di B2 dan E4 A5 sudah dijalankan ulang di VALIDASI |
+| K3 | Catatan C nomor 1, 3, 4 diterima |
+| K4 | E4 resmi = A5 |
+| K5 | Konfigurasi agen seperti `src/config.py` dan `models/` saat ini. Biaya aturan bahasa (D3) diterima dan dilaporkan |
+
+### Tujuh run UJI (dari manifest)
+| run_key | Split | Teks | Model |
+|---|---|---|---|
+| `UJI_ComplementNB_random_raw` / `_clean` | `random_split` | `text_raw` / `text_clean_v31` | NB α = 0,1 |
+| `UJI_LinearSVM_random_raw` / `_clean` | `random_split` | `text_raw` / `text_clean_v31` | SVM C = 1,0 |
+| `UJI_ComplementNB_temporal_main`, `UJI_LinearSVM_temporal_main` | `temporal_main` (UJI 2022–2023) | `text_clean_v31` | sama |
+| `UJI_Agen_random` | `random_split` | judul + `text_raw` (seperti aplikasi) | agen C utuh |
+
+Model baseline dilatih ulang pada LATIH split masing-masing (seed 42), dengan konfigurasi yang **dibaca dari manifest**. Skrip ini tidak punya pengaturan model sendiri. Agen memakai model jadi di `prototipe/anggota_c/models`.
+
+### Keluaran
+- `experiments_uji.csv`: log berformat `evaluate.py`, berstatus UJI.
+- `D4_UJI_RINGKASAN.csv`: satu baris per run.
+- `D4_UJI_SIGNIFIKANSI.csv`: E1 di UJI, membandingkan data mentah dan bersih per model dengan bootstrap berpasangan.
+- `D4_UJI_AGEN_SISTEM.csv`: agen dibanding model saja untuk C_FN 3/5/10.
+- `D4_UJI_AGEN_LAPISAN.csv`: kontribusi tiap lapisan agen.
+- `D4_PREDIKSI_UJI_<run_key>.csv`: prediksi per berita untuk setiap run.
+- `D4_METADATA.json`: manifest, SHA-256, versi, dan waktu.
+- `uji_log.csv`: jejak setiap akses ke UJI.
+
+### Urutan
+1. **Tahap 1 (notebook bagian 1):**
+   - Jalankan `d2_bekukan.py --cek`, lalu `d2_bekukan.py --disetujui "..."`.
+   - Unduh `PEMBEKUAN_UJI.json`, lalu **commit dan push sebelum tahap 2**.
+2. **Tahap 2 (notebook bagian 2):**
+   - Jalankan `d4_uji_final.py --rencana` untuk melihat rencana run. UJI belum dibuka di langkah ini.
+   - Jalankan `d4_uji_final.py --final --operator "..."`.
+   - Unduh `HASIL_D4_UJI.zip`, lalu commit `uji_log.csv` bersama semua hasil.
+3. Jalankan kedua tahap **di sesi Colab yang sama, dari zip repo yang sama**. Sidik berkas dihitung dari file di sesi itu. Akhir baris file Windows (CRLF) bisa membuat sidiknya berbeda jika repo diunggah ulang.
+
+### Pengujian alur (tanpa melihat UJI asli)
+Alur lengkapnya sudah diuji pada **data UJI palsu**. Caranya:
+- semua baris yang berstatus UJI di `random_split`, `temporal_main`, atau `temporal_split` dibuang;
+- baris VALIDASI kemudian diberi label "UJI".
+
+Hasil pengujian:
+- Ketujuh run berjalan.
+- Run yang sudah SELESAI dilewati.
+- Dataset dengan SHA-256 berbeda ditolak.
+- Upaya tanpa `--final` ditolak dan tercatat.
+- Notebook berjalan dari awal sampai akhir.
+
+Angka dari uji palsu ini tidak bermakna, dan **tidak ada yang melihat UJI asli sebelum pembekuan**.

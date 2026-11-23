@@ -207,7 +207,9 @@
     "prototipe/anggota_c/models/LinearSVM_calibrated_v31.joblib",
     "prototipe/anggota_c/models/similar_index.joblib",
     "prototipe/anggota_c/models/language_rule.json",
-    "prototipe/anggota_c/models/model_card.json"
+    "prototipe/anggota_c/models/model_card.json",
+    "scripts/anggota_d/d4_uji_final.py",
+    "scripts/anggota_d/d3_evaluasi_agen.py"
   ],
   "disetujui_oleh": []
 }
