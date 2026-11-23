@@ -22,7 +22,7 @@
   },
   "models": {
     "ComplementNB": {
-      "alpha": 1.0
+      "alpha": 0.1
     },
     "LinearSVM": {
       "C": 1.0,
@@ -34,6 +34,6 @@
   "validation_count": 2919,
   "test_accessed_for_experiment": false,
   "sklearn_version": "1.6.1",
-  "run_at": "2026-11-20T17:46:41",
+  "run_at": "2026-11-23T11:04:43",
   "caveat": "Length control removes length cues only; topic and style differences between sources remain."
 }

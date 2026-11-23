@@ -10,36 +10,42 @@
       "id": "K1_data",
       "pertanyaan": "V3.1 (SHA-256 a790c0a6…) dipakai sebagai versi final walaupun labelnya PROVISIONAL?",
       "usulan": "Ya, V3.1_A2_PROVISIONAL dipakai apa adanya untuk UJI.",
-      "status": "BELUM_DISEPAKATI",
-      "keputusan_akhir": ""
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "V3.1_A2_PROVISIONAL (SHA-256 a790c0a6…) dipakai apa adanya sebagai data final untuk UJI.",
+      "tanggal_sepakat": "2026-11-23"
     },
     {
       "id": "K2_hyperparameter",
       "pertanyaan": "Tetap alpha=1,0 dan C=1,0, atau tuning B1 dulu?",
-      "usulan": "Tetap alpha=1,0 dan C=1,0 (B1 masih memakai kolom V3).",
-      "status": "BELUM_DISEPAKATI",
-      "keputusan_akhir": ""
+      "usulan": "SVM: C=1,0 (C=10 hanya +0,0008 macro-F1, CI tumpang tindih; B3, agen C, dan D3 sudah memakai C=1,0). NB: alpha=0,1 (macro-F1 0,9748 vs 0,9290 pada alpha=1,0, CI tidak tumpang tindih; dicek D: alpha 0,03-0,1 membentuk dataran sehingga 0,1 bukan artefak ujung grid). Baris E1-E4 NB di VALIDASI dengan alpha=1,0 dilaporkan sebagai 'tanpa tuning' atau dijalankan ulang dengan alpha=0,1.",
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "SVM C=1,0 dan NB alpha=0,1 (hasil tuning B1 V3.1, results/anggota_b/B1_TUNING_RESULTS_V31.csv). Opsi (a): bagian NB di B2 (E1, E2, judul saja, E4 versi B) dan E4 A5 dijalankan ulang di VALIDASI dengan alpha=0,1 sebelum pembekuan; baris alpha=1,0 tetap di log sebagai 'tanpa tuning'.",
+      "catatan": "23 Nov: hasil B1 V3.1 ada di results/anggota_b/B1_TUNING_RESULTS_V31.csv dan B1_EXPERIMENTS_TUNING_V31.csv; baris alpha=1,0 dan C=1,0 sama persis dengan B2 (D1).",
+      "tanggal_sepakat": "2026-11-23"
     },
     {
       "id": "K3_catatan_C",
       "pertanyaan": "Catatan C nomor 1, 3, 4: kata 'the'/'i' dikecualikan dari aturan bahasa, mode Kompas C untuk sumber tak dikenal, regex kredit foto A dibiarkan.",
       "usulan": "Ketiganya diterima seperti di prototipe saat ini.",
-      "status": "BELUM_DISEPAKATI",
-      "keputusan_akhir": ""
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "Catatan C nomor 1, 3, 4 diterima seperti di prototipe saat ini: 'the'/'i' dikecualikan dari aturan bahasa, mode Kompas C untuk sumber tak dikenal, regex kredit foto A dibiarkan.",
+      "tanggal_sepakat": "2026-11-23"
     },
     {
       "id": "K4_E4_resmi",
       "pertanyaan": "E4 resmi adalah versi A5 (distribusi panjang dari LATIH saja)?",
       "usulan": "Ya; E4 B hanya pembanding.",
-      "status": "BELUM_DISEPAKATI",
-      "keputusan_akhir": ""
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "E4 resmi adalah hasil A5 (distribusi panjang dari LATIH saja). E4 versi B hanya pembanding.",
+      "tanggal_sepakat": "2026-11-23"
     },
     {
       "id": "K5_agen",
       "pertanyaan": "Konfigurasi agen dibekukan: ambang 0,20/0,50 (C_FP=2, C_FN=5, C_R=1), tau_mirip 0,90, min 8 kata, model LinearSVM_calibrated_v31.",
       "usulan": "Ya, sesuai src/config.py dan models/ saat ini.",
-      "status": "BELUM_DISEPAKATI",
-      "keputusan_akhir": ""
+      "status": "DISEPAKATI",
+      "keputusan_akhir": "Konfigurasi agen dibekukan sesuai src/config.py dan models/ saat ini: ambang 0,20/0,50 (C_FP=2, C_FN=5, C_R=1), tau_mirip 0,90, minimal 8 kata, tau_bahasa persentil ke-1 LATIH, model LinearSVM_calibrated_v31. Biaya aturan bahasa di VALIDASI (25 hoaks ditahan, kerugian agen 0,0247 vs model selektif 0,0161, D3) diterima dan dilaporkan.",
+      "tanggal_sepakat": "2026-11-23"
     }
   ],
   "runs": [
@@ -49,7 +55,7 @@
       "text_col": "text_raw",
       "model": "ComplementNB",
       "hyperparameter": {
-        "alpha": 1.0
+        "alpha": 0.1
       },
       "tfidf": {
         "ngram_range": [
@@ -69,7 +75,7 @@
       "text_col": "text_clean_v31",
       "model": "ComplementNB",
       "hyperparameter": {
-        "alpha": 1.0
+        "alpha": 0.1
       },
       "tfidf": {
         "ngram_range": [
@@ -89,7 +95,7 @@
       "text_col": "text_clean_v31",
       "model": "ComplementNB",
       "hyperparameter": {
-        "alpha": 1.0
+        "alpha": 0.1
       },
       "tfidf": {
         "ngram_range": [

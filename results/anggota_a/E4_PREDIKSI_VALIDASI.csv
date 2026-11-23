@@ -160,7 +160,7 @@ raw_id,source,label,condition,model,predicted_label
 1759,CNN Indonesia,0,normal,ComplementNB,0
 1760,CNN Indonesia,0,normal,ComplementNB,0
 1789,CNN Indonesia,0,normal,ComplementNB,0
-1792,CNN Indonesia,0,normal,ComplementNB,0
+1792,CNN Indonesia,0,normal,ComplementNB,1
 1798,CNN Indonesia,0,normal,ComplementNB,0
 1800,CNN Indonesia,0,normal,ComplementNB,0
 1816,CNN Indonesia,0,normal,ComplementNB,0
@@ -1035,10 +1035,10 @@ raw_id,source,label,condition,model,predicted_label
 10762,Kompas,0,normal,ComplementNB,0
 10796,Kompas,0,normal,ComplementNB,0
 10816,Kompas,0,normal,ComplementNB,0
-10830,Kompas,0,normal,ComplementNB,0
+10830,Kompas,0,normal,ComplementNB,1
 10832,Kompas,0,normal,ComplementNB,0
 10849,Kompas,0,normal,ComplementNB,0
-10859,Kompas,0,normal,ComplementNB,0
+10859,Kompas,0,normal,ComplementNB,1
 10876,Kompas,0,normal,ComplementNB,0
 10880,Kompas,0,normal,ComplementNB,0
 10906,Kompas,0,normal,ComplementNB,0
@@ -1063,17 +1063,17 @@ raw_id,source,label,condition,model,predicted_label
 11073,Kompas,0,normal,ComplementNB,0
 11075,Kompas,0,normal,ComplementNB,0
 11084,Kompas,0,normal,ComplementNB,0
-11088,Kompas,0,normal,ComplementNB,0
+11088,Kompas,0,normal,ComplementNB,1
 11108,Kompas,0,normal,ComplementNB,0
 11111,Kompas,0,normal,ComplementNB,0
 11116,Kompas,0,normal,ComplementNB,0
 11119,Kompas,0,normal,ComplementNB,0
 11127,Kompas,0,normal,ComplementNB,0
 11132,Kompas,0,normal,ComplementNB,0
-11135,Kompas,0,normal,ComplementNB,0
+11135,Kompas,0,normal,ComplementNB,1
 11138,Kompas,0,normal,ComplementNB,0
 11151,Kompas,0,normal,ComplementNB,0
-11158,Kompas,0,normal,ComplementNB,0
+11158,Kompas,0,normal,ComplementNB,1
 11170,Kompas,0,normal,ComplementNB,0
 11172,Kompas,0,normal,ComplementNB,0
 11178,Kompas,0,normal,ComplementNB,0
@@ -1088,8 +1088,8 @@ raw_id,source,label,condition,model,predicted_label
 11211,Kompas,0,normal,ComplementNB,0
 11221,Kompas,0,normal,ComplementNB,0
 11225,Kompas,0,normal,ComplementNB,0
-11229,Kompas,0,normal,ComplementNB,0
-11235,Kompas,0,normal,ComplementNB,0
+11229,Kompas,0,normal,ComplementNB,1
+11235,Kompas,0,normal,ComplementNB,1
 11244,Kompas,0,normal,ComplementNB,0
 11252,Kompas,0,normal,ComplementNB,0
 11253,Kompas,0,normal,ComplementNB,0
@@ -1155,7 +1155,7 @@ raw_id,source,label,condition,model,predicted_label
 11837,Kompas,0,normal,ComplementNB,0
 11847,Kompas,0,normal,ComplementNB,0
 11850,Kompas,0,normal,ComplementNB,0
-11853,Kompas,0,normal,ComplementNB,0
+11853,Kompas,0,normal,ComplementNB,1
 11861,Kompas,0,normal,ComplementNB,0
 11865,Kompas,0,normal,ComplementNB,0
 11889,Kompas,0,normal,ComplementNB,0
@@ -1180,24 +1180,24 @@ raw_id,source,label,condition,model,predicted_label
 12084,Kompas,0,normal,ComplementNB,0
 12088,Kompas,0,normal,ComplementNB,0
 12092,Kompas,0,normal,ComplementNB,0
-12107,Kompas,0,normal,ComplementNB,0
+12107,Kompas,0,normal,ComplementNB,1
 12110,Kompas,0,normal,ComplementNB,0
 12127,Kompas,0,normal,ComplementNB,0
 12134,Kompas,0,normal,ComplementNB,0
-12137,Kompas,0,normal,ComplementNB,0
+12137,Kompas,0,normal,ComplementNB,1
 12143,Kompas,0,normal,ComplementNB,0
 12150,Kompas,0,normal,ComplementNB,0
 12156,Kompas,0,normal,ComplementNB,0
-12180,Kompas,0,normal,ComplementNB,0
+12180,Kompas,0,normal,ComplementNB,1
 12181,Kompas,0,normal,ComplementNB,1
 12182,Kompas,0,normal,ComplementNB,0
 12192,Kompas,0,normal,ComplementNB,0
 12198,Kompas,0,normal,ComplementNB,0
 12220,Kompas,0,normal,ComplementNB,0
-12230,Kompas,0,normal,ComplementNB,0
+12230,Kompas,0,normal,ComplementNB,1
 12244,Kompas,0,normal,ComplementNB,0
 12257,Kompas,0,normal,ComplementNB,0
-12267,Kompas,0,normal,ComplementNB,0
+12267,Kompas,0,normal,ComplementNB,1
 12269,Kompas,0,normal,ComplementNB,0
 12272,Kompas,0,normal,ComplementNB,0
 12277,Kompas,0,normal,ComplementNB,0
@@ -1209,7 +1209,7 @@ raw_id,source,label,condition,model,predicted_label
 12333,Kompas,0,normal,ComplementNB,0
 12352,Kompas,0,normal,ComplementNB,0
 12362,Kompas,0,normal,ComplementNB,0
-12373,Kompas,0,normal,ComplementNB,0
+12373,Kompas,0,normal,ComplementNB,1
 12393,Kompas,0,normal,ComplementNB,0
 12398,Kompas,0,normal,ComplementNB,0
 12400,Kompas,0,normal,ComplementNB,0
@@ -1224,7 +1224,7 @@ raw_id,source,label,condition,model,predicted_label
 12520,Kompas,0,normal,ComplementNB,0
 12525,Kompas,0,normal,ComplementNB,0
 12532,Kompas,0,normal,ComplementNB,0
-12534,Kompas,0,normal,ComplementNB,0
+12534,Kompas,0,normal,ComplementNB,1
 12536,Kompas,0,normal,ComplementNB,0
 12541,Kompas,0,normal,ComplementNB,0
 12554,Kompas,0,normal,ComplementNB,0
@@ -1368,7 +1368,7 @@ raw_id,source,label,condition,model,predicted_label
 13915,Kompas,0,normal,ComplementNB,0
 13920,Kompas,0,normal,ComplementNB,0
 13937,Kompas,0,normal,ComplementNB,0
-13948,Kompas,0,normal,ComplementNB,0
+13948,Kompas,0,normal,ComplementNB,1
 13951,Kompas,0,normal,ComplementNB,0
 13955,Kompas,0,normal,ComplementNB,0
 13965,Kompas,0,normal,ComplementNB,0
@@ -1398,7 +1398,7 @@ raw_id,source,label,condition,model,predicted_label
 14260,Kompas,0,normal,ComplementNB,0
 14300,Kompas,0,normal,ComplementNB,0
 14306,Kompas,0,normal,ComplementNB,0
-14308,Kompas,0,normal,ComplementNB,0
+14308,Kompas,0,normal,ComplementNB,1
 14319,Kompas,0,normal,ComplementNB,0
 14351,Kompas,0,normal,ComplementNB,0
 14353,Kompas,0,normal,ComplementNB,0
@@ -1565,7 +1565,7 @@ raw_id,source,label,condition,model,predicted_label
 16178,Tempo,0,normal,ComplementNB,0
 16189,Tempo,0,normal,ComplementNB,0
 16210,Tempo,0,normal,ComplementNB,0
-16249,Tempo,0,normal,ComplementNB,0
+16249,Tempo,0,normal,ComplementNB,1
 16258,Tempo,0,normal,ComplementNB,0
 16289,Tempo,0,normal,ComplementNB,0
 16311,Tempo,0,normal,ComplementNB,0
@@ -1595,7 +1595,7 @@ raw_id,source,label,condition,model,predicted_label
 16562,Tempo,0,normal,ComplementNB,0
 16564,Tempo,0,normal,ComplementNB,0
 16570,Tempo,0,normal,ComplementNB,0
-16573,Tempo,0,normal,ComplementNB,0
+16573,Tempo,0,normal,ComplementNB,1
 16575,Tempo,0,normal,ComplementNB,0
 16585,Tempo,0,normal,ComplementNB,0
 16589,Tempo,0,normal,ComplementNB,0
@@ -1635,7 +1635,7 @@ raw_id,source,label,condition,model,predicted_label
 16947,Tempo,0,normal,ComplementNB,0
 16948,Tempo,0,normal,ComplementNB,0
 16964,Tempo,0,normal,ComplementNB,0
-16975,Tempo,0,normal,ComplementNB,0
+16975,Tempo,0,normal,ComplementNB,1
 16978,Tempo,0,normal,ComplementNB,0
 16980,Tempo,0,normal,ComplementNB,0
 16988,Tempo,0,normal,ComplementNB,0
@@ -1707,7 +1707,7 @@ raw_id,source,label,condition,model,predicted_label
 17623,Tempo,0,normal,ComplementNB,0
 17631,Tempo,0,normal,ComplementNB,0
 17645,Tempo,0,normal,ComplementNB,0
-17689,Tempo,0,normal,ComplementNB,0
+17689,Tempo,0,normal,ComplementNB,1
 17706,Tempo,0,normal,ComplementNB,0
 17752,Tempo,0,normal,ComplementNB,0
 17753,Tempo,0,normal,ComplementNB,0
@@ -1720,14 +1720,14 @@ raw_id,source,label,condition,model,predicted_label
 17833,Tempo,0,normal,ComplementNB,0
 17838,Tempo,0,normal,ComplementNB,0
 17839,Tempo,0,normal,ComplementNB,0
-17847,Tempo,0,normal,ComplementNB,0
-17848,Tempo,0,normal,ComplementNB,0
+17847,Tempo,0,normal,ComplementNB,1
+17848,Tempo,0,normal,ComplementNB,1
 17856,Tempo,0,normal,ComplementNB,0
 17861,Tempo,0,normal,ComplementNB,0
 17864,Tempo,0,normal,ComplementNB,0
 17874,Tempo,0,normal,ComplementNB,0
-17876,Tempo,0,normal,ComplementNB,0
-17881,Tempo,0,normal,ComplementNB,0
+17876,Tempo,0,normal,ComplementNB,1
+17881,Tempo,0,normal,ComplementNB,1
 17882,Tempo,0,normal,ComplementNB,0
 17900,Tempo,0,normal,ComplementNB,0
 17904,Tempo,0,normal,ComplementNB,0
@@ -1803,7 +1803,7 @@ raw_id,source,label,condition,model,predicted_label
 18661,Tempo,0,normal,ComplementNB,0
 18667,Tempo,0,normal,ComplementNB,0
 18686,Tempo,0,normal,ComplementNB,0
-18691,Tempo,0,normal,ComplementNB,0
+18691,Tempo,0,normal,ComplementNB,1
 18696,Tempo,0,normal,ComplementNB,0
 18704,Tempo,0,normal,ComplementNB,0
 18706,Tempo,0,normal,ComplementNB,0
@@ -2049,7 +2049,7 @@ raw_id,source,label,condition,model,predicted_label
 21013,Tempo,0,normal,ComplementNB,0
 21014,Tempo,0,normal,ComplementNB,0
 21049,Tempo,0,normal,ComplementNB,0
-21053,Tempo,0,normal,ComplementNB,0
+21053,Tempo,0,normal,ComplementNB,1
 21056,Tempo,0,normal,ComplementNB,0
 21067,Tempo,0,normal,ComplementNB,0
 21068,Tempo,0,normal,ComplementNB,0
@@ -2091,11 +2091,11 @@ raw_id,source,label,condition,model,predicted_label
 21459,TurnBackHoax,1,normal,ComplementNB,1
 21472,TurnBackHoax,1,normal,ComplementNB,1
 21495,TurnBackHoax,1,normal,ComplementNB,1
-21498,TurnBackHoax,1,normal,ComplementNB,0
+21498,TurnBackHoax,1,normal,ComplementNB,1
 21500,TurnBackHoax,1,normal,ComplementNB,1
 21504,TurnBackHoax,1,normal,ComplementNB,1
-21523,TurnBackHoax,1,normal,ComplementNB,0
-21526,TurnBackHoax,1,normal,ComplementNB,0
+21523,TurnBackHoax,1,normal,ComplementNB,1
+21526,TurnBackHoax,1,normal,ComplementNB,1
 21549,TurnBackHoax,1,normal,ComplementNB,1
 21552,TurnBackHoax,1,normal,ComplementNB,1
 21566,TurnBackHoax,1,normal,ComplementNB,1
@@ -2104,7 +2104,7 @@ raw_id,source,label,condition,model,predicted_label
 21639,TurnBackHoax,1,normal,ComplementNB,1
 21658,TurnBackHoax,1,normal,ComplementNB,1
 21664,TurnBackHoax,1,normal,ComplementNB,1
-21669,TurnBackHoax,1,normal,ComplementNB,0
+21669,TurnBackHoax,1,normal,ComplementNB,1
 21678,TurnBackHoax,1,normal,ComplementNB,0
 21685,TurnBackHoax,1,normal,ComplementNB,0
 21757,TurnBackHoax,1,normal,ComplementNB,1
@@ -2122,13 +2122,13 @@ raw_id,source,label,condition,model,predicted_label
 21904,TurnBackHoax,1,normal,ComplementNB,1
 21921,TurnBackHoax,1,normal,ComplementNB,1
 21950,TurnBackHoax,1,normal,ComplementNB,1
-21958,TurnBackHoax,1,normal,ComplementNB,0
+21958,TurnBackHoax,1,normal,ComplementNB,1
 21960,TurnBackHoax,1,normal,ComplementNB,1
 21967,TurnBackHoax,1,normal,ComplementNB,1
 21970,TurnBackHoax,1,normal,ComplementNB,1
 21978,TurnBackHoax,1,normal,ComplementNB,1
 21989,TurnBackHoax,1,normal,ComplementNB,1
-21990,TurnBackHoax,1,normal,ComplementNB,0
+21990,TurnBackHoax,1,normal,ComplementNB,1
 21993,TurnBackHoax,1,normal,ComplementNB,1
 21997,TurnBackHoax,1,normal,ComplementNB,1
 22002,TurnBackHoax,1,normal,ComplementNB,1
@@ -2144,34 +2144,34 @@ raw_id,source,label,condition,model,predicted_label
 22081,TurnBackHoax,1,normal,ComplementNB,1
 22095,TurnBackHoax,1,normal,ComplementNB,1
 22105,TurnBackHoax,1,normal,ComplementNB,1
-22112,TurnBackHoax,1,normal,ComplementNB,0
+22112,TurnBackHoax,1,normal,ComplementNB,1
 22114,TurnBackHoax,1,normal,ComplementNB,1
 22122,TurnBackHoax,1,normal,ComplementNB,1
 22126,TurnBackHoax,1,normal,ComplementNB,1
 22138,TurnBackHoax,1,normal,ComplementNB,1
 22140,TurnBackHoax,1,normal,ComplementNB,1
-22177,TurnBackHoax,1,normal,ComplementNB,0
+22177,TurnBackHoax,1,normal,ComplementNB,1
 22183,TurnBackHoax,1,normal,ComplementNB,1
 22188,TurnBackHoax,1,normal,ComplementNB,1
 22203,TurnBackHoax,1,normal,ComplementNB,1
 22215,TurnBackHoax,1,normal,ComplementNB,1
-22236,TurnBackHoax,1,normal,ComplementNB,0
+22236,TurnBackHoax,1,normal,ComplementNB,1
 22245,TurnBackHoax,1,normal,ComplementNB,1
 22256,TurnBackHoax,1,normal,ComplementNB,1
 22281,TurnBackHoax,1,normal,ComplementNB,1
 22306,TurnBackHoax,1,normal,ComplementNB,1
 22313,TurnBackHoax,1,normal,ComplementNB,1
 22314,TurnBackHoax,1,normal,ComplementNB,1
-22318,TurnBackHoax,1,normal,ComplementNB,0
+22318,TurnBackHoax,1,normal,ComplementNB,1
 22321,TurnBackHoax,1,normal,ComplementNB,1
 22336,TurnBackHoax,1,normal,ComplementNB,1
 22343,TurnBackHoax,1,normal,ComplementNB,1
-22344,TurnBackHoax,1,normal,ComplementNB,0
-22357,TurnBackHoax,1,normal,ComplementNB,0
+22344,TurnBackHoax,1,normal,ComplementNB,1
+22357,TurnBackHoax,1,normal,ComplementNB,1
 22359,TurnBackHoax,1,normal,ComplementNB,1
-22366,TurnBackHoax,1,normal,ComplementNB,0
+22366,TurnBackHoax,1,normal,ComplementNB,1
 22368,TurnBackHoax,1,normal,ComplementNB,1
-22390,TurnBackHoax,1,normal,ComplementNB,0
+22390,TurnBackHoax,1,normal,ComplementNB,1
 22391,TurnBackHoax,1,normal,ComplementNB,1
 22392,TurnBackHoax,1,normal,ComplementNB,1
 22402,TurnBackHoax,1,normal,ComplementNB,1
@@ -2188,18 +2188,18 @@ raw_id,source,label,condition,model,predicted_label
 22541,TurnBackHoax,1,normal,ComplementNB,1
 22553,TurnBackHoax,1,normal,ComplementNB,1
 22571,TurnBackHoax,1,normal,ComplementNB,1
-22573,TurnBackHoax,1,normal,ComplementNB,0
+22573,TurnBackHoax,1,normal,ComplementNB,1
 22585,TurnBackHoax,1,normal,ComplementNB,1
-22602,TurnBackHoax,1,normal,ComplementNB,0
+22602,TurnBackHoax,1,normal,ComplementNB,1
 22607,TurnBackHoax,1,normal,ComplementNB,1
 22617,TurnBackHoax,1,normal,ComplementNB,1
 22636,TurnBackHoax,1,normal,ComplementNB,1
-22645,TurnBackHoax,1,normal,ComplementNB,0
+22645,TurnBackHoax,1,normal,ComplementNB,1
 22650,TurnBackHoax,1,normal,ComplementNB,1
-22665,TurnBackHoax,1,normal,ComplementNB,0
+22665,TurnBackHoax,1,normal,ComplementNB,1
 22696,TurnBackHoax,1,normal,ComplementNB,1
 22708,TurnBackHoax,1,normal,ComplementNB,1
-22709,TurnBackHoax,1,normal,ComplementNB,0
+22709,TurnBackHoax,1,normal,ComplementNB,1
 22712,TurnBackHoax,1,normal,ComplementNB,1
 22714,TurnBackHoax,1,normal,ComplementNB,0
 22740,TurnBackHoax,1,normal,ComplementNB,1
@@ -2218,16 +2218,16 @@ raw_id,source,label,condition,model,predicted_label
 22868,TurnBackHoax,1,normal,ComplementNB,1
 22878,TurnBackHoax,1,normal,ComplementNB,1
 22884,TurnBackHoax,1,normal,ComplementNB,1
-22890,TurnBackHoax,1,normal,ComplementNB,0
-22903,TurnBackHoax,1,normal,ComplementNB,0
-22912,TurnBackHoax,1,normal,ComplementNB,0
+22890,TurnBackHoax,1,normal,ComplementNB,1
+22903,TurnBackHoax,1,normal,ComplementNB,1
+22912,TurnBackHoax,1,normal,ComplementNB,1
 22915,TurnBackHoax,1,normal,ComplementNB,1
 22919,TurnBackHoax,1,normal,ComplementNB,1
 22920,TurnBackHoax,1,normal,ComplementNB,1
 22938,TurnBackHoax,1,normal,ComplementNB,1
-22939,TurnBackHoax,1,normal,ComplementNB,0
+22939,TurnBackHoax,1,normal,ComplementNB,1
 22946,TurnBackHoax,1,normal,ComplementNB,1
-22953,TurnBackHoax,1,normal,ComplementNB,0
+22953,TurnBackHoax,1,normal,ComplementNB,1
 22959,TurnBackHoax,1,normal,ComplementNB,1
 22975,TurnBackHoax,1,normal,ComplementNB,1
 22989,TurnBackHoax,1,normal,ComplementNB,1
@@ -2254,20 +2254,20 @@ raw_id,source,label,condition,model,predicted_label
 23179,TurnBackHoax,1,normal,ComplementNB,1
 23185,TurnBackHoax,1,normal,ComplementNB,1
 23235,TurnBackHoax,1,normal,ComplementNB,1
-23244,TurnBackHoax,1,normal,ComplementNB,0
+23244,TurnBackHoax,1,normal,ComplementNB,1
 23254,TurnBackHoax,1,normal,ComplementNB,1
 23297,TurnBackHoax,1,normal,ComplementNB,1
 23302,TurnBackHoax,1,normal,ComplementNB,1
 23303,TurnBackHoax,1,normal,ComplementNB,1
-23323,TurnBackHoax,1,normal,ComplementNB,0
+23323,TurnBackHoax,1,normal,ComplementNB,1
 23332,TurnBackHoax,1,normal,ComplementNB,1
 23346,TurnBackHoax,1,normal,ComplementNB,1
 23359,TurnBackHoax,1,normal,ComplementNB,1
-23361,TurnBackHoax,1,normal,ComplementNB,0
+23361,TurnBackHoax,1,normal,ComplementNB,1
 23376,TurnBackHoax,1,normal,ComplementNB,1
-23396,TurnBackHoax,1,normal,ComplementNB,0
+23396,TurnBackHoax,1,normal,ComplementNB,1
 23399,TurnBackHoax,1,normal,ComplementNB,1
-23414,TurnBackHoax,1,normal,ComplementNB,0
+23414,TurnBackHoax,1,normal,ComplementNB,1
 23428,TurnBackHoax,1,normal,ComplementNB,1
 23429,TurnBackHoax,1,normal,ComplementNB,1
 23469,TurnBackHoax,1,normal,ComplementNB,1
@@ -2277,7 +2277,7 @@ raw_id,source,label,condition,model,predicted_label
 23543,TurnBackHoax,1,normal,ComplementNB,1
 23544,TurnBackHoax,1,normal,ComplementNB,0
 23566,TurnBackHoax,1,normal,ComplementNB,1
-23569,TurnBackHoax,1,normal,ComplementNB,0
+23569,TurnBackHoax,1,normal,ComplementNB,1
 23574,TurnBackHoax,1,normal,ComplementNB,1
 23587,TurnBackHoax,1,normal,ComplementNB,1
 23598,TurnBackHoax,1,normal,ComplementNB,1
@@ -2288,7 +2288,7 @@ raw_id,source,label,condition,model,predicted_label
 23639,TurnBackHoax,1,normal,ComplementNB,1
 23642,TurnBackHoax,1,normal,ComplementNB,1
 23652,TurnBackHoax,1,normal,ComplementNB,1
-23658,TurnBackHoax,1,normal,ComplementNB,0
+23658,TurnBackHoax,1,normal,ComplementNB,1
 23668,TurnBackHoax,1,normal,ComplementNB,1
 23678,TurnBackHoax,1,normal,ComplementNB,1
 23684,TurnBackHoax,1,normal,ComplementNB,1
@@ -2303,18 +2303,18 @@ raw_id,source,label,condition,model,predicted_label
 23764,TurnBackHoax,1,normal,ComplementNB,1
 23772,TurnBackHoax,1,normal,ComplementNB,1
 23773,TurnBackHoax,1,normal,ComplementNB,1
-23781,TurnBackHoax,1,normal,ComplementNB,0
+23781,TurnBackHoax,1,normal,ComplementNB,1
 23788,TurnBackHoax,1,normal,ComplementNB,1
 23835,TurnBackHoax,1,normal,ComplementNB,1
 23836,TurnBackHoax,1,normal,ComplementNB,1
 23853,TurnBackHoax,1,normal,ComplementNB,1
-23855,TurnBackHoax,1,normal,ComplementNB,0
+23855,TurnBackHoax,1,normal,ComplementNB,1
 23871,TurnBackHoax,1,normal,ComplementNB,1
 23875,TurnBackHoax,1,normal,ComplementNB,0
 23892,TurnBackHoax,1,normal,ComplementNB,0
 23899,TurnBackHoax,1,normal,ComplementNB,1
-23904,TurnBackHoax,1,normal,ComplementNB,0
-23908,TurnBackHoax,1,normal,ComplementNB,0
+23904,TurnBackHoax,1,normal,ComplementNB,1
+23908,TurnBackHoax,1,normal,ComplementNB,1
 23919,TurnBackHoax,1,normal,ComplementNB,1
 23936,TurnBackHoax,1,normal,ComplementNB,1
 23953,TurnBackHoax,1,normal,ComplementNB,1
@@ -2332,7 +2332,7 @@ raw_id,source,label,condition,model,predicted_label
 24054,TurnBackHoax,1,normal,ComplementNB,1
 24058,TurnBackHoax,1,normal,ComplementNB,1
 24068,TurnBackHoax,1,normal,ComplementNB,1
-24083,TurnBackHoax,1,normal,ComplementNB,0
+24083,TurnBackHoax,1,normal,ComplementNB,1
 24092,TurnBackHoax,1,normal,ComplementNB,1
 24096,TurnBackHoax,1,normal,ComplementNB,1
 24102,TurnBackHoax,1,normal,ComplementNB,1
@@ -2368,8 +2368,8 @@ raw_id,source,label,condition,model,predicted_label
 24470,TurnBackHoax,1,normal,ComplementNB,1
 24471,TurnBackHoax,1,normal,ComplementNB,1
 24490,TurnBackHoax,1,normal,ComplementNB,1
-24493,TurnBackHoax,1,normal,ComplementNB,0
-24500,TurnBackHoax,1,normal,ComplementNB,0
+24493,TurnBackHoax,1,normal,ComplementNB,1
+24500,TurnBackHoax,1,normal,ComplementNB,1
 24536,TurnBackHoax,1,normal,ComplementNB,1
 24547,TurnBackHoax,1,normal,ComplementNB,1
 24553,TurnBackHoax,1,normal,ComplementNB,1
@@ -2399,7 +2399,7 @@ raw_id,source,label,condition,model,predicted_label
 24879,TurnBackHoax,1,normal,ComplementNB,1
 24900,TurnBackHoax,1,normal,ComplementNB,1
 24901,TurnBackHoax,1,normal,ComplementNB,1
-24909,TurnBackHoax,1,normal,ComplementNB,0
+24909,TurnBackHoax,1,normal,ComplementNB,1
 24910,TurnBackHoax,1,normal,ComplementNB,1
 24921,TurnBackHoax,1,normal,ComplementNB,1
 24927,TurnBackHoax,1,normal,ComplementNB,1
@@ -2411,7 +2411,7 @@ raw_id,source,label,condition,model,predicted_label
 24963,TurnBackHoax,1,normal,ComplementNB,1
 24977,TurnBackHoax,1,normal,ComplementNB,1
 24999,TurnBackHoax,1,normal,ComplementNB,1
-25033,TurnBackHoax,1,normal,ComplementNB,0
+25033,TurnBackHoax,1,normal,ComplementNB,1
 25036,TurnBackHoax,1,normal,ComplementNB,1
 25048,TurnBackHoax,1,normal,ComplementNB,1
 25056,TurnBackHoax,1,normal,ComplementNB,1
@@ -2427,7 +2427,7 @@ raw_id,source,label,condition,model,predicted_label
 25113,TurnBackHoax,1,normal,ComplementNB,1
 25135,TurnBackHoax,1,normal,ComplementNB,1
 25141,TurnBackHoax,1,normal,ComplementNB,1
-25149,TurnBackHoax,1,normal,ComplementNB,0
+25149,TurnBackHoax,1,normal,ComplementNB,1
 25167,TurnBackHoax,1,normal,ComplementNB,1
 25179,TurnBackHoax,1,normal,ComplementNB,1
 25188,TurnBackHoax,1,normal,ComplementNB,1
@@ -2447,7 +2447,7 @@ raw_id,source,label,condition,model,predicted_label
 25402,TurnBackHoax,1,normal,ComplementNB,1
 25403,TurnBackHoax,1,normal,ComplementNB,1
 25407,TurnBackHoax,1,normal,ComplementNB,1
-25412,TurnBackHoax,1,normal,ComplementNB,0
+25412,TurnBackHoax,1,normal,ComplementNB,1
 25427,TurnBackHoax,1,normal,ComplementNB,1
 25428,TurnBackHoax,1,normal,ComplementNB,1
 25429,TurnBackHoax,1,normal,ComplementNB,1
@@ -2469,7 +2469,7 @@ raw_id,source,label,condition,model,predicted_label
 25552,TurnBackHoax,1,normal,ComplementNB,1
 25554,TurnBackHoax,1,normal,ComplementNB,1
 25561,TurnBackHoax,1,normal,ComplementNB,1
-25568,TurnBackHoax,1,normal,ComplementNB,0
+25568,TurnBackHoax,1,normal,ComplementNB,1
 25577,TurnBackHoax,1,normal,ComplementNB,1
 25581,TurnBackHoax,1,normal,ComplementNB,1
 25584,TurnBackHoax,1,normal,ComplementNB,1
@@ -2495,19 +2495,19 @@ raw_id,source,label,condition,model,predicted_label
 25815,TurnBackHoax,1,normal,ComplementNB,1
 25833,TurnBackHoax,1,normal,ComplementNB,1
 25854,TurnBackHoax,1,normal,ComplementNB,1
-25872,TurnBackHoax,1,normal,ComplementNB,0
+25872,TurnBackHoax,1,normal,ComplementNB,1
 25878,TurnBackHoax,1,normal,ComplementNB,1
 25895,TurnBackHoax,1,normal,ComplementNB,1
-25932,TurnBackHoax,1,normal,ComplementNB,0
+25932,TurnBackHoax,1,normal,ComplementNB,1
 25938,TurnBackHoax,1,normal,ComplementNB,1
 25943,TurnBackHoax,1,normal,ComplementNB,1
-25947,TurnBackHoax,1,normal,ComplementNB,0
+25947,TurnBackHoax,1,normal,ComplementNB,1
 25950,TurnBackHoax,1,normal,ComplementNB,1
 25954,TurnBackHoax,1,normal,ComplementNB,1
 25959,TurnBackHoax,1,normal,ComplementNB,1
 25964,TurnBackHoax,1,normal,ComplementNB,1
 25984,TurnBackHoax,1,normal,ComplementNB,1
-26003,TurnBackHoax,1,normal,ComplementNB,0
+26003,TurnBackHoax,1,normal,ComplementNB,1
 26008,TurnBackHoax,1,normal,ComplementNB,1
 26009,TurnBackHoax,1,normal,ComplementNB,1
 26028,TurnBackHoax,1,normal,ComplementNB,1
@@ -2516,10 +2516,10 @@ raw_id,source,label,condition,model,predicted_label
 26050,TurnBackHoax,1,normal,ComplementNB,1
 26062,TurnBackHoax,1,normal,ComplementNB,1
 26077,TurnBackHoax,1,normal,ComplementNB,1
-26083,TurnBackHoax,1,normal,ComplementNB,0
-26090,TurnBackHoax,1,normal,ComplementNB,0
-26104,TurnBackHoax,1,normal,ComplementNB,0
-26112,TurnBackHoax,1,normal,ComplementNB,0
+26083,TurnBackHoax,1,normal,ComplementNB,1
+26090,TurnBackHoax,1,normal,ComplementNB,1
+26104,TurnBackHoax,1,normal,ComplementNB,1
+26112,TurnBackHoax,1,normal,ComplementNB,1
 26139,TurnBackHoax,1,normal,ComplementNB,1
 26154,TurnBackHoax,1,normal,ComplementNB,1
 26181,TurnBackHoax,1,normal,ComplementNB,1
@@ -2543,13 +2543,13 @@ raw_id,source,label,condition,model,predicted_label
 26386,TurnBackHoax,1,normal,ComplementNB,1
 26399,TurnBackHoax,1,normal,ComplementNB,1
 26420,TurnBackHoax,1,normal,ComplementNB,1
-26436,TurnBackHoax,1,normal,ComplementNB,0
+26436,TurnBackHoax,1,normal,ComplementNB,1
 26437,TurnBackHoax,1,normal,ComplementNB,1
 26446,TurnBackHoax,1,normal,ComplementNB,1
 26491,TurnBackHoax,1,normal,ComplementNB,1
-26523,TurnBackHoax,1,normal,ComplementNB,0
+26523,TurnBackHoax,1,normal,ComplementNB,1
 26550,TurnBackHoax,1,normal,ComplementNB,1
-26567,TurnBackHoax,1,normal,ComplementNB,0
+26567,TurnBackHoax,1,normal,ComplementNB,1
 26581,TurnBackHoax,1,normal,ComplementNB,1
 26587,TurnBackHoax,1,normal,ComplementNB,1
 26592,TurnBackHoax,1,normal,ComplementNB,1
@@ -2558,7 +2558,7 @@ raw_id,source,label,condition,model,predicted_label
 26665,TurnBackHoax,1,normal,ComplementNB,1
 26671,TurnBackHoax,1,normal,ComplementNB,1
 26687,TurnBackHoax,1,normal,ComplementNB,1
-26700,TurnBackHoax,1,normal,ComplementNB,0
+26700,TurnBackHoax,1,normal,ComplementNB,1
 26734,TurnBackHoax,1,normal,ComplementNB,1
 26738,TurnBackHoax,1,normal,ComplementNB,1
 26748,TurnBackHoax,1,normal,ComplementNB,1
@@ -2566,8 +2566,8 @@ raw_id,source,label,condition,model,predicted_label
 26762,TurnBackHoax,1,normal,ComplementNB,1
 26763,TurnBackHoax,1,normal,ComplementNB,1
 26769,TurnBackHoax,1,normal,ComplementNB,1
-26810,TurnBackHoax,1,normal,ComplementNB,0
-26813,TurnBackHoax,1,normal,ComplementNB,0
+26810,TurnBackHoax,1,normal,ComplementNB,1
+26813,TurnBackHoax,1,normal,ComplementNB,1
 26842,TurnBackHoax,1,normal,ComplementNB,1
 26871,TurnBackHoax,1,normal,ComplementNB,1
 26886,TurnBackHoax,1,normal,ComplementNB,1
@@ -2581,10 +2581,10 @@ raw_id,source,label,condition,model,predicted_label
 26951,TurnBackHoax,1,normal,ComplementNB,1
 26977,TurnBackHoax,1,normal,ComplementNB,1
 26986,TurnBackHoax,1,normal,ComplementNB,1
-26987,TurnBackHoax,1,normal,ComplementNB,0
+26987,TurnBackHoax,1,normal,ComplementNB,1
 26989,TurnBackHoax,1,normal,ComplementNB,1
 27004,TurnBackHoax,1,normal,ComplementNB,1
-27032,TurnBackHoax,1,normal,ComplementNB,0
+27032,TurnBackHoax,1,normal,ComplementNB,1
 27037,TurnBackHoax,1,normal,ComplementNB,1
 27048,TurnBackHoax,1,normal,ComplementNB,1
 27050,TurnBackHoax,1,normal,ComplementNB,0
@@ -2592,19 +2592,19 @@ raw_id,source,label,condition,model,predicted_label
 27086,TurnBackHoax,1,normal,ComplementNB,1
 27093,TurnBackHoax,1,normal,ComplementNB,1
 27103,TurnBackHoax,1,normal,ComplementNB,1
-27110,TurnBackHoax,1,normal,ComplementNB,0
+27110,TurnBackHoax,1,normal,ComplementNB,1
 27136,TurnBackHoax,1,normal,ComplementNB,1
 27159,TurnBackHoax,1,normal,ComplementNB,1
-27170,TurnBackHoax,1,normal,ComplementNB,0
+27170,TurnBackHoax,1,normal,ComplementNB,1
 27187,TurnBackHoax,1,normal,ComplementNB,1
 27213,TurnBackHoax,1,normal,ComplementNB,1
 27254,TurnBackHoax,1,normal,ComplementNB,1
 27256,TurnBackHoax,1,normal,ComplementNB,1
 27269,TurnBackHoax,1,normal,ComplementNB,1
-27294,TurnBackHoax,1,normal,ComplementNB,0
+27294,TurnBackHoax,1,normal,ComplementNB,1
 27295,TurnBackHoax,1,normal,ComplementNB,1
 27298,TurnBackHoax,1,normal,ComplementNB,1
-27304,TurnBackHoax,1,normal,ComplementNB,0
+27304,TurnBackHoax,1,normal,ComplementNB,1
 27318,TurnBackHoax,1,normal,ComplementNB,1
 27329,TurnBackHoax,1,normal,ComplementNB,1
 27332,TurnBackHoax,1,normal,ComplementNB,1
@@ -2612,21 +2612,21 @@ raw_id,source,label,condition,model,predicted_label
 27335,TurnBackHoax,1,normal,ComplementNB,1
 27342,TurnBackHoax,1,normal,ComplementNB,1
 27343,TurnBackHoax,1,normal,ComplementNB,1
-27365,TurnBackHoax,1,normal,ComplementNB,0
+27365,TurnBackHoax,1,normal,ComplementNB,1
 27367,TurnBackHoax,1,normal,ComplementNB,1
-27376,TurnBackHoax,1,normal,ComplementNB,0
+27376,TurnBackHoax,1,normal,ComplementNB,1
 27399,TurnBackHoax,1,normal,ComplementNB,1
 27403,TurnBackHoax,1,normal,ComplementNB,1
 27405,TurnBackHoax,1,normal,ComplementNB,1
 27411,TurnBackHoax,1,normal,ComplementNB,1
-27414,TurnBackHoax,1,normal,ComplementNB,0
+27414,TurnBackHoax,1,normal,ComplementNB,1
 27416,TurnBackHoax,1,normal,ComplementNB,1
 27431,TurnBackHoax,1,normal,ComplementNB,1
 27475,TurnBackHoax,1,normal,ComplementNB,1
 27487,TurnBackHoax,1,normal,ComplementNB,1
 27490,TurnBackHoax,1,normal,ComplementNB,1
 27495,TurnBackHoax,1,normal,ComplementNB,1
-27496,TurnBackHoax,1,normal,ComplementNB,0
+27496,TurnBackHoax,1,normal,ComplementNB,1
 27506,TurnBackHoax,1,normal,ComplementNB,1
 27510,TurnBackHoax,1,normal,ComplementNB,1
 27512,TurnBackHoax,1,normal,ComplementNB,1
@@ -2660,13 +2660,13 @@ raw_id,source,label,condition,model,predicted_label
 27836,TurnBackHoax,1,normal,ComplementNB,1
 27848,TurnBackHoax,1,normal,ComplementNB,1
 27853,TurnBackHoax,1,normal,ComplementNB,1
-27855,TurnBackHoax,1,normal,ComplementNB,0
+27855,TurnBackHoax,1,normal,ComplementNB,1
 27873,TurnBackHoax,1,normal,ComplementNB,1
 27882,TurnBackHoax,1,normal,ComplementNB,1
 27883,TurnBackHoax,1,normal,ComplementNB,1
 27906,TurnBackHoax,1,normal,ComplementNB,1
 27908,TurnBackHoax,1,normal,ComplementNB,0
-27931,TurnBackHoax,1,normal,ComplementNB,0
+27931,TurnBackHoax,1,normal,ComplementNB,1
 27940,TurnBackHoax,1,normal,ComplementNB,1
 27943,TurnBackHoax,1,normal,ComplementNB,1
 27944,TurnBackHoax,1,normal,ComplementNB,1
@@ -2675,37 +2675,37 @@ raw_id,source,label,condition,model,predicted_label
 27981,TurnBackHoax,1,normal,ComplementNB,1
 27982,TurnBackHoax,1,normal,ComplementNB,1
 27984,TurnBackHoax,1,normal,ComplementNB,1
-28000,TurnBackHoax,1,normal,ComplementNB,0
+28000,TurnBackHoax,1,normal,ComplementNB,1
 28005,TurnBackHoax,1,normal,ComplementNB,1
-28036,TurnBackHoax,1,normal,ComplementNB,0
+28036,TurnBackHoax,1,normal,ComplementNB,1
 28044,TurnBackHoax,1,normal,ComplementNB,1
 28046,TurnBackHoax,1,normal,ComplementNB,0
 28050,TurnBackHoax,1,normal,ComplementNB,1
 28056,TurnBackHoax,1,normal,ComplementNB,1
 28059,TurnBackHoax,1,normal,ComplementNB,1
 28070,TurnBackHoax,1,normal,ComplementNB,1
-28072,TurnBackHoax,1,normal,ComplementNB,0
+28072,TurnBackHoax,1,normal,ComplementNB,1
 28092,TurnBackHoax,1,normal,ComplementNB,1
 28096,TurnBackHoax,1,normal,ComplementNB,1
 28130,TurnBackHoax,1,normal,ComplementNB,1
 28136,TurnBackHoax,1,normal,ComplementNB,1
 28138,TurnBackHoax,1,normal,ComplementNB,1
-28144,TurnBackHoax,1,normal,ComplementNB,0
+28144,TurnBackHoax,1,normal,ComplementNB,1
 28163,TurnBackHoax,1,normal,ComplementNB,0
 28174,TurnBackHoax,1,normal,ComplementNB,1
-28183,TurnBackHoax,1,normal,ComplementNB,0
+28183,TurnBackHoax,1,normal,ComplementNB,1
 28192,TurnBackHoax,1,normal,ComplementNB,1
 28204,TurnBackHoax,1,normal,ComplementNB,1
 28208,TurnBackHoax,1,normal,ComplementNB,1
 28229,TurnBackHoax,1,normal,ComplementNB,1
-28278,TurnBackHoax,1,normal,ComplementNB,0
+28278,TurnBackHoax,1,normal,ComplementNB,1
 28288,TurnBackHoax,1,normal,ComplementNB,1
 28292,TurnBackHoax,1,normal,ComplementNB,1
 28347,TurnBackHoax,1,normal,ComplementNB,1
 28350,TurnBackHoax,1,normal,ComplementNB,1
 28409,TurnBackHoax,1,normal,ComplementNB,1
 28411,TurnBackHoax,1,normal,ComplementNB,1
-28441,TurnBackHoax,1,normal,ComplementNB,0
+28441,TurnBackHoax,1,normal,ComplementNB,1
 28445,TurnBackHoax,1,normal,ComplementNB,1
 28458,TurnBackHoax,1,normal,ComplementNB,1
 28461,TurnBackHoax,1,normal,ComplementNB,1
@@ -2718,16 +2718,16 @@ raw_id,source,label,condition,model,predicted_label
 28577,TurnBackHoax,1,normal,ComplementNB,1
 28588,TurnBackHoax,1,normal,ComplementNB,1
 28593,TurnBackHoax,1,normal,ComplementNB,1
-28595,TurnBackHoax,1,normal,ComplementNB,0
+28595,TurnBackHoax,1,normal,ComplementNB,1
 28638,TurnBackHoax,1,normal,ComplementNB,1
-28666,TurnBackHoax,1,normal,ComplementNB,0
-28673,TurnBackHoax,1,normal,ComplementNB,0
-28699,TurnBackHoax,1,normal,ComplementNB,0
+28666,TurnBackHoax,1,normal,ComplementNB,1
+28673,TurnBackHoax,1,normal,ComplementNB,1
+28699,TurnBackHoax,1,normal,ComplementNB,1
 28704,TurnBackHoax,1,normal,ComplementNB,1
-28708,TurnBackHoax,1,normal,ComplementNB,0
+28708,TurnBackHoax,1,normal,ComplementNB,1
 28713,TurnBackHoax,1,normal,ComplementNB,1
 28726,TurnBackHoax,1,normal,ComplementNB,1
-28751,TurnBackHoax,1,normal,ComplementNB,0
+28751,TurnBackHoax,1,normal,ComplementNB,1
 28774,TurnBackHoax,1,normal,ComplementNB,1
 28801,TurnBackHoax,1,normal,ComplementNB,1
 28802,TurnBackHoax,1,normal,ComplementNB,1
@@ -2739,63 +2739,63 @@ raw_id,source,label,condition,model,predicted_label
 28899,TurnBackHoax,1,normal,ComplementNB,1
 28900,TurnBackHoax,1,normal,ComplementNB,1
 28939,TurnBackHoax,1,normal,ComplementNB,1
-28953,TurnBackHoax,1,normal,ComplementNB,0
+28953,TurnBackHoax,1,normal,ComplementNB,1
 28984,TurnBackHoax,1,normal,ComplementNB,1
-28999,TurnBackHoax,1,normal,ComplementNB,0
+28999,TurnBackHoax,1,normal,ComplementNB,1
 29008,TurnBackHoax,1,normal,ComplementNB,1
 29018,TurnBackHoax,1,normal,ComplementNB,1
 29019,TurnBackHoax,1,normal,ComplementNB,1
-29036,TurnBackHoax,1,normal,ComplementNB,0
+29036,TurnBackHoax,1,normal,ComplementNB,1
 29066,TurnBackHoax,1,normal,ComplementNB,1
 29084,TurnBackHoax,1,normal,ComplementNB,1
 29087,TurnBackHoax,1,normal,ComplementNB,1
 29140,TurnBackHoax,1,normal,ComplementNB,1
 29170,TurnBackHoax,1,normal,ComplementNB,1
 29175,TurnBackHoax,1,normal,ComplementNB,1
-29190,TurnBackHoax,1,normal,ComplementNB,0
+29190,TurnBackHoax,1,normal,ComplementNB,1
 29196,TurnBackHoax,1,normal,ComplementNB,0
-29206,TurnBackHoax,1,normal,ComplementNB,0
-29220,TurnBackHoax,1,normal,ComplementNB,0
+29206,TurnBackHoax,1,normal,ComplementNB,1
+29220,TurnBackHoax,1,normal,ComplementNB,1
 29295,TurnBackHoax,1,normal,ComplementNB,1
 29300,TurnBackHoax,1,normal,ComplementNB,1
-29304,TurnBackHoax,1,normal,ComplementNB,0
+29304,TurnBackHoax,1,normal,ComplementNB,1
 29305,TurnBackHoax,1,normal,ComplementNB,1
 29320,TurnBackHoax,1,normal,ComplementNB,1
 29335,TurnBackHoax,1,normal,ComplementNB,1
-29336,TurnBackHoax,1,normal,ComplementNB,0
+29336,TurnBackHoax,1,normal,ComplementNB,1
 29355,TurnBackHoax,1,normal,ComplementNB,1
 29356,TurnBackHoax,1,normal,ComplementNB,1
 29382,TurnBackHoax,1,normal,ComplementNB,1
 29385,TurnBackHoax,1,normal,ComplementNB,1
 29393,TurnBackHoax,1,normal,ComplementNB,1
-29394,TurnBackHoax,1,normal,ComplementNB,0
+29394,TurnBackHoax,1,normal,ComplementNB,1
 29413,TurnBackHoax,1,normal,ComplementNB,1
 29434,TurnBackHoax,1,normal,ComplementNB,1
 29438,TurnBackHoax,1,normal,ComplementNB,1
-29442,TurnBackHoax,1,normal,ComplementNB,0
+29442,TurnBackHoax,1,normal,ComplementNB,1
 29452,TurnBackHoax,1,normal,ComplementNB,0
-29511,TurnBackHoax,1,normal,ComplementNB,0
+29511,TurnBackHoax,1,normal,ComplementNB,1
 29536,TurnBackHoax,1,normal,ComplementNB,1
 29540,TurnBackHoax,1,normal,ComplementNB,1
 29544,TurnBackHoax,1,normal,ComplementNB,1
 29546,TurnBackHoax,1,normal,ComplementNB,1
 29554,TurnBackHoax,1,normal,ComplementNB,1
 29557,TurnBackHoax,1,normal,ComplementNB,1
-29581,TurnBackHoax,1,normal,ComplementNB,0
+29581,TurnBackHoax,1,normal,ComplementNB,1
 29596,TurnBackHoax,1,normal,ComplementNB,1
-29610,TurnBackHoax,1,normal,ComplementNB,0
+29610,TurnBackHoax,1,normal,ComplementNB,1
 29619,TurnBackHoax,1,normal,ComplementNB,1
 29645,TurnBackHoax,1,normal,ComplementNB,1
-29658,TurnBackHoax,1,normal,ComplementNB,0
+29658,TurnBackHoax,1,normal,ComplementNB,1
 29685,TurnBackHoax,1,normal,ComplementNB,1
 29689,TurnBackHoax,1,normal,ComplementNB,1
 29700,TurnBackHoax,1,normal,ComplementNB,1
 29705,TurnBackHoax,1,normal,ComplementNB,1
 29707,TurnBackHoax,1,normal,ComplementNB,1
-29708,TurnBackHoax,1,normal,ComplementNB,0
+29708,TurnBackHoax,1,normal,ComplementNB,1
 29722,TurnBackHoax,1,normal,ComplementNB,1
 29726,TurnBackHoax,1,normal,ComplementNB,1
-29752,TurnBackHoax,1,normal,ComplementNB,0
+29752,TurnBackHoax,1,normal,ComplementNB,1
 29789,TurnBackHoax,1,normal,ComplementNB,0
 29808,TurnBackHoax,1,normal,ComplementNB,1
 29813,TurnBackHoax,1,normal,ComplementNB,1
@@ -2807,76 +2807,76 @@ raw_id,source,label,condition,model,predicted_label
 29943,TurnBackHoax,1,normal,ComplementNB,0
 29954,TurnBackHoax,1,normal,ComplementNB,1
 29985,TurnBackHoax,1,normal,ComplementNB,1
-29987,TurnBackHoax,1,normal,ComplementNB,0
+29987,TurnBackHoax,1,normal,ComplementNB,1
 29999,TurnBackHoax,1,normal,ComplementNB,1
 30013,TurnBackHoax,1,normal,ComplementNB,1
 30019,TurnBackHoax,1,normal,ComplementNB,1
-30042,TurnBackHoax,1,normal,ComplementNB,0
+30042,TurnBackHoax,1,normal,ComplementNB,1
 30055,TurnBackHoax,1,normal,ComplementNB,1
-30086,TurnBackHoax,1,normal,ComplementNB,0
+30086,TurnBackHoax,1,normal,ComplementNB,1
 30097,TurnBackHoax,1,normal,ComplementNB,1
 30124,TurnBackHoax,1,normal,ComplementNB,1
-30129,TurnBackHoax,1,normal,ComplementNB,0
+30129,TurnBackHoax,1,normal,ComplementNB,1
 30133,TurnBackHoax,1,normal,ComplementNB,1
-30136,TurnBackHoax,1,normal,ComplementNB,0
+30136,TurnBackHoax,1,normal,ComplementNB,1
 30157,TurnBackHoax,1,normal,ComplementNB,1
 30171,TurnBackHoax,1,normal,ComplementNB,1
 30181,TurnBackHoax,1,normal,ComplementNB,1
 30248,TurnBackHoax,1,normal,ComplementNB,1
 30250,TurnBackHoax,1,normal,ComplementNB,1
 30259,TurnBackHoax,1,normal,ComplementNB,1
-30267,TurnBackHoax,1,normal,ComplementNB,0
+30267,TurnBackHoax,1,normal,ComplementNB,1
 30273,TurnBackHoax,1,normal,ComplementNB,1
 30295,TurnBackHoax,1,normal,ComplementNB,0
 30312,TurnBackHoax,1,normal,ComplementNB,1
 30320,TurnBackHoax,1,normal,ComplementNB,1
 30349,TurnBackHoax,1,normal,ComplementNB,1
 30368,TurnBackHoax,1,normal,ComplementNB,1
-30370,TurnBackHoax,1,normal,ComplementNB,0
+30370,TurnBackHoax,1,normal,ComplementNB,1
 30392,TurnBackHoax,1,normal,ComplementNB,1
-30406,TurnBackHoax,1,normal,ComplementNB,0
+30406,TurnBackHoax,1,normal,ComplementNB,1
 30426,TurnBackHoax,1,normal,ComplementNB,1
-30435,TurnBackHoax,1,normal,ComplementNB,0
-30460,TurnBackHoax,1,normal,ComplementNB,0
-30473,TurnBackHoax,1,normal,ComplementNB,0
-30523,TurnBackHoax,1,normal,ComplementNB,0
+30435,TurnBackHoax,1,normal,ComplementNB,1
+30460,TurnBackHoax,1,normal,ComplementNB,1
+30473,TurnBackHoax,1,normal,ComplementNB,1
+30523,TurnBackHoax,1,normal,ComplementNB,1
 30532,TurnBackHoax,1,normal,ComplementNB,1
 30537,TurnBackHoax,1,normal,ComplementNB,0
 30626,TurnBackHoax,1,normal,ComplementNB,1
-30634,TurnBackHoax,1,normal,ComplementNB,0
+30634,TurnBackHoax,1,normal,ComplementNB,1
 30649,TurnBackHoax,1,normal,ComplementNB,1
-30668,TurnBackHoax,1,normal,ComplementNB,0
+30668,TurnBackHoax,1,normal,ComplementNB,1
 30719,TurnBackHoax,1,normal,ComplementNB,0
 30727,TurnBackHoax,1,normal,ComplementNB,1
-30774,TurnBackHoax,1,normal,ComplementNB,0
-30783,TurnBackHoax,1,normal,ComplementNB,0
+30774,TurnBackHoax,1,normal,ComplementNB,1
+30783,TurnBackHoax,1,normal,ComplementNB,1
 30798,TurnBackHoax,1,normal,ComplementNB,1
 30823,TurnBackHoax,1,normal,ComplementNB,1
 30833,TurnBackHoax,1,normal,ComplementNB,0
 30840,TurnBackHoax,1,normal,ComplementNB,1
 30886,TurnBackHoax,1,normal,ComplementNB,1
 30889,TurnBackHoax,1,normal,ComplementNB,1
-30915,TurnBackHoax,1,normal,ComplementNB,0
+30915,TurnBackHoax,1,normal,ComplementNB,1
 30928,TurnBackHoax,1,normal,ComplementNB,1
 30956,TurnBackHoax,1,normal,ComplementNB,1
-30977,TurnBackHoax,1,normal,ComplementNB,0
+30977,TurnBackHoax,1,normal,ComplementNB,1
 30981,TurnBackHoax,1,normal,ComplementNB,1
-30982,TurnBackHoax,1,normal,ComplementNB,0
+30982,TurnBackHoax,1,normal,ComplementNB,1
 30984,TurnBackHoax,1,normal,ComplementNB,1
-30985,TurnBackHoax,1,normal,ComplementNB,0
+30985,TurnBackHoax,1,normal,ComplementNB,1
 30986,TurnBackHoax,1,normal,ComplementNB,1
 30992,TurnBackHoax,1,normal,ComplementNB,1
 30997,TurnBackHoax,1,normal,ComplementNB,1
 31008,TurnBackHoax,1,normal,ComplementNB,1
 31017,TurnBackHoax,1,normal,ComplementNB,1
 31047,TurnBackHoax,1,normal,ComplementNB,1
-31091,TurnBackHoax,1,normal,ComplementNB,0
+31091,TurnBackHoax,1,normal,ComplementNB,1
 31122,TurnBackHoax,1,normal,ComplementNB,1
 31154,TurnBackHoax,1,normal,ComplementNB,0
 31158,TurnBackHoax,1,normal,ComplementNB,1
 31164,TurnBackHoax,1,normal,ComplementNB,1
 31170,TurnBackHoax,1,normal,ComplementNB,1
-31195,TurnBackHoax,1,normal,ComplementNB,0
+31195,TurnBackHoax,1,normal,ComplementNB,1
 31231,TurnBackHoax,1,normal,ComplementNB,0
 31266,TurnBackHoax,1,normal,ComplementNB,1
 31267,TurnBackHoax,1,normal,ComplementNB,0
@@ -2889,11 +2889,11 @@ raw_id,source,label,condition,model,predicted_label
 31358,TurnBackHoax,1,normal,ComplementNB,1
 31361,TurnBackHoax,1,normal,ComplementNB,1
 31382,TurnBackHoax,1,normal,ComplementNB,1
-31384,TurnBackHoax,1,normal,ComplementNB,0
-31390,TurnBackHoax,1,normal,ComplementNB,0
+31384,TurnBackHoax,1,normal,ComplementNB,1
+31390,TurnBackHoax,1,normal,ComplementNB,1
 31399,TurnBackHoax,1,normal,ComplementNB,1
-31426,TurnBackHoax,1,normal,ComplementNB,0
-31470,TurnBackHoax,1,normal,ComplementNB,0
+31426,TurnBackHoax,1,normal,ComplementNB,1
+31470,TurnBackHoax,1,normal,ComplementNB,1
 31474,TurnBackHoax,1,normal,ComplementNB,1
 31488,TurnBackHoax,1,normal,ComplementNB,1
 31489,TurnBackHoax,1,normal,ComplementNB,1
@@ -2906,14 +2906,14 @@ raw_id,source,label,condition,model,predicted_label
 31617,TurnBackHoax,1,normal,ComplementNB,1
 31640,TurnBackHoax,1,normal,ComplementNB,0
 31644,TurnBackHoax,1,normal,ComplementNB,1
-31670,TurnBackHoax,1,normal,ComplementNB,0
+31670,TurnBackHoax,1,normal,ComplementNB,1
 31676,TurnBackHoax,1,normal,ComplementNB,1
 31680,TurnBackHoax,1,normal,ComplementNB,1
-31682,TurnBackHoax,1,normal,ComplementNB,0
+31682,TurnBackHoax,1,normal,ComplementNB,1
 31705,TurnBackHoax,1,normal,ComplementNB,0
 31712,TurnBackHoax,1,normal,ComplementNB,1
 31740,TurnBackHoax,1,normal,ComplementNB,1
-31745,TurnBackHoax,1,normal,ComplementNB,0
+31745,TurnBackHoax,1,normal,ComplementNB,1
 31762,TurnBackHoax,1,normal,ComplementNB,1
 31771,TurnBackHoax,1,normal,ComplementNB,1
 31792,TurnBackHoax,1,normal,ComplementNB,1
@@ -5976,7 +5976,7 @@ raw_id,source,label,condition,model,predicted_label
 1570,CNN Indonesia,0,e4,ComplementNB,0
 1577,CNN Indonesia,0,e4,ComplementNB,0
 1585,CNN Indonesia,0,e4,ComplementNB,0
-1592,CNN Indonesia,0,e4,ComplementNB,0
+1592,CNN Indonesia,0,e4,ComplementNB,1
 1601,CNN Indonesia,0,e4,ComplementNB,0
 1611,CNN Indonesia,0,e4,ComplementNB,0
 1639,CNN Indonesia,0,e4,ComplementNB,0
@@ -5998,7 +5998,7 @@ raw_id,source,label,condition,model,predicted_label
 1759,CNN Indonesia,0,e4,ComplementNB,0
 1760,CNN Indonesia,0,e4,ComplementNB,0
 1789,CNN Indonesia,0,e4,ComplementNB,0
-1792,CNN Indonesia,0,e4,ComplementNB,0
+1792,CNN Indonesia,0,e4,ComplementNB,1
 1798,CNN Indonesia,0,e4,ComplementNB,0
 1800,CNN Indonesia,0,e4,ComplementNB,0
 1816,CNN Indonesia,0,e4,ComplementNB,0
@@ -6182,7 +6182,7 @@ raw_id,source,label,condition,model,predicted_label
 3644,CNN Indonesia,0,e4,ComplementNB,0
 3650,CNN Indonesia,0,e4,ComplementNB,0
 3661,CNN Indonesia,0,e4,ComplementNB,0
-3675,CNN Indonesia,0,e4,ComplementNB,0
+3675,CNN Indonesia,0,e4,ComplementNB,1
 3697,CNN Indonesia,0,e4,ComplementNB,0
 3699,CNN Indonesia,0,e4,ComplementNB,0
 3700,CNN Indonesia,0,e4,ComplementNB,0
@@ -6195,7 +6195,7 @@ raw_id,source,label,condition,model,predicted_label
 3747,CNN Indonesia,0,e4,ComplementNB,0
 3754,CNN Indonesia,0,e4,ComplementNB,0
 3758,CNN Indonesia,0,e4,ComplementNB,0
-3785,CNN Indonesia,0,e4,ComplementNB,0
+3785,CNN Indonesia,0,e4,ComplementNB,1
 3791,CNN Indonesia,0,e4,ComplementNB,0
 3813,CNN Indonesia,0,e4,ComplementNB,0
 3816,CNN Indonesia,0,e4,ComplementNB,0
@@ -6203,7 +6203,7 @@ raw_id,source,label,condition,model,predicted_label
 3832,CNN Indonesia,0,e4,ComplementNB,0
 3846,CNN Indonesia,0,e4,ComplementNB,0
 3864,CNN Indonesia,0,e4,ComplementNB,0
-3870,CNN Indonesia,0,e4,ComplementNB,0
+3870,CNN Indonesia,0,e4,ComplementNB,1
 3877,CNN Indonesia,0,e4,ComplementNB,0
 3883,CNN Indonesia,0,e4,ComplementNB,0
 3894,CNN Indonesia,0,e4,ComplementNB,0
@@ -6400,7 +6400,7 @@ raw_id,source,label,condition,model,predicted_label
 5759,CNN Indonesia,0,e4,ComplementNB,0
 5776,CNN Indonesia,0,e4,ComplementNB,0
 5778,CNN Indonesia,0,e4,ComplementNB,0
-5781,CNN Indonesia,0,e4,ComplementNB,0
+5781,CNN Indonesia,0,e4,ComplementNB,1
 5792,CNN Indonesia,0,e4,ComplementNB,0
 5795,CNN Indonesia,0,e4,ComplementNB,0
 5797,CNN Indonesia,0,e4,ComplementNB,0
@@ -6543,7 +6543,7 @@ raw_id,source,label,condition,model,predicted_label
 7202,CNN Indonesia,0,e4,ComplementNB,0
 7208,CNN Indonesia,0,e4,ComplementNB,0
 7212,CNN Indonesia,0,e4,ComplementNB,0
-7219,CNN Indonesia,0,e4,ComplementNB,0
+7219,CNN Indonesia,0,e4,ComplementNB,1
 7228,CNN Indonesia,0,e4,ComplementNB,0
 7231,CNN Indonesia,0,e4,ComplementNB,0
 7232,CNN Indonesia,0,e4,ComplementNB,0
@@ -6676,7 +6676,7 @@ raw_id,source,label,condition,model,predicted_label
 8422,CNN Indonesia,0,e4,ComplementNB,0
 8454,CNN Indonesia,0,e4,ComplementNB,0
 8456,CNN Indonesia,0,e4,ComplementNB,0
-8464,CNN Indonesia,0,e4,ComplementNB,0
+8464,CNN Indonesia,0,e4,ComplementNB,1
 8466,CNN Indonesia,0,e4,ComplementNB,0
 8479,CNN Indonesia,0,e4,ComplementNB,0
 8493,CNN Indonesia,0,e4,ComplementNB,0
@@ -6781,13 +6781,13 @@ raw_id,source,label,condition,model,predicted_label
 9714,CNN Indonesia,0,e4,ComplementNB,0
 9740,CNN Indonesia,0,e4,ComplementNB,0
 9754,CNN Indonesia,0,e4,ComplementNB,0
-9801,CNN Indonesia,0,e4,ComplementNB,0
+9801,CNN Indonesia,0,e4,ComplementNB,1
 9814,CNN Indonesia,0,e4,ComplementNB,0
 9828,CNN Indonesia,0,e4,ComplementNB,0
 9839,CNN Indonesia,0,e4,ComplementNB,0
 9861,CNN Indonesia,0,e4,ComplementNB,0
 9864,CNN Indonesia,0,e4,ComplementNB,0
-9871,CNN Indonesia,0,e4,ComplementNB,0
+9871,CNN Indonesia,0,e4,ComplementNB,1
 9887,CNN Indonesia,0,e4,ComplementNB,0
 9890,CNN Indonesia,0,e4,ComplementNB,0
 9894,CNN Indonesia,0,e4,ComplementNB,0
@@ -6814,7 +6814,7 @@ raw_id,source,label,condition,model,predicted_label
 10225,Kompas,0,e4,ComplementNB,0
 10241,Kompas,0,e4,ComplementNB,0
 10254,Kompas,0,e4,ComplementNB,0
-10256,Kompas,0,e4,ComplementNB,0
+10256,Kompas,0,e4,ComplementNB,1
 10268,Kompas,0,e4,ComplementNB,0
 10271,Kompas,0,e4,ComplementNB,0
 10274,Kompas,0,e4,ComplementNB,0
@@ -6876,10 +6876,10 @@ raw_id,source,label,condition,model,predicted_label
 10830,Kompas,0,e4,ComplementNB,0
 10832,Kompas,0,e4,ComplementNB,0
 10849,Kompas,0,e4,ComplementNB,0
-10859,Kompas,0,e4,ComplementNB,0
+10859,Kompas,0,e4,ComplementNB,1
 10876,Kompas,0,e4,ComplementNB,0
 10880,Kompas,0,e4,ComplementNB,0
-10906,Kompas,0,e4,ComplementNB,0
+10906,Kompas,0,e4,ComplementNB,1
 10915,Kompas,0,e4,ComplementNB,0
 10916,Kompas,0,e4,ComplementNB,0
 10945,Kompas,0,e4,ComplementNB,0
@@ -6901,17 +6901,17 @@ raw_id,source,label,condition,model,predicted_label
 11073,Kompas,0,e4,ComplementNB,0
 11075,Kompas,0,e4,ComplementNB,0
 11084,Kompas,0,e4,ComplementNB,0
-11088,Kompas,0,e4,ComplementNB,0
+11088,Kompas,0,e4,ComplementNB,1
 11108,Kompas,0,e4,ComplementNB,0
 11111,Kompas,0,e4,ComplementNB,0
 11116,Kompas,0,e4,ComplementNB,0
 11119,Kompas,0,e4,ComplementNB,0
 11127,Kompas,0,e4,ComplementNB,0
 11132,Kompas,0,e4,ComplementNB,0
-11135,Kompas,0,e4,ComplementNB,0
+11135,Kompas,0,e4,ComplementNB,1
 11138,Kompas,0,e4,ComplementNB,0
 11151,Kompas,0,e4,ComplementNB,0
-11158,Kompas,0,e4,ComplementNB,0
+11158,Kompas,0,e4,ComplementNB,1
 11170,Kompas,0,e4,ComplementNB,0
 11172,Kompas,0,e4,ComplementNB,0
 11178,Kompas,0,e4,ComplementNB,0
@@ -6926,8 +6926,8 @@ raw_id,source,label,condition,model,predicted_label
 11211,Kompas,0,e4,ComplementNB,0
 11221,Kompas,0,e4,ComplementNB,0
 11225,Kompas,0,e4,ComplementNB,1
-11229,Kompas,0,e4,ComplementNB,0
-11235,Kompas,0,e4,ComplementNB,0
+11229,Kompas,0,e4,ComplementNB,1
+11235,Kompas,0,e4,ComplementNB,1
 11244,Kompas,0,e4,ComplementNB,0
 11252,Kompas,0,e4,ComplementNB,0
 11253,Kompas,0,e4,ComplementNB,0
@@ -6948,14 +6948,14 @@ raw_id,source,label,condition,model,predicted_label
 11439,Kompas,0,e4,ComplementNB,0
 11442,Kompas,0,e4,ComplementNB,0
 11453,Kompas,0,e4,ComplementNB,0
-11459,Kompas,0,e4,ComplementNB,0
+11459,Kompas,0,e4,ComplementNB,1
 11460,Kompas,0,e4,ComplementNB,0
 11473,Kompas,0,e4,ComplementNB,0
 11491,Kompas,0,e4,ComplementNB,0
 11502,Kompas,0,e4,ComplementNB,0
 11503,Kompas,0,e4,ComplementNB,0
 11521,Kompas,0,e4,ComplementNB,0
-11522,Kompas,0,e4,ComplementNB,0
+11522,Kompas,0,e4,ComplementNB,1
 11531,Kompas,0,e4,ComplementNB,0
 11532,Kompas,0,e4,ComplementNB,0
 11542,Kompas,0,e4,ComplementNB,0
@@ -6994,7 +6994,7 @@ raw_id,source,label,condition,model,predicted_label
 11847,Kompas,0,e4,ComplementNB,0
 11850,Kompas,0,e4,ComplementNB,0
 11853,Kompas,0,e4,ComplementNB,1
-11861,Kompas,0,e4,ComplementNB,0
+11861,Kompas,0,e4,ComplementNB,1
 11865,Kompas,0,e4,ComplementNB,0
 11889,Kompas,0,e4,ComplementNB,0
 11912,Kompas,0,e4,ComplementNB,0
@@ -7015,26 +7015,26 @@ raw_id,source,label,condition,model,predicted_label
 12035,Kompas,0,e4,ComplementNB,0
 12041,Kompas,0,e4,ComplementNB,0
 12080,Kompas,0,e4,ComplementNB,0
-12084,Kompas,0,e4,ComplementNB,0
+12084,Kompas,0,e4,ComplementNB,1
 12088,Kompas,0,e4,ComplementNB,0
 12092,Kompas,0,e4,ComplementNB,0
 12107,Kompas,0,e4,ComplementNB,0
 12110,Kompas,0,e4,ComplementNB,0
-12127,Kompas,0,e4,ComplementNB,0
-12134,Kompas,0,e4,ComplementNB,0
-12137,Kompas,0,e4,ComplementNB,0
+12127,Kompas,0,e4,ComplementNB,1
+12134,Kompas,0,e4,ComplementNB,1
+12137,Kompas,0,e4,ComplementNB,1
 12143,Kompas,0,e4,ComplementNB,0
 12150,Kompas,0,e4,ComplementNB,0
 12156,Kompas,0,e4,ComplementNB,0
-12180,Kompas,0,e4,ComplementNB,0
+12180,Kompas,0,e4,ComplementNB,1
 12181,Kompas,0,e4,ComplementNB,1
 12182,Kompas,0,e4,ComplementNB,0
 12192,Kompas,0,e4,ComplementNB,0
 12198,Kompas,0,e4,ComplementNB,0
-12220,Kompas,0,e4,ComplementNB,0
+12220,Kompas,0,e4,ComplementNB,1
 12230,Kompas,0,e4,ComplementNB,1
 12244,Kompas,0,e4,ComplementNB,0
-12257,Kompas,0,e4,ComplementNB,0
+12257,Kompas,0,e4,ComplementNB,1
 12267,Kompas,0,e4,ComplementNB,1
 12269,Kompas,0,e4,ComplementNB,0
 12272,Kompas,0,e4,ComplementNB,0
@@ -7075,7 +7075,7 @@ raw_id,source,label,condition,model,predicted_label
 12595,Kompas,0,e4,ComplementNB,0
 12603,Kompas,0,e4,ComplementNB,0
 12623,Kompas,0,e4,ComplementNB,0
-12628,Kompas,0,e4,ComplementNB,0
+12628,Kompas,0,e4,ComplementNB,1
 12637,Kompas,0,e4,ComplementNB,0
 12642,Kompas,0,e4,ComplementNB,0
 12651,Kompas,0,e4,ComplementNB,0
@@ -7083,11 +7083,11 @@ raw_id,source,label,condition,model,predicted_label
 12653,Kompas,0,e4,ComplementNB,1
 12679,Kompas,0,e4,ComplementNB,0
 12698,Kompas,0,e4,ComplementNB,0
-12703,Kompas,0,e4,ComplementNB,0
+12703,Kompas,0,e4,ComplementNB,1
 12705,Kompas,0,e4,ComplementNB,0
 12710,Kompas,0,e4,ComplementNB,1
 12734,Kompas,0,e4,ComplementNB,0
-12742,Kompas,0,e4,ComplementNB,0
+12742,Kompas,0,e4,ComplementNB,1
 12761,Kompas,0,e4,ComplementNB,0
 12768,Kompas,0,e4,ComplementNB,0
 12772,Kompas,0,e4,ComplementNB,0
@@ -7100,7 +7100,7 @@ raw_id,source,label,condition,model,predicted_label
 12863,Kompas,0,e4,ComplementNB,0
 12869,Kompas,0,e4,ComplementNB,0
 12893,Kompas,0,e4,ComplementNB,0
-12894,Kompas,0,e4,ComplementNB,0
+12894,Kompas,0,e4,ComplementNB,1
 12897,Kompas,0,e4,ComplementNB,0
 12898,Kompas,0,e4,ComplementNB,0
 12918,Kompas,0,e4,ComplementNB,0
@@ -7145,7 +7145,7 @@ raw_id,source,label,condition,model,predicted_label
 13359,Kompas,0,e4,ComplementNB,0
 13371,Kompas,0,e4,ComplementNB,0
 13382,Kompas,0,e4,ComplementNB,0
-13393,Kompas,0,e4,ComplementNB,0
+13393,Kompas,0,e4,ComplementNB,1
 13398,Kompas,0,e4,ComplementNB,0
 13413,Kompas,0,e4,ComplementNB,0
 13422,Kompas,0,e4,ComplementNB,0
@@ -7155,7 +7155,7 @@ raw_id,source,label,condition,model,predicted_label
 13438,Kompas,0,e4,ComplementNB,0
 13443,Kompas,0,e4,ComplementNB,0
 13446,Kompas,0,e4,ComplementNB,0
-13453,Kompas,0,e4,ComplementNB,0
+13453,Kompas,0,e4,ComplementNB,1
 13460,Kompas,0,e4,ComplementNB,0
 13478,Kompas,0,e4,ComplementNB,0
 13492,Kompas,0,e4,ComplementNB,0
@@ -7183,8 +7183,8 @@ raw_id,source,label,condition,model,predicted_label
 13684,Kompas,0,e4,ComplementNB,0
 13726,Kompas,0,e4,ComplementNB,0
 13728,Kompas,0,e4,ComplementNB,0
-13730,Kompas,0,e4,ComplementNB,0
-13735,Kompas,0,e4,ComplementNB,0
+13730,Kompas,0,e4,ComplementNB,1
+13735,Kompas,0,e4,ComplementNB,1
 13770,Kompas,0,e4,ComplementNB,0
 13771,Kompas,0,e4,ComplementNB,0
 13779,Kompas,0,e4,ComplementNB,0
@@ -7192,11 +7192,11 @@ raw_id,source,label,condition,model,predicted_label
 13798,Kompas,0,e4,ComplementNB,0
 13827,Kompas,0,e4,ComplementNB,0
 13828,Kompas,0,e4,ComplementNB,0
-13840,Kompas,0,e4,ComplementNB,0
+13840,Kompas,0,e4,ComplementNB,1
 13843,Kompas,0,e4,ComplementNB,0
 13847,Kompas,0,e4,ComplementNB,0
 13849,Kompas,0,e4,ComplementNB,0
-13852,Kompas,0,e4,ComplementNB,0
+13852,Kompas,0,e4,ComplementNB,1
 13855,Kompas,0,e4,ComplementNB,0
 13865,Kompas,0,e4,ComplementNB,0
 13877,Kompas,0,e4,ComplementNB,0
@@ -7259,7 +7259,7 @@ raw_id,source,label,condition,model,predicted_label
 14473,Kompas,0,e4,ComplementNB,0
 14489,Kompas,0,e4,ComplementNB,0
 14498,Kompas,0,e4,ComplementNB,0
-14522,Kompas,0,e4,ComplementNB,0
+14522,Kompas,0,e4,ComplementNB,1
 14532,Kompas,0,e4,ComplementNB,0
 14542,Kompas,0,e4,ComplementNB,0
 14545,Kompas,0,e4,ComplementNB,0
@@ -7337,7 +7337,7 @@ raw_id,source,label,condition,model,predicted_label
 15473,Tempo,0,e4,ComplementNB,0
 15495,Tempo,0,e4,ComplementNB,0
 15535,Tempo,0,e4,ComplementNB,0
-15560,Tempo,0,e4,ComplementNB,0
+15560,Tempo,0,e4,ComplementNB,1
 15563,Tempo,0,e4,ComplementNB,0
 15577,Tempo,0,e4,ComplementNB,0
 15578,Tempo,0,e4,ComplementNB,0
@@ -7361,7 +7361,7 @@ raw_id,source,label,condition,model,predicted_label
 15740,Tempo,0,e4,ComplementNB,0
 15742,Tempo,0,e4,ComplementNB,0
 15746,Tempo,0,e4,ComplementNB,0
-15766,Tempo,0,e4,ComplementNB,0
+15766,Tempo,0,e4,ComplementNB,1
 15769,Tempo,0,e4,ComplementNB,0
 15780,Tempo,0,e4,ComplementNB,0
 15811,Tempo,0,e4,ComplementNB,0
@@ -7390,7 +7390,7 @@ raw_id,source,label,condition,model,predicted_label
 16065,Tempo,0,e4,ComplementNB,0
 16074,Tempo,0,e4,ComplementNB,0
 16089,Tempo,0,e4,ComplementNB,0
-16092,Tempo,0,e4,ComplementNB,0
+16092,Tempo,0,e4,ComplementNB,1
 16102,Tempo,0,e4,ComplementNB,0
 16103,Tempo,0,e4,ComplementNB,0
 16125,Tempo,0,e4,ComplementNB,0
@@ -7425,7 +7425,7 @@ raw_id,source,label,condition,model,predicted_label
 16468,Tempo,0,e4,ComplementNB,0
 16486,Tempo,0,e4,ComplementNB,0
 16520,Tempo,0,e4,ComplementNB,0
-16531,Tempo,0,e4,ComplementNB,0
+16531,Tempo,0,e4,ComplementNB,1
 16537,Tempo,0,e4,ComplementNB,0
 16538,Tempo,0,e4,ComplementNB,0
 16543,Tempo,0,e4,ComplementNB,0
@@ -7462,7 +7462,7 @@ raw_id,source,label,condition,model,predicted_label
 16895,Tempo,0,e4,ComplementNB,0
 16911,Tempo,0,e4,ComplementNB,0
 16912,Tempo,0,e4,ComplementNB,0
-16913,Tempo,0,e4,ComplementNB,0
+16913,Tempo,0,e4,ComplementNB,1
 16919,Tempo,0,e4,ComplementNB,0
 16920,Tempo,0,e4,ComplementNB,0
 16922,Tempo,0,e4,ComplementNB,0
@@ -7473,7 +7473,7 @@ raw_id,source,label,condition,model,predicted_label
 16947,Tempo,0,e4,ComplementNB,0
 16948,Tempo,0,e4,ComplementNB,0
 16964,Tempo,0,e4,ComplementNB,0
-16975,Tempo,0,e4,ComplementNB,0
+16975,Tempo,0,e4,ComplementNB,1
 16978,Tempo,0,e4,ComplementNB,0
 16980,Tempo,0,e4,ComplementNB,0
 16988,Tempo,0,e4,ComplementNB,0
@@ -7533,7 +7533,7 @@ raw_id,source,label,condition,model,predicted_label
 17558,Tempo,0,e4,ComplementNB,0
 17566,Tempo,0,e4,ComplementNB,0
 17569,Tempo,0,e4,ComplementNB,0
-17573,Tempo,0,e4,ComplementNB,0
+17573,Tempo,0,e4,ComplementNB,1
 17586,Tempo,0,e4,ComplementNB,0
 17587,Tempo,0,e4,ComplementNB,0
 17591,Tempo,0,e4,ComplementNB,0
@@ -7545,7 +7545,7 @@ raw_id,source,label,condition,model,predicted_label
 17623,Tempo,0,e4,ComplementNB,0
 17631,Tempo,0,e4,ComplementNB,0
 17645,Tempo,0,e4,ComplementNB,0
-17689,Tempo,0,e4,ComplementNB,0
+17689,Tempo,0,e4,ComplementNB,1
 17706,Tempo,0,e4,ComplementNB,0
 17752,Tempo,0,e4,ComplementNB,0
 17753,Tempo,0,e4,ComplementNB,0
@@ -7565,7 +7565,7 @@ raw_id,source,label,condition,model,predicted_label
 17864,Tempo,0,e4,ComplementNB,0
 17874,Tempo,0,e4,ComplementNB,0
 17876,Tempo,0,e4,ComplementNB,0
-17881,Tempo,0,e4,ComplementNB,0
+17881,Tempo,0,e4,ComplementNB,1
 17882,Tempo,0,e4,ComplementNB,0
 17900,Tempo,0,e4,ComplementNB,0
 17904,Tempo,0,e4,ComplementNB,0
@@ -7641,7 +7641,7 @@ raw_id,source,label,condition,model,predicted_label
 18661,Tempo,0,e4,ComplementNB,0
 18667,Tempo,0,e4,ComplementNB,0
 18686,Tempo,0,e4,ComplementNB,0
-18691,Tempo,0,e4,ComplementNB,0
+18691,Tempo,0,e4,ComplementNB,1
 18696,Tempo,0,e4,ComplementNB,0
 18704,Tempo,0,e4,ComplementNB,0
 18706,Tempo,0,e4,ComplementNB,0
@@ -7727,7 +7727,7 @@ raw_id,source,label,condition,model,predicted_label
 19603,Tempo,0,e4,ComplementNB,0
 19616,Tempo,0,e4,ComplementNB,0
 19632,Tempo,0,e4,ComplementNB,0
-19641,Tempo,0,e4,ComplementNB,0
+19641,Tempo,0,e4,ComplementNB,1
 19647,Tempo,0,e4,ComplementNB,0
 19650,Tempo,0,e4,ComplementNB,0
 19654,Tempo,0,e4,ComplementNB,0
@@ -7929,11 +7929,11 @@ raw_id,source,label,condition,model,predicted_label
 21459,TurnBackHoax,1,e4,ComplementNB,1
 21472,TurnBackHoax,1,e4,ComplementNB,1
 21495,TurnBackHoax,1,e4,ComplementNB,1
-21498,TurnBackHoax,1,e4,ComplementNB,0
+21498,TurnBackHoax,1,e4,ComplementNB,1
 21500,TurnBackHoax,1,e4,ComplementNB,1
 21504,TurnBackHoax,1,e4,ComplementNB,1
-21523,TurnBackHoax,1,e4,ComplementNB,0
-21526,TurnBackHoax,1,e4,ComplementNB,0
+21523,TurnBackHoax,1,e4,ComplementNB,1
+21526,TurnBackHoax,1,e4,ComplementNB,1
 21549,TurnBackHoax,1,e4,ComplementNB,1
 21552,TurnBackHoax,1,e4,ComplementNB,1
 21566,TurnBackHoax,1,e4,ComplementNB,1
@@ -7942,7 +7942,7 @@ raw_id,source,label,condition,model,predicted_label
 21639,TurnBackHoax,1,e4,ComplementNB,1
 21658,TurnBackHoax,1,e4,ComplementNB,1
 21664,TurnBackHoax,1,e4,ComplementNB,1
-21669,TurnBackHoax,1,e4,ComplementNB,0
+21669,TurnBackHoax,1,e4,ComplementNB,1
 21678,TurnBackHoax,1,e4,ComplementNB,0
 21685,TurnBackHoax,1,e4,ComplementNB,0
 21757,TurnBackHoax,1,e4,ComplementNB,1
@@ -7960,13 +7960,13 @@ raw_id,source,label,condition,model,predicted_label
 21904,TurnBackHoax,1,e4,ComplementNB,1
 21921,TurnBackHoax,1,e4,ComplementNB,1
 21950,TurnBackHoax,1,e4,ComplementNB,1
-21958,TurnBackHoax,1,e4,ComplementNB,0
+21958,TurnBackHoax,1,e4,ComplementNB,1
 21960,TurnBackHoax,1,e4,ComplementNB,1
-21967,TurnBackHoax,1,e4,ComplementNB,0
+21967,TurnBackHoax,1,e4,ComplementNB,1
 21970,TurnBackHoax,1,e4,ComplementNB,1
 21978,TurnBackHoax,1,e4,ComplementNB,1
 21989,TurnBackHoax,1,e4,ComplementNB,1
-21990,TurnBackHoax,1,e4,ComplementNB,0
+21990,TurnBackHoax,1,e4,ComplementNB,1
 21993,TurnBackHoax,1,e4,ComplementNB,1
 21997,TurnBackHoax,1,e4,ComplementNB,1
 22002,TurnBackHoax,1,e4,ComplementNB,1
@@ -7981,14 +7981,14 @@ raw_id,source,label,condition,model,predicted_label
 22077,TurnBackHoax,1,e4,ComplementNB,1
 22081,TurnBackHoax,1,e4,ComplementNB,1
 22095,TurnBackHoax,1,e4,ComplementNB,1
-22105,TurnBackHoax,1,e4,ComplementNB,0
-22112,TurnBackHoax,1,e4,ComplementNB,0
+22105,TurnBackHoax,1,e4,ComplementNB,1
+22112,TurnBackHoax,1,e4,ComplementNB,1
 22114,TurnBackHoax,1,e4,ComplementNB,1
 22122,TurnBackHoax,1,e4,ComplementNB,1
 22126,TurnBackHoax,1,e4,ComplementNB,1
 22138,TurnBackHoax,1,e4,ComplementNB,1
 22140,TurnBackHoax,1,e4,ComplementNB,1
-22177,TurnBackHoax,1,e4,ComplementNB,0
+22177,TurnBackHoax,1,e4,ComplementNB,1
 22183,TurnBackHoax,1,e4,ComplementNB,1
 22188,TurnBackHoax,1,e4,ComplementNB,1
 22203,TurnBackHoax,1,e4,ComplementNB,1
@@ -8007,9 +8007,9 @@ raw_id,source,label,condition,model,predicted_label
 22344,TurnBackHoax,1,e4,ComplementNB,0
 22357,TurnBackHoax,1,e4,ComplementNB,1
 22359,TurnBackHoax,1,e4,ComplementNB,1
-22366,TurnBackHoax,1,e4,ComplementNB,0
+22366,TurnBackHoax,1,e4,ComplementNB,1
 22368,TurnBackHoax,1,e4,ComplementNB,1
-22390,TurnBackHoax,1,e4,ComplementNB,0
+22390,TurnBackHoax,1,e4,ComplementNB,1
 22391,TurnBackHoax,1,e4,ComplementNB,1
 22392,TurnBackHoax,1,e4,ComplementNB,1
 22402,TurnBackHoax,1,e4,ComplementNB,1
@@ -8032,12 +8032,12 @@ raw_id,source,label,condition,model,predicted_label
 22607,TurnBackHoax,1,e4,ComplementNB,1
 22617,TurnBackHoax,1,e4,ComplementNB,1
 22636,TurnBackHoax,1,e4,ComplementNB,1
-22645,TurnBackHoax,1,e4,ComplementNB,0
+22645,TurnBackHoax,1,e4,ComplementNB,1
 22650,TurnBackHoax,1,e4,ComplementNB,1
-22665,TurnBackHoax,1,e4,ComplementNB,0
+22665,TurnBackHoax,1,e4,ComplementNB,1
 22696,TurnBackHoax,1,e4,ComplementNB,1
 22708,TurnBackHoax,1,e4,ComplementNB,1
-22709,TurnBackHoax,1,e4,ComplementNB,0
+22709,TurnBackHoax,1,e4,ComplementNB,1
 22712,TurnBackHoax,1,e4,ComplementNB,1
 22714,TurnBackHoax,1,e4,ComplementNB,0
 22740,TurnBackHoax,1,e4,ComplementNB,1
@@ -8057,7 +8057,7 @@ raw_id,source,label,condition,model,predicted_label
 22878,TurnBackHoax,1,e4,ComplementNB,1
 22884,TurnBackHoax,1,e4,ComplementNB,1
 22890,TurnBackHoax,1,e4,ComplementNB,1
-22903,TurnBackHoax,1,e4,ComplementNB,0
+22903,TurnBackHoax,1,e4,ComplementNB,1
 22912,TurnBackHoax,1,e4,ComplementNB,1
 22915,TurnBackHoax,1,e4,ComplementNB,1
 22919,TurnBackHoax,1,e4,ComplementNB,1
@@ -8065,7 +8065,7 @@ raw_id,source,label,condition,model,predicted_label
 22938,TurnBackHoax,1,e4,ComplementNB,1
 22939,TurnBackHoax,1,e4,ComplementNB,1
 22946,TurnBackHoax,1,e4,ComplementNB,1
-22953,TurnBackHoax,1,e4,ComplementNB,0
+22953,TurnBackHoax,1,e4,ComplementNB,1
 22959,TurnBackHoax,1,e4,ComplementNB,1
 22975,TurnBackHoax,1,e4,ComplementNB,1
 22989,TurnBackHoax,1,e4,ComplementNB,1
@@ -8126,7 +8126,7 @@ raw_id,source,label,condition,model,predicted_label
 23639,TurnBackHoax,1,e4,ComplementNB,1
 23642,TurnBackHoax,1,e4,ComplementNB,1
 23652,TurnBackHoax,1,e4,ComplementNB,1
-23658,TurnBackHoax,1,e4,ComplementNB,0
+23658,TurnBackHoax,1,e4,ComplementNB,1
 23668,TurnBackHoax,1,e4,ComplementNB,1
 23678,TurnBackHoax,1,e4,ComplementNB,1
 23684,TurnBackHoax,1,e4,ComplementNB,1
@@ -8152,7 +8152,7 @@ raw_id,source,label,condition,model,predicted_label
 23892,TurnBackHoax,1,e4,ComplementNB,0
 23899,TurnBackHoax,1,e4,ComplementNB,1
 23904,TurnBackHoax,1,e4,ComplementNB,1
-23908,TurnBackHoax,1,e4,ComplementNB,0
+23908,TurnBackHoax,1,e4,ComplementNB,1
 23919,TurnBackHoax,1,e4,ComplementNB,1
 23936,TurnBackHoax,1,e4,ComplementNB,1
 23953,TurnBackHoax,1,e4,ComplementNB,1
@@ -8237,7 +8237,7 @@ raw_id,source,label,condition,model,predicted_label
 24879,TurnBackHoax,1,e4,ComplementNB,1
 24900,TurnBackHoax,1,e4,ComplementNB,1
 24901,TurnBackHoax,1,e4,ComplementNB,1
-24909,TurnBackHoax,1,e4,ComplementNB,0
+24909,TurnBackHoax,1,e4,ComplementNB,1
 24910,TurnBackHoax,1,e4,ComplementNB,1
 24921,TurnBackHoax,1,e4,ComplementNB,1
 24927,TurnBackHoax,1,e4,ComplementNB,1
@@ -8245,7 +8245,7 @@ raw_id,source,label,condition,model,predicted_label
 24932,TurnBackHoax,1,e4,ComplementNB,1
 24946,TurnBackHoax,1,e4,ComplementNB,1
 24948,TurnBackHoax,1,e4,ComplementNB,1
-24959,TurnBackHoax,1,e4,ComplementNB,0
+24959,TurnBackHoax,1,e4,ComplementNB,1
 24963,TurnBackHoax,1,e4,ComplementNB,1
 24977,TurnBackHoax,1,e4,ComplementNB,1
 24999,TurnBackHoax,1,e4,ComplementNB,1
@@ -8307,7 +8307,7 @@ raw_id,source,label,condition,model,predicted_label
 25552,TurnBackHoax,1,e4,ComplementNB,1
 25554,TurnBackHoax,1,e4,ComplementNB,1
 25561,TurnBackHoax,1,e4,ComplementNB,1
-25568,TurnBackHoax,1,e4,ComplementNB,0
+25568,TurnBackHoax,1,e4,ComplementNB,1
 25577,TurnBackHoax,1,e4,ComplementNB,1
 25581,TurnBackHoax,1,e4,ComplementNB,1
 25584,TurnBackHoax,1,e4,ComplementNB,1
@@ -8333,7 +8333,7 @@ raw_id,source,label,condition,model,predicted_label
 25815,TurnBackHoax,1,e4,ComplementNB,1
 25833,TurnBackHoax,1,e4,ComplementNB,1
 25854,TurnBackHoax,1,e4,ComplementNB,1
-25872,TurnBackHoax,1,e4,ComplementNB,0
+25872,TurnBackHoax,1,e4,ComplementNB,1
 25878,TurnBackHoax,1,e4,ComplementNB,1
 25895,TurnBackHoax,1,e4,ComplementNB,1
 25932,TurnBackHoax,1,e4,ComplementNB,1
@@ -8345,7 +8345,7 @@ raw_id,source,label,condition,model,predicted_label
 25959,TurnBackHoax,1,e4,ComplementNB,1
 25964,TurnBackHoax,1,e4,ComplementNB,1
 25984,TurnBackHoax,1,e4,ComplementNB,1
-26003,TurnBackHoax,1,e4,ComplementNB,0
+26003,TurnBackHoax,1,e4,ComplementNB,1
 26008,TurnBackHoax,1,e4,ComplementNB,1
 26009,TurnBackHoax,1,e4,ComplementNB,1
 26028,TurnBackHoax,1,e4,ComplementNB,1
@@ -8354,10 +8354,10 @@ raw_id,source,label,condition,model,predicted_label
 26050,TurnBackHoax,1,e4,ComplementNB,1
 26062,TurnBackHoax,1,e4,ComplementNB,1
 26077,TurnBackHoax,1,e4,ComplementNB,1
-26083,TurnBackHoax,1,e4,ComplementNB,0
+26083,TurnBackHoax,1,e4,ComplementNB,1
 26090,TurnBackHoax,1,e4,ComplementNB,0
-26104,TurnBackHoax,1,e4,ComplementNB,0
-26112,TurnBackHoax,1,e4,ComplementNB,0
+26104,TurnBackHoax,1,e4,ComplementNB,1
+26112,TurnBackHoax,1,e4,ComplementNB,1
 26139,TurnBackHoax,1,e4,ComplementNB,1
 26154,TurnBackHoax,1,e4,ComplementNB,1
 26181,TurnBackHoax,1,e4,ComplementNB,1
@@ -8385,7 +8385,7 @@ raw_id,source,label,condition,model,predicted_label
 26437,TurnBackHoax,1,e4,ComplementNB,1
 26446,TurnBackHoax,1,e4,ComplementNB,1
 26491,TurnBackHoax,1,e4,ComplementNB,1
-26523,TurnBackHoax,1,e4,ComplementNB,0
+26523,TurnBackHoax,1,e4,ComplementNB,1
 26550,TurnBackHoax,1,e4,ComplementNB,1
 26567,TurnBackHoax,1,e4,ComplementNB,1
 26581,TurnBackHoax,1,e4,ComplementNB,1
@@ -8396,7 +8396,7 @@ raw_id,source,label,condition,model,predicted_label
 26665,TurnBackHoax,1,e4,ComplementNB,1
 26671,TurnBackHoax,1,e4,ComplementNB,1
 26687,TurnBackHoax,1,e4,ComplementNB,1
-26700,TurnBackHoax,1,e4,ComplementNB,0
+26700,TurnBackHoax,1,e4,ComplementNB,1
 26734,TurnBackHoax,1,e4,ComplementNB,1
 26738,TurnBackHoax,1,e4,ComplementNB,1
 26748,TurnBackHoax,1,e4,ComplementNB,1
@@ -8404,8 +8404,8 @@ raw_id,source,label,condition,model,predicted_label
 26762,TurnBackHoax,1,e4,ComplementNB,1
 26763,TurnBackHoax,1,e4,ComplementNB,1
 26769,TurnBackHoax,1,e4,ComplementNB,1
-26810,TurnBackHoax,1,e4,ComplementNB,0
-26813,TurnBackHoax,1,e4,ComplementNB,0
+26810,TurnBackHoax,1,e4,ComplementNB,1
+26813,TurnBackHoax,1,e4,ComplementNB,1
 26842,TurnBackHoax,1,e4,ComplementNB,1
 26871,TurnBackHoax,1,e4,ComplementNB,1
 26886,TurnBackHoax,1,e4,ComplementNB,1
@@ -8419,14 +8419,14 @@ raw_id,source,label,condition,model,predicted_label
 26951,TurnBackHoax,1,e4,ComplementNB,1
 26977,TurnBackHoax,1,e4,ComplementNB,1
 26986,TurnBackHoax,1,e4,ComplementNB,1
-26987,TurnBackHoax,1,e4,ComplementNB,0
+26987,TurnBackHoax,1,e4,ComplementNB,1
 26989,TurnBackHoax,1,e4,ComplementNB,1
 27004,TurnBackHoax,1,e4,ComplementNB,1
-27032,TurnBackHoax,1,e4,ComplementNB,0
+27032,TurnBackHoax,1,e4,ComplementNB,1
 27037,TurnBackHoax,1,e4,ComplementNB,1
 27048,TurnBackHoax,1,e4,ComplementNB,1
-27050,TurnBackHoax,1,e4,ComplementNB,0
-27052,TurnBackHoax,1,e4,ComplementNB,0
+27050,TurnBackHoax,1,e4,ComplementNB,1
+27052,TurnBackHoax,1,e4,ComplementNB,1
 27086,TurnBackHoax,1,e4,ComplementNB,1
 27093,TurnBackHoax,1,e4,ComplementNB,1
 27103,TurnBackHoax,1,e4,ComplementNB,1
@@ -8443,7 +8443,7 @@ raw_id,source,label,condition,model,predicted_label
 27295,TurnBackHoax,1,e4,ComplementNB,1
 27298,TurnBackHoax,1,e4,ComplementNB,1
 27304,TurnBackHoax,1,e4,ComplementNB,1
-27318,TurnBackHoax,1,e4,ComplementNB,1
+27318,TurnBackHoax,1,e4,ComplementNB,0
 27329,TurnBackHoax,1,e4,ComplementNB,1
 27332,TurnBackHoax,1,e4,ComplementNB,1
 27334,TurnBackHoax,1,e4,ComplementNB,1
@@ -8457,7 +8457,7 @@ raw_id,source,label,condition,model,predicted_label
 27403,TurnBackHoax,1,e4,ComplementNB,1
 27405,TurnBackHoax,1,e4,ComplementNB,1
 27411,TurnBackHoax,1,e4,ComplementNB,1
-27414,TurnBackHoax,1,e4,ComplementNB,0
+27414,TurnBackHoax,1,e4,ComplementNB,1
 27416,TurnBackHoax,1,e4,ComplementNB,1
 27431,TurnBackHoax,1,e4,ComplementNB,1
 27475,TurnBackHoax,1,e4,ComplementNB,1
@@ -8498,13 +8498,13 @@ raw_id,source,label,condition,model,predicted_label
 27836,TurnBackHoax,1,e4,ComplementNB,1
 27848,TurnBackHoax,1,e4,ComplementNB,1
 27853,TurnBackHoax,1,e4,ComplementNB,1
-27855,TurnBackHoax,1,e4,ComplementNB,0
+27855,TurnBackHoax,1,e4,ComplementNB,1
 27873,TurnBackHoax,1,e4,ComplementNB,1
 27882,TurnBackHoax,1,e4,ComplementNB,1
 27883,TurnBackHoax,1,e4,ComplementNB,1
 27906,TurnBackHoax,1,e4,ComplementNB,1
 27908,TurnBackHoax,1,e4,ComplementNB,0
-27931,TurnBackHoax,1,e4,ComplementNB,0
+27931,TurnBackHoax,1,e4,ComplementNB,1
 27940,TurnBackHoax,1,e4,ComplementNB,1
 27943,TurnBackHoax,1,e4,ComplementNB,1
 27944,TurnBackHoax,1,e4,ComplementNB,1
@@ -8528,14 +8528,14 @@ raw_id,source,label,condition,model,predicted_label
 28130,TurnBackHoax,1,e4,ComplementNB,1
 28136,TurnBackHoax,1,e4,ComplementNB,1
 28138,TurnBackHoax,1,e4,ComplementNB,1
-28144,TurnBackHoax,1,e4,ComplementNB,0
-28163,TurnBackHoax,1,e4,ComplementNB,0
+28144,TurnBackHoax,1,e4,ComplementNB,1
+28163,TurnBackHoax,1,e4,ComplementNB,1
 28174,TurnBackHoax,1,e4,ComplementNB,1
 28183,TurnBackHoax,1,e4,ComplementNB,1
 28192,TurnBackHoax,1,e4,ComplementNB,1
 28204,TurnBackHoax,1,e4,ComplementNB,1
 28208,TurnBackHoax,1,e4,ComplementNB,1
-28229,TurnBackHoax,1,e4,ComplementNB,0
+28229,TurnBackHoax,1,e4,ComplementNB,1
 28278,TurnBackHoax,1,e4,ComplementNB,0
 28288,TurnBackHoax,1,e4,ComplementNB,1
 28292,TurnBackHoax,1,e4,ComplementNB,1
@@ -8543,7 +8543,7 @@ raw_id,source,label,condition,model,predicted_label
 28350,TurnBackHoax,1,e4,ComplementNB,1
 28409,TurnBackHoax,1,e4,ComplementNB,1
 28411,TurnBackHoax,1,e4,ComplementNB,1
-28441,TurnBackHoax,1,e4,ComplementNB,0
+28441,TurnBackHoax,1,e4,ComplementNB,1
 28445,TurnBackHoax,1,e4,ComplementNB,1
 28458,TurnBackHoax,1,e4,ComplementNB,1
 28461,TurnBackHoax,1,e4,ComplementNB,1
@@ -8556,16 +8556,16 @@ raw_id,source,label,condition,model,predicted_label
 28577,TurnBackHoax,1,e4,ComplementNB,1
 28588,TurnBackHoax,1,e4,ComplementNB,1
 28593,TurnBackHoax,1,e4,ComplementNB,1
-28595,TurnBackHoax,1,e4,ComplementNB,0
+28595,TurnBackHoax,1,e4,ComplementNB,1
 28638,TurnBackHoax,1,e4,ComplementNB,1
 28666,TurnBackHoax,1,e4,ComplementNB,1
-28673,TurnBackHoax,1,e4,ComplementNB,0
-28699,TurnBackHoax,1,e4,ComplementNB,0
+28673,TurnBackHoax,1,e4,ComplementNB,1
+28699,TurnBackHoax,1,e4,ComplementNB,1
 28704,TurnBackHoax,1,e4,ComplementNB,1
-28708,TurnBackHoax,1,e4,ComplementNB,0
+28708,TurnBackHoax,1,e4,ComplementNB,1
 28713,TurnBackHoax,1,e4,ComplementNB,1
 28726,TurnBackHoax,1,e4,ComplementNB,1
-28751,TurnBackHoax,1,e4,ComplementNB,0
+28751,TurnBackHoax,1,e4,ComplementNB,1
 28774,TurnBackHoax,1,e4,ComplementNB,1
 28801,TurnBackHoax,1,e4,ComplementNB,1
 28802,TurnBackHoax,1,e4,ComplementNB,1
@@ -8577,30 +8577,30 @@ raw_id,source,label,condition,model,predicted_label
 28899,TurnBackHoax,1,e4,ComplementNB,1
 28900,TurnBackHoax,1,e4,ComplementNB,1
 28939,TurnBackHoax,1,e4,ComplementNB,1
-28953,TurnBackHoax,1,e4,ComplementNB,0
+28953,TurnBackHoax,1,e4,ComplementNB,1
 28984,TurnBackHoax,1,e4,ComplementNB,1
 28999,TurnBackHoax,1,e4,ComplementNB,1
 29008,TurnBackHoax,1,e4,ComplementNB,1
 29018,TurnBackHoax,1,e4,ComplementNB,1
 29019,TurnBackHoax,1,e4,ComplementNB,1
-29036,TurnBackHoax,1,e4,ComplementNB,0
+29036,TurnBackHoax,1,e4,ComplementNB,1
 29066,TurnBackHoax,1,e4,ComplementNB,1
 29084,TurnBackHoax,1,e4,ComplementNB,1
 29087,TurnBackHoax,1,e4,ComplementNB,1
-29140,TurnBackHoax,1,e4,ComplementNB,0
+29140,TurnBackHoax,1,e4,ComplementNB,1
 29170,TurnBackHoax,1,e4,ComplementNB,1
 29175,TurnBackHoax,1,e4,ComplementNB,1
 29190,TurnBackHoax,1,e4,ComplementNB,1
 29196,TurnBackHoax,1,e4,ComplementNB,0
-29206,TurnBackHoax,1,e4,ComplementNB,0
-29220,TurnBackHoax,1,e4,ComplementNB,0
+29206,TurnBackHoax,1,e4,ComplementNB,1
+29220,TurnBackHoax,1,e4,ComplementNB,1
 29295,TurnBackHoax,1,e4,ComplementNB,1
 29300,TurnBackHoax,1,e4,ComplementNB,1
 29304,TurnBackHoax,1,e4,ComplementNB,1
 29305,TurnBackHoax,1,e4,ComplementNB,1
 29320,TurnBackHoax,1,e4,ComplementNB,1
 29335,TurnBackHoax,1,e4,ComplementNB,1
-29336,TurnBackHoax,1,e4,ComplementNB,0
+29336,TurnBackHoax,1,e4,ComplementNB,1
 29355,TurnBackHoax,1,e4,ComplementNB,1
 29356,TurnBackHoax,1,e4,ComplementNB,1
 29382,TurnBackHoax,1,e4,ComplementNB,1
@@ -8610,18 +8610,18 @@ raw_id,source,label,condition,model,predicted_label
 29413,TurnBackHoax,1,e4,ComplementNB,1
 29434,TurnBackHoax,1,e4,ComplementNB,1
 29438,TurnBackHoax,1,e4,ComplementNB,1
-29442,TurnBackHoax,1,e4,ComplementNB,0
+29442,TurnBackHoax,1,e4,ComplementNB,1
 29452,TurnBackHoax,1,e4,ComplementNB,0
-29511,TurnBackHoax,1,e4,ComplementNB,0
+29511,TurnBackHoax,1,e4,ComplementNB,1
 29536,TurnBackHoax,1,e4,ComplementNB,1
 29540,TurnBackHoax,1,e4,ComplementNB,1
 29544,TurnBackHoax,1,e4,ComplementNB,1
 29546,TurnBackHoax,1,e4,ComplementNB,1
 29554,TurnBackHoax,1,e4,ComplementNB,1
 29557,TurnBackHoax,1,e4,ComplementNB,1
-29581,TurnBackHoax,1,e4,ComplementNB,0
+29581,TurnBackHoax,1,e4,ComplementNB,1
 29596,TurnBackHoax,1,e4,ComplementNB,1
-29610,TurnBackHoax,1,e4,ComplementNB,0
+29610,TurnBackHoax,1,e4,ComplementNB,1
 29619,TurnBackHoax,1,e4,ComplementNB,1
 29645,TurnBackHoax,1,e4,ComplementNB,1
 29658,TurnBackHoax,1,e4,ComplementNB,1
@@ -8630,11 +8630,11 @@ raw_id,source,label,condition,model,predicted_label
 29700,TurnBackHoax,1,e4,ComplementNB,1
 29705,TurnBackHoax,1,e4,ComplementNB,1
 29707,TurnBackHoax,1,e4,ComplementNB,1
-29708,TurnBackHoax,1,e4,ComplementNB,0
+29708,TurnBackHoax,1,e4,ComplementNB,1
 29722,TurnBackHoax,1,e4,ComplementNB,1
 29726,TurnBackHoax,1,e4,ComplementNB,1
 29752,TurnBackHoax,1,e4,ComplementNB,1
-29789,TurnBackHoax,1,e4,ComplementNB,0
+29789,TurnBackHoax,1,e4,ComplementNB,1
 29808,TurnBackHoax,1,e4,ComplementNB,1
 29813,TurnBackHoax,1,e4,ComplementNB,1
 29836,TurnBackHoax,1,e4,ComplementNB,1
@@ -8645,7 +8645,7 @@ raw_id,source,label,condition,model,predicted_label
 29943,TurnBackHoax,1,e4,ComplementNB,0
 29954,TurnBackHoax,1,e4,ComplementNB,1
 29985,TurnBackHoax,1,e4,ComplementNB,1
-29987,TurnBackHoax,1,e4,ComplementNB,0
+29987,TurnBackHoax,1,e4,ComplementNB,1
 29999,TurnBackHoax,1,e4,ComplementNB,1
 30013,TurnBackHoax,1,e4,ComplementNB,1
 30019,TurnBackHoax,1,e4,ComplementNB,1
@@ -8663,7 +8663,7 @@ raw_id,source,label,condition,model,predicted_label
 30248,TurnBackHoax,1,e4,ComplementNB,1
 30250,TurnBackHoax,1,e4,ComplementNB,1
 30259,TurnBackHoax,1,e4,ComplementNB,1
-30267,TurnBackHoax,1,e4,ComplementNB,0
+30267,TurnBackHoax,1,e4,ComplementNB,1
 30273,TurnBackHoax,1,e4,ComplementNB,1
 30295,TurnBackHoax,1,e4,ComplementNB,0
 30312,TurnBackHoax,1,e4,ComplementNB,1
@@ -8676,17 +8676,17 @@ raw_id,source,label,condition,model,predicted_label
 30426,TurnBackHoax,1,e4,ComplementNB,1
 30435,TurnBackHoax,1,e4,ComplementNB,1
 30460,TurnBackHoax,1,e4,ComplementNB,1
-30473,TurnBackHoax,1,e4,ComplementNB,0
-30523,TurnBackHoax,1,e4,ComplementNB,0
+30473,TurnBackHoax,1,e4,ComplementNB,1
+30523,TurnBackHoax,1,e4,ComplementNB,1
 30532,TurnBackHoax,1,e4,ComplementNB,1
-30537,TurnBackHoax,1,e4,ComplementNB,0
+30537,TurnBackHoax,1,e4,ComplementNB,1
 30626,TurnBackHoax,1,e4,ComplementNB,1
 30634,TurnBackHoax,1,e4,ComplementNB,1
 30649,TurnBackHoax,1,e4,ComplementNB,1
-30668,TurnBackHoax,1,e4,ComplementNB,0
+30668,TurnBackHoax,1,e4,ComplementNB,1
 30719,TurnBackHoax,1,e4,ComplementNB,0
 30727,TurnBackHoax,1,e4,ComplementNB,1
-30774,TurnBackHoax,1,e4,ComplementNB,0
+30774,TurnBackHoax,1,e4,ComplementNB,1
 30783,TurnBackHoax,1,e4,ComplementNB,1
 30798,TurnBackHoax,1,e4,ComplementNB,1
 30823,TurnBackHoax,1,e4,ComplementNB,1
@@ -8697,9 +8697,9 @@ raw_id,source,label,condition,model,predicted_label
 30915,TurnBackHoax,1,e4,ComplementNB,0
 30928,TurnBackHoax,1,e4,ComplementNB,1
 30956,TurnBackHoax,1,e4,ComplementNB,1
-30977,TurnBackHoax,1,e4,ComplementNB,0
+30977,TurnBackHoax,1,e4,ComplementNB,1
 30981,TurnBackHoax,1,e4,ComplementNB,1
-30982,TurnBackHoax,1,e4,ComplementNB,0
+30982,TurnBackHoax,1,e4,ComplementNB,1
 30984,TurnBackHoax,1,e4,ComplementNB,1
 30985,TurnBackHoax,1,e4,ComplementNB,1
 30986,TurnBackHoax,1,e4,ComplementNB,1
@@ -8744,10 +8744,10 @@ raw_id,source,label,condition,model,predicted_label
 31617,TurnBackHoax,1,e4,ComplementNB,1
 31640,TurnBackHoax,1,e4,ComplementNB,0
 31644,TurnBackHoax,1,e4,ComplementNB,1
-31670,TurnBackHoax,1,e4,ComplementNB,0
+31670,TurnBackHoax,1,e4,ComplementNB,1
 31676,TurnBackHoax,1,e4,ComplementNB,1
 31680,TurnBackHoax,1,e4,ComplementNB,1
-31682,TurnBackHoax,1,e4,ComplementNB,0
+31682,TurnBackHoax,1,e4,ComplementNB,1
 31705,TurnBackHoax,1,e4,ComplementNB,0
 31712,TurnBackHoax,1,e4,ComplementNB,1
 31740,TurnBackHoax,1,e4,ComplementNB,1
@@ -11692,11 +11692,11 @@ raw_id,source,label,condition,model,predicted_label
 169,CNN Indonesia,0,silang,ComplementNB,0
 177,CNN Indonesia,0,silang,ComplementNB,0
 195,CNN Indonesia,0,silang,ComplementNB,0
-196,CNN Indonesia,0,silang,ComplementNB,0
-200,CNN Indonesia,0,silang,ComplementNB,0
+196,CNN Indonesia,0,silang,ComplementNB,1
+200,CNN Indonesia,0,silang,ComplementNB,1
 205,CNN Indonesia,0,silang,ComplementNB,0
 209,CNN Indonesia,0,silang,ComplementNB,0
-238,CNN Indonesia,0,silang,ComplementNB,0
+238,CNN Indonesia,0,silang,ComplementNB,1
 239,CNN Indonesia,0,silang,ComplementNB,0
 243,CNN Indonesia,0,silang,ComplementNB,0
 274,CNN Indonesia,0,silang,ComplementNB,0
@@ -11814,13 +11814,13 @@ raw_id,source,label,condition,model,predicted_label
 1570,CNN Indonesia,0,silang,ComplementNB,0
 1577,CNN Indonesia,0,silang,ComplementNB,0
 1585,CNN Indonesia,0,silang,ComplementNB,0
-1592,CNN Indonesia,0,silang,ComplementNB,0
+1592,CNN Indonesia,0,silang,ComplementNB,1
 1601,CNN Indonesia,0,silang,ComplementNB,0
 1611,CNN Indonesia,0,silang,ComplementNB,0
 1639,CNN Indonesia,0,silang,ComplementNB,0
 1643,CNN Indonesia,0,silang,ComplementNB,0
 1649,CNN Indonesia,0,silang,ComplementNB,0
-1666,CNN Indonesia,0,silang,ComplementNB,0
+1666,CNN Indonesia,0,silang,ComplementNB,1
 1678,CNN Indonesia,0,silang,ComplementNB,0
 1681,CNN Indonesia,0,silang,ComplementNB,0
 1684,CNN Indonesia,0,silang,ComplementNB,0
@@ -11836,7 +11836,7 @@ raw_id,source,label,condition,model,predicted_label
 1759,CNN Indonesia,0,silang,ComplementNB,0
 1760,CNN Indonesia,0,silang,ComplementNB,0
 1789,CNN Indonesia,0,silang,ComplementNB,0
-1792,CNN Indonesia,0,silang,ComplementNB,0
+1792,CNN Indonesia,0,silang,ComplementNB,1
 1798,CNN Indonesia,0,silang,ComplementNB,0
 1800,CNN Indonesia,0,silang,ComplementNB,0
 1816,CNN Indonesia,0,silang,ComplementNB,0
@@ -11883,7 +11883,7 @@ raw_id,source,label,condition,model,predicted_label
 2170,CNN Indonesia,0,silang,ComplementNB,0
 2183,CNN Indonesia,0,silang,ComplementNB,0
 2193,CNN Indonesia,0,silang,ComplementNB,0
-2197,CNN Indonesia,0,silang,ComplementNB,0
+2197,CNN Indonesia,0,silang,ComplementNB,1
 2216,CNN Indonesia,0,silang,ComplementNB,0
 2228,CNN Indonesia,0,silang,ComplementNB,0
 2236,CNN Indonesia,0,silang,ComplementNB,0
@@ -11912,7 +11912,7 @@ raw_id,source,label,condition,model,predicted_label
 2519,CNN Indonesia,0,silang,ComplementNB,0
 2525,CNN Indonesia,0,silang,ComplementNB,0
 2529,CNN Indonesia,0,silang,ComplementNB,0
-2553,CNN Indonesia,0,silang,ComplementNB,0
+2553,CNN Indonesia,0,silang,ComplementNB,1
 2563,CNN Indonesia,0,silang,ComplementNB,0
 2568,CNN Indonesia,0,silang,ComplementNB,0
 2571,CNN Indonesia,0,silang,ComplementNB,0
@@ -11969,7 +11969,7 @@ raw_id,source,label,condition,model,predicted_label
 3165,CNN Indonesia,0,silang,ComplementNB,0
 3176,CNN Indonesia,0,silang,ComplementNB,0
 3177,CNN Indonesia,0,silang,ComplementNB,0
-3192,CNN Indonesia,0,silang,ComplementNB,0
+3192,CNN Indonesia,0,silang,ComplementNB,1
 3197,CNN Indonesia,0,silang,ComplementNB,0
 3199,CNN Indonesia,0,silang,ComplementNB,0
 3209,CNN Indonesia,0,silang,ComplementNB,0
@@ -12020,7 +12020,7 @@ raw_id,source,label,condition,model,predicted_label
 3644,CNN Indonesia,0,silang,ComplementNB,0
 3650,CNN Indonesia,0,silang,ComplementNB,0
 3661,CNN Indonesia,0,silang,ComplementNB,0
-3675,CNN Indonesia,0,silang,ComplementNB,0
+3675,CNN Indonesia,0,silang,ComplementNB,1
 3697,CNN Indonesia,0,silang,ComplementNB,0
 3699,CNN Indonesia,0,silang,ComplementNB,0
 3700,CNN Indonesia,0,silang,ComplementNB,0
@@ -12031,7 +12031,7 @@ raw_id,source,label,condition,model,predicted_label
 3730,CNN Indonesia,0,silang,ComplementNB,0
 3733,CNN Indonesia,0,silang,ComplementNB,0
 3747,CNN Indonesia,0,silang,ComplementNB,0
-3754,CNN Indonesia,0,silang,ComplementNB,0
+3754,CNN Indonesia,0,silang,ComplementNB,1
 3758,CNN Indonesia,0,silang,ComplementNB,0
 3785,CNN Indonesia,0,silang,ComplementNB,0
 3791,CNN Indonesia,0,silang,ComplementNB,0
@@ -12041,7 +12041,7 @@ raw_id,source,label,condition,model,predicted_label
 3832,CNN Indonesia,0,silang,ComplementNB,0
 3846,CNN Indonesia,0,silang,ComplementNB,0
 3864,CNN Indonesia,0,silang,ComplementNB,0
-3870,CNN Indonesia,0,silang,ComplementNB,0
+3870,CNN Indonesia,0,silang,ComplementNB,1
 3877,CNN Indonesia,0,silang,ComplementNB,0
 3883,CNN Indonesia,0,silang,ComplementNB,0
 3894,CNN Indonesia,0,silang,ComplementNB,0
@@ -12053,7 +12053,7 @@ raw_id,source,label,condition,model,predicted_label
 3917,CNN Indonesia,0,silang,ComplementNB,0
 3953,CNN Indonesia,0,silang,ComplementNB,0
 3961,CNN Indonesia,0,silang,ComplementNB,0
-3963,CNN Indonesia,0,silang,ComplementNB,0
+3963,CNN Indonesia,0,silang,ComplementNB,1
 3964,CNN Indonesia,0,silang,ComplementNB,0
 3968,CNN Indonesia,0,silang,ComplementNB,0
 3970,CNN Indonesia,0,silang,ComplementNB,0
@@ -12077,7 +12077,7 @@ raw_id,source,label,condition,model,predicted_label
 4096,CNN Indonesia,0,silang,ComplementNB,0
 4104,CNN Indonesia,0,silang,ComplementNB,0
 4129,CNN Indonesia,0,silang,ComplementNB,0
-4130,CNN Indonesia,0,silang,ComplementNB,0
+4130,CNN Indonesia,0,silang,ComplementNB,1
 4132,CNN Indonesia,0,silang,ComplementNB,0
 4146,CNN Indonesia,0,silang,ComplementNB,0
 4150,CNN Indonesia,0,silang,ComplementNB,0
@@ -12098,7 +12098,7 @@ raw_id,source,label,condition,model,predicted_label
 4307,CNN Indonesia,0,silang,ComplementNB,0
 4310,CNN Indonesia,0,silang,ComplementNB,0
 4311,CNN Indonesia,0,silang,ComplementNB,0
-4323,CNN Indonesia,0,silang,ComplementNB,0
+4323,CNN Indonesia,0,silang,ComplementNB,1
 4332,CNN Indonesia,0,silang,ComplementNB,0
 4338,CNN Indonesia,0,silang,ComplementNB,0
 4343,CNN Indonesia,0,silang,ComplementNB,0
@@ -12270,7 +12270,7 @@ raw_id,source,label,condition,model,predicted_label
 6033,CNN Indonesia,0,silang,ComplementNB,0
 6042,CNN Indonesia,0,silang,ComplementNB,0
 6048,CNN Indonesia,0,silang,ComplementNB,0
-6059,CNN Indonesia,0,silang,ComplementNB,0
+6059,CNN Indonesia,0,silang,ComplementNB,1
 6072,CNN Indonesia,0,silang,ComplementNB,0
 6085,CNN Indonesia,0,silang,ComplementNB,0
 6088,CNN Indonesia,0,silang,ComplementNB,0
@@ -12372,7 +12372,7 @@ raw_id,source,label,condition,model,predicted_label
 7092,CNN Indonesia,0,silang,ComplementNB,0
 7107,CNN Indonesia,0,silang,ComplementNB,0
 7149,CNN Indonesia,0,silang,ComplementNB,0
-7150,CNN Indonesia,0,silang,ComplementNB,0
+7150,CNN Indonesia,0,silang,ComplementNB,1
 7158,CNN Indonesia,0,silang,ComplementNB,0
 7162,CNN Indonesia,0,silang,ComplementNB,0
 7167,CNN Indonesia,0,silang,ComplementNB,0
@@ -12407,7 +12407,7 @@ raw_id,source,label,condition,model,predicted_label
 7405,CNN Indonesia,0,silang,ComplementNB,0
 7416,CNN Indonesia,0,silang,ComplementNB,0
 7423,CNN Indonesia,0,silang,ComplementNB,0
-7427,CNN Indonesia,0,silang,ComplementNB,0
+7427,CNN Indonesia,0,silang,ComplementNB,1
 7431,CNN Indonesia,0,silang,ComplementNB,0
 7448,CNN Indonesia,0,silang,ComplementNB,0
 7452,CNN Indonesia,0,silang,ComplementNB,0
@@ -12479,7 +12479,7 @@ raw_id,source,label,condition,model,predicted_label
 8101,CNN Indonesia,0,silang,ComplementNB,0
 8102,CNN Indonesia,0,silang,ComplementNB,0
 8109,CNN Indonesia,0,silang,ComplementNB,0
-8114,CNN Indonesia,0,silang,ComplementNB,0
+8114,CNN Indonesia,0,silang,ComplementNB,1
 8115,CNN Indonesia,0,silang,ComplementNB,0
 8126,CNN Indonesia,0,silang,ComplementNB,0
 8140,CNN Indonesia,0,silang,ComplementNB,0
@@ -12514,10 +12514,10 @@ raw_id,source,label,condition,model,predicted_label
 8422,CNN Indonesia,0,silang,ComplementNB,0
 8454,CNN Indonesia,0,silang,ComplementNB,0
 8456,CNN Indonesia,0,silang,ComplementNB,0
-8464,CNN Indonesia,0,silang,ComplementNB,0
+8464,CNN Indonesia,0,silang,ComplementNB,1
 8466,CNN Indonesia,0,silang,ComplementNB,0
 8479,CNN Indonesia,0,silang,ComplementNB,0
-8493,CNN Indonesia,0,silang,ComplementNB,0
+8493,CNN Indonesia,0,silang,ComplementNB,1
 8507,CNN Indonesia,0,silang,ComplementNB,0
 8515,CNN Indonesia,0,silang,ComplementNB,0
 8531,CNN Indonesia,0,silang,ComplementNB,0
@@ -12545,7 +12545,7 @@ raw_id,source,label,condition,model,predicted_label
 8770,CNN Indonesia,0,silang,ComplementNB,0
 8783,CNN Indonesia,0,silang,ComplementNB,0
 8797,CNN Indonesia,0,silang,ComplementNB,0
-8812,CNN Indonesia,0,silang,ComplementNB,0
+8812,CNN Indonesia,0,silang,ComplementNB,1
 8813,CNN Indonesia,0,silang,ComplementNB,0
 8824,CNN Indonesia,0,silang,ComplementNB,0
 8870,CNN Indonesia,0,silang,ComplementNB,0
@@ -12557,7 +12557,7 @@ raw_id,source,label,condition,model,predicted_label
 8917,CNN Indonesia,0,silang,ComplementNB,0
 8927,CNN Indonesia,0,silang,ComplementNB,0
 8960,CNN Indonesia,0,silang,ComplementNB,0
-8970,CNN Indonesia,0,silang,ComplementNB,0
+8970,CNN Indonesia,0,silang,ComplementNB,1
 8987,CNN Indonesia,0,silang,ComplementNB,0
 9010,CNN Indonesia,0,silang,ComplementNB,0
 9018,CNN Indonesia,0,silang,ComplementNB,0
@@ -12619,7 +12619,7 @@ raw_id,source,label,condition,model,predicted_label
 9714,CNN Indonesia,0,silang,ComplementNB,0
 9740,CNN Indonesia,0,silang,ComplementNB,0
 9754,CNN Indonesia,0,silang,ComplementNB,0
-9801,CNN Indonesia,0,silang,ComplementNB,0
+9801,CNN Indonesia,0,silang,ComplementNB,1
 9814,CNN Indonesia,0,silang,ComplementNB,0
 9828,CNN Indonesia,0,silang,ComplementNB,0
 9839,CNN Indonesia,0,silang,ComplementNB,0
@@ -12652,7 +12652,7 @@ raw_id,source,label,condition,model,predicted_label
 10225,Kompas,0,silang,ComplementNB,0
 10241,Kompas,0,silang,ComplementNB,0
 10254,Kompas,0,silang,ComplementNB,0
-10256,Kompas,0,silang,ComplementNB,0
+10256,Kompas,0,silang,ComplementNB,1
 10268,Kompas,0,silang,ComplementNB,0
 10271,Kompas,0,silang,ComplementNB,0
 10274,Kompas,0,silang,ComplementNB,0
@@ -12714,10 +12714,10 @@ raw_id,source,label,condition,model,predicted_label
 10830,Kompas,0,silang,ComplementNB,0
 10832,Kompas,0,silang,ComplementNB,0
 10849,Kompas,0,silang,ComplementNB,0
-10859,Kompas,0,silang,ComplementNB,0
+10859,Kompas,0,silang,ComplementNB,1
 10876,Kompas,0,silang,ComplementNB,0
 10880,Kompas,0,silang,ComplementNB,0
-10906,Kompas,0,silang,ComplementNB,0
+10906,Kompas,0,silang,ComplementNB,1
 10915,Kompas,0,silang,ComplementNB,0
 10916,Kompas,0,silang,ComplementNB,0
 10945,Kompas,0,silang,ComplementNB,0
@@ -12739,17 +12739,17 @@ raw_id,source,label,condition,model,predicted_label
 11073,Kompas,0,silang,ComplementNB,0
 11075,Kompas,0,silang,ComplementNB,0
 11084,Kompas,0,silang,ComplementNB,0
-11088,Kompas,0,silang,ComplementNB,0
+11088,Kompas,0,silang,ComplementNB,1
 11108,Kompas,0,silang,ComplementNB,0
 11111,Kompas,0,silang,ComplementNB,0
 11116,Kompas,0,silang,ComplementNB,0
 11119,Kompas,0,silang,ComplementNB,0
 11127,Kompas,0,silang,ComplementNB,0
 11132,Kompas,0,silang,ComplementNB,0
-11135,Kompas,0,silang,ComplementNB,0
+11135,Kompas,0,silang,ComplementNB,1
 11138,Kompas,0,silang,ComplementNB,0
 11151,Kompas,0,silang,ComplementNB,0
-11158,Kompas,0,silang,ComplementNB,0
+11158,Kompas,0,silang,ComplementNB,1
 11170,Kompas,0,silang,ComplementNB,0
 11172,Kompas,0,silang,ComplementNB,0
 11178,Kompas,0,silang,ComplementNB,0
@@ -12759,13 +12759,13 @@ raw_id,source,label,condition,model,predicted_label
 11188,Kompas,0,silang,ComplementNB,0
 11191,Kompas,0,silang,ComplementNB,0
 11193,Kompas,0,silang,ComplementNB,0
-11208,Kompas,0,silang,ComplementNB,0
+11208,Kompas,0,silang,ComplementNB,1
 11210,Kompas,0,silang,ComplementNB,0
 11211,Kompas,0,silang,ComplementNB,0
 11221,Kompas,0,silang,ComplementNB,0
-11225,Kompas,0,silang,ComplementNB,0
-11229,Kompas,0,silang,ComplementNB,0
-11235,Kompas,0,silang,ComplementNB,0
+11225,Kompas,0,silang,ComplementNB,1
+11229,Kompas,0,silang,ComplementNB,1
+11235,Kompas,0,silang,ComplementNB,1
 11244,Kompas,0,silang,ComplementNB,0
 11252,Kompas,0,silang,ComplementNB,0
 11253,Kompas,0,silang,ComplementNB,0
@@ -12786,14 +12786,14 @@ raw_id,source,label,condition,model,predicted_label
 11439,Kompas,0,silang,ComplementNB,0
 11442,Kompas,0,silang,ComplementNB,0
 11453,Kompas,0,silang,ComplementNB,0
-11459,Kompas,0,silang,ComplementNB,0
+11459,Kompas,0,silang,ComplementNB,1
 11460,Kompas,0,silang,ComplementNB,0
 11473,Kompas,0,silang,ComplementNB,0
 11491,Kompas,0,silang,ComplementNB,0
 11502,Kompas,0,silang,ComplementNB,0
 11503,Kompas,0,silang,ComplementNB,0
 11521,Kompas,0,silang,ComplementNB,0
-11522,Kompas,0,silang,ComplementNB,0
+11522,Kompas,0,silang,ComplementNB,1
 11531,Kompas,0,silang,ComplementNB,0
 11532,Kompas,0,silang,ComplementNB,0
 11542,Kompas,0,silang,ComplementNB,0
@@ -12831,9 +12831,9 @@ raw_id,source,label,condition,model,predicted_label
 11837,Kompas,0,silang,ComplementNB,0
 11847,Kompas,0,silang,ComplementNB,0
 11850,Kompas,0,silang,ComplementNB,0
-11853,Kompas,0,silang,ComplementNB,0
+11853,Kompas,0,silang,ComplementNB,1
 11861,Kompas,0,silang,ComplementNB,0
-11865,Kompas,0,silang,ComplementNB,0
+11865,Kompas,0,silang,ComplementNB,1
 11889,Kompas,0,silang,ComplementNB,0
 11912,Kompas,0,silang,ComplementNB,0
 11917,Kompas,0,silang,ComplementNB,0
@@ -12850,29 +12850,29 @@ raw_id,source,label,condition,model,predicted_label
 12005,Kompas,0,silang,ComplementNB,0
 12019,Kompas,0,silang,ComplementNB,0
 12032,Kompas,0,silang,ComplementNB,0
-12035,Kompas,0,silang,ComplementNB,0
+12035,Kompas,0,silang,ComplementNB,1
 12041,Kompas,0,silang,ComplementNB,0
 12080,Kompas,0,silang,ComplementNB,0
-12084,Kompas,0,silang,ComplementNB,0
+12084,Kompas,0,silang,ComplementNB,1
 12088,Kompas,0,silang,ComplementNB,0
 12092,Kompas,0,silang,ComplementNB,0
-12107,Kompas,0,silang,ComplementNB,0
+12107,Kompas,0,silang,ComplementNB,1
 12110,Kompas,0,silang,ComplementNB,0
-12127,Kompas,0,silang,ComplementNB,0
-12134,Kompas,0,silang,ComplementNB,0
+12127,Kompas,0,silang,ComplementNB,1
+12134,Kompas,0,silang,ComplementNB,1
 12137,Kompas,0,silang,ComplementNB,0
 12143,Kompas,0,silang,ComplementNB,0
 12150,Kompas,0,silang,ComplementNB,0
 12156,Kompas,0,silang,ComplementNB,0
-12180,Kompas,0,silang,ComplementNB,0
+12180,Kompas,0,silang,ComplementNB,1
 12181,Kompas,0,silang,ComplementNB,1
 12182,Kompas,0,silang,ComplementNB,0
 12192,Kompas,0,silang,ComplementNB,0
 12198,Kompas,0,silang,ComplementNB,0
-12220,Kompas,0,silang,ComplementNB,0
+12220,Kompas,0,silang,ComplementNB,1
 12230,Kompas,0,silang,ComplementNB,1
-12244,Kompas,0,silang,ComplementNB,0
-12257,Kompas,0,silang,ComplementNB,0
+12244,Kompas,0,silang,ComplementNB,1
+12257,Kompas,0,silang,ComplementNB,1
 12267,Kompas,0,silang,ComplementNB,1
 12269,Kompas,0,silang,ComplementNB,0
 12272,Kompas,0,silang,ComplementNB,0
@@ -12881,13 +12881,13 @@ raw_id,source,label,condition,model,predicted_label
 12292,Kompas,0,silang,ComplementNB,0
 12309,Kompas,0,silang,ComplementNB,0
 12315,Kompas,0,silang,ComplementNB,0
-12318,Kompas,0,silang,ComplementNB,0
+12318,Kompas,0,silang,ComplementNB,1
 12333,Kompas,0,silang,ComplementNB,0
 12352,Kompas,0,silang,ComplementNB,0
 12362,Kompas,0,silang,ComplementNB,0
 12373,Kompas,0,silang,ComplementNB,0
 12393,Kompas,0,silang,ComplementNB,0
-12398,Kompas,0,silang,ComplementNB,0
+12398,Kompas,0,silang,ComplementNB,1
 12400,Kompas,0,silang,ComplementNB,0
 12413,Kompas,0,silang,ComplementNB,0
 12414,Kompas,0,silang,ComplementNB,0
@@ -12909,7 +12909,7 @@ raw_id,source,label,condition,model,predicted_label
 12575,Kompas,0,silang,ComplementNB,0
 12577,Kompas,0,silang,ComplementNB,0
 12589,Kompas,0,silang,ComplementNB,0
-12594,Kompas,0,silang,ComplementNB,0
+12594,Kompas,0,silang,ComplementNB,1
 12595,Kompas,0,silang,ComplementNB,0
 12603,Kompas,0,silang,ComplementNB,0
 12623,Kompas,0,silang,ComplementNB,0
@@ -12920,7 +12920,7 @@ raw_id,source,label,condition,model,predicted_label
 12652,Kompas,0,silang,ComplementNB,0
 12653,Kompas,0,silang,ComplementNB,1
 12679,Kompas,0,silang,ComplementNB,0
-12698,Kompas,0,silang,ComplementNB,0
+12698,Kompas,0,silang,ComplementNB,1
 12703,Kompas,0,silang,ComplementNB,0
 12705,Kompas,0,silang,ComplementNB,0
 12710,Kompas,0,silang,ComplementNB,1
@@ -12933,7 +12933,7 @@ raw_id,source,label,condition,model,predicted_label
 12782,Kompas,0,silang,ComplementNB,0
 12790,Kompas,0,silang,ComplementNB,0
 12801,Kompas,0,silang,ComplementNB,0
-12828,Kompas,0,silang,ComplementNB,0
+12828,Kompas,0,silang,ComplementNB,1
 12856,Kompas,0,silang,ComplementNB,0
 12863,Kompas,0,silang,ComplementNB,0
 12869,Kompas,0,silang,ComplementNB,0
@@ -13022,11 +13022,11 @@ raw_id,source,label,condition,model,predicted_label
 13726,Kompas,0,silang,ComplementNB,0
 13728,Kompas,0,silang,ComplementNB,0
 13730,Kompas,0,silang,ComplementNB,0
-13735,Kompas,0,silang,ComplementNB,0
+13735,Kompas,0,silang,ComplementNB,1
 13770,Kompas,0,silang,ComplementNB,0
 13771,Kompas,0,silang,ComplementNB,0
-13779,Kompas,0,silang,ComplementNB,0
-13781,Kompas,0,silang,ComplementNB,0
+13779,Kompas,0,silang,ComplementNB,1
+13781,Kompas,0,silang,ComplementNB,1
 13798,Kompas,0,silang,ComplementNB,0
 13827,Kompas,0,silang,ComplementNB,0
 13828,Kompas,0,silang,ComplementNB,0
@@ -13034,7 +13034,7 @@ raw_id,source,label,condition,model,predicted_label
 13843,Kompas,0,silang,ComplementNB,0
 13847,Kompas,0,silang,ComplementNB,0
 13849,Kompas,0,silang,ComplementNB,0
-13852,Kompas,0,silang,ComplementNB,0
+13852,Kompas,0,silang,ComplementNB,1
 13855,Kompas,0,silang,ComplementNB,0
 13865,Kompas,0,silang,ComplementNB,0
 13877,Kompas,0,silang,ComplementNB,0
@@ -13074,7 +13074,7 @@ raw_id,source,label,condition,model,predicted_label
 14260,Kompas,0,silang,ComplementNB,0
 14300,Kompas,0,silang,ComplementNB,0
 14306,Kompas,0,silang,ComplementNB,0
-14308,Kompas,0,silang,ComplementNB,0
+14308,Kompas,0,silang,ComplementNB,1
 14319,Kompas,0,silang,ComplementNB,0
 14351,Kompas,0,silang,ComplementNB,0
 14353,Kompas,0,silang,ComplementNB,0
@@ -13097,7 +13097,7 @@ raw_id,source,label,condition,model,predicted_label
 14473,Kompas,0,silang,ComplementNB,0
 14489,Kompas,0,silang,ComplementNB,0
 14498,Kompas,0,silang,ComplementNB,0
-14522,Kompas,0,silang,ComplementNB,0
+14522,Kompas,0,silang,ComplementNB,1
 14532,Kompas,0,silang,ComplementNB,0
 14542,Kompas,0,silang,ComplementNB,0
 14545,Kompas,0,silang,ComplementNB,0
@@ -13116,7 +13116,7 @@ raw_id,source,label,condition,model,predicted_label
 14632,Kompas,0,silang,ComplementNB,0
 14659,Kompas,0,silang,ComplementNB,0
 14678,Kompas,0,silang,ComplementNB,0
-14681,Kompas,0,silang,ComplementNB,0
+14681,Kompas,0,silang,ComplementNB,1
 14682,Kompas,0,silang,ComplementNB,0
 14703,Kompas,0,silang,ComplementNB,0
 14741,Kompas,0,silang,ComplementNB,0
@@ -13139,8 +13139,8 @@ raw_id,source,label,condition,model,predicted_label
 15041,Tempo,0,silang,ComplementNB,0
 15060,Tempo,0,silang,ComplementNB,0
 15063,Tempo,0,silang,ComplementNB,0
-15067,Tempo,0,silang,ComplementNB,0
-15071,Tempo,0,silang,ComplementNB,0
+15067,Tempo,0,silang,ComplementNB,1
+15071,Tempo,0,silang,ComplementNB,1
 15077,Tempo,0,silang,ComplementNB,0
 15091,Tempo,0,silang,ComplementNB,0
 15092,Tempo,0,silang,ComplementNB,0
@@ -13175,7 +13175,7 @@ raw_id,source,label,condition,model,predicted_label
 15473,Tempo,0,silang,ComplementNB,0
 15495,Tempo,0,silang,ComplementNB,0
 15535,Tempo,0,silang,ComplementNB,0
-15560,Tempo,0,silang,ComplementNB,0
+15560,Tempo,0,silang,ComplementNB,1
 15563,Tempo,0,silang,ComplementNB,0
 15577,Tempo,0,silang,ComplementNB,0
 15578,Tempo,0,silang,ComplementNB,0
@@ -13199,7 +13199,7 @@ raw_id,source,label,condition,model,predicted_label
 15740,Tempo,0,silang,ComplementNB,0
 15742,Tempo,0,silang,ComplementNB,0
 15746,Tempo,0,silang,ComplementNB,0
-15766,Tempo,0,silang,ComplementNB,0
+15766,Tempo,0,silang,ComplementNB,1
 15769,Tempo,0,silang,ComplementNB,0
 15780,Tempo,0,silang,ComplementNB,0
 15811,Tempo,0,silang,ComplementNB,0
@@ -13221,19 +13221,19 @@ raw_id,source,label,condition,model,predicted_label
 16025,Tempo,0,silang,ComplementNB,0
 16033,Tempo,0,silang,ComplementNB,0
 16044,Tempo,0,silang,ComplementNB,0
-16052,Tempo,0,silang,ComplementNB,0
+16052,Tempo,0,silang,ComplementNB,1
 16054,Tempo,0,silang,ComplementNB,0
 16055,Tempo,0,silang,ComplementNB,0
 16060,Tempo,0,silang,ComplementNB,0
 16065,Tempo,0,silang,ComplementNB,0
 16074,Tempo,0,silang,ComplementNB,0
 16089,Tempo,0,silang,ComplementNB,0
-16092,Tempo,0,silang,ComplementNB,0
+16092,Tempo,0,silang,ComplementNB,1
 16102,Tempo,0,silang,ComplementNB,0
 16103,Tempo,0,silang,ComplementNB,0
 16125,Tempo,0,silang,ComplementNB,0
 16127,Tempo,0,silang,ComplementNB,0
-16136,Tempo,0,silang,ComplementNB,0
+16136,Tempo,0,silang,ComplementNB,1
 16139,Tempo,0,silang,ComplementNB,0
 16163,Tempo,0,silang,ComplementNB,0
 16167,Tempo,0,silang,ComplementNB,0
@@ -13241,7 +13241,7 @@ raw_id,source,label,condition,model,predicted_label
 16178,Tempo,0,silang,ComplementNB,0
 16189,Tempo,0,silang,ComplementNB,0
 16210,Tempo,0,silang,ComplementNB,0
-16249,Tempo,0,silang,ComplementNB,0
+16249,Tempo,0,silang,ComplementNB,1
 16258,Tempo,0,silang,ComplementNB,0
 16289,Tempo,0,silang,ComplementNB,0
 16311,Tempo,0,silang,ComplementNB,0
@@ -13263,7 +13263,7 @@ raw_id,source,label,condition,model,predicted_label
 16468,Tempo,0,silang,ComplementNB,0
 16486,Tempo,0,silang,ComplementNB,0
 16520,Tempo,0,silang,ComplementNB,0
-16531,Tempo,0,silang,ComplementNB,0
+16531,Tempo,0,silang,ComplementNB,1
 16537,Tempo,0,silang,ComplementNB,0
 16538,Tempo,0,silang,ComplementNB,0
 16543,Tempo,0,silang,ComplementNB,0
@@ -13300,7 +13300,7 @@ raw_id,source,label,condition,model,predicted_label
 16895,Tempo,0,silang,ComplementNB,0
 16911,Tempo,0,silang,ComplementNB,0
 16912,Tempo,0,silang,ComplementNB,0
-16913,Tempo,0,silang,ComplementNB,0
+16913,Tempo,0,silang,ComplementNB,1
 16919,Tempo,0,silang,ComplementNB,0
 16920,Tempo,0,silang,ComplementNB,0
 16922,Tempo,0,silang,ComplementNB,0
@@ -13311,7 +13311,7 @@ raw_id,source,label,condition,model,predicted_label
 16947,Tempo,0,silang,ComplementNB,0
 16948,Tempo,0,silang,ComplementNB,0
 16964,Tempo,0,silang,ComplementNB,0
-16975,Tempo,0,silang,ComplementNB,0
+16975,Tempo,0,silang,ComplementNB,1
 16978,Tempo,0,silang,ComplementNB,0
 16980,Tempo,0,silang,ComplementNB,0
 16988,Tempo,0,silang,ComplementNB,0
@@ -13371,7 +13371,7 @@ raw_id,source,label,condition,model,predicted_label
 17558,Tempo,0,silang,ComplementNB,0
 17566,Tempo,0,silang,ComplementNB,0
 17569,Tempo,0,silang,ComplementNB,0
-17573,Tempo,0,silang,ComplementNB,0
+17573,Tempo,0,silang,ComplementNB,1
 17586,Tempo,0,silang,ComplementNB,0
 17587,Tempo,0,silang,ComplementNB,0
 17591,Tempo,0,silang,ComplementNB,0
@@ -13383,7 +13383,7 @@ raw_id,source,label,condition,model,predicted_label
 17623,Tempo,0,silang,ComplementNB,0
 17631,Tempo,0,silang,ComplementNB,0
 17645,Tempo,0,silang,ComplementNB,0
-17689,Tempo,0,silang,ComplementNB,0
+17689,Tempo,0,silang,ComplementNB,1
 17706,Tempo,0,silang,ComplementNB,0
 17752,Tempo,0,silang,ComplementNB,0
 17753,Tempo,0,silang,ComplementNB,0
@@ -13396,22 +13396,22 @@ raw_id,source,label,condition,model,predicted_label
 17833,Tempo,0,silang,ComplementNB,0
 17838,Tempo,0,silang,ComplementNB,0
 17839,Tempo,0,silang,ComplementNB,0
-17847,Tempo,0,silang,ComplementNB,0
-17848,Tempo,0,silang,ComplementNB,0
+17847,Tempo,0,silang,ComplementNB,1
+17848,Tempo,0,silang,ComplementNB,1
 17856,Tempo,0,silang,ComplementNB,0
 17861,Tempo,0,silang,ComplementNB,0
 17864,Tempo,0,silang,ComplementNB,0
 17874,Tempo,0,silang,ComplementNB,0
-17876,Tempo,0,silang,ComplementNB,0
-17881,Tempo,0,silang,ComplementNB,0
+17876,Tempo,0,silang,ComplementNB,1
+17881,Tempo,0,silang,ComplementNB,1
 17882,Tempo,0,silang,ComplementNB,0
 17900,Tempo,0,silang,ComplementNB,0
 17904,Tempo,0,silang,ComplementNB,0
 17908,Tempo,0,silang,ComplementNB,0
 17917,Tempo,0,silang,ComplementNB,0
-17920,Tempo,0,silang,ComplementNB,0
+17920,Tempo,0,silang,ComplementNB,1
 17940,Tempo,0,silang,ComplementNB,0
-17956,Tempo,0,silang,ComplementNB,0
+17956,Tempo,0,silang,ComplementNB,1
 17968,Tempo,0,silang,ComplementNB,0
 17973,Tempo,0,silang,ComplementNB,0
 17985,Tempo,0,silang,ComplementNB,0
@@ -13479,7 +13479,7 @@ raw_id,source,label,condition,model,predicted_label
 18661,Tempo,0,silang,ComplementNB,0
 18667,Tempo,0,silang,ComplementNB,0
 18686,Tempo,0,silang,ComplementNB,0
-18691,Tempo,0,silang,ComplementNB,0
+18691,Tempo,0,silang,ComplementNB,1
 18696,Tempo,0,silang,ComplementNB,0
 18704,Tempo,0,silang,ComplementNB,0
 18706,Tempo,0,silang,ComplementNB,0
@@ -13512,7 +13512,7 @@ raw_id,source,label,condition,model,predicted_label
 18940,Tempo,0,silang,ComplementNB,0
 18943,Tempo,0,silang,ComplementNB,0
 18972,Tempo,0,silang,ComplementNB,0
-18976,Tempo,0,silang,ComplementNB,0
+18976,Tempo,0,silang,ComplementNB,1
 18980,Tempo,0,silang,ComplementNB,0
 18991,Tempo,0,silang,ComplementNB,0
 18994,Tempo,0,silang,ComplementNB,0
@@ -13565,7 +13565,7 @@ raw_id,source,label,condition,model,predicted_label
 19603,Tempo,0,silang,ComplementNB,0
 19616,Tempo,0,silang,ComplementNB,0
 19632,Tempo,0,silang,ComplementNB,0
-19641,Tempo,0,silang,ComplementNB,0
+19641,Tempo,0,silang,ComplementNB,1
 19647,Tempo,0,silang,ComplementNB,0
 19650,Tempo,0,silang,ComplementNB,0
 19654,Tempo,0,silang,ComplementNB,0
@@ -13631,7 +13631,7 @@ raw_id,source,label,condition,model,predicted_label
 20210,Tempo,0,silang,ComplementNB,0
 20231,Tempo,0,silang,ComplementNB,0
 20253,Tempo,0,silang,ComplementNB,0
-20256,Tempo,0,silang,ComplementNB,0
+20256,Tempo,0,silang,ComplementNB,1
 20283,Tempo,0,silang,ComplementNB,0
 20284,Tempo,0,silang,ComplementNB,0
 20303,Tempo,0,silang,ComplementNB,0
@@ -13650,7 +13650,7 @@ raw_id,source,label,condition,model,predicted_label
 20366,Tempo,0,silang,ComplementNB,0
 20367,Tempo,0,silang,ComplementNB,0
 20375,Tempo,0,silang,ComplementNB,0
-20392,Tempo,0,silang,ComplementNB,0
+20392,Tempo,0,silang,ComplementNB,1
 20402,Tempo,0,silang,ComplementNB,0
 20403,Tempo,0,silang,ComplementNB,0
 20413,Tempo,0,silang,ComplementNB,0
@@ -13725,7 +13725,7 @@ raw_id,source,label,condition,model,predicted_label
 21013,Tempo,0,silang,ComplementNB,0
 21014,Tempo,0,silang,ComplementNB,0
 21049,Tempo,0,silang,ComplementNB,0
-21053,Tempo,0,silang,ComplementNB,0
+21053,Tempo,0,silang,ComplementNB,1
 21056,Tempo,0,silang,ComplementNB,0
 21067,Tempo,0,silang,ComplementNB,0
 21068,Tempo,0,silang,ComplementNB,0
@@ -13767,11 +13767,11 @@ raw_id,source,label,condition,model,predicted_label
 21459,TurnBackHoax,1,silang,ComplementNB,1
 21472,TurnBackHoax,1,silang,ComplementNB,1
 21495,TurnBackHoax,1,silang,ComplementNB,1
-21498,TurnBackHoax,1,silang,ComplementNB,0
+21498,TurnBackHoax,1,silang,ComplementNB,1
 21500,TurnBackHoax,1,silang,ComplementNB,1
 21504,TurnBackHoax,1,silang,ComplementNB,1
-21523,TurnBackHoax,1,silang,ComplementNB,0
-21526,TurnBackHoax,1,silang,ComplementNB,0
+21523,TurnBackHoax,1,silang,ComplementNB,1
+21526,TurnBackHoax,1,silang,ComplementNB,1
 21549,TurnBackHoax,1,silang,ComplementNB,1
 21552,TurnBackHoax,1,silang,ComplementNB,1
 21566,TurnBackHoax,1,silang,ComplementNB,1
@@ -13780,7 +13780,7 @@ raw_id,source,label,condition,model,predicted_label
 21639,TurnBackHoax,1,silang,ComplementNB,1
 21658,TurnBackHoax,1,silang,ComplementNB,1
 21664,TurnBackHoax,1,silang,ComplementNB,1
-21669,TurnBackHoax,1,silang,ComplementNB,0
+21669,TurnBackHoax,1,silang,ComplementNB,1
 21678,TurnBackHoax,1,silang,ComplementNB,0
 21685,TurnBackHoax,1,silang,ComplementNB,0
 21757,TurnBackHoax,1,silang,ComplementNB,1
@@ -13798,13 +13798,13 @@ raw_id,source,label,condition,model,predicted_label
 21904,TurnBackHoax,1,silang,ComplementNB,1
 21921,TurnBackHoax,1,silang,ComplementNB,1
 21950,TurnBackHoax,1,silang,ComplementNB,1
-21958,TurnBackHoax,1,silang,ComplementNB,0
+21958,TurnBackHoax,1,silang,ComplementNB,1
 21960,TurnBackHoax,1,silang,ComplementNB,1
 21967,TurnBackHoax,1,silang,ComplementNB,1
 21970,TurnBackHoax,1,silang,ComplementNB,1
 21978,TurnBackHoax,1,silang,ComplementNB,1
 21989,TurnBackHoax,1,silang,ComplementNB,1
-21990,TurnBackHoax,1,silang,ComplementNB,0
+21990,TurnBackHoax,1,silang,ComplementNB,1
 21993,TurnBackHoax,1,silang,ComplementNB,1
 21997,TurnBackHoax,1,silang,ComplementNB,1
 22002,TurnBackHoax,1,silang,ComplementNB,1
@@ -13820,34 +13820,34 @@ raw_id,source,label,condition,model,predicted_label
 22081,TurnBackHoax,1,silang,ComplementNB,1
 22095,TurnBackHoax,1,silang,ComplementNB,1
 22105,TurnBackHoax,1,silang,ComplementNB,1
-22112,TurnBackHoax,1,silang,ComplementNB,0
+22112,TurnBackHoax,1,silang,ComplementNB,1
 22114,TurnBackHoax,1,silang,ComplementNB,1
 22122,TurnBackHoax,1,silang,ComplementNB,1
 22126,TurnBackHoax,1,silang,ComplementNB,1
 22138,TurnBackHoax,1,silang,ComplementNB,1
 22140,TurnBackHoax,1,silang,ComplementNB,1
-22177,TurnBackHoax,1,silang,ComplementNB,0
+22177,TurnBackHoax,1,silang,ComplementNB,1
 22183,TurnBackHoax,1,silang,ComplementNB,1
 22188,TurnBackHoax,1,silang,ComplementNB,1
 22203,TurnBackHoax,1,silang,ComplementNB,1
 22215,TurnBackHoax,1,silang,ComplementNB,1
-22236,TurnBackHoax,1,silang,ComplementNB,0
+22236,TurnBackHoax,1,silang,ComplementNB,1
 22245,TurnBackHoax,1,silang,ComplementNB,1
 22256,TurnBackHoax,1,silang,ComplementNB,1
 22281,TurnBackHoax,1,silang,ComplementNB,1
 22306,TurnBackHoax,1,silang,ComplementNB,1
 22313,TurnBackHoax,1,silang,ComplementNB,1
 22314,TurnBackHoax,1,silang,ComplementNB,1
-22318,TurnBackHoax,1,silang,ComplementNB,0
+22318,TurnBackHoax,1,silang,ComplementNB,1
 22321,TurnBackHoax,1,silang,ComplementNB,1
 22336,TurnBackHoax,1,silang,ComplementNB,1
 22343,TurnBackHoax,1,silang,ComplementNB,1
-22344,TurnBackHoax,1,silang,ComplementNB,0
-22357,TurnBackHoax,1,silang,ComplementNB,0
+22344,TurnBackHoax,1,silang,ComplementNB,1
+22357,TurnBackHoax,1,silang,ComplementNB,1
 22359,TurnBackHoax,1,silang,ComplementNB,1
-22366,TurnBackHoax,1,silang,ComplementNB,0
+22366,TurnBackHoax,1,silang,ComplementNB,1
 22368,TurnBackHoax,1,silang,ComplementNB,1
-22390,TurnBackHoax,1,silang,ComplementNB,0
+22390,TurnBackHoax,1,silang,ComplementNB,1
 22391,TurnBackHoax,1,silang,ComplementNB,1
 22392,TurnBackHoax,1,silang,ComplementNB,1
 22402,TurnBackHoax,1,silang,ComplementNB,1
@@ -13864,18 +13864,18 @@ raw_id,source,label,condition,model,predicted_label
 22541,TurnBackHoax,1,silang,ComplementNB,1
 22553,TurnBackHoax,1,silang,ComplementNB,1
 22571,TurnBackHoax,1,silang,ComplementNB,1
-22573,TurnBackHoax,1,silang,ComplementNB,0
+22573,TurnBackHoax,1,silang,ComplementNB,1
 22585,TurnBackHoax,1,silang,ComplementNB,1
-22602,TurnBackHoax,1,silang,ComplementNB,0
+22602,TurnBackHoax,1,silang,ComplementNB,1
 22607,TurnBackHoax,1,silang,ComplementNB,1
 22617,TurnBackHoax,1,silang,ComplementNB,1
 22636,TurnBackHoax,1,silang,ComplementNB,1
-22645,TurnBackHoax,1,silang,ComplementNB,0
+22645,TurnBackHoax,1,silang,ComplementNB,1
 22650,TurnBackHoax,1,silang,ComplementNB,1
-22665,TurnBackHoax,1,silang,ComplementNB,0
+22665,TurnBackHoax,1,silang,ComplementNB,1
 22696,TurnBackHoax,1,silang,ComplementNB,1
 22708,TurnBackHoax,1,silang,ComplementNB,1
-22709,TurnBackHoax,1,silang,ComplementNB,0
+22709,TurnBackHoax,1,silang,ComplementNB,1
 22712,TurnBackHoax,1,silang,ComplementNB,1
 22714,TurnBackHoax,1,silang,ComplementNB,0
 22740,TurnBackHoax,1,silang,ComplementNB,1
@@ -13894,16 +13894,16 @@ raw_id,source,label,condition,model,predicted_label
 22868,TurnBackHoax,1,silang,ComplementNB,1
 22878,TurnBackHoax,1,silang,ComplementNB,1
 22884,TurnBackHoax,1,silang,ComplementNB,1
-22890,TurnBackHoax,1,silang,ComplementNB,0
-22903,TurnBackHoax,1,silang,ComplementNB,0
-22912,TurnBackHoax,1,silang,ComplementNB,0
+22890,TurnBackHoax,1,silang,ComplementNB,1
+22903,TurnBackHoax,1,silang,ComplementNB,1
+22912,TurnBackHoax,1,silang,ComplementNB,1
 22915,TurnBackHoax,1,silang,ComplementNB,1
 22919,TurnBackHoax,1,silang,ComplementNB,1
 22920,TurnBackHoax,1,silang,ComplementNB,1
 22938,TurnBackHoax,1,silang,ComplementNB,1
-22939,TurnBackHoax,1,silang,ComplementNB,0
+22939,TurnBackHoax,1,silang,ComplementNB,1
 22946,TurnBackHoax,1,silang,ComplementNB,1
-22953,TurnBackHoax,1,silang,ComplementNB,0
+22953,TurnBackHoax,1,silang,ComplementNB,1
 22959,TurnBackHoax,1,silang,ComplementNB,1
 22975,TurnBackHoax,1,silang,ComplementNB,1
 22989,TurnBackHoax,1,silang,ComplementNB,1
@@ -13930,20 +13930,20 @@ raw_id,source,label,condition,model,predicted_label
 23179,TurnBackHoax,1,silang,ComplementNB,1
 23185,TurnBackHoax,1,silang,ComplementNB,1
 23235,TurnBackHoax,1,silang,ComplementNB,1
-23244,TurnBackHoax,1,silang,ComplementNB,0
+23244,TurnBackHoax,1,silang,ComplementNB,1
 23254,TurnBackHoax,1,silang,ComplementNB,1
 23297,TurnBackHoax,1,silang,ComplementNB,1
 23302,TurnBackHoax,1,silang,ComplementNB,1
 23303,TurnBackHoax,1,silang,ComplementNB,1
-23323,TurnBackHoax,1,silang,ComplementNB,0
+23323,TurnBackHoax,1,silang,ComplementNB,1
 23332,TurnBackHoax,1,silang,ComplementNB,1
 23346,TurnBackHoax,1,silang,ComplementNB,1
 23359,TurnBackHoax,1,silang,ComplementNB,1
-23361,TurnBackHoax,1,silang,ComplementNB,0
+23361,TurnBackHoax,1,silang,ComplementNB,1
 23376,TurnBackHoax,1,silang,ComplementNB,1
-23396,TurnBackHoax,1,silang,ComplementNB,0
+23396,TurnBackHoax,1,silang,ComplementNB,1
 23399,TurnBackHoax,1,silang,ComplementNB,1
-23414,TurnBackHoax,1,silang,ComplementNB,0
+23414,TurnBackHoax,1,silang,ComplementNB,1
 23428,TurnBackHoax,1,silang,ComplementNB,1
 23429,TurnBackHoax,1,silang,ComplementNB,1
 23469,TurnBackHoax,1,silang,ComplementNB,1
@@ -13953,7 +13953,7 @@ raw_id,source,label,condition,model,predicted_label
 23543,TurnBackHoax,1,silang,ComplementNB,1
 23544,TurnBackHoax,1,silang,ComplementNB,0
 23566,TurnBackHoax,1,silang,ComplementNB,1
-23569,TurnBackHoax,1,silang,ComplementNB,0
+23569,TurnBackHoax,1,silang,ComplementNB,1
 23574,TurnBackHoax,1,silang,ComplementNB,1
 23587,TurnBackHoax,1,silang,ComplementNB,1
 23598,TurnBackHoax,1,silang,ComplementNB,1
@@ -13964,7 +13964,7 @@ raw_id,source,label,condition,model,predicted_label
 23639,TurnBackHoax,1,silang,ComplementNB,1
 23642,TurnBackHoax,1,silang,ComplementNB,1
 23652,TurnBackHoax,1,silang,ComplementNB,1
-23658,TurnBackHoax,1,silang,ComplementNB,0
+23658,TurnBackHoax,1,silang,ComplementNB,1
 23668,TurnBackHoax,1,silang,ComplementNB,1
 23678,TurnBackHoax,1,silang,ComplementNB,1
 23684,TurnBackHoax,1,silang,ComplementNB,1
@@ -13979,18 +13979,18 @@ raw_id,source,label,condition,model,predicted_label
 23764,TurnBackHoax,1,silang,ComplementNB,1
 23772,TurnBackHoax,1,silang,ComplementNB,1
 23773,TurnBackHoax,1,silang,ComplementNB,1
-23781,TurnBackHoax,1,silang,ComplementNB,0
+23781,TurnBackHoax,1,silang,ComplementNB,1
 23788,TurnBackHoax,1,silang,ComplementNB,1
 23835,TurnBackHoax,1,silang,ComplementNB,1
 23836,TurnBackHoax,1,silang,ComplementNB,1
 23853,TurnBackHoax,1,silang,ComplementNB,1
-23855,TurnBackHoax,1,silang,ComplementNB,0
+23855,TurnBackHoax,1,silang,ComplementNB,1
 23871,TurnBackHoax,1,silang,ComplementNB,1
 23875,TurnBackHoax,1,silang,ComplementNB,0
 23892,TurnBackHoax,1,silang,ComplementNB,0
 23899,TurnBackHoax,1,silang,ComplementNB,1
-23904,TurnBackHoax,1,silang,ComplementNB,0
-23908,TurnBackHoax,1,silang,ComplementNB,0
+23904,TurnBackHoax,1,silang,ComplementNB,1
+23908,TurnBackHoax,1,silang,ComplementNB,1
 23919,TurnBackHoax,1,silang,ComplementNB,1
 23936,TurnBackHoax,1,silang,ComplementNB,1
 23953,TurnBackHoax,1,silang,ComplementNB,1
@@ -14008,7 +14008,7 @@ raw_id,source,label,condition,model,predicted_label
 24054,TurnBackHoax,1,silang,ComplementNB,1
 24058,TurnBackHoax,1,silang,ComplementNB,1
 24068,TurnBackHoax,1,silang,ComplementNB,1
-24083,TurnBackHoax,1,silang,ComplementNB,0
+24083,TurnBackHoax,1,silang,ComplementNB,1
 24092,TurnBackHoax,1,silang,ComplementNB,1
 24096,TurnBackHoax,1,silang,ComplementNB,1
 24102,TurnBackHoax,1,silang,ComplementNB,1
@@ -14044,8 +14044,8 @@ raw_id,source,label,condition,model,predicted_label
 24470,TurnBackHoax,1,silang,ComplementNB,1
 24471,TurnBackHoax,1,silang,ComplementNB,1
 24490,TurnBackHoax,1,silang,ComplementNB,1
-24493,TurnBackHoax,1,silang,ComplementNB,0
-24500,TurnBackHoax,1,silang,ComplementNB,0
+24493,TurnBackHoax,1,silang,ComplementNB,1
+24500,TurnBackHoax,1,silang,ComplementNB,1
 24536,TurnBackHoax,1,silang,ComplementNB,1
 24547,TurnBackHoax,1,silang,ComplementNB,1
 24553,TurnBackHoax,1,silang,ComplementNB,1
@@ -14075,7 +14075,7 @@ raw_id,source,label,condition,model,predicted_label
 24879,TurnBackHoax,1,silang,ComplementNB,1
 24900,TurnBackHoax,1,silang,ComplementNB,1
 24901,TurnBackHoax,1,silang,ComplementNB,1
-24909,TurnBackHoax,1,silang,ComplementNB,0
+24909,TurnBackHoax,1,silang,ComplementNB,1
 24910,TurnBackHoax,1,silang,ComplementNB,1
 24921,TurnBackHoax,1,silang,ComplementNB,1
 24927,TurnBackHoax,1,silang,ComplementNB,1
@@ -14087,7 +14087,7 @@ raw_id,source,label,condition,model,predicted_label
 24963,TurnBackHoax,1,silang,ComplementNB,1
 24977,TurnBackHoax,1,silang,ComplementNB,1
 24999,TurnBackHoax,1,silang,ComplementNB,1
-25033,TurnBackHoax,1,silang,ComplementNB,0
+25033,TurnBackHoax,1,silang,ComplementNB,1
 25036,TurnBackHoax,1,silang,ComplementNB,1
 25048,TurnBackHoax,1,silang,ComplementNB,1
 25056,TurnBackHoax,1,silang,ComplementNB,1
@@ -14103,7 +14103,7 @@ raw_id,source,label,condition,model,predicted_label
 25113,TurnBackHoax,1,silang,ComplementNB,1
 25135,TurnBackHoax,1,silang,ComplementNB,1
 25141,TurnBackHoax,1,silang,ComplementNB,1
-25149,TurnBackHoax,1,silang,ComplementNB,0
+25149,TurnBackHoax,1,silang,ComplementNB,1
 25167,TurnBackHoax,1,silang,ComplementNB,1
 25179,TurnBackHoax,1,silang,ComplementNB,1
 25188,TurnBackHoax,1,silang,ComplementNB,1
@@ -14123,7 +14123,7 @@ raw_id,source,label,condition,model,predicted_label
 25402,TurnBackHoax,1,silang,ComplementNB,1
 25403,TurnBackHoax,1,silang,ComplementNB,1
 25407,TurnBackHoax,1,silang,ComplementNB,1
-25412,TurnBackHoax,1,silang,ComplementNB,0
+25412,TurnBackHoax,1,silang,ComplementNB,1
 25427,TurnBackHoax,1,silang,ComplementNB,1
 25428,TurnBackHoax,1,silang,ComplementNB,1
 25429,TurnBackHoax,1,silang,ComplementNB,1
@@ -14145,7 +14145,7 @@ raw_id,source,label,condition,model,predicted_label
 25552,TurnBackHoax,1,silang,ComplementNB,1
 25554,TurnBackHoax,1,silang,ComplementNB,1
 25561,TurnBackHoax,1,silang,ComplementNB,1
-25568,TurnBackHoax,1,silang,ComplementNB,0
+25568,TurnBackHoax,1,silang,ComplementNB,1
 25577,TurnBackHoax,1,silang,ComplementNB,1
 25581,TurnBackHoax,1,silang,ComplementNB,1
 25584,TurnBackHoax,1,silang,ComplementNB,1
@@ -14171,19 +14171,19 @@ raw_id,source,label,condition,model,predicted_label
 25815,TurnBackHoax,1,silang,ComplementNB,1
 25833,TurnBackHoax,1,silang,ComplementNB,1
 25854,TurnBackHoax,1,silang,ComplementNB,1
-25872,TurnBackHoax,1,silang,ComplementNB,0
+25872,TurnBackHoax,1,silang,ComplementNB,1
 25878,TurnBackHoax,1,silang,ComplementNB,1
 25895,TurnBackHoax,1,silang,ComplementNB,1
-25932,TurnBackHoax,1,silang,ComplementNB,0
+25932,TurnBackHoax,1,silang,ComplementNB,1
 25938,TurnBackHoax,1,silang,ComplementNB,1
 25943,TurnBackHoax,1,silang,ComplementNB,1
-25947,TurnBackHoax,1,silang,ComplementNB,0
+25947,TurnBackHoax,1,silang,ComplementNB,1
 25950,TurnBackHoax,1,silang,ComplementNB,1
 25954,TurnBackHoax,1,silang,ComplementNB,1
 25959,TurnBackHoax,1,silang,ComplementNB,1
 25964,TurnBackHoax,1,silang,ComplementNB,1
 25984,TurnBackHoax,1,silang,ComplementNB,1
-26003,TurnBackHoax,1,silang,ComplementNB,0
+26003,TurnBackHoax,1,silang,ComplementNB,1
 26008,TurnBackHoax,1,silang,ComplementNB,1
 26009,TurnBackHoax,1,silang,ComplementNB,1
 26028,TurnBackHoax,1,silang,ComplementNB,1
@@ -14192,10 +14192,10 @@ raw_id,source,label,condition,model,predicted_label
 26050,TurnBackHoax,1,silang,ComplementNB,1
 26062,TurnBackHoax,1,silang,ComplementNB,1
 26077,TurnBackHoax,1,silang,ComplementNB,1
-26083,TurnBackHoax,1,silang,ComplementNB,0
-26090,TurnBackHoax,1,silang,ComplementNB,0
-26104,TurnBackHoax,1,silang,ComplementNB,0
-26112,TurnBackHoax,1,silang,ComplementNB,0
+26083,TurnBackHoax,1,silang,ComplementNB,1
+26090,TurnBackHoax,1,silang,ComplementNB,1
+26104,TurnBackHoax,1,silang,ComplementNB,1
+26112,TurnBackHoax,1,silang,ComplementNB,1
 26139,TurnBackHoax,1,silang,ComplementNB,1
 26154,TurnBackHoax,1,silang,ComplementNB,1
 26181,TurnBackHoax,1,silang,ComplementNB,1
@@ -14219,13 +14219,13 @@ raw_id,source,label,condition,model,predicted_label
 26386,TurnBackHoax,1,silang,ComplementNB,1
 26399,TurnBackHoax,1,silang,ComplementNB,1
 26420,TurnBackHoax,1,silang,ComplementNB,1
-26436,TurnBackHoax,1,silang,ComplementNB,0
+26436,TurnBackHoax,1,silang,ComplementNB,1
 26437,TurnBackHoax,1,silang,ComplementNB,1
 26446,TurnBackHoax,1,silang,ComplementNB,1
 26491,TurnBackHoax,1,silang,ComplementNB,1
-26523,TurnBackHoax,1,silang,ComplementNB,0
+26523,TurnBackHoax,1,silang,ComplementNB,1
 26550,TurnBackHoax,1,silang,ComplementNB,1
-26567,TurnBackHoax,1,silang,ComplementNB,0
+26567,TurnBackHoax,1,silang,ComplementNB,1
 26581,TurnBackHoax,1,silang,ComplementNB,1
 26587,TurnBackHoax,1,silang,ComplementNB,1
 26592,TurnBackHoax,1,silang,ComplementNB,1
@@ -14234,7 +14234,7 @@ raw_id,source,label,condition,model,predicted_label
 26665,TurnBackHoax,1,silang,ComplementNB,1
 26671,TurnBackHoax,1,silang,ComplementNB,1
 26687,TurnBackHoax,1,silang,ComplementNB,1
-26700,TurnBackHoax,1,silang,ComplementNB,0
+26700,TurnBackHoax,1,silang,ComplementNB,1
 26734,TurnBackHoax,1,silang,ComplementNB,1
 26738,TurnBackHoax,1,silang,ComplementNB,1
 26748,TurnBackHoax,1,silang,ComplementNB,1
@@ -14242,8 +14242,8 @@ raw_id,source,label,condition,model,predicted_label
 26762,TurnBackHoax,1,silang,ComplementNB,1
 26763,TurnBackHoax,1,silang,ComplementNB,1
 26769,TurnBackHoax,1,silang,ComplementNB,1
-26810,TurnBackHoax,1,silang,ComplementNB,0
-26813,TurnBackHoax,1,silang,ComplementNB,0
+26810,TurnBackHoax,1,silang,ComplementNB,1
+26813,TurnBackHoax,1,silang,ComplementNB,1
 26842,TurnBackHoax,1,silang,ComplementNB,1
 26871,TurnBackHoax,1,silang,ComplementNB,1
 26886,TurnBackHoax,1,silang,ComplementNB,1
@@ -14257,10 +14257,10 @@ raw_id,source,label,condition,model,predicted_label
 26951,TurnBackHoax,1,silang,ComplementNB,1
 26977,TurnBackHoax,1,silang,ComplementNB,1
 26986,TurnBackHoax,1,silang,ComplementNB,1
-26987,TurnBackHoax,1,silang,ComplementNB,0
+26987,TurnBackHoax,1,silang,ComplementNB,1
 26989,TurnBackHoax,1,silang,ComplementNB,1
 27004,TurnBackHoax,1,silang,ComplementNB,1
-27032,TurnBackHoax,1,silang,ComplementNB,0
+27032,TurnBackHoax,1,silang,ComplementNB,1
 27037,TurnBackHoax,1,silang,ComplementNB,1
 27048,TurnBackHoax,1,silang,ComplementNB,1
 27050,TurnBackHoax,1,silang,ComplementNB,0
@@ -14268,19 +14268,19 @@ raw_id,source,label,condition,model,predicted_label
 27086,TurnBackHoax,1,silang,ComplementNB,1
 27093,TurnBackHoax,1,silang,ComplementNB,1
 27103,TurnBackHoax,1,silang,ComplementNB,1
-27110,TurnBackHoax,1,silang,ComplementNB,0
+27110,TurnBackHoax,1,silang,ComplementNB,1
 27136,TurnBackHoax,1,silang,ComplementNB,1
 27159,TurnBackHoax,1,silang,ComplementNB,1
-27170,TurnBackHoax,1,silang,ComplementNB,0
+27170,TurnBackHoax,1,silang,ComplementNB,1
 27187,TurnBackHoax,1,silang,ComplementNB,1
 27213,TurnBackHoax,1,silang,ComplementNB,1
 27254,TurnBackHoax,1,silang,ComplementNB,1
 27256,TurnBackHoax,1,silang,ComplementNB,1
 27269,TurnBackHoax,1,silang,ComplementNB,1
-27294,TurnBackHoax,1,silang,ComplementNB,0
+27294,TurnBackHoax,1,silang,ComplementNB,1
 27295,TurnBackHoax,1,silang,ComplementNB,1
 27298,TurnBackHoax,1,silang,ComplementNB,1
-27304,TurnBackHoax,1,silang,ComplementNB,0
+27304,TurnBackHoax,1,silang,ComplementNB,1
 27318,TurnBackHoax,1,silang,ComplementNB,1
 27329,TurnBackHoax,1,silang,ComplementNB,1
 27332,TurnBackHoax,1,silang,ComplementNB,1
@@ -14288,21 +14288,21 @@ raw_id,source,label,condition,model,predicted_label
 27335,TurnBackHoax,1,silang,ComplementNB,1
 27342,TurnBackHoax,1,silang,ComplementNB,1
 27343,TurnBackHoax,1,silang,ComplementNB,1
-27365,TurnBackHoax,1,silang,ComplementNB,0
+27365,TurnBackHoax,1,silang,ComplementNB,1
 27367,TurnBackHoax,1,silang,ComplementNB,1
-27376,TurnBackHoax,1,silang,ComplementNB,0
+27376,TurnBackHoax,1,silang,ComplementNB,1
 27399,TurnBackHoax,1,silang,ComplementNB,1
 27403,TurnBackHoax,1,silang,ComplementNB,1
 27405,TurnBackHoax,1,silang,ComplementNB,1
 27411,TurnBackHoax,1,silang,ComplementNB,1
-27414,TurnBackHoax,1,silang,ComplementNB,0
+27414,TurnBackHoax,1,silang,ComplementNB,1
 27416,TurnBackHoax,1,silang,ComplementNB,1
 27431,TurnBackHoax,1,silang,ComplementNB,1
 27475,TurnBackHoax,1,silang,ComplementNB,1
 27487,TurnBackHoax,1,silang,ComplementNB,1
 27490,TurnBackHoax,1,silang,ComplementNB,1
 27495,TurnBackHoax,1,silang,ComplementNB,1
-27496,TurnBackHoax,1,silang,ComplementNB,0
+27496,TurnBackHoax,1,silang,ComplementNB,1
 27506,TurnBackHoax,1,silang,ComplementNB,1
 27510,TurnBackHoax,1,silang,ComplementNB,1
 27512,TurnBackHoax,1,silang,ComplementNB,1
@@ -14336,13 +14336,13 @@ raw_id,source,label,condition,model,predicted_label
 27836,TurnBackHoax,1,silang,ComplementNB,1
 27848,TurnBackHoax,1,silang,ComplementNB,1
 27853,TurnBackHoax,1,silang,ComplementNB,1
-27855,TurnBackHoax,1,silang,ComplementNB,0
+27855,TurnBackHoax,1,silang,ComplementNB,1
 27873,TurnBackHoax,1,silang,ComplementNB,1
 27882,TurnBackHoax,1,silang,ComplementNB,1
 27883,TurnBackHoax,1,silang,ComplementNB,1
 27906,TurnBackHoax,1,silang,ComplementNB,1
 27908,TurnBackHoax,1,silang,ComplementNB,0
-27931,TurnBackHoax,1,silang,ComplementNB,0
+27931,TurnBackHoax,1,silang,ComplementNB,1
 27940,TurnBackHoax,1,silang,ComplementNB,1
 27943,TurnBackHoax,1,silang,ComplementNB,1
 27944,TurnBackHoax,1,silang,ComplementNB,1
@@ -14351,37 +14351,37 @@ raw_id,source,label,condition,model,predicted_label
 27981,TurnBackHoax,1,silang,ComplementNB,1
 27982,TurnBackHoax,1,silang,ComplementNB,1
 27984,TurnBackHoax,1,silang,ComplementNB,1
-28000,TurnBackHoax,1,silang,ComplementNB,0
+28000,TurnBackHoax,1,silang,ComplementNB,1
 28005,TurnBackHoax,1,silang,ComplementNB,1
-28036,TurnBackHoax,1,silang,ComplementNB,0
+28036,TurnBackHoax,1,silang,ComplementNB,1
 28044,TurnBackHoax,1,silang,ComplementNB,1
 28046,TurnBackHoax,1,silang,ComplementNB,0
 28050,TurnBackHoax,1,silang,ComplementNB,1
 28056,TurnBackHoax,1,silang,ComplementNB,1
 28059,TurnBackHoax,1,silang,ComplementNB,1
 28070,TurnBackHoax,1,silang,ComplementNB,1
-28072,TurnBackHoax,1,silang,ComplementNB,0
+28072,TurnBackHoax,1,silang,ComplementNB,1
 28092,TurnBackHoax,1,silang,ComplementNB,1
 28096,TurnBackHoax,1,silang,ComplementNB,1
 28130,TurnBackHoax,1,silang,ComplementNB,1
 28136,TurnBackHoax,1,silang,ComplementNB,1
 28138,TurnBackHoax,1,silang,ComplementNB,1
-28144,TurnBackHoax,1,silang,ComplementNB,0
+28144,TurnBackHoax,1,silang,ComplementNB,1
 28163,TurnBackHoax,1,silang,ComplementNB,0
 28174,TurnBackHoax,1,silang,ComplementNB,1
-28183,TurnBackHoax,1,silang,ComplementNB,0
+28183,TurnBackHoax,1,silang,ComplementNB,1
 28192,TurnBackHoax,1,silang,ComplementNB,1
 28204,TurnBackHoax,1,silang,ComplementNB,1
 28208,TurnBackHoax,1,silang,ComplementNB,1
 28229,TurnBackHoax,1,silang,ComplementNB,1
-28278,TurnBackHoax,1,silang,ComplementNB,0
+28278,TurnBackHoax,1,silang,ComplementNB,1
 28288,TurnBackHoax,1,silang,ComplementNB,1
 28292,TurnBackHoax,1,silang,ComplementNB,1
 28347,TurnBackHoax,1,silang,ComplementNB,1
 28350,TurnBackHoax,1,silang,ComplementNB,1
 28409,TurnBackHoax,1,silang,ComplementNB,1
 28411,TurnBackHoax,1,silang,ComplementNB,1
-28441,TurnBackHoax,1,silang,ComplementNB,0
+28441,TurnBackHoax,1,silang,ComplementNB,1
 28445,TurnBackHoax,1,silang,ComplementNB,1
 28458,TurnBackHoax,1,silang,ComplementNB,1
 28461,TurnBackHoax,1,silang,ComplementNB,1
@@ -14394,16 +14394,16 @@ raw_id,source,label,condition,model,predicted_label
 28577,TurnBackHoax,1,silang,ComplementNB,1
 28588,TurnBackHoax,1,silang,ComplementNB,1
 28593,TurnBackHoax,1,silang,ComplementNB,1
-28595,TurnBackHoax,1,silang,ComplementNB,0
+28595,TurnBackHoax,1,silang,ComplementNB,1
 28638,TurnBackHoax,1,silang,ComplementNB,1
-28666,TurnBackHoax,1,silang,ComplementNB,0
-28673,TurnBackHoax,1,silang,ComplementNB,0
-28699,TurnBackHoax,1,silang,ComplementNB,0
+28666,TurnBackHoax,1,silang,ComplementNB,1
+28673,TurnBackHoax,1,silang,ComplementNB,1
+28699,TurnBackHoax,1,silang,ComplementNB,1
 28704,TurnBackHoax,1,silang,ComplementNB,1
-28708,TurnBackHoax,1,silang,ComplementNB,0
+28708,TurnBackHoax,1,silang,ComplementNB,1
 28713,TurnBackHoax,1,silang,ComplementNB,1
 28726,TurnBackHoax,1,silang,ComplementNB,1
-28751,TurnBackHoax,1,silang,ComplementNB,0
+28751,TurnBackHoax,1,silang,ComplementNB,1
 28774,TurnBackHoax,1,silang,ComplementNB,1
 28801,TurnBackHoax,1,silang,ComplementNB,1
 28802,TurnBackHoax,1,silang,ComplementNB,1
@@ -14415,63 +14415,63 @@ raw_id,source,label,condition,model,predicted_label
 28899,TurnBackHoax,1,silang,ComplementNB,1
 28900,TurnBackHoax,1,silang,ComplementNB,1
 28939,TurnBackHoax,1,silang,ComplementNB,1
-28953,TurnBackHoax,1,silang,ComplementNB,0
+28953,TurnBackHoax,1,silang,ComplementNB,1
 28984,TurnBackHoax,1,silang,ComplementNB,1
-28999,TurnBackHoax,1,silang,ComplementNB,0
+28999,TurnBackHoax,1,silang,ComplementNB,1
 29008,TurnBackHoax,1,silang,ComplementNB,1
 29018,TurnBackHoax,1,silang,ComplementNB,1
 29019,TurnBackHoax,1,silang,ComplementNB,1
-29036,TurnBackHoax,1,silang,ComplementNB,0
+29036,TurnBackHoax,1,silang,ComplementNB,1
 29066,TurnBackHoax,1,silang,ComplementNB,1
 29084,TurnBackHoax,1,silang,ComplementNB,1
 29087,TurnBackHoax,1,silang,ComplementNB,1
 29140,TurnBackHoax,1,silang,ComplementNB,1
 29170,TurnBackHoax,1,silang,ComplementNB,1
 29175,TurnBackHoax,1,silang,ComplementNB,1
-29190,TurnBackHoax,1,silang,ComplementNB,0
+29190,TurnBackHoax,1,silang,ComplementNB,1
 29196,TurnBackHoax,1,silang,ComplementNB,0
-29206,TurnBackHoax,1,silang,ComplementNB,0
-29220,TurnBackHoax,1,silang,ComplementNB,0
+29206,TurnBackHoax,1,silang,ComplementNB,1
+29220,TurnBackHoax,1,silang,ComplementNB,1
 29295,TurnBackHoax,1,silang,ComplementNB,1
 29300,TurnBackHoax,1,silang,ComplementNB,1
-29304,TurnBackHoax,1,silang,ComplementNB,0
+29304,TurnBackHoax,1,silang,ComplementNB,1
 29305,TurnBackHoax,1,silang,ComplementNB,1
 29320,TurnBackHoax,1,silang,ComplementNB,1
 29335,TurnBackHoax,1,silang,ComplementNB,1
-29336,TurnBackHoax,1,silang,ComplementNB,0
+29336,TurnBackHoax,1,silang,ComplementNB,1
 29355,TurnBackHoax,1,silang,ComplementNB,1
 29356,TurnBackHoax,1,silang,ComplementNB,1
 29382,TurnBackHoax,1,silang,ComplementNB,1
 29385,TurnBackHoax,1,silang,ComplementNB,1
 29393,TurnBackHoax,1,silang,ComplementNB,1
-29394,TurnBackHoax,1,silang,ComplementNB,0
+29394,TurnBackHoax,1,silang,ComplementNB,1
 29413,TurnBackHoax,1,silang,ComplementNB,1
 29434,TurnBackHoax,1,silang,ComplementNB,1
 29438,TurnBackHoax,1,silang,ComplementNB,1
-29442,TurnBackHoax,1,silang,ComplementNB,0
+29442,TurnBackHoax,1,silang,ComplementNB,1
 29452,TurnBackHoax,1,silang,ComplementNB,0
-29511,TurnBackHoax,1,silang,ComplementNB,0
+29511,TurnBackHoax,1,silang,ComplementNB,1
 29536,TurnBackHoax,1,silang,ComplementNB,1
 29540,TurnBackHoax,1,silang,ComplementNB,1
 29544,TurnBackHoax,1,silang,ComplementNB,1
 29546,TurnBackHoax,1,silang,ComplementNB,1
 29554,TurnBackHoax,1,silang,ComplementNB,1
 29557,TurnBackHoax,1,silang,ComplementNB,1
-29581,TurnBackHoax,1,silang,ComplementNB,0
+29581,TurnBackHoax,1,silang,ComplementNB,1
 29596,TurnBackHoax,1,silang,ComplementNB,1
-29610,TurnBackHoax,1,silang,ComplementNB,0
+29610,TurnBackHoax,1,silang,ComplementNB,1
 29619,TurnBackHoax,1,silang,ComplementNB,1
 29645,TurnBackHoax,1,silang,ComplementNB,1
-29658,TurnBackHoax,1,silang,ComplementNB,0
+29658,TurnBackHoax,1,silang,ComplementNB,1
 29685,TurnBackHoax,1,silang,ComplementNB,1
 29689,TurnBackHoax,1,silang,ComplementNB,1
 29700,TurnBackHoax,1,silang,ComplementNB,1
 29705,TurnBackHoax,1,silang,ComplementNB,1
 29707,TurnBackHoax,1,silang,ComplementNB,1
-29708,TurnBackHoax,1,silang,ComplementNB,0
+29708,TurnBackHoax,1,silang,ComplementNB,1
 29722,TurnBackHoax,1,silang,ComplementNB,1
 29726,TurnBackHoax,1,silang,ComplementNB,1
-29752,TurnBackHoax,1,silang,ComplementNB,0
+29752,TurnBackHoax,1,silang,ComplementNB,1
 29789,TurnBackHoax,1,silang,ComplementNB,0
 29808,TurnBackHoax,1,silang,ComplementNB,1
 29813,TurnBackHoax,1,silang,ComplementNB,1
@@ -14483,76 +14483,76 @@ raw_id,source,label,condition,model,predicted_label
 29943,TurnBackHoax,1,silang,ComplementNB,0
 29954,TurnBackHoax,1,silang,ComplementNB,1
 29985,TurnBackHoax,1,silang,ComplementNB,1
-29987,TurnBackHoax,1,silang,ComplementNB,0
+29987,TurnBackHoax,1,silang,ComplementNB,1
 29999,TurnBackHoax,1,silang,ComplementNB,1
 30013,TurnBackHoax,1,silang,ComplementNB,1
 30019,TurnBackHoax,1,silang,ComplementNB,1
-30042,TurnBackHoax,1,silang,ComplementNB,0
+30042,TurnBackHoax,1,silang,ComplementNB,1
 30055,TurnBackHoax,1,silang,ComplementNB,1
-30086,TurnBackHoax,1,silang,ComplementNB,0
+30086,TurnBackHoax,1,silang,ComplementNB,1
 30097,TurnBackHoax,1,silang,ComplementNB,1
 30124,TurnBackHoax,1,silang,ComplementNB,1
-30129,TurnBackHoax,1,silang,ComplementNB,0
+30129,TurnBackHoax,1,silang,ComplementNB,1
 30133,TurnBackHoax,1,silang,ComplementNB,1
-30136,TurnBackHoax,1,silang,ComplementNB,0
+30136,TurnBackHoax,1,silang,ComplementNB,1
 30157,TurnBackHoax,1,silang,ComplementNB,1
 30171,TurnBackHoax,1,silang,ComplementNB,1
 30181,TurnBackHoax,1,silang,ComplementNB,1
 30248,TurnBackHoax,1,silang,ComplementNB,1
 30250,TurnBackHoax,1,silang,ComplementNB,1
 30259,TurnBackHoax,1,silang,ComplementNB,1
-30267,TurnBackHoax,1,silang,ComplementNB,0
+30267,TurnBackHoax,1,silang,ComplementNB,1
 30273,TurnBackHoax,1,silang,ComplementNB,1
 30295,TurnBackHoax,1,silang,ComplementNB,0
 30312,TurnBackHoax,1,silang,ComplementNB,1
 30320,TurnBackHoax,1,silang,ComplementNB,1
 30349,TurnBackHoax,1,silang,ComplementNB,1
 30368,TurnBackHoax,1,silang,ComplementNB,1
-30370,TurnBackHoax,1,silang,ComplementNB,0
+30370,TurnBackHoax,1,silang,ComplementNB,1
 30392,TurnBackHoax,1,silang,ComplementNB,1
-30406,TurnBackHoax,1,silang,ComplementNB,0
+30406,TurnBackHoax,1,silang,ComplementNB,1
 30426,TurnBackHoax,1,silang,ComplementNB,1
-30435,TurnBackHoax,1,silang,ComplementNB,0
-30460,TurnBackHoax,1,silang,ComplementNB,0
-30473,TurnBackHoax,1,silang,ComplementNB,0
-30523,TurnBackHoax,1,silang,ComplementNB,0
+30435,TurnBackHoax,1,silang,ComplementNB,1
+30460,TurnBackHoax,1,silang,ComplementNB,1
+30473,TurnBackHoax,1,silang,ComplementNB,1
+30523,TurnBackHoax,1,silang,ComplementNB,1
 30532,TurnBackHoax,1,silang,ComplementNB,1
 30537,TurnBackHoax,1,silang,ComplementNB,0
 30626,TurnBackHoax,1,silang,ComplementNB,1
-30634,TurnBackHoax,1,silang,ComplementNB,0
+30634,TurnBackHoax,1,silang,ComplementNB,1
 30649,TurnBackHoax,1,silang,ComplementNB,1
-30668,TurnBackHoax,1,silang,ComplementNB,0
+30668,TurnBackHoax,1,silang,ComplementNB,1
 30719,TurnBackHoax,1,silang,ComplementNB,0
 30727,TurnBackHoax,1,silang,ComplementNB,1
-30774,TurnBackHoax,1,silang,ComplementNB,0
-30783,TurnBackHoax,1,silang,ComplementNB,0
+30774,TurnBackHoax,1,silang,ComplementNB,1
+30783,TurnBackHoax,1,silang,ComplementNB,1
 30798,TurnBackHoax,1,silang,ComplementNB,1
 30823,TurnBackHoax,1,silang,ComplementNB,1
 30833,TurnBackHoax,1,silang,ComplementNB,0
 30840,TurnBackHoax,1,silang,ComplementNB,1
 30886,TurnBackHoax,1,silang,ComplementNB,1
 30889,TurnBackHoax,1,silang,ComplementNB,1
-30915,TurnBackHoax,1,silang,ComplementNB,0
+30915,TurnBackHoax,1,silang,ComplementNB,1
 30928,TurnBackHoax,1,silang,ComplementNB,1
 30956,TurnBackHoax,1,silang,ComplementNB,1
-30977,TurnBackHoax,1,silang,ComplementNB,0
+30977,TurnBackHoax,1,silang,ComplementNB,1
 30981,TurnBackHoax,1,silang,ComplementNB,1
-30982,TurnBackHoax,1,silang,ComplementNB,0
+30982,TurnBackHoax,1,silang,ComplementNB,1
 30984,TurnBackHoax,1,silang,ComplementNB,1
-30985,TurnBackHoax,1,silang,ComplementNB,0
+30985,TurnBackHoax,1,silang,ComplementNB,1
 30986,TurnBackHoax,1,silang,ComplementNB,1
 30992,TurnBackHoax,1,silang,ComplementNB,1
 30997,TurnBackHoax,1,silang,ComplementNB,1
 31008,TurnBackHoax,1,silang,ComplementNB,1
 31017,TurnBackHoax,1,silang,ComplementNB,1
 31047,TurnBackHoax,1,silang,ComplementNB,1
-31091,TurnBackHoax,1,silang,ComplementNB,0
+31091,TurnBackHoax,1,silang,ComplementNB,1
 31122,TurnBackHoax,1,silang,ComplementNB,1
 31154,TurnBackHoax,1,silang,ComplementNB,0
 31158,TurnBackHoax,1,silang,ComplementNB,1
 31164,TurnBackHoax,1,silang,ComplementNB,1
 31170,TurnBackHoax,1,silang,ComplementNB,1
-31195,TurnBackHoax,1,silang,ComplementNB,0
+31195,TurnBackHoax,1,silang,ComplementNB,1
 31231,TurnBackHoax,1,silang,ComplementNB,0
 31266,TurnBackHoax,1,silang,ComplementNB,1
 31267,TurnBackHoax,1,silang,ComplementNB,0
@@ -14565,11 +14565,11 @@ raw_id,source,label,condition,model,predicted_label
 31358,TurnBackHoax,1,silang,ComplementNB,1
 31361,TurnBackHoax,1,silang,ComplementNB,1
 31382,TurnBackHoax,1,silang,ComplementNB,1
-31384,TurnBackHoax,1,silang,ComplementNB,0
-31390,TurnBackHoax,1,silang,ComplementNB,0
+31384,TurnBackHoax,1,silang,ComplementNB,1
+31390,TurnBackHoax,1,silang,ComplementNB,1
 31399,TurnBackHoax,1,silang,ComplementNB,1
-31426,TurnBackHoax,1,silang,ComplementNB,0
-31470,TurnBackHoax,1,silang,ComplementNB,0
+31426,TurnBackHoax,1,silang,ComplementNB,1
+31470,TurnBackHoax,1,silang,ComplementNB,1
 31474,TurnBackHoax,1,silang,ComplementNB,1
 31488,TurnBackHoax,1,silang,ComplementNB,1
 31489,TurnBackHoax,1,silang,ComplementNB,1
@@ -14582,14 +14582,14 @@ raw_id,source,label,condition,model,predicted_label
 31617,TurnBackHoax,1,silang,ComplementNB,1
 31640,TurnBackHoax,1,silang,ComplementNB,0
 31644,TurnBackHoax,1,silang,ComplementNB,1
-31670,TurnBackHoax,1,silang,ComplementNB,0
+31670,TurnBackHoax,1,silang,ComplementNB,1
 31676,TurnBackHoax,1,silang,ComplementNB,1
 31680,TurnBackHoax,1,silang,ComplementNB,1
-31682,TurnBackHoax,1,silang,ComplementNB,0
+31682,TurnBackHoax,1,silang,ComplementNB,1
 31705,TurnBackHoax,1,silang,ComplementNB,0
 31712,TurnBackHoax,1,silang,ComplementNB,1
 31740,TurnBackHoax,1,silang,ComplementNB,1
-31745,TurnBackHoax,1,silang,ComplementNB,0
+31745,TurnBackHoax,1,silang,ComplementNB,1
 31762,TurnBackHoax,1,silang,ComplementNB,1
 31771,TurnBackHoax,1,silang,ComplementNB,1
 31792,TurnBackHoax,1,silang,ComplementNB,1
