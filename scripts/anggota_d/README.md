@@ -138,3 +138,48 @@ with open_uji(a.dataset, run_key="UJI_LinearSVM_random_clean", split_col="random
 
 ### Batasan
 Ini **kunci prosedural**, bukan enkripsi. Orang tetap bisa membuka CSV secara manual. Fungsinya adalah membuat setiap akses lewat kode kelompok tercatat dan bisa diperiksa. Hasilnya, laporan dapat menyatakan bahwa UJI dibuka sekali setelah pembekuan, lengkap dengan bukti tanggal, SHA-256, dan commit.
+
+## D3. Evaluasi agen utuh di VALIDASI
+
+**Skrip:** `scripts/anggota_d/d3_evaluasi_agen.py`. **Notebook Colab:** `notebooks/anggota_d/D3_Evaluasi_Agen.ipynb`.
+
+Agen milik C dimuat dengan `load_default_agent()` dan dijalankan apa adanya pada 2.919 berita VALIDASI `random_split`. Masukannya teks mentah, sama seperti di aplikasi: judul ditambah isi, dengan cara pemisahan yang sama seperti `ukur_latensi.py` milik C. UJI tidak dibaca.
+
+| Keluaran | Isi |
+|---|---|
+| `D3_RINGKASAN_SISTEM.csv` | 4 sistem × C_FN 3/5/10: *coverage*, galat pada berita yang diputuskan, FP, FN, ditolak, kerugian harapan, dan CI bootstrap 95% |
+| `D3_LAPISAN.csv` | Jumlah dan hasil tiap lapisan (C_FN = 5), alasan `scope_guard`, keputusan model seandainya lapisan reaktif tidak ada, dan precision `similar` dengan CI Clopper–Pearson |
+| `D3_PER_SUMBER.csv` | *Coverage*, galat, dan kerugian per sumber |
+| `D3_RISK_COVERAGE.csv` / `.png` | Kurva *risk–coverage* untuk agen dan model saja |
+| `D3_KESALAHAN_AGEN.csv` | Berita yang diputuskan salah, beserta lapisan dan alasannya |
+| `D3_PREDIKSI_AGEN_VALIDASI.csv` | Satu baris per berita: aksi, lapisan, alasan, p, skor mirip, dan waktu |
+| `D3_METADATA.json` | SHA-256, versi, status agen, kalibrasi (ECE seperti B3 dan ECE *cross-fit*), kesetaraan preprocessing, dan latensi |
+
+**Empat sistem yang dibandingkan:**
+
+| Sistem | Aturan |
+|---|---|
+| `model_ambang_0.5` | Model saja, tanpa penolakan, HOAKS jika p ≥ 0,5. Ini pembanding yang dipakai B3 |
+| `model_ambang_biaya` | Model saja, tanpa penolakan, HOAKS jika p ≥ C_FP/(C_FP+C_FN). Ini **pembanding yang adil** untuk menilai manfaat penolakan |
+| `model_selektif` | Model dengan penolakan berbasis biaya. Angkanya sama dengan B3 |
+| `agen` | Semua lapisan |
+
+**Hasil uji pendahuluan.** Uji ini memakai salinan V3.1 lokal, bukan file A, jadi angka resmi menunggu hasil notebook. Pada C_FN = 5:
+
+| Sistem | *Coverage* | Galat diputuskan | FP | FN | Ditolak | Kerugian |
+|---|---|---|---|---|---|---|
+| Model, ambang 0,5 | 1,000 | 0,58% | 6 | 11 | 0 | 0,0230 |
+| Model, ambang biaya 2/7 | 1,000 | 0,55% | 9 | 7 | 0 | 0,0182 |
+| Model selektif (B3) | 0,997 | 0,38% | 6 | 5 | 10 | 0,0161 |
+| **Agen utuh** | 0,988 | 0,38% | 6 | 5 | 35 | **0,0247** |
+
+**Temuan pendahuluan:**
+1. **Agen utuh lebih mahal daripada model selektif saja.**
+   - Aturan bahasa di `scope_guard` menahan 25 berita sebagai PERLU VERIFIKASI. Semuanya hoaks TurnBackHoax dengan skor bahasa 0,00–0,10, dan model sebenarnya menilai semuanya benar dengan p > 0,999.
+   - Penyebabnya desain: τ_bahasa = persentil ke-1 data LATIH, sehingga sekitar 1% berita asli memang akan tertolak.
+   - Ini bahan keputusan K5: turunkan persentilnya, atau terima biaya ini sebagai harga perlindungan terhadap masukan di luar cakupan. Manfaat perlindungan itu tidak bisa diukur di VALIDASI.
+2. **Aturan hoaks serupa:** 11 dari 11 benar, dengan CI 95% Clopper–Pearson [0,72; 1,00]. Model juga sudah benar untuk kesebelas berita itu, jadi di VALIDASI lapisan ini tidak menambah atau mengurangi apa pun. Nilainya ada pada penjelasan yang bisa ditunjukkan ke pengguna ("mirip hoaks X").
+3. **Kalibrasi:** ECE seperti B3 = 0,0039, sedangkan ECE *cross-fit* 2 lipatan = 0,0042. Optimisme akibat Platt dipasang di VALIDASI ternyata kecil.
+4. **Kesetaraan preprocessing:** 99,7% teks bersih agen sama persis dengan kolom `text_clean_v31`, dan tidak ada keputusan yang berbeda.
+5. **Latensi:** p50 sekitar 13 ms, p95 sekitar 17 ms per berita (CPU).
+6. **Semua hoaks berasal dari TurnBackHoax.** Semua FN ada di TurnBackHoax, dan semua FP ada di media arus utama (Kompas 5, CNN 1). Angka per sumber ikut mencerminkan *shortcut* sumber.

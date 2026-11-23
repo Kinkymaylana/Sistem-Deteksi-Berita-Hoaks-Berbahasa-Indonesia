@@ -1,0 +1,5 @@
+source,n_hoaks,n,coverage,ditolak,galat_diputuskan,fp,fn,recall_hoaks_keseluruhan,kerugian_harapan,porsi_scope_guard,porsi_similar
+CNN Indonesia,0,959,1.0,0,0.001043,1,0,0.0,0.002086,0.0,0.0
+Kompas,0,486,0.99177,4,0.010373,5,0,0.0,0.028807,0.0,0.0
+Tempo,0,642,1.0,0,0.0,0,0,0.0,0.0,0.0,0.0
+TurnBackHoax,832,832,0.96274,31,0.006242,0,5,0.956731,0.067308,0.030048,0.013221

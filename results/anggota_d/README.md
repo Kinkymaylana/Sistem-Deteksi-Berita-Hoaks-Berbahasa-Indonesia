@@ -14,3 +14,11 @@ Kedua file berasal dari notebook `notebooks/anggota_d/D1_Verifikasi_Evaluate.ipy
 - `uji_log.csv`: dibuat otomatis saat UJI pertama kali dicoba dibuka. **Belum ada**
 
 Cara pakai dijelaskan di `scripts/anggota_d/README.md` bagian D2.
+
+## D3 — Evaluasi agen di VALIDASI
+Diisi dari `notebooks/anggota_d/D3_Evaluasi_Agen.ipynb` (file V3.1 milik A):
+- `D3_RINGKASAN_SISTEM.csv`, `D3_LAPISAN.csv`, `D3_PER_SUMBER.csv`
+- `D3_RISK_COVERAGE.csv`, `D3_RISK_COVERAGE.png`
+- `D3_KESALAHAN_AGEN.csv`, `D3_PREDIKSI_AGEN_VALIDASI.csv`, `D3_METADATA.json`
+
+Penjelasan dan temuan ada di `scripts/anggota_d/README.md` bagian D3.

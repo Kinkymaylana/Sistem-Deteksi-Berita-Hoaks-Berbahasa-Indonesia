@@ -1,0 +1,4 @@
+lapisan,n,porsi,n_label_hoaks,n_alasan_bahasa,n_alasan_lainnya,model_akan_benar_tanpa_guard,n_diputuskan_hoaks,n_diputuskan_valid,n_perlu_verifikasi,galat_diputuskan,precision_hoaks,model_akan_benar_tanpa_similar,precision_hoaks_ci95_clopper_pearson
+scope_guard,25,0.008565,25,25.0,0.0,25.0,0,0,25,,,,
+similar,11,0.003768,11,,,,11,0,0,0.0,1.0,11.0,"[0.7151, 1.0000]"
+model,2883,0.987667,796,,,,791,2082,10,0.003829,0.992415,,"[0.9836, 0.9972]"
