@@ -1,0 +1,32 @@
+{
+  "tugas": "D4 evaluasi final di UJI",
+  "tanggal": "2026-11-23 11:53:50",
+  "manifest": "PEMBEKUAN_UJI.json",
+  "manifest_sha256": "0a69ef2768242194d92fe4d88b82ce6954b23e8dfb452c7bc7ed768f0c975886",
+  "tanggal_beku": "2026-11-23 11:48:11",
+  "disetujui_oleh": [
+    "Anggota A (B)",
+    "Anggota B (F)",
+    "Anggota C (K)",
+    "Anggota D (I)"
+  ],
+  "versi_data": "V3.1_A2_PROVISIONAL",
+  "dataset_sha256": "a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295",
+  "run_selesai": [
+    "UJI_Agen_random",
+    "UJI_ComplementNB_random_clean",
+    "UJI_ComplementNB_random_raw",
+    "UJI_ComplementNB_temporal_main",
+    "UJI_LinearSVM_random_clean",
+    "UJI_LinearSVM_random_raw",
+    "UJI_LinearSVM_temporal_main"
+  ],
+  "run_gagal_sesi_ini": [],
+  "python": "3.13.18",
+  "scikit_learn": "1.6.1",
+  "catatan": [
+    "Baseline dilatih ulang pada LATIH split masing-masing (seed 42) dengan konfigurasi manifest.",
+    "ECE dan Brier LinearSVM baseline memakai sigmoid skor SVM (tidak terkalibrasi), jadi tidak bermakna.",
+    "Model di dalam agen adalah LinearSVM_calibrated_v31 (Platt B3)."
+  ]
+}
