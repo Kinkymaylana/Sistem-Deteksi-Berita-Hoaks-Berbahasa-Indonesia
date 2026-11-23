@@ -1,0 +1,19 @@
+# PROTOTIPE_KEL5 - dependensi
+# Python yang disarankan: 3.11 (model_card B: python_version 3.11.9)
+#
+# scikit-learn DIKUNCI ke versi yang tercatat di model_card B
+# (results/anggota_b/B3_MODEL_CARD_BASELINE.json: scikit_learn_version 1.6.1).
+# Alasan:
+#  - file .joblib scikit-learn tidak dijamin terbaca di versi lain;
+#  - B3_calibrate.py memakai CalibratedClassifierCV(cv="prefit"), yang ditolak
+#    oleh scikit-learn 1.8 ke atas (sudah dicek: InvalidParameterError).
+# Jika B ternyata menyimpan model dengan versi lain, ganti baris ini sesuai
+# model_card.json yang diserahkan bersama model.
+scikit-learn==1.6.1
+joblib
+numpy
+scipy
+pandas
+streamlit
+lime
+pytest
