@@ -1,0 +1,6 @@
+split,lapisan,n,p50_ms,p95_ms,mesin
+VALIDASI,preprocess,100,0.555,1.067,Windows AMD64 | Python 3.11.18
+VALIDASI,scope_guard,100,0.243,0.505,Windows AMD64 | Python 3.11.18
+VALIDASI,similar,99,12.393,17.509,Windows AMD64 | Python 3.11.18
+VALIDASI,model,99,2.132,2.99,Windows AMD64 | Python 3.11.18
+VALIDASI,total,100,15.417,21.824,Windows AMD64 | Python 3.11.18

@@ -9,11 +9,11 @@ Agen menerima judul dan isi berita, lalu menghasilkan salah satu tindakan: **HOA
 > - Model Anggota B **terpasang**: `models/LinearSVM_calibrated_v31.joblib` (dari repo, commit `af01067`, SHA-256 `7d8da944…51cbd6`) beserta `models/model_card.json`.
 > - Dataset yang dipakai: `DATASET_V3_1_KANDIDAT_OPERASIONAL.csv`. SHA-256-nya `a790c0a6…bb295`, sama persis dengan `B2_BASELINE_METADATA.json`.
 > - **Semua lapisan agen sudah aktif.** Artefak dibangun dari LATIH, ambang disetel di VALIDASI, UJI tidak dibaca:
->   - `models/language_rule.json`: τ_bahasa = 0,111; 1,03% teks VALIDASI tertolak.
+>   - `models/language_rule.json`: τ_bahasa = 0,100; 0,86% teks VALIDASI tertolak.
 >   - `models/similar_index.joblib`: 6.658 hoaks LATIH; τ_mirip = 0,90 dengan precision VALIDASI 11/11.
 >   - `results/paritas_preprocess.csv`: CNN 100%, Kompas 99,4%, Tempo 99,2% identik, sehingga **lulus kriteria ≥ 99%**.
-> - 86 tes otomatis lulus.
-> - **Belum ada**: `results/uji_fungsional.csv` dan `results/latency.csv` resmi. Keduanya harus dijalankan di laptop demo dengan scikit-learn 1.6.1 (README bagian 3 langkah 5).
+> - 87 tes otomatis lulus.
+> - **Uji resmi sudah dijalankan** dengan Python 3.11.18 dan scikit-learn 1.6.1: `results/uji_fungsional.csv` lulus 10/10, dan `results/latency.csv` mencatat waktu total p50 15,4 ms serta p95 21,8 ms. Jika laptop demo berbeda, ulangi pengukuran latensi di laptop tersebut.
 
 ## 1. Apa yang sudah teruji dan yang belum
 
@@ -22,15 +22,15 @@ Agen menerima judul dan isi berita, lalu menghasilkan salah satu tindakan: **HOA
 | `decide(p)`, ambang dari biaya | `src/agent.py`, `src/config.py` | Ya | Termasuk nilai p tepat di batas 0,20 dan 0,50 |
 | Preprocessing V3 + V3.1 | `src/preprocess.py`, `src/preprocess_v31.py` (A) | Ya | Tahap V3: salinan identik notebook EDA sel 6. Tahap V3.1: file asli A. Kesetaraan dengan `text_clean_v31` (500 berita per sumber, LATIH+VALIDASI): CNN 100%, Kompas 99,4%, Tempo 99,2%, TurnBackHoax 99,8–100%. Selisihnya karena label di awal judul ("Isu", "Berita", "Fakta") ikut dihapus |
 | Integrasi model B | `src/agent.py` | Ya | Model dimuat, p dari agen sama dengan `predict_proba`, versi preprocessing dibaca dari model card |
-| `scope_guard` (kosong, < 8 kata, bahasa) | `src/reactive.py` | Ya | τ_bahasa = 0,111 dari LATIH. **Teks bahasa Inggris tidak tersaring**, lihat bagian 5 butir 1 |
+| `scope_guard` (kosong, < 8 kata, bahasa) | `src/reactive.py` | Ya | τ_bahasa = 0,100 dari LATIH. Teks bahasa Inggris umumnya tersaring, tetapi **belum semuanya**, lihat bagian 5 butir 1 |
 | `find_similar` + penyetelan τ_mirip | `src/reactive.py`, `scripts/build_similar_index.py` | Ya | τ_mirip = 0,90 (`results/tau_similar_validasi.csv`). Indeks disimpan dalam format portabel, tidak bergantung versi scikit-learn |
 | Kontribusi kata SVM | `src/explain.py` | Ya, dengan model asli | Jumlah kontribusi + intercept sama dengan `decision_function` model B |
-| LIME | `src/explain.py` | **Belum** | Pustaka `lime` tidak bisa dipasang di lingkungan pengembangan |
+| LIME | `src/explain.py` | Ya | Berjalan pada skenario 10 uji fungsional dengan `lime` dari `requirements.txt` |
 | Antrean CSV | `src/batch.py` | Ya | Sesuai Desain Metode 2.8.2 |
 | Aplikasi Streamlit | `app/app.py` | Logika ya, tampilan **belum** | Diuji dengan modul streamlit tiruan, juga dengan model asli |
-| Uji 10 skenario, latensi | `scripts/uji_fungsional.py`, `scripts/ukur_latensi.py` | Skrip ya | Hasil asli perlu dataset dan laptop demo |
+| Uji 10 skenario, latensi | `scripts/uji_fungsional.py`, `scripts/ukur_latensi.py` | Ya | Lulus 10/10. Latensi total p50 15,4 ms dan p95 21,8 ms dari 100 berita VALIDASI |
 
-Tes dijalankan dengan Python 3.13 dan scikit-learn 1.9.1. Model B dibuat dengan scikit-learn 1.6.1, sehingga di sini muncul `InconsistentVersionWarning`. **Peluang yang dihitung di luar 1.6.1 tidak boleh dilaporkan.** Semua angka resmi harus dihasilkan di laptop dengan `requirements.txt`.
+Tes dan uji resmi dijalankan dengan Python 3.11.18 dan scikit-learn 1.6.1, sama dengan versi scikit-learn model B. **Peluang yang dihitung di luar 1.6.1 tidak boleh dilaporkan.** Semua angka resmi harus dihasilkan di laptop dengan `requirements.txt`.
 
 ## 2. Instalasi (Windows, Python 3.11)
 
@@ -113,12 +113,12 @@ Untuk berita yang diputuskan model, `similar` berisi hoaks lama terdekat sebagai
 
 ## 5. Catatan yang perlu dikonfirmasi kelompok
 
-1. **Aturan bahasa (Desain Metode 2.5.1) tidak menyaring teks bahasa Inggris.**
-   - Kata "the" termasuk 500 kata tersering LATIH.
-   - τ_bahasa = persentil ke-1 LATIH hanya 0,111, karena teks TurnBackHoax pendek dan informal. Persentil ke-1 HOAKS adalah 0,0 dengan median 0,36. Persentil ke-1 berita VALID 0,37–0,43.
-   - Kalimat Inggris biasa mendapat skor 0,11–0,28, jadi lolos ke model.
+1. **Aturan bahasa (Desain Metode 2.5.1) diperketat karena sistem khusus berita berbahasa Indonesia.**
+   - Kata "the" dan "i" sebelumnya termasuk 500 kata tersering LATIH. Keduanya sekarang dikeluarkan lewat `lang_exclude` di `src/config.py`, dan posisinya terisi "adapun" dan "kemungkinan".
+   - τ_bahasa = persentil ke-1 LATIH sekarang 0,100 (sebelumnya 0,111), dan 0,86% teks VALIDASI tertolak (sebelumnya 1,03%). Ambang tetap rendah karena teks TurnBackHoax pendek dan informal.
+   - Dari 12 contoh kalimat Inggris buatan, 9 ditolak dan 4 contoh kalimat Indonesia tetap lolos. Tiga kalimat Inggris masih lolos karena memuat nama atau kata serapan seperti "Jakarta", "Joko Widodo", "video", dan "media".
    - Menaikkan τ akan ikut menolak sekitar separuh hoaks berbahasa Indonesia, sehingga bukan solusi.
-   - Perubahan aturan perlu persetujuan kelompok, karena menyimpang dari Desain Metode.
+   - Pengecualian kata ini menyimpang dari Desain Metode, jadi perlu disetujui kelompok dan dicatat di laporan.
 2. **Preprocessing.**
    - Tahap V3.1 memakai `src/preprocess_v31.py` dari A (diterima 23 Nov). File ini identik dengan salinan C, dan mereproduksi `text_clean_v31` pada 26.270 dari 26.270 baris LATIH+VALIDASI.
    - Tahap V3 (teks mentah → `text_clean`) tidak ada di file A. Tahap ini tetap salinan persis notebook EDA sel 6.
@@ -150,10 +150,10 @@ Untuk berita yang diputuskan model, `similar` berisi hoaks lama terdekat sebagai
 | `src/preprocess.py` | A (tahap V3) dan C (pembungkus) | Ada; tahap V3 salinan notebook EDA A |
 | `app/app.py` | C | Ada |
 | `scripts/build_language_rule.py`, `build_similar_index.py`, `uji_paritas_preprocess.py`, `uji_fungsional.py`, `ukur_latensi.py` | C | Ada |
-| `tests/` | C | 86 tes |
+| `tests/` | C | 87 tes |
 | `models/LinearSVM_calibrated_v31.joblib`, `models/model_card.json` | B | **Terpasang** (disalin dari repo B tanpa diubah) |
-| `models/language_rule.json`, `similar_index.joblib` | C | **Ada** (dibangun dari dataset V3.1, 22 Nov) |
+| `models/language_rule.json`, `similar_index.joblib` | C | **Ada** (dari dataset V3.1; indeks 22 Nov, aturan bahasa dibangun ulang 23 Nov) |
 | `results/paritas_preprocess.csv`, `tau_similar_validasi.csv` | C | **Ada** (VALIDASI dan LATIH) |
-| `results/uji_fungsional.csv`, `latency.csv` | C | Jalankan di laptop demo (scikit-learn 1.6.1) |
+| `results/uji_fungsional.csv`, `latency.csv`, `latency_detail.csv` | C | **Ada** (23 Nov, Python 3.11.18, scikit-learn 1.6.1) |
 | `src/evaluate.py` | D | Belum diserahkan |
 | `scripts/tune.py`, `run_experiments.py`, `calibrate.py` | B | Ada di repo sebagai `notebooks/anggota_b/scripts/B1–B3`, belum disalin ke sini |

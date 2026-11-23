@@ -103,10 +103,12 @@ def build_language_rule(
     top_n: int = DEFAULT_CONFIG.lang_top_n,
     percentile: float = DEFAULT_CONFIG.lang_percentile,
     source: str = "",
+    exclude: Iterable[str] = DEFAULT_CONFIG.lang_exclude,
 ) -> LanguageRule:
     """Bangun aturan bahasa dari teks LATIH saja.
 
-    1. Hitung frekuensi kata di seluruh teks LATIH, ambil top_n kata.
+    1. Hitung frekuensi kata di seluruh teks LATIH, buang kata `exclude`
+       (kata Inggris yang ikut sering muncul), lalu ambil top_n kata.
        Jika frekuensi sama, urutan alfabet dipakai agar hasilnya deterministik.
     2. Hitung skor setiap teks LATIH terhadap kosakata itu.
     3. tau = persentil ke-`percentile` dari skor tersebut.
@@ -118,7 +120,9 @@ def build_language_rule(
     freq: Counter = Counter()
     for t in texts:
         freq.update(tokenize(t))
-    top = sorted(freq.items(), key=lambda kv: (-kv[1], kv[0]))[:top_n]
+    excluded = {w.lower() for w in exclude}
+    candidates = [(w, c) for w, c in freq.items() if w not in excluded]
+    top = sorted(candidates, key=lambda kv: (-kv[1], kv[0]))[:top_n]
     vocab = frozenset(w for w, _ in top)
 
     tmp = LanguageRule(vocab=vocab, tau=0.0, top_n=top_n, percentile=percentile, n_texts=len(texts))
@@ -127,7 +131,8 @@ def build_language_rule(
     return LanguageRule(
         vocab=vocab, tau=tau, top_n=top_n, percentile=percentile, n_texts=len(texts),
         source=source,
-        meta={"score_min": min(scores), "score_median": percentile_linear(scores, 50.0)},
+        meta={"score_min": min(scores), "score_median": percentile_linear(scores, 50.0),
+              "excluded_words": sorted(excluded)},
     )
 
 
