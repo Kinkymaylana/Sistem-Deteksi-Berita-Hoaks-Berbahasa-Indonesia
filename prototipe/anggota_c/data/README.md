@@ -4,7 +4,7 @@ File dataset tidak dimasukkan ke zip karena ukurannya sekitar 170 MB.
 
 | File | Pemilik | Lokasi |
 |---|---|---|
-| `DATASET_V3_1_KANDIDAT_OPERASIONAL.csv` (175.489.858 byte, Drive milik Bintang) | Anggota A | Tautan Google Drive: **BELUM DIISI** |
+| `DATASET_V3_1_KANDIDAT_OPERASIONAL.csv` (175.489.858 byte, Drive milik Bintang) | Anggota A | [Tautan Google Drive](https://drive.google.com/file/d/1ieiaAy7ZquHqGEZdzInb_yc1Ix9mmh4f/view?usp=drive_link) |
 
 SHA-256 yang benar: `a790c0a6175455f385529f98a48dbd5ee8d939805494168ad698bd56343bb295`. Nilai ini sama dengan `B2_BASELINE_METADATA.json` milik B. Cek di Windows dengan `certutil -hashfile data\DATASET_V3_1_KANDIDAT_OPERASIONAL.csv SHA256`.
 
